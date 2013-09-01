@@ -1,0 +1,8 @@
+md_param version 2.23-alpha running on matt under Linux 3.0.0-12-generic.
+md_param: using mixture-density library version 2.02a.
+md_param: calculating new parameters for maximum likelihood estimation.
+md_param: code library with 1 codebooks using 10 features read.
+md_param: 1 code-library accumulator data sets read.
+md_param: new code-library created.
+md_param: classifier #0 of codebook klaus re-calculated.
+finished with status 0 at Sun Apr 14 21:49:49 CST 2013

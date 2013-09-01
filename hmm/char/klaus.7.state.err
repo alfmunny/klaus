@@ -1,0 +1,73 @@
+mm_param version 2.15b running on matt under Linux 3.0.0-12-generic.
+mm_param: using libraries mm 3.01b, mx 1.30.
+mm_param: 316 states read.
+mm_param: 76 models read.
+mm_param: 2294 compound concepts read.
+mm_param: 248 state-parameter accumulators read.
+mm_param: average entropy of parameter-accumulator data is 4.34747.
+mm_param: parameters accumulated according to generalisation hierarchy.
+mm_param: WARNING: found unseen state #0 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #1 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #2 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #3 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #20 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #21 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #22 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #23 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #40 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #41 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #42 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #43 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #44 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #45 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #46 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #47 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #56 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #57 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #58 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #59 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #60 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #61 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #62 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #63 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #64 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #65 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #66 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #67 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #76 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #77 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #78 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #79 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #88 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #89 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #90 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #91 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #140 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #141 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #142 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #143 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #180 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #181 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #182 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #183 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #188 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #189 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #190 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #191 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #200 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #201 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #202 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #203 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #212 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #213 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #214 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #215 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #228 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #229 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #230 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #231 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #276 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #277 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #278 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #279 without parent - preserving old parameters!
+finished with status 0 at Sun Apr 14 20:58:15 CST 2013

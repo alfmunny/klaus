@@ -1,0 +1,9 @@
+mm_param version 2.15b running on matt under Linux 3.0.0-12-generic.
+mm_param: using libraries mm 3.01b, mx 1.30.
+mm_param: 573 states read.
+mm_param: 76 models read.
+mm_param: 2294 compound concepts read.
+mm_param: 569 state-parameter accumulators read.
+mm_param: average entropy of parameter-accumulator data is 4.40491.
+mm_param: parameters accumulated according to generalisation hierarchy.
+finished with status 0 at Sun Apr 14 21:34:34 CST 2013

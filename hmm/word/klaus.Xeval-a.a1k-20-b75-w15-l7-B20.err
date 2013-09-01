@@ -1,0 +1,30 @@
+isr -b 75 -w 15 -l 7 -B 20 klaus.20.swu ../klaus-word.lex klaus-word.tree ../klaus-word.lm2 klaus.20.cl <../klaus.test_12.lst >klaus.Xeval-a.a1k-20-b75-w15-l7-B20.words
+isr started on matt at Sun Apr 14 22:28:41 CST 2013
+	[command line arguments were: 'isr -b 75 -w 15 -l 7 -B 20 klaus.20.swu ../klaus-word.lex klaus-word.tree ../klaus-word.lm2 klaus.20.cl ']
+isr version 2.97a running on matt under Linux 3.0.0-12-generic.
+isr: calculating total emission probabilities.
+isr: acoustic beam width is 75!
+isr: word penalty is 15!
+isr: linguistic matching factor is 7!
+isr: language model beam width is 20!
+isr: floor probability is 1e-05 (11.5)!
+isr: probabilities less than 1e-05 will be ignored!
+isr: codebook beam not specified - using default: 14!
+isr: reading codebook(s) ...isr: 1 codebook(s) read.    
+isr: reading sub-word units ...isr: 60 sub-word units (573 states) read.
+isr: reading words ...isr: 12 words read.   
+isr: reading tree nodes ...isr: will not generate hypotheses for '<space>'!
+isr: will not generate hypotheses for '<space>'!
+isr: will not generate hypotheses for '<space>'!
+isr: 33 tree nodes read.	  
+isr: creating true states ...isr: 141 true (1 pseudo, 1 start) states created.
+isr: reading language model ...isr: 2-gram language model read.
+isr: 463111 densities evaluated ( 0.3%), on average 3.2216 per frame.
+isr: 10089750 emissions calculated (12.2 %), 164054 nulls inferred (1.63 %).
+isr: 292809546 states activated (1.44e+03 %), 2036.91 on average, 14.7 % pruned.
+isr: 143330 trees activated, 0.997064 on average, oldest aged 679 frames.
+isr: 59829865 word ends reached (1225437 unique), 416.202 (8.52466) on average.
+isr: 355381 lexical nodes generated (173285 silence, 0% pruned), 2.47218 on average.
+isr: 60531 ms (67080 cpu ms) processing 143752 frames (RTF = 0.042).
+
+finished with status 0 at Sun Apr 14 22:29:42 CST 2013

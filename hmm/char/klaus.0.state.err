@@ -1,0 +1,384 @@
+mm_init version 2.26 running on matt under Linux 3.0.0-12-generic.
+mm_init: using libraries mm 3.01b, md 2.02a, mx 1.30.
+	[command line arguments were: 'mm_init -M klaus.0.model -S klaus.mstat klaus.0.cl klaus.model_frame empty.ini -u 100x4 ms ']
+mm_init: calculating mixture density probabilities.
+mm_init: WARNING: beam for mixture pruning not specified - using default 14!
+mm_init: floor probability is 1e-05 (11.5)!
+mm_init: probabilities less than 0.001 will be ignored!
+mm_init: will create semi-continuous model from feature data.
+mm_init: code library with 1 codebooks using 10 features read.
+mm_init: WARNING: model space can't refer to states!
+mm_init: 73 models read.
+mm_init: model duration statistics accumulated.
+mm_init: model statistics data written.
+mm_init: no minimum sample-count required for state creation.
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[-]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/a/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/A/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/ae/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/AE/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[as]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/b/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/B/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/c/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/C/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[cl]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[cm]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/d/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/D/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[dot]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[dots]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[dq]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/e/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/E/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[em]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/f/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/F/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[fs]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/g/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/G/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/h/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/H/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/i/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/I/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/j/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/J/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/k/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/K/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/l/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/L/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[lp]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/m/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/M/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/n/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/N/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/o/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/O/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/oe/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/p/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/P/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[pl]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/q/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[qm]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/r/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/R/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[rp]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/s/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/S/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[sc]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[space]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[sq]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/ss/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[st]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/t/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/T/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/u/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/U/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/ue/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/UE/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/v/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/V/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/w/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/W/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/x/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '[XXX]'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/y/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/z/'!
+mm_init: WARNING: assuming 100 instances of length 4 samples for unseen model '/Z/'!
+mm_init: 292 states created.
+mm_init: model definitions written.
+mm_init: parameters accumulated according to generalisation hierarchy.
+mm_init: WARNING: no frames processed!
+mm_init: WARNING: found unseed state #0 without parent!
+mm_init: WARNING: found unseed state #1 without parent!
+mm_init: WARNING: found unseed state #2 without parent!
+mm_init: WARNING: found unseed state #3 without parent!
+mm_init: WARNING: found unseed state #4 without parent!
+mm_init: WARNING: found unseed state #5 without parent!
+mm_init: WARNING: found unseed state #6 without parent!
+mm_init: WARNING: found unseed state #7 without parent!
+mm_init: WARNING: found unseed state #8 without parent!
+mm_init: WARNING: found unseed state #9 without parent!
+mm_init: WARNING: found unseed state #10 without parent!
+mm_init: WARNING: found unseed state #11 without parent!
+mm_init: WARNING: found unseed state #12 without parent!
+mm_init: WARNING: found unseed state #13 without parent!
+mm_init: WARNING: found unseed state #14 without parent!
+mm_init: WARNING: found unseed state #15 without parent!
+mm_init: WARNING: found unseed state #16 without parent!
+mm_init: WARNING: found unseed state #17 without parent!
+mm_init: WARNING: found unseed state #18 without parent!
+mm_init: WARNING: found unseed state #19 without parent!
+mm_init: WARNING: found unseed state #20 without parent!
+mm_init: WARNING: found unseed state #21 without parent!
+mm_init: WARNING: found unseed state #22 without parent!
+mm_init: WARNING: found unseed state #23 without parent!
+mm_init: WARNING: found unseed state #24 without parent!
+mm_init: WARNING: found unseed state #25 without parent!
+mm_init: WARNING: found unseed state #26 without parent!
+mm_init: WARNING: found unseed state #27 without parent!
+mm_init: WARNING: found unseed state #28 without parent!
+mm_init: WARNING: found unseed state #29 without parent!
+mm_init: WARNING: found unseed state #30 without parent!
+mm_init: WARNING: found unseed state #31 without parent!
+mm_init: WARNING: found unseed state #32 without parent!
+mm_init: WARNING: found unseed state #33 without parent!
+mm_init: WARNING: found unseed state #34 without parent!
+mm_init: WARNING: found unseed state #35 without parent!
+mm_init: WARNING: found unseed state #36 without parent!
+mm_init: WARNING: found unseed state #37 without parent!
+mm_init: WARNING: found unseed state #38 without parent!
+mm_init: WARNING: found unseed state #39 without parent!
+mm_init: WARNING: found unseed state #40 without parent!
+mm_init: WARNING: found unseed state #41 without parent!
+mm_init: WARNING: found unseed state #42 without parent!
+mm_init: WARNING: found unseed state #43 without parent!
+mm_init: WARNING: found unseed state #44 without parent!
+mm_init: WARNING: found unseed state #45 without parent!
+mm_init: WARNING: found unseed state #46 without parent!
+mm_init: WARNING: found unseed state #47 without parent!
+mm_init: WARNING: found unseed state #48 without parent!
+mm_init: WARNING: found unseed state #49 without parent!
+mm_init: WARNING: found unseed state #50 without parent!
+mm_init: WARNING: found unseed state #51 without parent!
+mm_init: WARNING: found unseed state #52 without parent!
+mm_init: WARNING: found unseed state #53 without parent!
+mm_init: WARNING: found unseed state #54 without parent!
+mm_init: WARNING: found unseed state #55 without parent!
+mm_init: WARNING: found unseed state #56 without parent!
+mm_init: WARNING: found unseed state #57 without parent!
+mm_init: WARNING: found unseed state #58 without parent!
+mm_init: WARNING: found unseed state #59 without parent!
+mm_init: WARNING: found unseed state #60 without parent!
+mm_init: WARNING: found unseed state #61 without parent!
+mm_init: WARNING: found unseed state #62 without parent!
+mm_init: WARNING: found unseed state #63 without parent!
+mm_init: WARNING: found unseed state #64 without parent!
+mm_init: WARNING: found unseed state #65 without parent!
+mm_init: WARNING: found unseed state #66 without parent!
+mm_init: WARNING: found unseed state #67 without parent!
+mm_init: WARNING: found unseed state #68 without parent!
+mm_init: WARNING: found unseed state #69 without parent!
+mm_init: WARNING: found unseed state #70 without parent!
+mm_init: WARNING: found unseed state #71 without parent!
+mm_init: WARNING: found unseed state #72 without parent!
+mm_init: WARNING: found unseed state #73 without parent!
+mm_init: WARNING: found unseed state #74 without parent!
+mm_init: WARNING: found unseed state #75 without parent!
+mm_init: WARNING: found unseed state #76 without parent!
+mm_init: WARNING: found unseed state #77 without parent!
+mm_init: WARNING: found unseed state #78 without parent!
+mm_init: WARNING: found unseed state #79 without parent!
+mm_init: WARNING: found unseed state #80 without parent!
+mm_init: WARNING: found unseed state #81 without parent!
+mm_init: WARNING: found unseed state #82 without parent!
+mm_init: WARNING: found unseed state #83 without parent!
+mm_init: WARNING: found unseed state #84 without parent!
+mm_init: WARNING: found unseed state #85 without parent!
+mm_init: WARNING: found unseed state #86 without parent!
+mm_init: WARNING: found unseed state #87 without parent!
+mm_init: WARNING: found unseed state #88 without parent!
+mm_init: WARNING: found unseed state #89 without parent!
+mm_init: WARNING: found unseed state #90 without parent!
+mm_init: WARNING: found unseed state #91 without parent!
+mm_init: WARNING: found unseed state #92 without parent!
+mm_init: WARNING: found unseed state #93 without parent!
+mm_init: WARNING: found unseed state #94 without parent!
+mm_init: WARNING: found unseed state #95 without parent!
+mm_init: WARNING: found unseed state #96 without parent!
+mm_init: WARNING: found unseed state #97 without parent!
+mm_init: WARNING: found unseed state #98 without parent!
+mm_init: WARNING: found unseed state #99 without parent!
+mm_init: WARNING: found unseed state #100 without parent!
+mm_init: WARNING: found unseed state #101 without parent!
+mm_init: WARNING: found unseed state #102 without parent!
+mm_init: WARNING: found unseed state #103 without parent!
+mm_init: WARNING: found unseed state #104 without parent!
+mm_init: WARNING: found unseed state #105 without parent!
+mm_init: WARNING: found unseed state #106 without parent!
+mm_init: WARNING: found unseed state #107 without parent!
+mm_init: WARNING: found unseed state #108 without parent!
+mm_init: WARNING: found unseed state #109 without parent!
+mm_init: WARNING: found unseed state #110 without parent!
+mm_init: WARNING: found unseed state #111 without parent!
+mm_init: WARNING: found unseed state #112 without parent!
+mm_init: WARNING: found unseed state #113 without parent!
+mm_init: WARNING: found unseed state #114 without parent!
+mm_init: WARNING: found unseed state #115 without parent!
+mm_init: WARNING: found unseed state #116 without parent!
+mm_init: WARNING: found unseed state #117 without parent!
+mm_init: WARNING: found unseed state #118 without parent!
+mm_init: WARNING: found unseed state #119 without parent!
+mm_init: WARNING: found unseed state #120 without parent!
+mm_init: WARNING: found unseed state #121 without parent!
+mm_init: WARNING: found unseed state #122 without parent!
+mm_init: WARNING: found unseed state #123 without parent!
+mm_init: WARNING: found unseed state #124 without parent!
+mm_init: WARNING: found unseed state #125 without parent!
+mm_init: WARNING: found unseed state #126 without parent!
+mm_init: WARNING: found unseed state #127 without parent!
+mm_init: WARNING: found unseed state #128 without parent!
+mm_init: WARNING: found unseed state #129 without parent!
+mm_init: WARNING: found unseed state #130 without parent!
+mm_init: WARNING: found unseed state #131 without parent!
+mm_init: WARNING: found unseed state #132 without parent!
+mm_init: WARNING: found unseed state #133 without parent!
+mm_init: WARNING: found unseed state #134 without parent!
+mm_init: WARNING: found unseed state #135 without parent!
+mm_init: WARNING: found unseed state #136 without parent!
+mm_init: WARNING: found unseed state #137 without parent!
+mm_init: WARNING: found unseed state #138 without parent!
+mm_init: WARNING: found unseed state #139 without parent!
+mm_init: WARNING: found unseed state #140 without parent!
+mm_init: WARNING: found unseed state #141 without parent!
+mm_init: WARNING: found unseed state #142 without parent!
+mm_init: WARNING: found unseed state #143 without parent!
+mm_init: WARNING: found unseed state #144 without parent!
+mm_init: WARNING: found unseed state #145 without parent!
+mm_init: WARNING: found unseed state #146 without parent!
+mm_init: WARNING: found unseed state #147 without parent!
+mm_init: WARNING: found unseed state #148 without parent!
+mm_init: WARNING: found unseed state #149 without parent!
+mm_init: WARNING: found unseed state #150 without parent!
+mm_init: WARNING: found unseed state #151 without parent!
+mm_init: WARNING: found unseed state #152 without parent!
+mm_init: WARNING: found unseed state #153 without parent!
+mm_init: WARNING: found unseed state #154 without parent!
+mm_init: WARNING: found unseed state #155 without parent!
+mm_init: WARNING: found unseed state #156 without parent!
+mm_init: WARNING: found unseed state #157 without parent!
+mm_init: WARNING: found unseed state #158 without parent!
+mm_init: WARNING: found unseed state #159 without parent!
+mm_init: WARNING: found unseed state #160 without parent!
+mm_init: WARNING: found unseed state #161 without parent!
+mm_init: WARNING: found unseed state #162 without parent!
+mm_init: WARNING: found unseed state #163 without parent!
+mm_init: WARNING: found unseed state #164 without parent!
+mm_init: WARNING: found unseed state #165 without parent!
+mm_init: WARNING: found unseed state #166 without parent!
+mm_init: WARNING: found unseed state #167 without parent!
+mm_init: WARNING: found unseed state #168 without parent!
+mm_init: WARNING: found unseed state #169 without parent!
+mm_init: WARNING: found unseed state #170 without parent!
+mm_init: WARNING: found unseed state #171 without parent!
+mm_init: WARNING: found unseed state #172 without parent!
+mm_init: WARNING: found unseed state #173 without parent!
+mm_init: WARNING: found unseed state #174 without parent!
+mm_init: WARNING: found unseed state #175 without parent!
+mm_init: WARNING: found unseed state #176 without parent!
+mm_init: WARNING: found unseed state #177 without parent!
+mm_init: WARNING: found unseed state #178 without parent!
+mm_init: WARNING: found unseed state #179 without parent!
+mm_init: WARNING: found unseed state #180 without parent!
+mm_init: WARNING: found unseed state #181 without parent!
+mm_init: WARNING: found unseed state #182 without parent!
+mm_init: WARNING: found unseed state #183 without parent!
+mm_init: WARNING: found unseed state #184 without parent!
+mm_init: WARNING: found unseed state #185 without parent!
+mm_init: WARNING: found unseed state #186 without parent!
+mm_init: WARNING: found unseed state #187 without parent!
+mm_init: WARNING: found unseed state #188 without parent!
+mm_init: WARNING: found unseed state #189 without parent!
+mm_init: WARNING: found unseed state #190 without parent!
+mm_init: WARNING: found unseed state #191 without parent!
+mm_init: WARNING: found unseed state #192 without parent!
+mm_init: WARNING: found unseed state #193 without parent!
+mm_init: WARNING: found unseed state #194 without parent!
+mm_init: WARNING: found unseed state #195 without parent!
+mm_init: WARNING: found unseed state #196 without parent!
+mm_init: WARNING: found unseed state #197 without parent!
+mm_init: WARNING: found unseed state #198 without parent!
+mm_init: WARNING: found unseed state #199 without parent!
+mm_init: WARNING: found unseed state #200 without parent!
+mm_init: WARNING: found unseed state #201 without parent!
+mm_init: WARNING: found unseed state #202 without parent!
+mm_init: WARNING: found unseed state #203 without parent!
+mm_init: WARNING: found unseed state #204 without parent!
+mm_init: WARNING: found unseed state #205 without parent!
+mm_init: WARNING: found unseed state #206 without parent!
+mm_init: WARNING: found unseed state #207 without parent!
+mm_init: WARNING: found unseed state #208 without parent!
+mm_init: WARNING: found unseed state #209 without parent!
+mm_init: WARNING: found unseed state #210 without parent!
+mm_init: WARNING: found unseed state #211 without parent!
+mm_init: WARNING: found unseed state #212 without parent!
+mm_init: WARNING: found unseed state #213 without parent!
+mm_init: WARNING: found unseed state #214 without parent!
+mm_init: WARNING: found unseed state #215 without parent!
+mm_init: WARNING: found unseed state #216 without parent!
+mm_init: WARNING: found unseed state #217 without parent!
+mm_init: WARNING: found unseed state #218 without parent!
+mm_init: WARNING: found unseed state #219 without parent!
+mm_init: WARNING: found unseed state #220 without parent!
+mm_init: WARNING: found unseed state #221 without parent!
+mm_init: WARNING: found unseed state #222 without parent!
+mm_init: WARNING: found unseed state #223 without parent!
+mm_init: WARNING: found unseed state #224 without parent!
+mm_init: WARNING: found unseed state #225 without parent!
+mm_init: WARNING: found unseed state #226 without parent!
+mm_init: WARNING: found unseed state #227 without parent!
+mm_init: WARNING: found unseed state #228 without parent!
+mm_init: WARNING: found unseed state #229 without parent!
+mm_init: WARNING: found unseed state #230 without parent!
+mm_init: WARNING: found unseed state #231 without parent!
+mm_init: WARNING: found unseed state #232 without parent!
+mm_init: WARNING: found unseed state #233 without parent!
+mm_init: WARNING: found unseed state #234 without parent!
+mm_init: WARNING: found unseed state #235 without parent!
+mm_init: WARNING: found unseed state #236 without parent!
+mm_init: WARNING: found unseed state #237 without parent!
+mm_init: WARNING: found unseed state #238 without parent!
+mm_init: WARNING: found unseed state #239 without parent!
+mm_init: WARNING: found unseed state #240 without parent!
+mm_init: WARNING: found unseed state #241 without parent!
+mm_init: WARNING: found unseed state #242 without parent!
+mm_init: WARNING: found unseed state #243 without parent!
+mm_init: WARNING: found unseed state #244 without parent!
+mm_init: WARNING: found unseed state #245 without parent!
+mm_init: WARNING: found unseed state #246 without parent!
+mm_init: WARNING: found unseed state #247 without parent!
+mm_init: WARNING: found unseed state #248 without parent!
+mm_init: WARNING: found unseed state #249 without parent!
+mm_init: WARNING: found unseed state #250 without parent!
+mm_init: WARNING: found unseed state #251 without parent!
+mm_init: WARNING: found unseed state #252 without parent!
+mm_init: WARNING: found unseed state #253 without parent!
+mm_init: WARNING: found unseed state #254 without parent!
+mm_init: WARNING: found unseed state #255 without parent!
+mm_init: WARNING: found unseed state #256 without parent!
+mm_init: WARNING: found unseed state #257 without parent!
+mm_init: WARNING: found unseed state #258 without parent!
+mm_init: WARNING: found unseed state #259 without parent!
+mm_init: WARNING: found unseed state #260 without parent!
+mm_init: WARNING: found unseed state #261 without parent!
+mm_init: WARNING: found unseed state #262 without parent!
+mm_init: WARNING: found unseed state #263 without parent!
+mm_init: WARNING: found unseed state #264 without parent!
+mm_init: WARNING: found unseed state #265 without parent!
+mm_init: WARNING: found unseed state #266 without parent!
+mm_init: WARNING: found unseed state #267 without parent!
+mm_init: WARNING: found unseed state #268 without parent!
+mm_init: WARNING: found unseed state #269 without parent!
+mm_init: WARNING: found unseed state #270 without parent!
+mm_init: WARNING: found unseed state #271 without parent!
+mm_init: WARNING: found unseed state #272 without parent!
+mm_init: WARNING: found unseed state #273 without parent!
+mm_init: WARNING: found unseed state #274 without parent!
+mm_init: WARNING: found unseed state #275 without parent!
+mm_init: WARNING: found unseed state #276 without parent!
+mm_init: WARNING: found unseed state #277 without parent!
+mm_init: WARNING: found unseed state #278 without parent!
+mm_init: WARNING: found unseed state #279 without parent!
+mm_init: WARNING: found unseed state #280 without parent!
+mm_init: WARNING: found unseed state #281 without parent!
+mm_init: WARNING: found unseed state #282 without parent!
+mm_init: WARNING: found unseed state #283 without parent!
+mm_init: WARNING: found unseed state #284 without parent!
+mm_init: WARNING: found unseed state #285 without parent!
+mm_init: WARNING: found unseed state #286 without parent!
+mm_init: WARNING: found unseed state #287 without parent!
+mm_init: WARNING: found unseed state #288 without parent!
+mm_init: WARNING: found unseed state #289 without parent!
+mm_init: WARNING: found unseed state #290 without parent!
+mm_init: WARNING: found unseed state #291 without parent!
+finished with status 0 at Sun Apr 14 20:46:16 CST 2013

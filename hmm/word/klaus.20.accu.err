@@ -1,0 +1,45 @@
+mm_train started on matt at Sun Apr 14 21:57:23 CST 2013
+mm_train version 2.22 running on matt under Linux 3.0.0-12-generic.
+mm_train: using libraries mm 3.01b, md 2.02a, mx 1.30.
+mm_train: calculating total emission probabilities.
+mm_train: using Baum-Welch training.
+mm_train: no alignment will be used.
+mm_train: WARNING: beam for mixture pruning not specified - using default 14!
+mm_train: beam width is 200!
+mm_train: floor probability is 1e-05 (11.5)!
+mm_train: probabilities less than 0.001 will be ignored during training!
+mm_train: code library with 1 codebooks using 10 features read.
+mm_train: performing codebook update.
+mm_train: 573 states read.
+mm_train: 76 models read.
+mm_train: 2294 compound concepts read.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: no HMM statistics available.
+mm_train: 3110007 densities evaluated ( 0.4%), on average 3.65125 per frame.
+mm_train: average P(O|lambda) is 4.73729.
+mm_train: 5011 files processed, 0 rejected (0%).
+mm_train: 87609 ms (86190 cpu ms) processing 843183 frames (RTF =  0.01).
+finished with status 0 at Sun Apr 14 21:58:52 CST 2013
