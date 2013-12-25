@@ -5,5 +5,5 @@
 *.cl
 *.accu
 *.err
-/md_ufv/
+/md_ufv/*
 notes.md
