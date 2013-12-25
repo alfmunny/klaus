@@ -1,4 +1,8 @@
 ####
 /doc
-/ufv/Binaerbilder_*/*
+/ufv/Binaerbilder_*/
 /lin/Binaerbilder_*/
+*.cl
+*.accu
+*.err
+*.ufv

@@ -1,5 +1,5 @@
-mm_train started on matt at Sun Apr 14 20:48:29 CST 2013
-mm_train version 2.22 running on matt under Linux 3.0.0-12-generic.
+mm_train started on matt at Mon Dec 23 23:19:04 CST 2013
+mm_train version 2.22 running on matt under Linux 3.2.0-57-generic.
 mm_train: using libraries mm 3.01b, md 2.02a, mx 1.30.
 mm_train: calculating total emission probabilities.
 mm_train: using Baum-Welch training.
@@ -13,9 +13,12 @@ mm_train: performing codebook update.
 mm_train: 316 states read.
 mm_train: 76 models read.
 mm_train: 2294 compound concepts read.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
 mm_train: no HMM statistics available.
-mm_train: 3802509 densities evaluated ( 0.4%), on average 4.46426 per frame.
-mm_train: average P(O|lambda) is 5.81178.
+mm_train: 3325642 densities evaluated ( 0.5%), on average 4.73956 per frame.
+mm_train: average P(O|lambda) is 5.82151.
 mm_train: 5011 files processed, 0 rejected (0%).
-mm_train: 105420 ms (103960 cpu ms) processing 851766 frames (RTF = 0.012).
-finished with status 0 at Sun Apr 14 20:50:15 CST 2013
+mm_train: 83072 ms (82120 cpu ms) processing 701569 frames (RTF = 0.012).
+finished with status 0 at Mon Dec 23 23:20:28 CST 2013

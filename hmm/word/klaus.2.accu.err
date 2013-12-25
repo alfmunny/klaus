@@ -1,5 +1,5 @@
-mm_train started on matt at Sun Apr 14 21:29:46 CST 2013
-mm_train version 2.22 running on matt under Linux 3.0.0-12-generic.
+mm_train started on matt at Tue Dec 24 04:43:27 CST 2013
+mm_train version 2.22 running on matt under Linux 3.2.0-57-generic.
 mm_train: using libraries mm 3.01b, md 2.02a, mx 1.30.
 mm_train: calculating total emission probabilities.
 mm_train: using Baum-Welch training.
@@ -10,13 +10,26 @@ mm_train: floor probability is 1e-05 (11.5)!
 mm_train: probabilities less than 0.001 will be ignored during training!
 mm_train: code library with 1 codebooks using 10 features read.
 mm_train: performing codebook update.
-mm_train: 573 states read.
+mm_train: 822 states read.
 mm_train: 76 models read.
 mm_train: 2294 compound concepts read.
 mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
 mm_train: no HMM statistics available.
-mm_train: 3792017 densities evaluated ( 0.4%), on average 4.45195 per frame.
-mm_train: average P(O|lambda) is 5.16059.
+mm_train: 3308170 densities evaluated ( 0.5%), on average 4.71466 per frame.
+mm_train: average P(O|lambda) is 5.10674.
 mm_train: 5011 files processed, 0 rejected (0%).
-mm_train: 95414 ms (94010 cpu ms) processing 851427 frames (RTF = 0.011).
-finished with status 0 at Sun Apr 14 21:31:23 CST 2013
+mm_train: 77639 ms (76560 cpu ms) processing 693804 frames (RTF = 0.011).
+finished with status 0 at Tue Dec 24 04:44:46 CST 2013

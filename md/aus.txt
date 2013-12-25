@@ -1,0 +1,1881 @@
+Wed Dec 25 18:19:41 CST 2013
+########################################
+#width:10 x:7
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 253486 densities evaluated (20.2%), on average 23.862 per frame.
+md_classify: 891 ms (160 cpu ms) processing 10623 frames (RTF = 0.0084).
+----------------------------------------
+group:10 Erkennungsgrad:0.272727
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 264899 densities evaluated (10.9%), on average 24.9364 per frame.
+md_classify: 253 ms (240 cpu ms) processing 10623 frames (RTF = 0.0024).
+----------------------------------------
+group:20 Erkennungsgrad:0.272727
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 272516 densities evaluated ( 8.1%), on average 25.6534 per frame.
+md_classify: 303 ms (300 cpu ms) processing 10623 frames (RTF = 0.0029).
+----------------------------------------
+group:30 Erkennungsgrad:0.354545
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 274890 densities evaluated ( 6.6%), on average 25.8769 per frame.
+md_classify: 375 ms (330 cpu ms) processing 10623 frames (RTF = 0.0035).
+----------------------------------------
+group:40 Erkennungsgrad:0.354545
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 278087 densities evaluated ( 5.9%), on average 26.1778 per frame.
+md_classify: 359 ms (340 cpu ms) processing 10623 frames (RTF = 0.0034).
+----------------------------------------
+group:50 Erkennungsgrad:0.381818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 278911 densities evaluated ( 5.4%), on average 26.2554 per frame.
+md_classify: 455 ms (370 cpu ms) processing 10623 frames (RTF = 0.0043).
+----------------------------------------
+group:60 Erkennungsgrad:0.4
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 276561 densities evaluated ( 5.2%), on average 26.0342 per frame.
+md_classify: 420 ms (380 cpu ms) processing 10623 frames (RTF = 0.004).
+----------------------------------------
+group:70 Erkennungsgrad:0.418182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 281452 densities evaluated ( 5.4%), on average 26.4946 per frame.
+md_classify: 385 ms (380 cpu ms) processing 10623 frames (RTF = 0.0036).
+----------------------------------------
+group:80 Erkennungsgrad:0.418182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 283447 densities evaluated ( 5.4%), on average 26.6824 per frame.
+md_classify: 389 ms (380 cpu ms) processing 10623 frames (RTF = 0.0037).
+----------------------------------------
+group:85 Erkennungsgrad:0.4
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 278492 densities evaluated ( 5.5%), on average 26.2159 per frame.
+md_classify: 367 ms (360 cpu ms) processing 10623 frames (RTF = 0.0035).
+----------------------------------------
+group:90 Erkennungsgrad:0.372727
+----------------------------------------
+########################################
+#width:10 x:8
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 374361 densities evaluated (19.8%), on average 23.5358 per frame.
+md_classify: 2613 ms (260 cpu ms) processing 15906 frames (RTF = 0.016).
+----------------------------------------
+group:10 Erkennungsgrad:0.209091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 395027 densities evaluated (10.5%), on average 24.8351 per frame.
+md_classify: 358 ms (350 cpu ms) processing 15906 frames (RTF = 0.0023).
+----------------------------------------
+group:20 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 410216 densities evaluated ( 7.6%), on average 25.79 per frame.
+md_classify: 443 ms (440 cpu ms) processing 15906 frames (RTF = 0.0028).
+----------------------------------------
+group:30 Erkennungsgrad:0.381818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 418936 densities evaluated ( 6.0%), on average 26.3382 per frame.
+md_classify: 517 ms (510 cpu ms) processing 15906 frames (RTF = 0.0033).
+----------------------------------------
+group:40 Erkennungsgrad:0.372727
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 428587 densities evaluated ( 5.0%), on average 26.945 per frame.
+md_classify: 593 ms (580 cpu ms) processing 15906 frames (RTF = 0.0037).
+----------------------------------------
+group:50 Erkennungsgrad:0.354545
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 428735 densities evaluated ( 4.6%), on average 26.9543 per frame.
+md_classify: 631 ms (630 cpu ms) processing 15906 frames (RTF = 0.004).
+----------------------------------------
+group:60 Erkennungsgrad:0.381818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 434551 densities evaluated ( 4.2%), on average 27.3199 per frame.
+md_classify: 675 ms (660 cpu ms) processing 15906 frames (RTF = 0.0042).
+----------------------------------------
+group:70 Erkennungsgrad:0.445455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 437190 densities evaluated ( 4.1%), on average 27.4859 per frame.
+md_classify: 696 ms (690 cpu ms) processing 15906 frames (RTF = 0.0044).
+----------------------------------------
+group:80 Erkennungsgrad:0.418182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 445053 densities evaluated ( 3.9%), on average 27.9802 per frame.
+md_classify: 715 ms (700 cpu ms) processing 15906 frames (RTF = 0.0045).
+----------------------------------------
+group:85 Erkennungsgrad:0.445455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 436772 densities evaluated ( 3.8%), on average 27.4596 per frame.
+md_classify: 719 ms (700 cpu ms) processing 15906 frames (RTF = 0.0045).
+----------------------------------------
+group:90 Erkennungsgrad:0.409091
+----------------------------------------
+########################################
+#width:10 x:9
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 758242 densities evaluated (19.9%), on average 23.8794 per frame.
+md_classify: 1081 ms (500 cpu ms) processing 31753 frames (RTF = 0.0034).
+----------------------------------------
+group:10 Erkennungsgrad:0.263636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 810282 densities evaluated (10.7%), on average 25.5183 per frame.
+md_classify: 712 ms (700 cpu ms) processing 31753 frames (RTF = 0.0022).
+----------------------------------------
+group:20 Erkennungsgrad:0.3
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 823882 densities evaluated ( 7.3%), on average 25.9466 per frame.
+md_classify: 898 ms (890 cpu ms) processing 31753 frames (RTF = 0.0028).
+----------------------------------------
+group:30 Erkennungsgrad:0.336364
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 848167 densities evaluated ( 5.7%), on average 26.7114 per frame.
+md_classify: 1079 ms (1070 cpu ms) processing 31753 frames (RTF = 0.0034).
+----------------------------------------
+group:40 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 867241 densities evaluated ( 4.7%), on average 27.3121 per frame.
+md_classify: 1265 ms (1250 cpu ms) processing 31753 frames (RTF = 0.004).
+----------------------------------------
+group:50 Erkennungsgrad:0.354545
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 871629 densities evaluated ( 4.0%), on average 27.4503 per frame.
+md_classify: 1427 ms (1410 cpu ms) processing 31753 frames (RTF = 0.0045).
+----------------------------------------
+group:60 Erkennungsgrad:0.390909
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 887564 densities evaluated ( 3.5%), on average 27.9521 per frame.
+md_classify: 1647 ms (1580 cpu ms) processing 31753 frames (RTF = 0.0052).
+----------------------------------------
+group:70 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 909364 densities evaluated ( 3.2%), on average 28.6387 per frame.
+md_classify: 4416 ms (1710 cpu ms) processing 31753 frames (RTF = 0.014).
+----------------------------------------
+group:80 Erkennungsgrad:0.409091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 908746 densities evaluated ( 3.1%), on average 28.6192 per frame.
+md_classify: 2477 ms (1740 cpu ms) processing 31753 frames (RTF = 0.0078).
+----------------------------------------
+group:85 Erkennungsgrad:0.4
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 906215 densities evaluated ( 2.9%), on average 28.5395 per frame.
+md_classify: 1794 ms (1780 cpu ms) processing 31753 frames (RTF = 0.0056).
+----------------------------------------
+group:90 Erkennungsgrad:0.381818
+----------------------------------------
+########################################
+#width:12 x:10
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 373560 densities evaluated (20.0%), on average 23.649 per frame.
+md_classify: 725 ms (250 cpu ms) processing 15796 frames (RTF = 0.0046).
+----------------------------------------
+group:10 Erkennungsgrad:0.245455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 401848 densities evaluated (10.9%), on average 25.4399 per frame.
+md_classify: 365 ms (350 cpu ms) processing 15796 frames (RTF = 0.0023).
+----------------------------------------
+group:20 Erkennungsgrad:0.354545
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 417159 densities evaluated ( 7.8%), on average 26.4092 per frame.
+md_classify: 469 ms (450 cpu ms) processing 15796 frames (RTF = 0.003).
+----------------------------------------
+group:30 Erkennungsgrad:0.390909
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 426105 densities evaluated ( 6.2%), on average 26.9755 per frame.
+md_classify: 613 ms (510 cpu ms) processing 15796 frames (RTF = 0.0039).
+----------------------------------------
+group:40 Erkennungsgrad:0.409091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 436103 densities evaluated ( 5.2%), on average 27.6084 per frame.
+md_classify: 590 ms (580 cpu ms) processing 15796 frames (RTF = 0.0037).
+----------------------------------------
+group:50 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 440811 densities evaluated ( 4.7%), on average 27.9065 per frame.
+md_classify: 637 ms (640 cpu ms) processing 15796 frames (RTF = 0.004).
+----------------------------------------
+group:60 Erkennungsgrad:0.418182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 440295 densities evaluated ( 4.3%), on average 27.8738 per frame.
+md_classify: 776 ms (670 cpu ms) processing 15796 frames (RTF = 0.0049).
+----------------------------------------
+group:70 Erkennungsgrad:0.436364
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 446298 densities evaluated ( 4.1%), on average 28.2539 per frame.
+md_classify: 1488 ms (700 cpu ms) processing 15796 frames (RTF = 0.0094).
+----------------------------------------
+group:80 Erkennungsgrad:0.454545
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 450129 densities evaluated ( 4.1%), on average 28.4964 per frame.
+md_classify: 3931 ms (740 cpu ms) processing 15796 frames (RTF = 0.025).
+----------------------------------------
+group:85 Erkennungsgrad:0.390909
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 452861 densities evaluated ( 4.0%), on average 28.6693 per frame.
+md_classify: 2173 ms (750 cpu ms) processing 15796 frames (RTF = 0.014).
+----------------------------------------
+group:90 Erkennungsgrad:0.363636
+----------------------------------------
+########################################
+#width:12 x:11
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 756830 densities evaluated (20.2%), on average 24.0012 per frame.
+md_classify: 12468 ms (510 cpu ms) processing 31533 frames (RTF =  0.04).
+----------------------------------------
+group:10 Erkennungsgrad:0.227273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 809654 densities evaluated (10.7%), on average 25.6764 per frame.
+md_classify: 709 ms (690 cpu ms) processing 31533 frames (RTF = 0.0022).
+----------------------------------------
+group:20 Erkennungsgrad:0.345455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 833659 densities evaluated ( 7.4%), on average 26.4377 per frame.
+md_classify: 898 ms (900 cpu ms) processing 31533 frames (RTF = 0.0028).
+----------------------------------------
+group:30 Erkennungsgrad:0.290909
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 852809 densities evaluated ( 5.8%), on average 27.045 per frame.
+md_classify: 1113 ms (1080 cpu ms) processing 31533 frames (RTF = 0.0035).
+----------------------------------------
+group:40 Erkennungsgrad:0.427273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 873842 densities evaluated ( 4.8%), on average 27.712 per frame.
+md_classify: 1233 ms (1220 cpu ms) processing 31533 frames (RTF = 0.0039).
+----------------------------------------
+group:50 Erkennungsgrad:0.381818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 895548 densities evaluated ( 4.1%), on average 28.4003 per frame.
+md_classify: 1404 ms (1400 cpu ms) processing 31533 frames (RTF = 0.0045).
+----------------------------------------
+group:60 Erkennungsgrad:0.445455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 911906 densities evaluated ( 3.7%), on average 28.9191 per frame.
+md_classify: 1550 ms (1540 cpu ms) processing 31533 frames (RTF = 0.0049).
+----------------------------------------
+group:70 Erkennungsgrad:0.409091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 911293 densities evaluated ( 3.3%), on average 28.8997 per frame.
+md_classify: 1647 ms (1640 cpu ms) processing 31533 frames (RTF = 0.0052).
+----------------------------------------
+group:80 Erkennungsgrad:0.436364
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 928613 densities evaluated ( 3.2%), on average 29.4489 per frame.
+md_classify: 1707 ms (1690 cpu ms) processing 31533 frames (RTF = 0.0054).
+----------------------------------------
+group:85 Erkennungsgrad:0.454545
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 933245 densities evaluated ( 3.1%), on average 29.5958 per frame.
+md_classify: 1773 ms (1740 cpu ms) processing 31533 frames (RTF = 0.0056).
+----------------------------------------
+group:90 Erkennungsgrad:0.436364
+----------------------------------------
+########################################
+#width:12 x:9
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 257483 densities evaluated (20.7%), on average 24.4175 per frame.
+md_classify: 949 ms (170 cpu ms) processing 10545 frames (RTF = 0.009).
+----------------------------------------
+group:10 Erkennungsgrad:0.218182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 269417 densities evaluated (11.2%), on average 25.5493 per frame.
+md_classify: 235 ms (240 cpu ms) processing 10545 frames (RTF = 0.0022).
+----------------------------------------
+group:20 Erkennungsgrad:0.3
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 282508 densities evaluated ( 8.5%), on average 26.7907 per frame.
+md_classify: 294 ms (290 cpu ms) processing 10545 frames (RTF = 0.0028).
+----------------------------------------
+group:30 Erkennungsgrad:0.4
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 281846 densities evaluated ( 6.8%), on average 26.7279 per frame.
+md_classify: 330 ms (320 cpu ms) processing 10545 frames (RTF = 0.0031).
+----------------------------------------
+group:40 Erkennungsgrad:0.445455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 281324 densities evaluated ( 5.9%), on average 26.6784 per frame.
+md_classify: 358 ms (350 cpu ms) processing 10545 frames (RTF = 0.0034).
+----------------------------------------
+group:50 Erkennungsgrad:0.381818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 280528 densities evaluated ( 5.5%), on average 26.6029 per frame.
+md_classify: 374 ms (370 cpu ms) processing 10545 frames (RTF = 0.0035).
+----------------------------------------
+group:60 Erkennungsgrad:0.427273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 282989 densities evaluated ( 5.6%), on average 26.8363 per frame.
+md_classify: 370 ms (370 cpu ms) processing 10545 frames (RTF = 0.0035).
+----------------------------------------
+group:70 Erkennungsgrad:0.409091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 278727 densities evaluated ( 5.6%), on average 26.4321 per frame.
+md_classify: 364 ms (360 cpu ms) processing 10545 frames (RTF = 0.0035).
+----------------------------------------
+group:80 Erkennungsgrad:0.418182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 282445 densities evaluated ( 5.5%), on average 26.7847 per frame.
+md_classify: 375 ms (360 cpu ms) processing 10545 frames (RTF = 0.0036).
+----------------------------------------
+group:85 Erkennungsgrad:0.4
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 282757 densities evaluated ( 5.6%), on average 26.8143 per frame.
+md_classify: 366 ms (350 cpu ms) processing 10545 frames (RTF = 0.0035).
+----------------------------------------
+group:90 Erkennungsgrad:0.4
+----------------------------------------
+########################################
+#width:14 x:11
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 263441 densities evaluated (21.3%), on average 25.1495 per frame.
+md_classify: 658 ms (180 cpu ms) processing 10475 frames (RTF = 0.0063).
+----------------------------------------
+group:10 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 271636 densities evaluated (11.3%), on average 25.9318 per frame.
+md_classify: 238 ms (240 cpu ms) processing 10475 frames (RTF = 0.0023).
+----------------------------------------
+group:20 Erkennungsgrad:0.327273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 276125 densities evaluated ( 8.3%), on average 26.3604 per frame.
+md_classify: 291 ms (280 cpu ms) processing 10475 frames (RTF = 0.0028).
+----------------------------------------
+group:30 Erkennungsgrad:0.418182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 287338 densities evaluated ( 6.8%), on average 27.4308 per frame.
+md_classify: 335 ms (330 cpu ms) processing 10475 frames (RTF = 0.0032).
+----------------------------------------
+group:40 Erkennungsgrad:0.418182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 289511 densities evaluated ( 6.1%), on average 27.6383 per frame.
+md_classify: 368 ms (350 cpu ms) processing 10475 frames (RTF = 0.0035).
+----------------------------------------
+group:50 Erkennungsgrad:0.409091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 296584 densities evaluated ( 5.9%), on average 28.3135 per frame.
+md_classify: 382 ms (370 cpu ms) processing 10475 frames (RTF = 0.0036).
+----------------------------------------
+group:60 Erkennungsgrad:0.409091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 294298 densities evaluated ( 5.8%), on average 28.0953 per frame.
+md_classify: 376 ms (350 cpu ms) processing 10475 frames (RTF = 0.0036).
+----------------------------------------
+group:70 Erkennungsgrad:0.327273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 288075 densities evaluated ( 5.7%), on average 27.5012 per frame.
+md_classify: 373 ms (370 cpu ms) processing 10475 frames (RTF = 0.0036).
+----------------------------------------
+group:80 Erkennungsgrad:0.427273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 290047 densities evaluated ( 5.9%), on average 27.6895 per frame.
+md_classify: 371 ms (370 cpu ms) processing 10475 frames (RTF = 0.0035).
+----------------------------------------
+group:85 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 287479 densities evaluated ( 5.8%), on average 27.4443 per frame.
+md_classify: 364 ms (350 cpu ms) processing 10475 frames (RTF = 0.0035).
+----------------------------------------
+group:90 Erkennungsgrad:0.4
+----------------------------------------
+########################################
+#width:14 x:12
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 379383 densities evaluated (20.7%), on average 24.1861 per frame.
+md_classify: 709 ms (240 cpu ms) processing 15686 frames (RTF = 0.0045).
+----------------------------------------
+group:10 Erkennungsgrad:0.309091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 403175 densities evaluated (10.9%), on average 25.7029 per frame.
+md_classify: 358 ms (350 cpu ms) processing 15686 frames (RTF = 0.0023).
+----------------------------------------
+group:20 Erkennungsgrad:0.390909
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 424931 densities evaluated ( 8.0%), on average 27.0898 per frame.
+md_classify: 449 ms (450 cpu ms) processing 15686 frames (RTF = 0.0029).
+----------------------------------------
+group:30 Erkennungsgrad:0.418182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 439620 densities evaluated ( 6.4%), on average 28.0263 per frame.
+md_classify: 523 ms (510 cpu ms) processing 15686 frames (RTF = 0.0033).
+----------------------------------------
+group:40 Erkennungsgrad:0.409091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 439964 densities evaluated ( 5.3%), on average 28.0482 per frame.
+md_classify: 592 ms (580 cpu ms) processing 15686 frames (RTF = 0.0038).
+----------------------------------------
+group:50 Erkennungsgrad:0.381818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 448405 densities evaluated ( 4.8%), on average 28.5863 per frame.
+md_classify: 638 ms (640 cpu ms) processing 15686 frames (RTF = 0.0041).
+----------------------------------------
+group:60 Erkennungsgrad:0.436364
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 453984 densities evaluated ( 4.4%), on average 28.942 per frame.
+md_classify: 678 ms (680 cpu ms) processing 15686 frames (RTF = 0.0043).
+----------------------------------------
+group:70 Erkennungsgrad:0.4
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 453407 densities evaluated ( 4.3%), on average 28.9052 per frame.
+md_classify: 685 ms (680 cpu ms) processing 15686 frames (RTF = 0.0044).
+----------------------------------------
+group:80 Erkennungsgrad:0.436364
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 452825 densities evaluated ( 4.1%), on average 28.8681 per frame.
+md_classify: 718 ms (720 cpu ms) processing 15686 frames (RTF = 0.0046).
+----------------------------------------
+group:85 Erkennungsgrad:0.445455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 456482 densities evaluated ( 4.1%), on average 29.1012 per frame.
+md_classify: 720 ms (720 cpu ms) processing 15686 frames (RTF = 0.0046).
+----------------------------------------
+group:90 Erkennungsgrad:0.436364
+----------------------------------------
+########################################
+#width:14 x:13
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 764266 densities evaluated (20.5%), on average 24.4073 per frame.
+md_classify: 1094 ms (480 cpu ms) processing 31313 frames (RTF = 0.0035).
+----------------------------------------
+group:10 Erkennungsgrad:0.245455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 825189 densities evaluated (11.1%), on average 26.3529 per frame.
+md_classify: 708 ms (690 cpu ms) processing 31313 frames (RTF = 0.0023).
+----------------------------------------
+group:20 Erkennungsgrad:0.345455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 849077 densities evaluated ( 7.6%), on average 27.1158 per frame.
+md_classify: 898 ms (900 cpu ms) processing 31313 frames (RTF = 0.0029).
+----------------------------------------
+group:30 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 864652 densities evaluated ( 5.9%), on average 27.6132 per frame.
+md_classify: 1075 ms (1060 cpu ms) processing 31313 frames (RTF = 0.0034).
+----------------------------------------
+group:40 Erkennungsgrad:0.427273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 890231 densities evaluated ( 4.9%), on average 28.4301 per frame.
+md_classify: 1241 ms (1230 cpu ms) processing 31313 frames (RTF = 0.004).
+----------------------------------------
+group:50 Erkennungsgrad:0.427273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 889587 densities evaluated ( 4.1%), on average 28.4095 per frame.
+md_classify: 1408 ms (1410 cpu ms) processing 31313 frames (RTF = 0.0045).
+----------------------------------------
+group:60 Erkennungsgrad:0.427273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 920892 densities evaluated ( 3.8%), on average 29.4093 per frame.
+md_classify: 1532 ms (1530 cpu ms) processing 31313 frames (RTF = 0.0049).
+----------------------------------------
+group:70 Erkennungsgrad:0.409091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 920766 densities evaluated ( 3.4%), on average 29.4052 per frame.
+md_classify: 1644 ms (1630 cpu ms) processing 31313 frames (RTF = 0.0053).
+----------------------------------------
+group:80 Erkennungsgrad:0.381818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 934781 densities evaluated ( 3.3%), on average 29.8528 per frame.
+md_classify: 1714 ms (1690 cpu ms) processing 31313 frames (RTF = 0.0055).
+----------------------------------------
+group:85 Erkennungsgrad:0.418182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 940219 densities evaluated ( 3.1%), on average 30.0265 per frame.
+md_classify: 1791 ms (1780 cpu ms) processing 31313 frames (RTF = 0.0057).
+----------------------------------------
+group:90 Erkennungsgrad:0.463636
+----------------------------------------
+########################################
+#width:2 x:1
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 586648 densities evaluated (15.0%), on average 17.9771 per frame.
+md_classify: 1003 ms (460 cpu ms) processing 32633 frames (RTF = 0.0031).
+----------------------------------------
+group:10 Erkennungsgrad:0.163636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 650736 densities evaluated ( 8.3%), on average 19.941 per frame.
+md_classify: 673 ms (680 cpu ms) processing 32633 frames (RTF = 0.0021).
+----------------------------------------
+group:20 Erkennungsgrad:0.190909
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 662170 densities evaluated ( 5.7%), on average 20.2914 per frame.
+md_classify: 860 ms (850 cpu ms) processing 32633 frames (RTF = 0.0026).
+----------------------------------------
+group:30 Erkennungsgrad:0.2
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 631296 densities evaluated ( 4.1%), on average 19.3453 per frame.
+md_classify: 1035 ms (1030 cpu ms) processing 32633 frames (RTF = 0.0032).
+----------------------------------------
+group:40 Erkennungsgrad:0.218182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 638841 densities evaluated ( 3.4%), on average 19.5765 per frame.
+md_classify: 1197 ms (1180 cpu ms) processing 32633 frames (RTF = 0.0037).
+----------------------------------------
+group:50 Erkennungsgrad:0.136364
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 663373 densities evaluated ( 3.0%), on average 20.3283 per frame.
+md_classify: 1350 ms (1320 cpu ms) processing 32633 frames (RTF = 0.0041).
+----------------------------------------
+group:60 Erkennungsgrad:0.336364
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 651326 densities evaluated ( 2.5%), on average 19.9591 per frame.
+md_classify: 1506 ms (1490 cpu ms) processing 32633 frames (RTF = 0.0046).
+----------------------------------------
+group:70 Erkennungsgrad:0.227273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 652910 densities evaluated ( 2.3%), on average 20.0077 per frame.
+md_classify: 1615 ms (1600 cpu ms) processing 32633 frames (RTF = 0.0049).
+----------------------------------------
+group:80 Erkennungsgrad:0.254545
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 663558 densities evaluated ( 2.2%), on average 20.334 per frame.
+md_classify: 1690 ms (1670 cpu ms) processing 32633 frames (RTF = 0.0052).
+----------------------------------------
+group:85 Erkennungsgrad:0.218182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 670330 densities evaluated ( 2.1%), on average 20.5415 per frame.
+md_classify: 1723 ms (1700 cpu ms) processing 32633 frames (RTF = 0.0053).
+----------------------------------------
+group:90 Erkennungsgrad:0.281818
+----------------------------------------
+########################################
+#width:4 x:1
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 238366 densities evaluated (18.5%), on average 21.9834 per frame.
+md_classify: 895 ms (160 cpu ms) processing 10843 frames (RTF = 0.0083).
+----------------------------------------
+group:10 Erkennungsgrad:0.181818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 251842 densities evaluated (10.2%), on average 23.2262 per frame.
+md_classify: 232 ms (220 cpu ms) processing 10843 frames (RTF = 0.0021).
+----------------------------------------
+group:20 Erkennungsgrad:0.281818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 258216 densities evaluated ( 7.3%), on average 23.8141 per frame.
+md_classify: 288 ms (290 cpu ms) processing 10843 frames (RTF = 0.0027).
+----------------------------------------
+group:30 Erkennungsgrad:0.336364
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 259538 densities evaluated ( 6.1%), on average 23.936 per frame.
+md_classify: 329 ms (320 cpu ms) processing 10843 frames (RTF = 0.003).
+----------------------------------------
+group:40 Erkennungsgrad:0.3
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 262774 densities evaluated ( 5.6%), on average 24.2344 per frame.
+md_classify: 346 ms (350 cpu ms) processing 10843 frames (RTF = 0.0032).
+----------------------------------------
+group:50 Erkennungsgrad:0.3
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 262851 densities evaluated ( 4.9%), on average 24.2415 per frame.
+md_classify: 381 ms (380 cpu ms) processing 10843 frames (RTF = 0.0035).
+----------------------------------------
+group:60 Erkennungsgrad:0.327273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 263231 densities evaluated ( 5.1%), on average 24.2766 per frame.
+md_classify: 369 ms (370 cpu ms) processing 10843 frames (RTF = 0.0034).
+----------------------------------------
+group:70 Erkennungsgrad:0.345455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 270410 densities evaluated ( 5.2%), on average 24.9387 per frame.
+md_classify: 373 ms (370 cpu ms) processing 10843 frames (RTF = 0.0034).
+----------------------------------------
+group:80 Erkennungsgrad:0.327273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 263501 densities evaluated ( 4.9%), on average 24.3015 per frame.
+md_classify: 382 ms (380 cpu ms) processing 10843 frames (RTF = 0.0035).
+----------------------------------------
+group:85 Erkennungsgrad:0.309091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 263661 densities evaluated ( 5.2%), on average 24.3162 per frame.
+md_classify: 364 ms (360 cpu ms) processing 10843 frames (RTF = 0.0034).
+----------------------------------------
+group:90 Erkennungsgrad:0.336364
+----------------------------------------
+########################################
+#width:4 x:2
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 362317 densities evaluated (18.6%), on average 22.3157 per frame.
+md_classify: 653 ms (240 cpu ms) processing 16236 frames (RTF = 0.004).
+----------------------------------------
+group:10 Erkennungsgrad:0.227273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 385911 densities evaluated (10.0%), on average 23.7688 per frame.
+md_classify: 371 ms (360 cpu ms) processing 16236 frames (RTF = 0.0023).
+----------------------------------------
+group:20 Erkennungsgrad:0.281818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 385737 densities evaluated ( 7.0%), on average 23.7581 per frame.
+md_classify: 438 ms (440 cpu ms) processing 16236 frames (RTF = 0.0027).
+----------------------------------------
+group:30 Erkennungsgrad:0.327273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 400570 densities evaluated ( 5.7%), on average 24.6717 per frame.
+md_classify: 517 ms (510 cpu ms) processing 16236 frames (RTF = 0.0032).
+----------------------------------------
+group:40 Erkennungsgrad:0.336364
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 405520 densities evaluated ( 4.7%), on average 24.9766 per frame.
+md_classify: 586 ms (580 cpu ms) processing 16236 frames (RTF = 0.0036).
+----------------------------------------
+group:50 Erkennungsgrad:0.372727
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 414505 densities evaluated ( 4.2%), on average 25.53 per frame.
+md_classify: 653 ms (640 cpu ms) processing 16236 frames (RTF = 0.004).
+----------------------------------------
+group:60 Erkennungsgrad:0.345455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 415939 densities evaluated ( 4.0%), on average 25.6183 per frame.
+md_classify: 684 ms (680 cpu ms) processing 16236 frames (RTF = 0.0042).
+----------------------------------------
+group:70 Erkennungsgrad:0.3
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 414936 densities evaluated ( 3.7%), on average 25.5565 per frame.
+md_classify: 713 ms (710 cpu ms) processing 16236 frames (RTF = 0.0044).
+----------------------------------------
+group:80 Erkennungsgrad:0.345455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 409001 densities evaluated ( 3.6%), on average 25.191 per frame.
+md_classify: 719 ms (720 cpu ms) processing 16236 frames (RTF = 0.0044).
+----------------------------------------
+group:85 Erkennungsgrad:0.354545
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 410207 densities evaluated ( 3.5%), on average 25.2653 per frame.
+md_classify: 726 ms (730 cpu ms) processing 16236 frames (RTF = 0.0045).
+----------------------------------------
+group:90 Erkennungsgrad:0.390909
+----------------------------------------
+########################################
+#width:4 x:3
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 690754 densities evaluated (17.8%), on average 21.311 per frame.
+md_classify: 885 ms (460 cpu ms) processing 32413 frames (RTF = 0.0027).
+----------------------------------------
+group:10 Erkennungsgrad:0.254545
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 757781 densities evaluated ( 9.7%), on average 23.3789 per frame.
+md_classify: 701 ms (700 cpu ms) processing 32413 frames (RTF = 0.0022).
+----------------------------------------
+group:20 Erkennungsgrad:0.2
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 779301 densities evaluated ( 6.8%), on average 24.0429 per frame.
+md_classify: 893 ms (880 cpu ms) processing 32413 frames (RTF = 0.0028).
+----------------------------------------
+group:30 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 795049 densities evaluated ( 5.1%), on average 24.5287 per frame.
+md_classify: 1095 ms (1070 cpu ms) processing 32413 frames (RTF = 0.0034).
+----------------------------------------
+group:40 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 803927 densities evaluated ( 4.2%), on average 24.8026 per frame.
+md_classify: 1250 ms (1250 cpu ms) processing 32413 frames (RTF = 0.0039).
+----------------------------------------
+group:50 Erkennungsgrad:0.345455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 823352 densities evaluated ( 3.7%), on average 25.4019 per frame.
+md_classify: 1410 ms (1400 cpu ms) processing 32413 frames (RTF = 0.0044).
+----------------------------------------
+group:60 Erkennungsgrad:0.336364
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 839856 densities evaluated ( 3.2%), on average 25.9111 per frame.
+md_classify: 1567 ms (1550 cpu ms) processing 32413 frames (RTF = 0.0048).
+----------------------------------------
+group:70 Erkennungsgrad:0.318182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 837565 densities evaluated ( 2.9%), on average 25.8404 per frame.
+md_classify: 1691 ms (1670 cpu ms) processing 32413 frames (RTF = 0.0052).
+----------------------------------------
+group:80 Erkennungsgrad:0.381818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 856341 densities evaluated ( 2.8%), on average 26.4197 per frame.
+md_classify: 1779 ms (1750 cpu ms) processing 32413 frames (RTF = 0.0055).
+----------------------------------------
+group:85 Erkennungsgrad:0.345455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 844380 densities evaluated ( 2.7%), on average 26.0507 per frame.
+md_classify: 1793 ms (1780 cpu ms) processing 32413 frames (RTF = 0.0055).
+----------------------------------------
+group:90 Erkennungsgrad:0.290909
+----------------------------------------
+########################################
+#width:6 x:3
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 239042 densities evaluated (18.8%), on average 22.2055 per frame.
+md_classify: 729 ms (160 cpu ms) processing 10765 frames (RTF = 0.0068).
+----------------------------------------
+group:10 Erkennungsgrad:0.3
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 261308 densities evaluated (10.5%), on average 24.2739 per frame.
+md_classify: 235 ms (240 cpu ms) processing 10765 frames (RTF = 0.0022).
+----------------------------------------
+group:20 Erkennungsgrad:0.309091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 264065 densities evaluated ( 7.9%), on average 24.53 per frame.
+md_classify: 278 ms (280 cpu ms) processing 10765 frames (RTF = 0.0026).
+----------------------------------------
+group:30 Erkennungsgrad:0.327273
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 268886 densities evaluated ( 6.4%), on average 24.9778 per frame.
+md_classify: 330 ms (320 cpu ms) processing 10765 frames (RTF = 0.0031).
+----------------------------------------
+group:40 Erkennungsgrad:0.290909
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 268239 densities evaluated ( 5.4%), on average 24.9177 per frame.
+md_classify: 364 ms (360 cpu ms) processing 10765 frames (RTF = 0.0034).
+----------------------------------------
+group:50 Erkennungsgrad:0.390909
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 271051 densities evaluated ( 5.3%), on average 25.1789 per frame.
+md_classify: 368 ms (360 cpu ms) processing 10765 frames (RTF = 0.0034).
+----------------------------------------
+group:60 Erkennungsgrad:0.354545
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 265590 densities evaluated ( 5.2%), on average 24.6716 per frame.
+md_classify: 366 ms (350 cpu ms) processing 10765 frames (RTF = 0.0034).
+----------------------------------------
+group:70 Erkennungsgrad:0.345455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 270724 densities evaluated ( 5.2%), on average 25.1485 per frame.
+md_classify: 372 ms (370 cpu ms) processing 10765 frames (RTF = 0.0035).
+----------------------------------------
+group:80 Erkennungsgrad:0.372727
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 269679 densities evaluated ( 5.2%), on average 25.0515 per frame.
+md_classify: 369 ms (370 cpu ms) processing 10765 frames (RTF = 0.0034).
+----------------------------------------
+group:85 Erkennungsgrad:0.372727
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 264124 densities evaluated ( 5.4%), on average 24.5354 per frame.
+md_classify: 356 ms (340 cpu ms) processing 10765 frames (RTF = 0.0033).
+----------------------------------------
+group:90 Erkennungsgrad:0.409091
+----------------------------------------
+########################################
+#width:6 x:4
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 365758 densities evaluated (19.1%), on average 22.6813 per frame.
+md_classify: 642 ms (240 cpu ms) processing 16126 frames (RTF = 0.004).
+----------------------------------------
+group:10 Erkennungsgrad:0.263636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 384885 densities evaluated (10.0%), on average 23.8674 per frame.
+md_classify: 368 ms (360 cpu ms) processing 16126 frames (RTF = 0.0023).
+----------------------------------------
+group:20 Erkennungsgrad:0.263636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 401317 densities evaluated ( 7.2%), on average 24.8863 per frame.
+md_classify: 447 ms (440 cpu ms) processing 16126 frames (RTF = 0.0028).
+----------------------------------------
+group:30 Erkennungsgrad:0.309091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 406852 densities evaluated ( 5.7%), on average 25.2296 per frame.
+md_classify: 522 ms (520 cpu ms) processing 16126 frames (RTF = 0.0032).
+----------------------------------------
+group:40 Erkennungsgrad:0.3
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 414918 densities evaluated ( 4.8%), on average 25.7298 per frame.
+md_classify: 597 ms (590 cpu ms) processing 16126 frames (RTF = 0.0037).
+----------------------------------------
+group:50 Erkennungsgrad:0.336364
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 414870 densities evaluated ( 4.3%), on average 25.7268 per frame.
+md_classify: 644 ms (640 cpu ms) processing 16126 frames (RTF = 0.004).
+----------------------------------------
+group:60 Erkennungsgrad:0.381818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 423943 densities evaluated ( 4.1%), on average 26.2894 per frame.
+md_classify: 680 ms (670 cpu ms) processing 16126 frames (RTF = 0.0042).
+----------------------------------------
+group:70 Erkennungsgrad:0.372727
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 422391 densities evaluated ( 3.9%), on average 26.1932 per frame.
+md_classify: 710 ms (710 cpu ms) processing 16126 frames (RTF = 0.0044).
+----------------------------------------
+group:80 Erkennungsgrad:0.390909
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 425494 densities evaluated ( 3.7%), on average 26.3856 per frame.
+md_classify: 721 ms (710 cpu ms) processing 16126 frames (RTF = 0.0045).
+----------------------------------------
+group:85 Erkennungsgrad:0.372727
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 417859 densities evaluated ( 3.6%), on average 25.9121 per frame.
+md_classify: 726 ms (720 cpu ms) processing 16126 frames (RTF = 0.0045).
+----------------------------------------
+group:90 Erkennungsgrad:0.381818
+----------------------------------------
+########################################
+#width:6 x:5
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 728349 densities evaluated (18.9%), on average 22.6245 per frame.
+md_classify: 865 ms (480 cpu ms) processing 32193 frames (RTF = 0.0027).
+----------------------------------------
+group:10 Erkennungsgrad:0.281818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 770598 densities evaluated (10.0%), on average 23.9368 per frame.
+md_classify: 700 ms (700 cpu ms) processing 32193 frames (RTF = 0.0022).
+----------------------------------------
+group:20 Erkennungsgrad:0.318182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 787365 densities evaluated ( 6.9%), on average 24.4576 per frame.
+md_classify: 889 ms (890 cpu ms) processing 32193 frames (RTF = 0.0028).
+----------------------------------------
+group:30 Erkennungsgrad:0.272727
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 823512 densities evaluated ( 5.5%), on average 25.5805 per frame.
+md_classify: 1077 ms (1060 cpu ms) processing 32193 frames (RTF = 0.0033).
+----------------------------------------
+group:40 Erkennungsgrad:0.318182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 829113 densities evaluated ( 4.4%), on average 25.7544 per frame.
+md_classify: 1258 ms (1250 cpu ms) processing 32193 frames (RTF = 0.0039).
+----------------------------------------
+group:50 Erkennungsgrad:0.354545
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 844217 densities evaluated ( 3.8%), on average 26.2236 per frame.
+md_classify: 1426 ms (1410 cpu ms) processing 32193 frames (RTF = 0.0044).
+----------------------------------------
+group:60 Erkennungsgrad:0.409091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 863706 densities evaluated ( 3.4%), on average 26.829 per frame.
+md_classify: 1564 ms (1550 cpu ms) processing 32193 frames (RTF = 0.0049).
+----------------------------------------
+group:70 Erkennungsgrad:0.390909
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 868791 densities evaluated ( 3.0%), on average 26.987 per frame.
+md_classify: 1673 ms (1650 cpu ms) processing 32193 frames (RTF = 0.0052).
+----------------------------------------
+group:80 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 873564 densities evaluated ( 2.9%), on average 27.1352 per frame.
+md_classify: 1748 ms (1740 cpu ms) processing 32193 frames (RTF = 0.0054).
+----------------------------------------
+group:85 Erkennungsgrad:0.354545
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 877914 densities evaluated ( 2.8%), on average 27.2703 per frame.
+md_classify: 1792 ms (1790 cpu ms) processing 32193 frames (RTF = 0.0056).
+----------------------------------------
+group:90 Erkennungsgrad:0.4
+----------------------------------------
+########################################
+#width:8 x:4
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 183238 densities evaluated (19.6%), on average 22.7908 per frame.
+md_classify: 673 ms (120 cpu ms) processing 8040 frames (RTF = 0.0084).
+----------------------------------------
+group:10 Erkennungsgrad:0.254545
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 195899 densities evaluated (11.0%), on average 24.3655 per frame.
+md_classify: 174 ms (180 cpu ms) processing 8040 frames (RTF = 0.0022).
+----------------------------------------
+group:20 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 197161 densities evaluated ( 8.5%), on average 24.5225 per frame.
+md_classify: 203 ms (210 cpu ms) processing 8040 frames (RTF = 0.0025).
+----------------------------------------
+group:30 Erkennungsgrad:0.3
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 197727 densities evaluated ( 7.5%), on average 24.5929 per frame.
+md_classify: 218 ms (210 cpu ms) processing 8040 frames (RTF = 0.0027).
+----------------------------------------
+group:40 Erkennungsgrad:0.390909
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 197266 densities evaluated ( 6.6%), on average 24.5356 per frame.
+md_classify: 231 ms (230 cpu ms) processing 8040 frames (RTF = 0.0029).
+----------------------------------------
+group:50 Erkennungsgrad:0.309091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 198267 densities evaluated ( 6.8%), on average 24.6601 per frame.
+md_classify: 227 ms (230 cpu ms) processing 8040 frames (RTF = 0.0028).
+----------------------------------------
+group:60 Erkennungsgrad:0.318182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 197049 densities evaluated ( 7.0%), on average 24.5086 per frame.
+md_classify: 221 ms (210 cpu ms) processing 8040 frames (RTF = 0.0027).
+----------------------------------------
+group:70 Erkennungsgrad:0.3
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 200072 densities evaluated ( 7.2%), on average 24.8846 per frame.
+md_classify: 222 ms (220 cpu ms) processing 8040 frames (RTF = 0.0028).
+----------------------------------------
+group:80 Erkennungsgrad:0.3
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 190279 densities evaluated ( 7.2%), on average 23.6665 per frame.
+md_classify: 210 ms (200 cpu ms) processing 8040 frames (RTF = 0.0026).
+----------------------------------------
+group:85 Erkennungsgrad:0.345455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 196037 densities evaluated ( 8.0%), on average 24.3827 per frame.
+md_classify: 204 ms (200 cpu ms) processing 8040 frames (RTF = 0.0025).
+----------------------------------------
+group:90 Erkennungsgrad:0.345455
+----------------------------------------
+########################################
+#width:8 x:5
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 240086 densities evaluated (18.9%), on average 22.4484 per frame.
+md_classify: 426 ms (150 cpu ms) processing 10695 frames (RTF = 0.004).
+----------------------------------------
+group:10 Erkennungsgrad:0.318182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 258625 densities evaluated (10.4%), on average 24.1819 per frame.
+md_classify: 234 ms (230 cpu ms) processing 10695 frames (RTF = 0.0022).
+----------------------------------------
+group:20 Erkennungsgrad:0.236364
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 268405 densities evaluated ( 7.8%), on average 25.0963 per frame.
+md_classify: 286 ms (290 cpu ms) processing 10695 frames (RTF = 0.0027).
+----------------------------------------
+group:30 Erkennungsgrad:0.345455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 270498 densities evaluated ( 6.3%), on average 25.292 per frame.
+md_classify: 334 ms (330 cpu ms) processing 10695 frames (RTF = 0.0031).
+----------------------------------------
+group:40 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 277176 densities evaluated ( 5.6%), on average 25.9164 per frame.
+md_classify: 363 ms (350 cpu ms) processing 10695 frames (RTF = 0.0034).
+----------------------------------------
+group:50 Erkennungsgrad:0.372727
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 275243 densities evaluated ( 5.6%), on average 25.7357 per frame.
+md_classify: 363 ms (360 cpu ms) processing 10695 frames (RTF = 0.0034).
+----------------------------------------
+group:60 Erkennungsgrad:0.409091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 276069 densities evaluated ( 5.2%), on average 25.8129 per frame.
+md_classify: 380 ms (370 cpu ms) processing 10695 frames (RTF = 0.0036).
+----------------------------------------
+group:70 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 273346 densities evaluated ( 5.3%), on average 25.5583 per frame.
+md_classify: 369 ms (340 cpu ms) processing 10695 frames (RTF = 0.0035).
+----------------------------------------
+group:80 Erkennungsgrad:0.4
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 274732 densities evaluated ( 5.4%), on average 25.6879 per frame.
+md_classify: 367 ms (360 cpu ms) processing 10695 frames (RTF = 0.0034).
+----------------------------------------
+group:85 Erkennungsgrad:0.381818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 272198 densities evaluated ( 5.2%), on average 25.451 per frame.
+md_classify: 372 ms (360 cpu ms) processing 10695 frames (RTF = 0.0035).
+----------------------------------------
+group:90 Erkennungsgrad:0.390909
+----------------------------------------
+########################################
+#width:8 x:6
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 371643 densities evaluated (19.3%), on average 23.2045 per frame.
+md_classify: 630 ms (260 cpu ms) processing 16016 frames (RTF = 0.0039).
+----------------------------------------
+group:10 Erkennungsgrad:0.263636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 391975 densities evaluated (10.4%), on average 24.474 per frame.
+md_classify: 356 ms (350 cpu ms) processing 16016 frames (RTF = 0.0022).
+----------------------------------------
+group:20 Erkennungsgrad:0.263636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 399162 densities evaluated ( 7.4%), on average 24.9227 per frame.
+md_classify: 437 ms (430 cpu ms) processing 16016 frames (RTF = 0.0027).
+----------------------------------------
+group:30 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 421170 densities evaluated ( 6.0%), on average 26.2968 per frame.
+md_classify: 521 ms (520 cpu ms) processing 16016 frames (RTF = 0.0033).
+----------------------------------------
+group:40 Erkennungsgrad:0.318182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 421896 densities evaluated ( 4.9%), on average 26.3422 per frame.
+md_classify: 597 ms (590 cpu ms) processing 16016 frames (RTF = 0.0037).
+----------------------------------------
+group:50 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 425961 densities evaluated ( 4.5%), on average 26.596 per frame.
+md_classify: 634 ms (630 cpu ms) processing 16016 frames (RTF = 0.004).
+----------------------------------------
+group:60 Erkennungsgrad:0.390909
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 424518 densities evaluated ( 4.0%), on average 26.5059 per frame.
+md_classify: 689 ms (680 cpu ms) processing 16016 frames (RTF = 0.0043).
+----------------------------------------
+group:70 Erkennungsgrad:0.381818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 434310 densities evaluated ( 4.0%), on average 27.1173 per frame.
+md_classify: 703 ms (700 cpu ms) processing 16016 frames (RTF = 0.0044).
+----------------------------------------
+group:80 Erkennungsgrad:0.381818
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 434804 densities evaluated ( 3.8%), on average 27.1481 per frame.
+md_classify: 725 ms (720 cpu ms) processing 16016 frames (RTF = 0.0045).
+----------------------------------------
+group:85 Erkennungsgrad:0.418182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 432533 densities evaluated ( 3.8%), on average 27.0063 per frame.
+md_classify: 712 ms (700 cpu ms) processing 16016 frames (RTF = 0.0044).
+----------------------------------------
+group:90 Erkennungsgrad:0.4
+----------------------------------------
+########################################
+#width:8 x:7
+########################################
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 714999 densities evaluated (18.8%), on average 22.3626 per frame.
+md_classify: 932 ms (460 cpu ms) processing 31973 frames (RTF = 0.0029).
+----------------------------------------
+group:10 Erkennungsgrad:0.209091
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 749887 densities evaluated ( 9.8%), on average 23.4538 per frame.
+md_classify: 698 ms (690 cpu ms) processing 31973 frames (RTF = 0.0022).
+----------------------------------------
+group:20 Erkennungsgrad:0.345455
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 794072 densities evaluated ( 7.0%), on average 24.8357 per frame.
+md_classify: 891 ms (880 cpu ms) processing 31973 frames (RTF = 0.0028).
+----------------------------------------
+group:30 Erkennungsgrad:0.290909
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 838084 densities evaluated ( 5.6%), on average 26.2122 per frame.
+md_classify: 1083 ms (1090 cpu ms) processing 31973 frames (RTF = 0.0034).
+----------------------------------------
+group:40 Erkennungsgrad:0.318182
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 844909 densities evaluated ( 4.5%), on average 26.4257 per frame.
+md_classify: 1244 ms (1240 cpu ms) processing 31973 frames (RTF = 0.0039).
+----------------------------------------
+group:50 Erkennungsgrad:0.372727
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 858702 densities evaluated ( 3.9%), on average 26.8571 per frame.
+md_classify: 1405 ms (1400 cpu ms) processing 31973 frames (RTF = 0.0044).
+----------------------------------------
+group:60 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 877263 densities evaluated ( 3.5%), on average 27.4376 per frame.
+md_classify: 1559 ms (1550 cpu ms) processing 31973 frames (RTF = 0.0049).
+----------------------------------------
+group:70 Erkennungsgrad:0.363636
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 885468 densities evaluated ( 3.1%), on average 27.6942 per frame.
+md_classify: 1675 ms (1660 cpu ms) processing 31973 frames (RTF = 0.0052).
+----------------------------------------
+group:80 Erkennungsgrad:0.372727
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 896800 densities evaluated ( 3.0%), on average 28.0487 per frame.
+md_classify: 1753 ms (1740 cpu ms) processing 31973 frames (RTF = 0.0055).
+----------------------------------------
+group:85 Erkennungsgrad:0.390909
+----------------------------------------
+md_classify version 2.06b running on matt under Linux 3.2.0-57-generic.
+md_classify: using mixture-density library version 2.02a.
+md_classify: WARNING: beam for mixture pruning not specified - using default 14!
+md_classify: code library with 12 codebooks using 10 features read.
+md_classify: 898879 densities evaluated ( 2.8%), on average 28.1137 per frame.
+md_classify: 1813 ms (1810 cpu ms) processing 31973 frames (RTF = 0.0057).
+----------------------------------------
+group:90 Erkennungsgrad:0.372727
+----------------------------------------

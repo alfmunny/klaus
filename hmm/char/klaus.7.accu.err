@@ -1,5 +1,5 @@
-mm_train started on matt at Sun Apr 14 20:56:42 CST 2013
-mm_train version 2.22 running on matt under Linux 3.0.0-12-generic.
+mm_train started on matt at Mon Dec 23 23:25:42 CST 2013
+mm_train version 2.22 running on matt under Linux 3.2.0-57-generic.
 mm_train: using libraries mm 3.01b, md 2.02a, mx 1.30.
 mm_train: calculating total emission probabilities.
 mm_train: using Baum-Welch training.
@@ -15,9 +15,18 @@ mm_train: 76 models read.
 mm_train: 2294 compound concepts read.
 mm_train: WARNING: no forward path found - discarding segment.
 mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
+mm_train: WARNING: no forward path found - discarding segment.
 mm_train: no HMM statistics available.
-mm_train: 3461118 densities evaluated ( 0.4%), on average 4.06346 per frame.
-mm_train: average P(O|lambda) is 4.84478.
+mm_train: 3080518 densities evaluated ( 0.4%), on average 4.39022 per frame.
+mm_train: average P(O|lambda) is 4.91803.
 mm_train: 5011 files processed, 0 rejected (0%).
-mm_train: 90273 ms (88870 cpu ms) processing 850474 frames (RTF = 0.011).
-finished with status 0 at Sun Apr 14 20:58:13 CST 2013
+mm_train: 72200 ms (71260 cpu ms) processing 697387 frames (RTF =  0.01).
+finished with status 0 at Mon Dec 23 23:26:55 CST 2013

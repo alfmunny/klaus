@@ -1,4 +1,4 @@
-mm_init version 2.26 running on matt under Linux 3.0.0-12-generic.
+mm_init version 2.26 running on matt under Linux 3.2.0-57-generic.
 mm_init: using libraries mm 3.01b, md 2.02a, mx 1.30.
 	[command line arguments were: 'mm_init -M klaus.0.model -S klaus.mstat klaus.0.cl klaus.model_frame empty.ini -u 100x4 ms ']
 mm_init: calculating mixture density probabilities.
@@ -381,4 +381,4 @@ mm_init: WARNING: found unseed state #288 without parent!
 mm_init: WARNING: found unseed state #289 without parent!
 mm_init: WARNING: found unseed state #290 without parent!
 mm_init: WARNING: found unseed state #291 without parent!
-finished with status 0 at Sun Apr 14 20:46:16 CST 2013
+finished with status 0 at Mon Dec 23 23:17:27 CST 2013
