@@ -80,7 +80,7 @@ cat $concept	\
 #
 # Trainingsdefinition
 #
-train=`find $relpath -maxdepth 1 -name $name.Corpus_part*.train`
+train=`find $relpath -maxdepth 1 -name $name.Corpus_part_110.train`
 if [ -z "$train" ]; then
 	echo "no training definition found for '"$name"'."
 	exit 1

@@ -78,7 +78,7 @@ fi
 # Trainings-Definition
 #
 #nur mit Trainningdaten
-train=`find $relpath -maxdepth 1 -name $name.Corpus_part*.train`
+train=`find $relpath -maxdepth 1 -name $name.Corpus_part_110.train`
 #mit alle  Daten
 #train=`find $relpath -maxdepth 1 -name $name.Corpus_all.train`
 if [ -z "$train" ]; then

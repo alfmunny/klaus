@@ -5,14830 +5,14740 @@
 GaussDiag	10	1	
 # definition for codebook # 0
 # codebook name, # samples
-'klaus'	689726
+'klaus'	688575
 # # classes, # class definitions, # classifiers
-988	988	1
+982	982	1
 # definition for class # 0
 # class name, prior probability
-''	0.0121033
+''	0.000177391
 # class type is GaussDiag
 # mean vector
-0.000146048 466.015 0 466.015 0 466.015 0 -623.137 0 10.0086 
+2.91494 0.950872 -3.43207 24.0431 -0.900591 -22.3228 -5.75729 47.7764 1.06239 7.86937 
 
 # diagonal of covariance matrix
-3.64906e-05 7388.01 0 7388.01 0 7388.01 0 14969.3 0 0.000919679 
+0.879884 19.9528 90.5569 40.6153 72.2542 35.7606 273.533 78.1654 1.22205 0.902916 
 
 # definition for class # 1
 # class name, prior probability
-''	0.000314731
+''	0.000364365
 # class type is GaussDiag
 # mean vector
-0.348728 6.01327 1.29412e-05 6.33497 -1.29445e-05 5.69107 3.27769e-09 0.661986 2.50395 9.97959 
+3.46648 -3.94552 19.3558 20.5159 72.2641 -19.8292 -19.4739 83.7982 7.68652 8.79099 
 
 # diagonal of covariance matrix
-0.0209318 10.6304 6.77168e-08 11.1031 6.77339e-08 10.7504 1.71934e-11 1.22399 13.1736 0.000675592 
+0.975616 34.9206 525.788 113.093 130.47 64.7848 725.017 586.051 1.24261 0.407799 
 
 # definition for class # 2
 # class name, prior probability
-''	0.000280465
+''	0.000503717
 # class type is GaussDiag
 # mean vector
-1.56643 5.21182 -43.7501 9.43393 -62.2374 1.14217 0.0384081 13.9218 5.98416 9.34304 
+5.18527 -3.90422 57.1807 18.8697 56.8326 -27.1032 -13.536 54.942 6.69127 8.3189 
 
 # diagonal of covariance matrix
-0.321877 7.49723 61.6287 9.96396 37.566 9.16905 482.976 17.6335 1.11562 0.103798 
+1.21438 35.2025 117.218 40.5144 262.145 38.7294 784.751 69.3562 1.1319 0.382501 
 
 # definition for class # 3
 # class name, prior probability
-''	0.00036759
+''	0.000542734
 # class type is GaussDiag
 # mean vector
-2.74704 9.28787 -57.1163 16.1007 -66.9694 3.24939 -39.3296 24.8991 5.61844 8.68998 
+2.05011 -12.9799 -40.168 -8.48209 -43.0039 -17.484 -35.6748 14.8383 3.59726 9.13363 
 
 # diagonal of covariance matrix
-0.422791 9.50456 27.7385 13.9054 28.1999 11.4425 68.9725 24.6178 1.65223 0.441061 
+0.0444182 6.32717 22.1318 8.74145 31.1146 7.99477 114.239 8.79283 0.803321 0.121308 
 
 # definition for class # 4
 # class name, prior probability
-''	0.000294996
+''	0.000522413
 # class type is GaussDiag
 # mean vector
-2.96839 11.936 -64.476 25.2465 -62.9061 -0.58844 -58.753 39.6527 4.44396 8.13394 
+2.9427 -9.05761 -45.5376 7.64714 -49.2301 -25.9086 -26.8661 41.4586 3.1379 8.53539 
 
 # diagonal of covariance matrix
-0.621611 17.6419 19.4556 27.8853 108.492 26.5467 130.895 54.3134 1.67412 0.828222 
+0.873176 16.728 130.567 31.8277 204.488 33.6615 616.723 65.6345 3.89898 0.404017 
 
 # definition for class # 5
 # class name, prior probability
-''	0.0005174
+''	0.00100219
 # class type is GaussDiag
 # mean vector
-2.90857 21.9773 -60.3278 30.8256 -68.9122 13.6873 -39.2727 29.924 5.31522 8.64877 
+5.14524 4.17929 -38.8914 20.4739 -28.8107 -10.7744 -38.8821 36.3068 5.43268 8.49299 
 
 # diagonal of covariance matrix
-0.566172 8.25525 31.7062 18.3774 28.9588 13.0959 151.265 37.0173 1.95714 0.487875 
+1.18001 6.64584 121.449 11.3554 116.664 10.3593 82.0424 19.9262 1.04069 0.227932 
 
 # definition for class # 6
 # class name, prior probability
-''	0.000245863
+''	0.00060627
 # class type is GaussDiag
 # mean vector
-2.2875 30.8193 -62.0102 37.0289 -56.323 24.4399 -64.9331 27.6229 5.70038 9.09153 
+4.2297 4.92379 -33.0009 16.7839 -15.6987 -5.47374 -39.159 26.5173 4.52196 8.45725 
 
 # diagonal of covariance matrix
-0.156364 13.3479 25.015 18.5106 110.31 21.2264 42.5631 41.4224 1.95517 0.196181 
+0.558436 6.3389 92.9406 8.51273 165.483 8.04747 50.9626 10.6178 1.79918 0.404427 
 
 # definition for class # 7
 # class name, prior probability
-''	0.000469851
+''	0.00151038
 # class type is GaussDiag
 # mean vector
-2.79966 42.0976 -64.3373 53.6927 -70.9603 31.1103 -46.6217 38.3186 5.19095 8.69797 
+3.99475 10.931 -12.9907 20.1743 -19.0583 1.59916 -13.8786 21.0542 4.51132 8.72351 
 
 # diagonal of covariance matrix
-0.641944 26.1622 41.6418 40.6944 37.2063 47.6591 232.447 97.325 2.76324 0.449411 
+0.00447267 5.41824 134.803 9.40964 131.527 7.95799 187.205 15.8457 1.26299 0.209473 
 
 # definition for class # 8
 # class name, prior probability
-''	0.000396337
+''	0.000348781
 # class type is GaussDiag
 # mean vector
-3.85494 37.1694 20.7753 54.1426 -46.5021 15.2452 74.4088 63.4817 6.14568 8.06634 
+2.45017 15.3671 27.8101 23.8527 26.3073 6.91793 27.2677 21.0548 2.13738 8.23388 
 
 # diagonal of covariance matrix
-0.951336 28.1158 649.947 47.9388 379.865 44.5909 28.7211 149.753 1.75292 0.811756 
+0.286417 5.36224 64.1363 9.08477 184.615 9.61424 149.762 18.1674 1.39479 0.692117 
 
 # definition for class # 9
-# class name, prior probability
-''	0.00043101
-# class type is GaussDiag
-# mean vector
-4.62867 22.7852 -22.3 58.0538 -32.9908 -13.3733 -8.53377 75.0457 3.71251 7.85404 
-
-# diagonal of covariance matrix
-1.40871 27.9526 202.944 42.416 168.147 23.8809 276.247 49.7526 3.58597 0.878445 
-
-# definition for class # 10
-# class name, prior probability
-''	0.000495806
-# class type is GaussDiag
-# mean vector
-5.01452 29.9331 -60.7054 55.7298 -52.7393 4.05604 -53.074 64.0129 5.84401 8.14176 
-
-# diagonal of covariance matrix
-1.37909 19.5406 64.195 23.2398 211.377 40.2066 151.53 54.1987 1.23585 0.44275 
-
-# definition for class # 11
-# class name, prior probability
-''	0.000404948
-# class type is GaussDiag
-# mean vector
-4.80191 42.3874 -59.5851 75.6802 -56.6121 7.43369 -46.7591 79.6547 4.3233 7.05702 
-
-# diagonal of covariance matrix
-1.55106 34.1281 115.217 43.8176 216.7 45.8883 295.266 59.6383 1.78248 1.05237 
-
-# definition for class # 12
-# class name, prior probability
-''	0.00128384
-# class type is GaussDiag
-# mean vector
-5.11829 59.9489 -51.6936 88.3849 -37.5328 29.8685 -41.3078 65.9318 5.78775 8.59032 
-
-# diagonal of covariance matrix
-1.4614 23.2996 148.022 27.1799 236.429 29.1486 310.706 43.0874 1.79855 0.24751 
-
-# definition for class # 13
-# class name, prior probability
-''	0.000658824
-# class type is GaussDiag
-# mean vector
-3.37049 58.9207 -64.8706 79.3746 -79.2654 43.3821 -25.7977 65.856 7.06559 9.1217 
-
-# diagonal of covariance matrix
-0.801096 39.0211 114.456 92.1223 17.7259 71.9834 665.949 357.747 1.93894 0.199783 
-
-# definition for class # 14
-# class name, prior probability
-''	0.00209184
-# class type is GaussDiag
-# mean vector
-3.40171 102.992 -48.277 120.487 -37.5878 84.6788 -44.5242 46.5482 4.58849 9.16929 
-
-# diagonal of covariance matrix
-1.11917 111.549 172.171 180.782 583.837 168.38 382.916 317.815 4.30416 0.140134 
-
-# definition for class # 15
-# class name, prior probability
-''	0.00501209
-# class type is GaussDiag
-# mean vector
-1.53297 270.535 -10.2284 279.755 -6.57579 261.296 -11.2315 21.8007 4.05669 9.73368 
-
-# diagonal of covariance matrix
-0.610033 3253.81 534.19 3157.14 879.118 3548.11 906.683 465.553 9.57397 0.0972707 
-
-# definition for class # 16
-# class name, prior probability
-''	0.00682283
-# class type is GaussDiag
-# mean vector
-5.58029 203.695 57.989 287.452 -25.6407 64.1618 86.4906 330.647 8.07189 8.92024 
-
-# diagonal of covariance matrix
-3.08887 1224.45 837.866 2251.95 1161.82 3241.59 7.13541 6956.57 0.959195 0.279009 
-
-# definition for class # 17
-# class name, prior probability
-''	0.0034087
-# class type is GaussDiag
-# mean vector
-5.51504 97.0472 -3.07132 151.312 -15.1234 39.9133 -12.5095 114.92 5.17859 8.23694 
-
-# diagonal of covariance matrix
-2.55304 127.17 1135.86 131.278 487.436 163.579 447.199 183.992 3.18201 0.514715 
-
-# definition for class # 18
-# class name, prior probability
-''	0.00656978
-# class type is GaussDiag
-# mean vector
-5.4187 139.496 -63.2382 299.66 -87.0344 32.8669 7.58801 413.883 8.86484 9.27858 
-
-# diagonal of covariance matrix
-2.37829 1916.67 910.269 4512.88 6.51339 5082.14 3706.43 11974.9 0.280821 0.112555 
-
-# definition for class # 19
-# class name, prior probability
-''	0.00977418
-# class type is GaussDiag
-# mean vector
-8.08492 199.961 47.3879 391.183 2.10511 -0.169663 21.2556 449.707 7.84844 8.54956 
-
-# diagonal of covariance matrix
-4.56957 2701.7 1227.05 3888.85 2709.21 4990.01 3606.83 8008.62 0.781188 0.318629 
-
-# definition for class # 20
-# class name, prior probability
-''	0.00771115
-# class type is GaussDiag
-# mean vector
-9.60878 209.344 -3.21127 505.31 -4.50426 -83.9213 -5.6293 662.979 8.08649 8.46965 
-
-# diagonal of covariance matrix
-11.3734 9389.1 4608.59 10989.8 3659.45 12274 3590.11 16540.9 1.41788 0.868227 
-
-# definition for class # 21
-# class name, prior probability
-''	0.00761477
-# class type is GaussDiag
-# mean vector
-9.12274 119.154 -16.6719 314.043 -17.7592 -63.9381 -15.2045 407.205 7.03792 7.81747 
-
-# diagonal of covariance matrix
-4.67872 1875.83 2697.52 2697 2284.53 2158.83 2129.22 3283.07 0.66058 0.364069 
-
-# definition for class # 22
-# class name, prior probability
-''	0.00339219
-# class type is GaussDiag
-# mean vector
-7.33097 79.4324 8.59877 228.776 -4.77647 -75.2582 -8.15569 317.634 6.77586 7.65619 
-
-# diagonal of covariance matrix
-10.369 1567.58 2780.21 1660.93 1509.14 1338.63 1515.07 2105.64 3.29603 2.37015 
-
-# definition for class # 23
-# class name, prior probability
-''	0.00599295
-# class type is GaussDiag
-# mean vector
-6.97377 100.249 57.5631 271.865 87.1599 -15.7493 -14.9137 395.164 8.00985 8.63882 
-
-# diagonal of covariance matrix
-3.70483 1367.24 904.71 3925.33 2.41222 2284.84 2500.54 6664.41 0.581009 0.272595 
-
-# definition for class # 24
-# class name, prior probability
-''	0.00305949
-# class type is GaussDiag
-# mean vector
-7.07927 8.07125 69.6408 231.656 86.8177 -130.783 -11.1256 476.466 8.32603 8.75677 
-
-# diagonal of covariance matrix
-4.88904 4021.62 302.189 10446.2 7.41656 2805.21 1441.93 16463.1 0.527127 0.282777 
-
-# definition for class # 25
-# class name, prior probability
-''	0.00395226
-# class type is GaussDiag
-# mean vector
-6.81154 82.6089 -73.364 235.8 -65.6977 -40.8611 -30.4859 342.64 8.08821 8.73458 
-
-# diagonal of covariance matrix
-3.00832 1111.35 73.0234 2531.96 781.962 1816.91 1996.18 5534.82 0.454657 0.215411 
-
-# definition for class # 26
-# class name, prior probability
-''	0.00286998
-# class type is GaussDiag
-# mean vector
-4.2371 78.8233 -75.1915 122.105 -19.1052 -3.05874 -86.9008 211.991 8.6129 9.31663 
-
-# diagonal of covariance matrix
-1.46008 374.957 77.7386 507.468 2017.57 1316.21 1.90035 2304.12 0.467459 0.1184 
-
-# definition for class # 27
-# class name, prior probability
-''	0.00058332
-# class type is GaussDiag
-# mean vector
-5.57793 53.6813 -60.3516 95.4392 -40.5243 11.718 -59.1301 99.4092 6.1441 8.11073 
-
-# diagonal of covariance matrix
-2.324 49.508 122.014 115.099 319.311 62.0995 248.321 112.52 1.50964 0.462155 
-
-# definition for class # 28
-# class name, prior probability
-''	0.00552599
-# class type is GaussDiag
-# mean vector
-4.68165 126.521 61.7124 219.279 86.5072 77.0919 -10.7851 227.847 7.92701 9.07555 
-
-# diagonal of covariance matrix
-1.88655 586.736 486.41 1417.02 3.27378 828.758 1387.31 3009.55 0.949312 0.185491 
-
-# definition for class # 29
-# class name, prior probability
-''	0.000895373
-# class type is GaussDiag
-# mean vector
-5.18491 58.8999 63.241 102.11 82.0989 25.7365 -22.0614 104.836 7.13637 8.63263 
-
-# diagonal of covariance matrix
-1.98881 68.3016 236.786 147.248 9.3706 101.952 706.185 331.013 0.78032 0.206588 
-
-# definition for class # 30
-# class name, prior probability
-''	0.00117573
-# class type is GaussDiag
-# mean vector
-4.36133 49.3566 72.4362 79.3882 -21.832 -4.65894 85.9015 135.697 8.2147 9.10058 
-
-# diagonal of covariance matrix
-1.8178 88.7759 99.7067 125.474 601.514 274.005 2.2329 661.522 0.607009 0.214039 
-
-# definition for class # 31
-# class name, prior probability
-''	0.00133745
-# class type is GaussDiag
-# mean vector
-4.97371 25.2658 5.74321 95.4858 1.13689 -40.8891 0 148.444 5.18823 7.05906 
-
-# diagonal of covariance matrix
-3.78881 277.501 2193.73 662.153 2660.44 303.232 0 1086.08 3.65977 2.79447 
-
-# definition for class # 32
-# class name, prior probability
-''	0.00178755
-# class type is GaussDiag
-# mean vector
-7.76183 8.66291 -52.8307 82.9415 -38.3564 -57.7763 -36.8212 151.747 7.09715 8.14679 
-
-# diagonal of covariance matrix
-5.28649 135.505 334.977 233.608 687.547 189.02 274.739 374.251 0.901655 0.39362 
-
-# definition for class # 33
-# class name, prior probability
-''	0.00136074
-# class type is GaussDiag
-# mean vector
-8.20409 28.8183 -48.9921 87.2998 -31.2068 -26.0941 -42.6222 121.058 6.91143 8.01495 
-
-# diagonal of covariance matrix
-4.7397 61.6906 309.104 80.3655 420.536 66.8229 257.878 113.961 0.782839 0.420979 
-
-# definition for class # 34
-# class name, prior probability
-''	0.00112582
-# class type is GaussDiag
-# mean vector
-6.64939 22.5345 -14.4878 83.842 -8.62582 -37.842 -28.4979 126.854 5.2529 7.48585 
-
-# diagonal of covariance matrix
-3.7966 99.5463 1156.62 97.0087 928.575 105.583 580.24 105.363 2.10274 1.24815 
-
-# definition for class # 35
-# class name, prior probability
-''	0.000599164
-# class type is GaussDiag
-# mean vector
-7.14806 32.5676 43.5307 88.5852 6.20251 -19.2884 -32.8358 116.141 7.41528 8.31565 
-
-# diagonal of covariance matrix
-2.98084 80.9115 357.098 136.652 1369 109.997 401.41 190.568 0.469717 0.253567 
-
-# definition for class # 36
-# class name, prior probability
-''	0.000663732
-# class type is GaussDiag
-# mean vector
-6.26789 16.2872 65.9406 53.4619 79.9465 -14.7588 -40.6589 90.3479 7.04038 8.08345 
-
-# diagonal of covariance matrix
-1.79255 46.1201 91.3474 101.905 14.3966 62.0518 217.714 174.978 0.778855 0.523828 
-
-# definition for class # 37
-# class name, prior probability
-''	0.000971237
-# class type is GaussDiag
-# mean vector
-5.98832 7.3589 -36.4177 31.6257 -31.5502 -16.8951 -37.0795 53.5736 5.53743 7.9697 
-
-# diagonal of covariance matrix
-2.17113 10.2013 225.551 10.6251 137.915 14.1986 117.641 15.8994 1.67097 0.649288 
-
-# definition for class # 38
-# class name, prior probability
-''	0.000758259
-# class type is GaussDiag
-# mean vector
-4.84699 7.92517 -47.5017 26.1965 -35.5058 -9.04288 -44.9265 42.0174 4.93602 8.23936 
-
-# diagonal of covariance matrix
-1.71629 6.37328 73.1284 11.4434 222.638 8.48572 88.1298 16.2781 2.29331 0.504745 
-
-# definition for class # 39
-# class name, prior probability
-''	0.000651724
-# class type is GaussDiag
-# mean vector
-3.12123 19.2038 -61.0885 27.2242 -37.9387 10.2632 -70.6463 29.5647 5.70428 8.59996 
-
-# diagonal of covariance matrix
-0.588925 11.807 26.2451 18.2399 153.435 19.5567 18.1804 28.2874 1.60359 0.416978 
-
-# definition for class # 40
-# class name, prior probability
-''	0.000639526
-# class type is GaussDiag
-# mean vector
-3.78328 16.1697 -48.1042 28.0839 -41.8961 4.48169 -44.8015 30.4671 4.23211 8.37349 
-
-# diagonal of covariance matrix
-1.01649 3.25477 33.8463 5.92155 108.037 5.78516 70.5157 10.9478 2.09825 0.485857 
-
-# definition for class # 41
-# class name, prior probability
-''	0.000546213
-# class type is GaussDiag
-# mean vector
-3.40692 26.3648 -52.2066 37.2506 -32.4303 15.8297 -58.86 29.8984 4.29101 8.52942 
-
-# diagonal of covariance matrix
-0.755896 10.8452 23.4205 15.3728 131.475 18.7616 48.9301 28.6218 1.88113 0.453595 
-
-# definition for class # 42
-# class name, prior probability
-''	0.000601702
-# class type is GaussDiag
-# mean vector
-4.11216 27.8223 -45.7754 41.0542 -45.2695 13.6703 -36.6093 33.8742 4.58678 8.57319 
-
-# diagonal of covariance matrix
-1.03594 3.81348 68.9229 5.84271 103.072 7.54392 111.819 10.4687 2.37645 0.245619 
-
-# definition for class # 43
-# class name, prior probability
-''	0.000888011
-# class type is GaussDiag
-# mean vector
-2.75363 37.0057 -40.0798 44.8979 -29.1533 29.3064 -44.6285 21.5239 3.39621 8.77192 
-
-# diagonal of covariance matrix
-0.672122 6.51817 35.6896 12.2287 204.325 10.7139 86.2268 21.8088 2.21026 0.344121 
-
-# definition for class # 44
-# class name, prior probability
-''	0.000724486
-# class type is GaussDiag
-# mean vector
-4.29067 34.0577 -38.6819 45.9776 -38.4987 20.4363 -28.4597 30.6573 5.38639 8.98948 
-
-# diagonal of covariance matrix
-0.408351 5.9931 72.7805 11.9004 82.5802 12.8086 117.847 21.5959 1.1591 0.0910545 
-
-# definition for class # 45
-# class name, prior probability
-''	0.000549972
-# class type is GaussDiag
-# mean vector
-4.77175 40.02 62.7709 60.1413 -26.0003 16.8075 75.1356 58.616 6.74409 8.63791 
-
-# diagonal of covariance matrix
-1.0151 18.2295 88.5942 31.5942 406.254 30.2859 38.2019 74.0151 0.886151 0.176414 
-
-# definition for class # 46
-# class name, prior probability
-''	0.000893721
-# class type is GaussDiag
-# mean vector
-7.21548 20.9491 -28.2609 52.6732 -26.9568 -9.59415 -36.6861 67.1418 5.87245 7.77155 
-
-# diagonal of covariance matrix
-3.12095 14.1572 456.051 18.1143 222.149 16.3103 130.81 21.1286 1.03513 0.658208 
-
-# definition for class # 47
-# class name, prior probability
-''	0.000668757
-# class type is GaussDiag
-# mean vector
-6.77506 28.7666 -38.5443 63.2936 -31.1701 -3.10057 -35.6167 71.403 5.72689 7.78465 
-
-# diagonal of covariance matrix
-3.12406 12.3757 158.417 13.8103 151.245 13.0559 121.711 20.6318 1.22313 0.454629 
-
-# definition for class # 48
-# class name, prior probability
-''	0.000507583
-# class type is GaussDiag
-# mean vector
-6.80635 32.5135 22.6959 61.2816 -31.8565 2.53206 57.4301 68.5302 5.55222 7.11989 
-
-# diagonal of covariance matrix
-3.0611 25.1723 687.936 36.5452 239.103 32.7988 154.134 68.8121 1.05195 0.946263 
-
-# definition for class # 49
-# class name, prior probability
-''	0.000496327
-# class type is GaussDiag
-# mean vector
-5.84374 35.5413 -52.2267 64.9167 -31.2984 7.66459 -50.9884 64.4974 5.36297 7.74833 
-
-# diagonal of covariance matrix
-2.6516 11.6959 98.8815 14.5318 184.53 14.3676 132.503 25.7057 1.96266 0.881877 
-
-# definition for class # 50
-# class name, prior probability
-''	0.000492877
-# class type is GaussDiag
-# mean vector
-4.56817 47.6518 -63.8858 69.7829 -38.3908 23.833 -66.5313 59.8461 5.87975 8.36976 
-
-# diagonal of covariance matrix
-1.11532 25.736 54.1645 39.7373 446.316 45.4741 114.556 77.3242 1.26844 0.397429 
-
-# definition for class # 51
-# class name, prior probability
-''	0.000610704
-# class type is GaussDiag
-# mean vector
-6.99192 32.6239 -30.8168 71.6588 -32.2226 -3.20263 -42.6267 82.1901 6.75317 8.32515 
-
-# diagonal of covariance matrix
-3.19416 20.4311 343.685 40.1768 98.3041 40.0585 119.854 43.6272 0.576896 0.198387 
-
-# definition for class # 52
-# class name, prior probability
-''	0.000612622
-# class type is GaussDiag
-# mean vector
-4.43743 43.601 58.436 69.2792 79.5572 22.557 -30.916 68.0078 6.88708 8.71052 
-
-# diagonal of covariance matrix
-1.16141 27.1927 224.384 58.7325 11.5827 43.3108 395.651 130.66 0.756726 0.157248 
-
-# definition for class # 53
-# class name, prior probability
-''	0.000628618
-# class type is GaussDiag
-# mean vector
-2.88967 45.1138 63.1565 56.2892 77.7821 34.9368 -17.1814 42.7609 7.23588 9.42569 
-
-# diagonal of covariance matrix
-0.259346 30.8551 80.5864 51.066 12.4654 39.6202 489.451 146.036 1.53804 0.0650688 
-
-# definition for class # 54
-# class name, prior probability
-''	0.00134331
-# class type is GaussDiag
-# mean vector
-0.886666 51.754 1.47768e-06 54.6853 -1.23701e-05 48.7982 1.15839e-05 5.9529 4.89622 9.85561 
-
-# diagonal of covariance matrix
-0.556883 17.5234 1.58065e-09 22.2179 4.84856e-08 28.3455 5.00347e-08 30.6194 15.593 0.0297582 
-
-# definition for class # 55
-# class name, prior probability
-''	0.000746881
-# class type is GaussDiag
-# mean vector
-2.47098 36.4573 12.8932 43.2437 43.6171 29.8482 -24.5151 19.9493 3.97268 9.24688 
-
-# diagonal of covariance matrix
-0.465978 11.0355 157.203 19.4426 120.079 17.186 240.141 26.7404 3.82781 0.133215 
-
-# definition for class # 56
-# class name, prior probability
-''	0.000859481
-# class type is GaussDiag
-# mean vector
-3.86485 20.6484 78.3169 46.0413 -5.5965 -12.7732 85.4146 104.81 8.34697 9.09919 
-
-# diagonal of covariance matrix
-1.19474 76.2636 25.6029 103.999 1589.8 176.511 1.62672 370.964 0.446398 0.185045 
-
-# definition for class # 57
-# class name, prior probability
-''	0.000466116
-# class type is GaussDiag
-# mean vector
-5.31935 -2.05082 73.5402 35.6017 -18.3728 -41.8445 80.4621 99.0028 7.40541 8.53399 
-
-# diagonal of covariance matrix
-2.26922 116.724 73.7391 167.319 1226.45 146.338 29.391 338.745 0.682307 0.253016 
-
-# definition for class # 58
-# class name, prior probability
-''	0.0010431
-# class type is GaussDiag
-# mean vector
-5.81416 -36.6997 -48.4549 45.0382 -27.6352 -98.7668 -33.8246 155.532 6.8243 8.65251 
-
-# diagonal of covariance matrix
-1.68344 432.532 590.083 400.821 1082.23 393.319 528.176 583.396 1.49283 0.190176 
-
-# definition for class # 59
-# class name, prior probability
-''	0.0011223
-# class type is GaussDiag
-# mean vector
-6.54344 -14.4987 -54.8149 37.859 -35.5233 -58.2172 -42.0264 105.044 7.03296 8.37472 
-
-# diagonal of covariance matrix
-1.9254 63.4707 303.347 118.826 627.805 80.257 168.101 200.258 0.768375 0.24767 
-
-# definition for class # 60
-# class name, prior probability
-''	0.000708128
-# class type is GaussDiag
-# mean vector
-3.78997 2.00733 -63.5555 48.0272 -18.4403 -56.341 -50.5542 138.323 8.3904 9.41868 
-
-# diagonal of covariance matrix
-1.14553 362.239 300.669 843.648 818.155 563.932 1403.78 1060.45 0.727889 0.101364 
-
-# definition for class # 61
-# class name, prior probability
-''	0.00143355
-# class type is GaussDiag
-# mean vector
-7.35951 4.64268 25.6458 67.7785 -8.00256 -55.0118 -20.8155 129.754 7.24185 8.20338 
-
-# diagonal of covariance matrix
-3.49571 125.204 1176.66 176.095 1246.21 150.512 647.045 279.4 0.59471 0.32486 
-
-# definition for class # 62
-# class name, prior probability
-''	0.000809182
-# class type is GaussDiag
-# mean vector
-6.26581 -4.48354 59.1204 33.997 73.2203 -35.9176 -38.1483 89.8261 7.13525 8.32873 
-
-# diagonal of covariance matrix
-1.63793 61.837 209.718 141.404 94.1878 81.036 180.077 295.691 0.927906 0.34716 
-
-# definition for class # 63
-# class name, prior probability
-''	0.00106209
-# class type is GaussDiag
-# mean vector
-5.40894 -5.99149 -48.4952 20.6825 -31.365 -29.7958 -39.3317 56.3273 5.99144 8.34005 
-
-# diagonal of covariance matrix
-1.45337 15.1954 166.115 22.4592 308.717 15.7645 154.257 32.1347 1.35045 0.309271 
-
-# definition for class # 64
-# class name, prior probability
-''	0.000575594
-# class type is GaussDiag
-# mean vector
-4.52306 0.691278 -57.737 24.8342 -37.2414 -20.7866 -55.3147 55.3481 5.34214 8.42125 
-
-# diagonal of covariance matrix
-1.20793 12.6458 62.0194 29.2386 332.958 21.8252 153.404 53.4079 2.61944 0.352442 
-
-# definition for class # 65
-# class name, prior probability
-''	0.00183465
-# class type is GaussDiag
-# mean vector
-4.39338 -59.1118 -78.6227 89.2239 -87.9558 -127.72 -11.0905 380.558 8.84675 9.26683 
-
-# diagonal of covariance matrix
-2.33691 2538.23 72.5706 11569.4 1.95674 2294.4 1549.78 23827.6 0.527208 0.21655 
-
-# definition for class # 66
-# class name, prior probability
-''	0.00161249
-# class type is GaussDiag
-# mean vector
-6.2337 53.1033 -29.9974 169.731 81.4765 -26.4251 -46.0764 276.043 7.8956 8.63691 
-
-# diagonal of covariance matrix
-2.98829 1052.8 994.006 2252.19 34.9396 1345.41 1105.82 2831.06 0.709204 0.312478 
-
-# definition for class # 67
-# class name, prior probability
-''	0.000742914
-# class type is GaussDiag
-# mean vector
-5.88369 8.54501 -42.7207 41.0447 -24.854 -19.7281 -44.7043 66.7636 6.18008 8.41255 
-
-# diagonal of covariance matrix
-1.7066 22.3893 252.282 28.4125 230.632 26.0131 126.646 30.8913 1.02161 0.267503 
-
-# definition for class # 68
-# class name, prior probability
-''	0.000526431
-# class type is GaussDiag
-# mean vector
-4.43522 16.8855 -63.3686 35.2554 -33.0114 -4.35745 -74.9537 57.475 6.17835 8.29016 
-
-# diagonal of covariance matrix
-1.22123 21.1059 83.3307 49.8367 405.778 39.4364 35.2734 89.1547 1.75789 0.520248 
-
-# definition for class # 69
-# class name, prior probability
-''	0.000612379
-# class type is GaussDiag
-# mean vector
-3.84076 31.9601 -66.9471 45.0083 -37.344 16.7404 -75.8631 44.0384 6.07058 8.30493 
-
-# diagonal of covariance matrix
-0.896863 21.782 34.596 32.4328 253.936 32.745 16.9708 54.8394 1.42466 0.528143 
-
-# definition for class # 70
-# class name, prior probability
-''	0.000946013
-# class type is GaussDiag
-# mean vector
-2.26623 72.8637 -55.2337 81.6418 -52.4515 64.0341 -54.3095 28.9839 4.29447 9.2906 
-
-# diagonal of covariance matrix
-0.239501 51.8714 47.8085 76.8866 159.29 60.4438 139.198 78.6975 3.20253 0.109153 
-
-# definition for class # 71
-# class name, prior probability
-''	0.00157324
-# class type is GaussDiag
-# mean vector
-2 39.0039 -16.5581 42.678 -17.9076 35.3298 -14.139 9.70594 2.02824 9.57739 
-
-# diagonal of covariance matrix
-0 3.98589 43.0343 6.96818 133.416 7.74521 158.743 15.2347 0.948273 0.0440081 
-
-# definition for class # 72
-# class name, prior probability
-''	0.000367007
-# class type is GaussDiag
-# mean vector
-1.98189 41.8068 -29.4063 47.4679 -45.5852 36.0704 -2.74561 16.3105 4.41934 9.46391 
-
-# diagonal of covariance matrix
-0.645932 10.7114 68.3425 14.3485 88.7996 33.1963 172.105 77.8036 5.03863 0.15911 
-
-# definition for class # 73
-# class name, prior probability
-''	0.00127238
-# class type is GaussDiag
-# mean vector
-2.0921 50.2979 -17.0646 60.4132 -21.7888 40.1779 -9.42274 22.8611 1.05062 9.0118 
-
-# diagonal of covariance matrix
-0.0422077 16.4812 95.6534 22.6153 241.914 23.9668 363.379 28.7102 0.315858 0.184164 
-
-# definition for class # 74
-# class name, prior probability
-''	0.00136272
-# class type is GaussDiag
-# mean vector
-3.53909 42.7626 -31.9403 53.1687 -30.9734 32.0704 -26.1828 25.3309 3.53479 8.95082 
-
-# diagonal of covariance matrix
-0.829643 8.17004 74.0072 12.8291 115.988 16.3494 202.456 27.6605 2.41096 0.150638 
-
-# definition for class # 75
-# class name, prior probability
-''	0.00155003
-# class type is GaussDiag
-# mean vector
-3.69852 54.5658 -22.4809 68.2674 -20.4505 40.1917 -19.1044 31.5715 3.52889 8.9386 
-
-# diagonal of covariance matrix
-0.672851 12.5435 197.28 19.7219 339.607 25.7173 357.185 40.7403 3.42924 0.168145 
-
-# definition for class # 76
-# class name, prior probability
-''	0.001203
-# class type is GaussDiag
-# mean vector
-3.23816 58.8908 -45.2743 71.7366 -38.5879 45.8764 -44.6027 33.5527 3.77423 8.95868 
-
-# diagonal of covariance matrix
-1.00792 13.7838 84.7879 27.3898 214.874 32.0155 180.309 78.6763 3.25109 0.186553 
-
-# definition for class # 77
-# class name, prior probability
-''	0.00351909
-# class type is GaussDiag
-# mean vector
-2.00256 88.9145 -28.7694 95.6774 -26.3076 82.1502 -28.6278 17.7496 2.17744 9.49733 
-
-# diagonal of covariance matrix
-0.00454384 31.2215 156.631 43.4959 308.6 40.8846 314.299 51.1337 1.2909 0.0684315 
-
-# definition for class # 78
-# class name, prior probability
-''	0.000935048
-# class type is GaussDiag
-# mean vector
-3.02039 60.8099 68.1543 75.5658 -19.0643 38.0747 83.4902 79.716 8.17613 9.33545 
-
-# diagonal of covariance matrix
-0.557245 50.8265 113.682 61.8694 723.932 125.387 4.62703 423.368 0.687893 0.109568 
-
-# definition for class # 79
-# class name, prior probability
-''	0.000602056
-# class type is GaussDiag
-# mean vector
-6.82446 39.1219 -4.46139 75.8946 -32.8114 4.49769 -13.9757 75.6332 5.99525 7.85281 
-
-# diagonal of covariance matrix
-2.41035 18.4871 649.642 18.0498 177.162 15.835 474.678 20.5088 0.690574 0.241581 
-
-# definition for class # 80
-# class name, prior probability
-''	0.000951643
-# class type is GaussDiag
-# mean vector
-6.60126 53.1682 -35.6829 93.2799 -32.9073 13.3767 -27.6543 84.2905 5.5037 7.78809 
-
-# diagonal of covariance matrix
-2.68816 33.2823 395.851 31.5203 132.59 21.7389 218.979 26.9221 1.21789 0.457953 
-
-# definition for class # 81
-# class name, prior probability
-''	0.00133565
-# class type is GaussDiag
-# mean vector
-4.79624 45.0806 -67.3772 112.276 -85.4902 5.26686 -22.1024 173.245 7.83847 8.77555 
-
-# diagonal of covariance matrix
-1.93038 119.97 166.433 325.498 3.55611 241.437 1201.42 1055.37 0.670486 0.249528 
-
-# definition for class # 82
-# class name, prior probability
-''	0.00861801
-# class type is GaussDiag
-# mean vector
-5.53481 167.069 -71.1941 241.2 -23.8545 37.1727 -87.1355 302.787 8.09751 8.90665 
-
-# diagonal of covariance matrix
-2.94298 1544.55 136.64 2003.26 1302.42 3383.15 1.9852 4773.94 0.675926 0.237894 
-
-# definition for class # 83
-# class name, prior probability
-''	0.00113987
-# class type is GaussDiag
-# mean vector
-6.5172 47.4737 10.1316 92.3217 -20.2617 5.19947 -14.5901 90.8277 6.87855 8.25553 
-
-# diagonal of covariance matrix
-2.7399 56.2677 798.156 41.7643 338.956 37.2278 404.698 46.1791 0.579451 0.228519 
-
-# definition for class # 84
-# class name, prior probability
-''	0.00118701
-# class type is GaussDiag
-# mean vector
-3.27266 54.1667 74.387 80.2227 84.3026 33.8858 -12.7413 85.8228 8.27391 9.33462 
-
-# diagonal of covariance matrix
-0.495497 68.4587 61.3739 149.958 3.04254 112.233 852.329 399.097 0.500025 0.0864614 
-
-# definition for class # 85
-# class name, prior probability
-''	0.00080701
-# class type is GaussDiag
-# mean vector
-3.6604 28.2677 72.0188 48.5169 82.7843 10.7744 -23.5384 63.3446 7.69088 8.86981 
-
-# diagonal of covariance matrix
-0.636972 17.5331 53.7429 30.3204 2.18947 25.1633 347.519 84.9415 0.397865 0.145075 
-
-# definition for class # 86
-# class name, prior probability
-''	0.000311533
-# class type is GaussDiag
-# mean vector
-2.01715 18.4454 -30.0213 23.0614 -5.26902 13.8483 -45.9101 13.5612 2.98881 9.13524 
-
-# diagonal of covariance matrix
-0.0513465 3.65623 20.8316 6.37583 99.5064 5.32257 31.9427 10.5358 1.08182 0.145195 
-
-# definition for class # 87
-# class name, prior probability
-''	0.000856066
-# class type is GaussDiag
-# mean vector
-1.9238 29.0514 4.21391e-06 34.0647 -3.96197e-06 24.041 5.6212e-06 10.1023 0.486555 9.48045 
-
-# diagonal of covariance matrix
-0.0565832 57.9852 2.43316e-08 78.9861 2.4296e-08 56.7443 2.08036e-08 39.1455 1.60097 0.103674 
-
-# definition for class # 88
-# class name, prior probability
-''	0.000149425
-# class type is GaussDiag
-# mean vector
-2.72774 4.47865 -4.6344 26.0239 -1.84224 -16.9779 -7.71736 44.3293 0.813075 7.48186 
-
-# diagonal of covariance matrix
-0.747784 25.0088 93.5183 38.6686 13.7644 40.2559 287.782 61.1331 0.787769 2.31897 
-
-# definition for class # 89
-# class name, prior probability
-''	0.000449382
-# class type is GaussDiag
-# mean vector
-3.91842 -2.4183 14.0069 22.2914 71.4166 -19.0546 -23.3663 81.3322 7.62645 8.78116 
-
-# diagonal of covariance matrix
-1.52099 35.6993 767.385 98.5355 124.359 55.6562 962.466 468.343 0.989657 0.330721 
-
-# definition for class # 90
-# class name, prior probability
-''	0.000546868
-# class type is GaussDiag
-# mean vector
-4.87635 -4.85842 55.8169 18.9669 52.0642 -28.6175 -4.92691 55.8013 6.48489 8.33411 
-
-# diagonal of covariance matrix
-1.03011 39.3973 155.383 48.6977 386.429 53.2207 909.573 91.7249 1.6089 0.408308 
-
-# definition for class # 91
-# class name, prior probability
-''	0.000377326
-# class type is GaussDiag
-# mean vector
-2.13521 -10.9084 -38.6745 -6.28354 -43.1139 -15.5511 -31.9641 14.7609 3.53013 9.08015 
-
-# diagonal of covariance matrix
-0.156418 5.09182 16.3331 7.62143 32.2517 7.4783 101.796 10.4868 0.763383 0.138288 
-
-# definition for class # 92
-# class name, prior probability
-''	0.000532195
-# class type is GaussDiag
-# mean vector
-2.49686 -5.77439 -45.8109 9.44703 -47.7884 -21.1168 -32.9678 37.7226 2.33487 8.53755 
-
-# diagonal of covariance matrix
-0.51346 21.8264 80.1517 31.8366 154.859 42.8238 456.884 62.0355 1.44219 0.524144 
-
-# definition for class # 93
-# class name, prior probability
-''	0.000777001
-# class type is GaussDiag
-# mean vector
-4.89407 1.77547 -41.2589 17.1976 -30.3868 -12.0873 -39.7836 34.6858 5.43367 8.54533 
-
-# diagonal of covariance matrix
-0.977377 6.39756 119.553 8.10557 181.722 8.48317 95.1151 13.0654 1.06703 0.213633 
-
-# definition for class # 94
-# class name, prior probability
-''	0.000473354
-# class type is GaussDiag
-# mean vector
-3.83306 4.09141 -29.5137 16.892 -7.34497 -7.62772 -40.8416 28.5896 3.56433 8.12577 
-
-# diagonal of covariance matrix
-0.968051 6.23456 88.2535 11.6703 140.347 10.624 69.8037 21.7058 2.67535 0.606366 
-
-# definition for class # 95
-# class name, prior probability
-''	0.000547739
-# class type is GaussDiag
-# mean vector
-3.70302 6.14817 -18.0075 20.4685 -25.9588 -7.60213 -7.86228 30.8861 2.87419 7.9608 
-
-# diagonal of covariance matrix
-1.01234 3.2299 167.351 6.4165 148.562 7.03812 191.915 12.1669 2.63553 0.489962 
-
-# definition for class # 96
-# class name, prior probability
-''	0.000367951
-# class type is GaussDiag
-# mean vector
-2.48829 13.7611 30.9756 21.6777 34.2673 5.95362 24.1263 19.6781 2.20979 8.23296 
-
-# diagonal of covariance matrix
-0.348982 5.08812 46.7223 10.6503 127.782 7.27741 144.779 19.0813 0.953588 0.618873 
-
-# definition for class # 97
-# class name, prior probability
-''	0.000429679
-# class type is GaussDiag
-# mean vector
-4.08165 10.6459 0.198842 21.4158 33.9 0.520357 -22.6145 29.1341 5.17491 8.38063 
-
-# diagonal of covariance matrix
-0.817334 5.14582 221.439 9.5255 250.87 8.11979 247.462 38.9942 1.69001 0.489145 
-
-# definition for class # 98
-# class name, prior probability
-''	0.000360111
-# class type is GaussDiag
-# mean vector
-3.48668 9.50214 -28.377 18.8667 -34.6794 0.0487634 -14.7092 22.1518 3.07863 7.83004 
-
-# diagonal of covariance matrix
-0.636862 1.32944 37.0758 2.64565 36.0091 2.53305 39.4825 5.08973 1.66694 0.706576 
-
-# definition for class # 99
-# class name, prior probability
-''	0.000691379
-# class type is GaussDiag
-# mean vector
-2.79281 6.56645 49.3878 12.7211 68.4701 0.445744 -14.4968 22.2817 5.84503 8.97575 
-
-# diagonal of covariance matrix
-0.192742 2.64644 34.2155 4.61862 10.0658 5.10509 157.189 16.4428 1.90833 0.206409 
-
-# definition for class # 100
-# class name, prior probability
-''	0.000319759
-# class type is GaussDiag
-# mean vector
-3.35674 2.16565 1.24904 12.0785 33.0315 -7.40875 -33.155 25.0009 3.63556 8.3742 
-
-# diagonal of covariance matrix
-0.994896 6.84846 148.257 12.6728 175.91 13.6388 101.436 23.562 2.6529 0.399272 
-
-# definition for class # 101
-# class name, prior probability
-''	0.000345212
-# class type is GaussDiag
-# mean vector
-2 4.38241 -21.7827 7.16119 -14.1412 1.60364 -28.398 8.42525 2.59112 9.31449 
-
-# diagonal of covariance matrix
-0 1.41898 6.15708 1.80296 44.2015 2.1176 22.2995 2.61346 0.492397 0.101074 
-
-# definition for class # 102
-# class name, prior probability
-''	0.00039913
-# class type is GaussDiag
-# mean vector
-2 8.28396 -24.185 11.4496 -29.0066 5.11829 -18.8467 9.54098 2.74146 9.17254 
-
-# diagonal of covariance matrix
-0 1.7852 3.36381 2.68566 8.70724 2.47831 13.8229 3.50799 0.446686 0.164012 
-
-# definition for class # 103
-# class name, prior probability
-''	0.000431566
-# class type is GaussDiag
-# mean vector
-2 8.76972 -21.4076 10.2116 -19.2519 7.32781 -23.2047 5.69461 3.717 9.62059 
-
-# diagonal of covariance matrix
-0 0.958214 4.53663 1.25022 28.6823 1.1864 25.5069 1.41282 0.718711 0.0199427 
-
-# definition for class # 104
-# class name, prior probability
-''	0.000284048
-# class type is GaussDiag
-# mean vector
-2 12.7281 -17.3469 15.2793 -9.16269 10.1768 -24.6915 7.2866 2.10129 9.41616 
-
-# diagonal of covariance matrix
-0 1.1235 5.45902 1.61901 26.4031 1.85675 20.0128 2.71856 0.56428 0.0561421 
-
-# definition for class # 105
-# class name, prior probability
-''	0.00069191
-# class type is GaussDiag
-# mean vector
-2.37689 9.32476 14.4797 14.2185 -31.5608 4.4281 48.4107 15.8474 4.00623 8.81818 
-
-# diagonal of covariance matrix
-0.206264 2.56874 26.3113 3.76425 38.9958 4.93913 20.434 6.46692 1.86632 0.268896 
-
-# definition for class # 106
-# class name, prior probability
-''	0.000238921
-# class type is GaussDiag
-# mean vector
-2.053 7.37144 -0.355945 15.5714 0.0266398 -0.825872 -0.690648 16.928 0.213816 7.77508 
-
-# diagonal of covariance matrix
-0.0137211 5.53267 9.48443 8.64349 20.6262 7.11499 24.0308 9.31181 0.0524753 1.51622 
-
-# definition for class # 107
-# class name, prior probability
-''	0.00106426
-# class type is GaussDiag
-# mean vector
-3.84131 11.3293 -10.0744 19.6118 -15.0376 2.93539 -7.36615 18.9659 3.69239 8.60023 
-
-# diagonal of covariance matrix
-0.167637 2.06698 91.9515 4.66233 151.289 4.03809 204.504 9.00664 1.59266 0.268142 
-
-# definition for class # 108
-# class name, prior probability
-''	0.000409825
-# class type is GaussDiag
-# mean vector
-2.07463 15.8095 15.601 19.7814 30.0124 11.8661 -1.44834 11.0171 2.69127 9.19086 
-
-# diagonal of covariance matrix
-0.0509902 3.43873 32.2678 6.62619 75.3487 4.63367 89.8604 9.8305 2.23094 0.175199 
-
-# definition for class # 109
-# class name, prior probability
-''	0.00049351
-# class type is GaussDiag
-# mean vector
-2.26129 9.17859 -0.386744 13.0306 32.6714 5.44856 -31.0891 15.109 5.03985 9.17443 
-
-# diagonal of covariance matrix
-0.203837 2.07289 38.0373 3.70548 79.7897 3.56609 64.0879 13.3071 2.91411 0.139436 
-
-# definition for class # 110
-# class name, prior probability
-''	0.00061687
-# class type is GaussDiag
-# mean vector
-2 9.15645 7.64204 13.73 -1.79728 4.5829 16.5447 10.6607 0.933375 8.91731 
-
-# diagonal of covariance matrix
-0 9.90492 10.2627 14.0271 35.7618 11.7031 38.2999 11.6165 0.399651 0.309286 
-
-# definition for class # 111
-# class name, prior probability
-''	0.00045293
-# class type is GaussDiag
-# mean vector
-2.15821 6.16541 7.17664 10.8067 -25.1969 1.51444 35.9337 13.2946 2.75025 8.66017 
-
-# diagonal of covariance matrix
-0.0867092 3.22372 18.728 4.05224 42.7312 5.27552 28.0991 5.77259 0.770295 0.401665 
-
-# definition for class # 112
-# class name, prior probability
-''	0.000472257
-# class type is GaussDiag
-# mean vector
-2.06097 9.2943 -7.16527 16.3749 -14.9184 2.21476 0.965771 15.3721 0.658537 7.98435 
-
-# diagonal of covariance matrix
-0.0181224 1.69349 12.0114 3.21462 38.6653 3.17114 46.8329 6.47958 0.128106 0.893862 
-
-# definition for class # 113
-# class name, prior probability
-''	0.000523468
-# class type is GaussDiag
-# mean vector
-2.32635 9.60099 3.26927 17.1885 23.3823 2.02939 -17.4834 17.6977 1.4544 8.07627 
-
-# diagonal of covariance matrix
-0.182826 3.62128 37.1731 6.7385 87.4012 6.27298 140.54 12.3034 0.511441 0.602462 
-
-# definition for class # 114
-# class name, prior probability
-''	0.000290543
-# class type is GaussDiag
-# mean vector
-2.09901 5.93649 21.8971 10.2085 39.2535 1.68077 -1.27889 11.7816 2.67548 8.64592 
-
-# diagonal of covariance matrix
-0.0357971 2.87768 15.713 5.06453 29.8525 3.7844 44.6579 6.5299 1.19147 0.514969 
-
-# definition for class # 115
-# class name, prior probability
-''	0.000209416
-# class type is GaussDiag
-# mean vector
-2 6.61637 -10.5359 8.6704 -10.7591 4.56232 -10.2834 5.58265 1.7113 9.26655 
-
-# diagonal of covariance matrix
-0 0.711845 2.10781 1.46447 8.07776 1.38803 4.89669 3.17342 0.748042 0.230049 
-
-# definition for class # 116
-# class name, prior probability
-''	0.000371215
-# class type is GaussDiag
-# mean vector
-2 8.23131 -17.7833 12.3541 -6.12409 4.10856 -27.9127 10.4561 1.5332 8.92887 
-
-# diagonal of covariance matrix
-0 1.98614 7.01923 4.1042 28.3898 2.79664 23.7242 5.69197 0.398298 0.267076 
-
-# definition for class # 117
-# class name, prior probability
-''	0.000506925
-# class type is GaussDiag
-# mean vector
-1.74255 10.8819 0.635367 12.9948 11.645 8.77854 -10.0644 6.64179 4.03143 9.57488 
-
-# diagonal of covariance matrix
-0.232059 2.89425 58.5927 3.67816 126.052 3.75824 165.829 8.11383 2.82347 0.0649815 
-
-# definition for class # 118
-# class name, prior probability
-''	0.000560695
-# class type is GaussDiag
-# mean vector
-3.83075 5.62108 59.0489 19.3756 -25.5503 -10.7488 77.2237 46.7544 6.89374 8.61565 
-
-# diagonal of covariance matrix
-0.871957 21.4292 123.607 26.1731 246.392 45.7093 14.0895 51.2662 1.14335 0.379166 
-
-# definition for class # 119
-# class name, prior probability
-''	0.000123629
-# class type is GaussDiag
-# mean vector
-4.08935 -6.3615 9.70847 21.5437 0.588086 -34.8894 -0.411536 58.4962 4.2177 8.47116 
-
-# diagonal of covariance matrix
-0.839715 38.1084 396.712 46.844 531.245 54.2398 14.9146 97.9345 5.56051 0.348747 
-
-# definition for class # 120
-# class name, prior probability
-''	0.0039313
-# class type is GaussDiag
-# mean vector
-0 50.4036 0 50.4036 0 50.4036 0 -73.0768 0 10.006 
-
-# diagonal of covariance matrix
-0 4.45716 0 4.45716 0 4.45716 0 297.942 0 -2.21903e-05 
-
-# definition for class # 121
-# class name, prior probability
-''	0.000709427
-# class type is GaussDiag
-# mean vector
-2 23.3679 9.5975 27.3444 15.4004 19.3915 3.05302 9.71967 1.49217 9.27738 
-
-# diagonal of covariance matrix
-0 9.25922 38.412 11.3838 113.97 13.1247 136.787 12.957 0.812219 0.177516 
-
-# definition for class # 122
-# class name, prior probability
-''	0.000311096
-# class type is GaussDiag
-# mean vector
-2.11074 14.7979 -36.5751 20.4218 -54.479 9.14088 -0.918577 16.9374 3.68048 8.99547 
-
-# diagonal of covariance matrix
-0.195547 4.59014 21.352 8.12007 29.8386 6.30392 130.659 11.9804 1.56567 0.196323 
-
-# definition for class # 123
-# class name, prior probability
-''	0.000721239
-# class type is GaussDiag
-# mean vector
-3.9356 23.6304 -33.5369 33.4389 -38.6284 12.5341 -16.1441 25.1123 4.50513 8.84819 
-
-# diagonal of covariance matrix
-0.337052 3.8422 68.2164 7.32998 63.6868 4.62135 137.059 10.0493 1.859 0.122534 
-
-# definition for class # 124
-# class name, prior probability
-''	0.000438207
-# class type is GaussDiag
-# mean vector
-2.32453 30.0518 -25.662 37.9314 -36.8839 22.1285 -7.55929 19.0798 1.85446 9.03735 
-
-# diagonal of covariance matrix
-0.183421 8.96328 25.1297 11.7289 66.1879 13.2825 97.5011 15.2263 0.330649 0.126411 
-
-# definition for class # 125
-# class name, prior probability
-''	0.000641967
-# class type is GaussDiag
-# mean vector
-3.33947 26.1154 -42.4936 34.9292 -38.8357 17.2528 -40.163 23.7663 4.07412 8.85655 
-
-# diagonal of covariance matrix
-0.917441 4.53288 27.054 7.46099 65.5283 7.7019 60.8936 11.948 2.36224 0.200617 
-
-# definition for class # 126
-# class name, prior probability
-''	0.00067079
-# class type is GaussDiag
-# mean vector
-2.00408 37.5381 -38.1228 41.5032 -37.5825 33.5727 -37.7316 13.3781 3.60033 9.33956 
-
-# diagonal of covariance matrix
-0.00218311 1.95103 10.2925 3.63441 41.0456 3.69372 46.7563 7.12843 0.729923 0.0860295 
-
-# definition for class # 127
-# class name, prior probability
-''	0.000682786
-# class type is GaussDiag
-# mean vector
-4.36558 33.0596 26.9473 46.0063 -33.1329 18.1686 59.0719 38.1323 5.58763 8.67629 
-
-# diagonal of covariance matrix
-1.20571 10.3428 491.463 16.5403 259.461 18.902 128.111 35.7976 1.70839 0.227698 
-
-# definition for class # 128
-# class name, prior probability
-''	0.000554562
-# class type is GaussDiag
-# mean vector
-4.91755 26.5362 59.876 48.3979 -8.45284 5.1988 55.8023 50.3492 6.362 8.14458 
-
-# diagonal of covariance matrix
-0.957702 15.0302 60.0646 26.6933 357.435 19.1119 225.233 44.058 1.16596 0.503419 
-
-# definition for class # 129
-# class name, prior probability
-''	0.000217861
-# class type is GaussDiag
-# mean vector
-5.42185 18.9537 -23.7987 35.8783 -38.5714 0.0759495 46.0628 49.735 6.3092 8.29709 
-
-# diagonal of covariance matrix
-1.94294 31.1393 199.243 56.5476 226.557 40.1745 207.318 89.7898 1.0005 0.323303 
-
-# definition for class # 130
-# class name, prior probability
-''	0.00020396
-# class type is GaussDiag
-# mean vector
-5.06433 36.9759 -8.9668 56.14 -24.4904 15.7347 43.0486 52.8522 5.88302 8.11384 
-
-# diagonal of covariance matrix
-1.57526 12.9429 452.089 30.5804 506.8 25.4412 324.538 90.515 1.73338 0.484398 
-
-# definition for class # 131
-# class name, prior probability
-''	0.000938373
-# class type is GaussDiag
-# mean vector
-4.07064 35.7875 19.4705 55.4967 11.8375 15.9113 -8.55594 43.3386 6.11203 8.80757 
-
-# diagonal of covariance matrix
-0.0602883 19.165 633.89 28.6959 560.733 26.7955 536.873 45.9458 2.48389 0.206105 
-
-# definition for class # 132
-# class name, prior probability
-''	0.000638402
-# class type is GaussDiag
-# mean vector
-3.34399 32.6586 60.7422 45.5051 72.8327 20.2451 2.15086 38.6912 5.94211 8.95679 
-
-# diagonal of covariance matrix
-0.492831 13.9459 67.1953 25.1159 32.0474 26.0149 993.467 50.9214 2.23712 0.187413 
-
-# definition for class # 133
-# class name, prior probability
-''	0.000523765
-# class type is GaussDiag
-# mean vector
-2 13.9826 -0.98117 18.1115 0.0965023 9.85375 -2.04296 9.07972 0.485822 9.16473 
-
-# diagonal of covariance matrix
-0 3.4529 15.9378 6.40958 42.6518 5.9466 49.9489 11.1817 0.200248 0.171319 
-
-# definition for class # 134
-# class name, prior probability
-''	0.00028269
-# class type is GaussDiag
-# mean vector
-2.56771 16.3418 0.770095 24.8045 1.3887 7.90283 -0.0320709 18.1518 1.1055 8.56783 
-
-# diagonal of covariance matrix
-0.367735 2.60956 25.0491 4.75073 72.2875 5.72868 62.8083 10.3242 0.86621 0.315487 
-
-# definition for class # 135
-# class name, prior probability
-''	0.000432282
-# class type is GaussDiag
-# mean vector
-2.32165 11.7654 26.9175 16.4725 -4.25501 7.07466 46.6334 14.5448 4.13117 9.06872 
-
-# diagonal of covariance matrix
-0.515511 2.79635 24.6582 7.24675 113.597 5.85468 32.5459 20.3598 3.70683 0.248624 
-
-# definition for class # 136
-# class name, prior probability
-''	0.000497703
-# class type is GaussDiag
-# mean vector
-2.70011 9.12195 39.2178 13.856 -15.952 4.68509 60.6446 16.0967 5.34373 9.15859 
-
-# diagonal of covariance matrix
-0.242476 4.36462 30.0541 5.38727 117.311 6.36153 12.4619 6.90321 2.01595 0.149221 
-
-# definition for class # 137
-# class name, prior probability
-''	0.000389196
-# class type is GaussDiag
-# mean vector
-3.4671 6.46118 36.3449 21.8398 55.0769 -7.96595 -3.74414 36.7782 3.4596 7.39285 
-
-# diagonal of covariance matrix
-1.22122 11.3601 241.528 24.0891 257.885 18.3367 459.269 46.9141 2.30447 1.57207 
-
-# definition for class # 138
-# class name, prior probability
-''	0.000277316
-# class type is GaussDiag
-# mean vector
-2.55766 3.41342 50.6419 11.9966 61.4116 -4.81045 23.5382 26.5999 4.49808 8.43991 
-
-# diagonal of covariance matrix
-0.394745 7.35277 63.5981 16.8146 89.1451 15.3213 484.373 42.6173 3.45068 0.83022 
-
-# definition for class # 139
-# class name, prior probability
-''	0.000234721
-# class type is GaussDiag
-# mean vector
-2.23792 6.94468 27.6054 10.1829 30.2636 3.73597 23.2399 12.3689 4.76881 9.30078 
-
-# diagonal of covariance matrix
-0.271554 5.91422 42.1479 7.69054 115.645 7.90113 99.046 20.2943 3.02385 0.123682 
-
-# definition for class # 140
-# class name, prior probability
-''	0.000348113
-# class type is GaussDiag
-# mean vector
-2.25756 -30.3145 32.8659 -23.6015 13.1471 -37.0987 37.9275 22.1817 5.18889 9.54848 
-
-# diagonal of covariance matrix
-0.512853 32.6951 591.693 49.6132 1638.68 40.0263 1006.26 72.2922 4.74412 0.0760264 
-
-# definition for class # 141
-# class name, prior probability
-''	0.000257683
-# class type is GaussDiag
-# mean vector
-2.04294 -13.4102 37.0517 -8.05213 54.5046 -18.4986 4.02911 18.0403 5.19703 9.51067 
-
-# diagonal of covariance matrix
-0.418437 25.9336 183.541 24.2575 144.208 41.3368 836.926 58.9436 3.72268 0.0836597 
-
-# definition for class # 142
-# class name, prior probability
-''	0.000319281
-# class type is GaussDiag
-# mean vector
-0.648797 0.211803 -0.559254 1.92359 43.3696 -1.49612 -44.2942 4.92237 7.49801 9.9024 
-
-# diagonal of covariance matrix
-0.0315315 60.1444 85.3287 63.8463 74.4579 59.0391 52.0638 6.49967 0.339744 0.00786887 
-
-# definition for class # 143
-# class name, prior probability
-''	0.000802366
-# class type is GaussDiag
-# mean vector
-0.860838 -71.7663 1.62963 -70.4631 7.08425 -73.0692 -4.33717 3.85735 6.60175 9.96939 
-
-# diagonal of covariance matrix
-0.0866829 422.319 163.745 419.872 946.981 425.612 919.033 2.23095 1.2042 0.000767377 
-
-# definition for class # 144
-# class name, prior probability
-''	0.0124887
-# class type is GaussDiag
-# mean vector
-0 127.559 0 127.559 0 127.559 0 -179.974 0 10.0079 
-
-# diagonal of covariance matrix
-0 63.4043 0 63.4043 0 63.4043 0 725.758 0 0.000929491 
-
-# definition for class # 145
-# class name, prior probability
-''	0.00144415
-# class type is GaussDiag
-# mean vector
-0.331811 23.5031 -2.4699e-07 25.1117 -1.26882e-08 21.8805 2.46194e-07 3.25299 7.40775 9.95776 
-
-# diagonal of covariance matrix
-0.0283335 17.6623 4.7896e-10 20.1735 1.84118e-09 19.2037 1.38568e-09 8.30945 7.93204 0.00212527 
-
-# definition for class # 146
-# class name, prior probability
-''	0.000548757
-# class type is GaussDiag
-# mean vector
-1.12887 26.0587 -24.0311 27.5595 -35.684 24.5607 -7.80573 5.18756 6.53202 9.871 
-
-# diagonal of covariance matrix
-0.151622 29.3311 76.4413 31.909 112.912 28.7511 348.948 5.72952 1.53641 0.00715245 
-
-# definition for class # 147
-# class name, prior probability
-''	0.000277715
-# class type is GaussDiag
-# mean vector
-2.3989 17.8355 -45.4637 23.7591 -54.6629 11.9804 -28.6838 18.9867 3.98191 8.9579 
-
-# diagonal of covariance matrix
-0.289849 4.22692 24.992 7.57617 42.0276 6.46002 83.3876 12.6872 1.62879 0.19593 
-
-# definition for class # 148
-# class name, prior probability
-''	0.000281525
-# class type is GaussDiag
-# mean vector
-2.51491 28.1246 -41.226 34.6587 -51.8249 21.623 -20.4253 19.3508 3.73785 9.07571 
-
-# diagonal of covariance matrix
-0.368448 4.33603 34.5668 10.2645 61.0298 6.80582 168.716 16.3075 1.85888 0.150184 
-
-# definition for class # 149
-# class name, prior probability
-''	0.000347637
-# class type is GaussDiag
-# mean vector
-2.46017 34.2888 -53.4621 41.2672 -59.7897 27.4064 -39.671 23.3822 4.32088 8.94489 
-
-# diagonal of covariance matrix
-0.296943 8.59823 23.7437 13.7081 54.4518 13.8623 138.732 21.0267 1.7862 0.190741 
-
-# definition for class # 150
-# class name, prior probability
-''	0.0010474
-# class type is GaussDiag
-# mean vector
-2 40.383 -48.5589 45.713 -48.1087 35.0532 -47.6465 18.7174 3.9836 9.25505 
-
-# diagonal of covariance matrix
-0 9.18339 25.9432 12.8114 62.4933 13.0332 64.2911 18.118 0.91753 0.0976552 
-
-# definition for class # 151
-# class name, prior probability
-''	0.000940044
-# class type is GaussDiag
-# mean vector
-2.93875 50.4745 -48.8029 58.6777 -48.6719 42.0192 -42.4406 25.1437 4.44887 9.17991 
-
-# diagonal of covariance matrix
-0.759218 10.5649 86.7071 14.8374 173.226 24.6869 252.855 39.8914 2.05005 0.0999554 
-
-# definition for class # 152
-# class name, prior probability
-''	0.000948477
-# class type is GaussDiag
-# mean vector
-1.14632 61.058 -6.26715 63.414 -28.7314 58.6762 19.1822 7.3358 6.1207 9.85033 
-
-# diagonal of covariance matrix
-0.27453 77.7509 323.871 82.885 430.927 78.873 633.403 27.2202 1.86043 0.0181973 
-
-# definition for class # 153
-# class name, prior probability
-''	0.000696579
-# class type is GaussDiag
-# mean vector
-4.86174 51.4656 42.1569 70.5814 -33.471 28.9415 63.7203 54.4618 6.35803 8.81964 
-
-# diagonal of covariance matrix
-1.39118 19.8021 426.186 32.5963 215.602 46.5426 149.444 91.2229 1.14396 0.147943 
-
-# definition for class # 154
-# class name, prior probability
-''	0.000644745
-# class type is GaussDiag
-# mean vector
-6.1649 29.3955 0.839408 59.304 -31.1011 0.265255 -18.2269 63.4814 6.66953 8.30428 
-
-# diagonal of covariance matrix
-2.23601 20.2776 479.007 20.0254 101.312 19.9888 264.014 29.2619 0.690274 0.268825 
-
-# definition for class # 155
-# class name, prior probability
-''	0.000441786
-# class type is GaussDiag
-# mean vector
-4.74827 46.1886 -53.3223 68.6447 -53.2356 21.1742 -22.7738 54.8341 5.05905 8.3907 
-
-# diagonal of covariance matrix
-0.991232 15.8833 84.7222 15.9552 170.821 19.6363 271.736 26.6215 1.85651 0.283249 
-
-# definition for class # 156
-# class name, prior probability
-''	0.000817071
-# class type is GaussDiag
-# mean vector
-3.89614 43.8792 -33.364 64.5803 -26.2344 22.8094 -34.016 46.1671 3.10908 8.07363 
-
-# diagonal of covariance matrix
-1.83929 12.1459 75.9036 16.9652 197.151 22.4902 126.322 28.189 3.34202 0.599996 
-
-# definition for class # 157
-# class name, prior probability
-''	0.000860999
-# class type is GaussDiag
-# mean vector
-4.9953 52.4717 -43.7531 74.657 -36.4773 29.2497 -35.0222 50.9926 5.39356 8.68258 
-
-# diagonal of covariance matrix
-1.46718 10.6808 110.226 19.2228 131.647 14.646 161.775 29.9948 1.93811 0.175108 
-
-# definition for class # 158
-# class name, prior probability
-''	0.000963212
-# class type is GaussDiag
-# mean vector
-3.22829 72.7249 -19.5582 91.8003 -29.7468 53.1504 -0.598348 40.9882 1.94128 8.82291 
-
-# diagonal of covariance matrix
-0.949243 42.0987 92.2828 71.2146 158.568 70.8152 33.4419 116.007 2.03144 0.159854 
-
-# definition for class # 159
-# class name, prior probability
-''	0.00133096
-# class type is GaussDiag
-# mean vector
-3.03463 102.329 51.7249 118.254 -17.4449 75.7394 81.3265 90.3951 7.68359 9.45529 
-
-# diagonal of covariance matrix
-0.537231 129.674 665.555 168.492 899.765 263.763 17.2304 1045.22 1.61435 0.0698137 
-
-# definition for class # 160
-# class name, prior probability
-''	0.000964732
-# class type is GaussDiag
-# mean vector
-5.62954 41.0504 -20.0907 81.4079 -8.04692 2.71903 -23.6762 81.6449 5.61538 7.53317 
-
-# diagonal of covariance matrix
-2.71878 41.3446 495.651 19.2046 412.385 19.8793 217.948 26.5508 2.38361 1.26095 
-
-# definition for class # 161
-# class name, prior probability
-''	0.00136983
-# class type is GaussDiag
-# mean vector
-4.26889 72.7592 -33.6208 89.2802 -31.3393 55.3589 -29.2707 38.5486 4.58081 9.02708 
-
-# diagonal of covariance matrix
-0.593879 39.4288 110.972 69.2066 125.278 70.2526 155.886 118.136 2.09618 0.0900351 
-
-# definition for class # 162
-# class name, prior probability
-''	0.000957438
-# class type is GaussDiag
-# mean vector
-6.42615 51.3567 16.7385 99.2815 -19.5875 4.23616 21.3977 99.9401 4.73186 6.98613 
-
-# diagonal of covariance matrix
-3.86 58.5894 810.603 56.9123 489.134 85.843 882.309 93.776 2.0896 1.17149 
-
-# definition for class # 163
-# class name, prior probability
-''	0.00113961
-# class type is GaussDiag
-# mean vector
-4.64895 74.253 -18.2006 111.712 -33.566 34.9939 -0.963563 80.6956 3.88927 8.24033 
-
-# diagonal of covariance matrix
-2.08566 42.2823 352.336 58.7305 171.584 79.207 362.329 124.01 3.83478 0.497461 
-
-# definition for class # 164
-# class name, prior probability
-''	0.00044879
-# class type is GaussDiag
-# mean vector
-4.05577 72.6359 1.20554 107.005 -1.36846 34.9448 -1.98826 73.6442 3.46475 8.60208 
-
-# diagonal of covariance matrix
-0.93823 119.136 298.094 135.831 27.908 194.141 54.4482 230.732 4.96191 0.434512 
-
-# definition for class # 165
-# class name, prior probability
-''	0.00127991
-# class type is GaussDiag
-# mean vector
-5.85461 67.5925 -48.1608 112.52 -24.1991 20.6747 -27.4599 97.145 7.27193 8.75807 
-
-# diagonal of covariance matrix
-2.27674 79.3839 329.428 73.25 479.014 77.4548 352.964 93.47 0.597031 0.12911 
-
-# definition for class # 166
-# class name, prior probability
-''	0.00222083
-# class type is GaussDiag
-# mean vector
-3.32324 91.9768 -21.2511 113.437 -25.8305 69.4029 -9.84178 47.2582 2.25427 8.82452 
-
-# diagonal of covariance matrix
-1.12348 41.1979 193.913 66.2483 277.766 73.7375 442.242 120.353 2.90233 0.167649 
-
-# definition for class # 167
-# class name, prior probability
-''	0.00325585
-# class type is GaussDiag
-# mean vector
-4.6948 97.593 -31.0613 133.202 -29.2003 58.7843 -21.798 79.3864 4.56936 8.61051 
-
-# diagonal of covariance matrix
-1.47635 69.0353 419.936 110.228 366.812 81.3463 453.66 133.76 3.59435 0.297619 
-
-# definition for class # 168
-# class name, prior probability
-''	0.00321672
-# class type is GaussDiag
-# mean vector
-3.71067 109.851 6.22582 137.404 -6.25103 80.6476 3.57642 61.0677 3.31011 8.94982 
-
-# diagonal of covariance matrix
-1.02043 111.158 707.979 165.54 792.206 180.245 871.934 245.316 4.56687 0.181827 
-
-# definition for class # 169
-# class name, prior probability
-''	0.00165537
-# class type is GaussDiag
-# mean vector
-5.52243 79.3631 74.8482 159.043 84.6823 2.57991 84.1532 267.936 8.34952 8.89421 
-
-# diagonal of covariance matrix
-2.15057 660.669 99.0773 1321.82 10.0889 1321.85 11.8192 3836.3 0.434817 0.217629 
-
-# definition for class # 170
-# class name, prior probability
-''	0.00162392
-# class type is GaussDiag
-# mean vector
-2.75908 30.721 67.1261 54.0676 84.2443 16.4024 -14.4083 100.126 8.9537 9.47942 
-
-# diagonal of covariance matrix
-0.336508 59.0601 268.697 175.135 6.70796 80.6483 913.131 1125.98 0.178859 0.0508036 
-
-# definition for class # 171
-# class name, prior probability
-''	0.0010263
-# class type is GaussDiag
-# mean vector
-3.0047 31.9419 -28.2626 40.6199 -22.687 23.301 -28.0842 20.9472 2.69676 8.95283 
-
-# diagonal of covariance matrix
-0.738988 4.78495 50.9344 7.54378 155.899 8.14126 104.859 11.7698 2.09461 0.147929 
-
-# definition for class # 172
-# class name, prior probability
-''	0.000595836
-# class type is GaussDiag
-# mean vector
-2.78933 31.0895 45.1336 38.3916 68.165 24.0644 -22.4019 26.0045 5.83036 9.32906 
-
-# diagonal of covariance matrix
-0.269978 5.73396 135.468 10.975 27.8524 9.02264 182.74 48.029 2.6397 0.0879495 
-
-# definition for class # 173
-# class name, prior probability
-''	0.000668441
-# class type is GaussDiag
-# mean vector
-3.54671 22.6619 32.1068 35.1335 53.3867 10.5435 -11.6231 30.5197 3.86026 8.43375 
-
-# diagonal of covariance matrix
-0.829149 6.62128 208.003 15.1772 145.57 10.2326 297.569 27.1939 2.52029 0.336263 
-
-# definition for class # 174
-# class name, prior probability
-''	0.000208291
-# class type is GaussDiag
-# mean vector
-2.02368 20.564 -20.3798 23.7855 -32.1727 17.3212 -5.27776 10.1645 3.21088 9.45682 
-
-# diagonal of covariance matrix
-0.0197193 2.60394 12.4067 3.51 33.5775 3.72404 66.5733 5.19993 1.75635 0.0498638 
-
-# definition for class # 175
-# class name, prior probability
-''	0.000472601
-# class type is GaussDiag
-# mean vector
-1.99742 27.422 -16.8699 29.3546 -18.9963 25.4879 -14.3325 6.16757 2.83905 9.69221 
-
-# diagonal of covariance matrix
-0.00381353 2.65791 11.4085 3.13037 34.3336 3.15203 50.3515 2.38648 0.933225 0.0143627 
-
-# definition for class # 176
-# class name, prior probability
-''	0.00113496
-# class type is GaussDiag
-# mean vector
-2 27.6934 -25.9675 31.2178 -26.7042 24.169 -24.5602 10.4887 2.74042 9.43303 
-
-# diagonal of covariance matrix
-0 2.68759 11.7139 3.70595 44.8667 5.27244 55.1155 8.13115 0.721978 0.0820445 
-
-# definition for class # 177
-# class name, prior probability
-''	0.000644401
-# class type is GaussDiag
-# mean vector
-2.54117 20.3435 20.8138 27.1449 -35.9422 13.2924 57.1702 22.8877 4.53284 8.93807 
-
-# diagonal of covariance matrix
-0.321955 3.83302 113.325 7.35843 94.5684 6.72409 40.0485 16.9982 2.68006 0.199099 
-
-# definition for class # 178
-# class name, prior probability
-''	0.000424683
-# class type is GaussDiag
-# mean vector
-1.10803 25.4253 2.09354 27.8858 -37.5951 22.9119 40.3893 8.68386 6.87562 9.83926 
-
-# diagonal of covariance matrix
-0.38912 32.7161 115.027 37.0242 141.328 34.4978 138.394 32.8106 1.16975 0.0198658 
-
-# definition for class # 179
-# class name, prior probability
-''	0.000609142
-# class type is GaussDiag
-# mean vector
-5.22885 24.802 22.6088 43.5678 56.0855 7.15281 -34.3348 45.468 5.5079 8.03993 
-
-# diagonal of covariance matrix
-1.43093 10.8298 510.372 20.8569 160.707 23.9519 243.022 43.0316 1.36683 0.58542 
-
-# definition for class # 180
-# class name, prior probability
-''	0.000582705
-# class type is GaussDiag
-# mean vector
-3.9615 21.6116 71.9328 36.0861 74.5667 7.17465 56.0352 48.6981 6.92849 8.42587 
-
-# diagonal of covariance matrix
-0.655318 12.7877 30.432 29.9932 35.6266 19.733 211.277 92.4949 1.00432 0.427317 
-
-# definition for class # 181
-# class name, prior probability
-''	0.000614318
-# class type is GaussDiag
-# mean vector
-3.52753 25.6897 17.4296 37.8444 -31.2711 7.24731 72.6664 69.1316 7.87179 9.0185 
-
-# diagonal of covariance matrix
-1.15703 23.7353 642.512 37.9216 465.118 66.7765 60.8045 257.032 0.664323 0.207151 
-
-# definition for class # 182
-# class name, prior probability
-''	0.000453736
-# class type is GaussDiag
-# mean vector
-3.00463 20.2461 -41.6906 28.9408 -18.902 6.62478 -68.8436 51.5256 7.73936 9.17997 
-
-# diagonal of covariance matrix
-0.613458 20.2935 289.784 32.3 384.559 48.3997 100.509 196.303 0.759007 0.144761 
-
-# definition for class # 183
-# class name, prior probability
-''	0.000703162
-# class type is GaussDiag
-# mean vector
-2 23.3434 -30.9712 26.271 -29.8113 20.4158 -31.5518 10.0822 3.54262 9.41062 
-
-# diagonal of covariance matrix
-0 0.907746 9.85171 1.70966 42.0594 2.09311 32.914 4.09024 0.883844 0.080337 
-
-# definition for class # 184
-# class name, prior probability
-''	0.000470604
-# class type is GaussDiag
-# mean vector
-2.20373 23.848 -29.4494 31.4186 -54.6313 16.1752 20.2557 23.2699 3.87105 8.98319 
-
-# diagonal of covariance matrix
-0.215584 5.65593 137.573 13.0916 76.1909 9.98094 359.096 30.9578 2.90337 0.218405 
-
-# definition for class # 185
-# class name, prior probability
-''	0.000391408
-# class type is GaussDiag
-# mean vector
-2.11454 33.0443 -15.206 38.5167 -42.0345 27.4327 24.129 17.975 4.12252 9.33789 
-
-# diagonal of covariance matrix
-0.16992 10.1542 74.1975 17.0338 88.8708 12.491 207.664 26.5913 2.53393 0.0825157 
-
-# definition for class # 186
-# class name, prior probability
-''	0.000598181
-# class type is GaussDiag
-# mean vector
-2.23298 52.5759 28.0924 58.5146 50.743 46.8035 -10.9525 18.9157 4.55797 9.46015 
-
-# diagonal of covariance matrix
-0.41591 12.9446 234.897 20.5816 197.668 17.5822 530.358 49.4823 3.90571 0.0690698 
-
-# definition for class # 187
-# class name, prior probability
-''	0.000343224
-# class type is GaussDiag
-# mean vector
-3.65337 16.8248 7.43264 30.329 45.4472 3.34164 -31.2174 33.5302 3.4853 7.40648 
-
-# diagonal of covariance matrix
-1.32069 7.61408 206.532 12.6807 130.742 16.1874 246.664 25.5856 1.93278 1.42925 
-
-# definition for class # 188
-# class name, prior probability
-''	0.00051312
-# class type is GaussDiag
-# mean vector
-2 27.8121 -10.2088 32.3068 -22.6482 23.3174 3.67519 11.2603 1.73566 9.36067 
-
-# diagonal of covariance matrix
-0 3.81419 29.1224 6.15063 77.7951 7.14187 82.1628 12.1197 0.932674 0.113858 
-
-# definition for class # 189
-# class name, prior probability
-''	0.000631469
-# class type is GaussDiag
-# mean vector
-2 23.992 -13.8064 27.6309 -5.56094 20.3527 -21.2382 9.17817 1.46186 9.39223 
-
-# diagonal of covariance matrix
-0 3.54492 10.8993 4.80535 59.1082 6.29965 35.159 8.67599 0.525155 0.0950088 
-
-# definition for class # 190
-# class name, prior probability
-''	0.000173871
-# class type is GaussDiag
-# mean vector
-1.61948 25.9618 -13.484 28.2672 -0.0716133 23.6577 -24.9655 6.41625 4.05863 9.66278 
-
-# diagonal of covariance matrix
-0.465495 5.05698 15.5577 6.78535 8.69996 6.69528 48.3538 11.0066 3.10052 0.0623877 
-
-# definition for class # 191
-# class name, prior probability
-''	0.000645362
-# class type is GaussDiag
-# mean vector
-2.28934 20.3729 16.342 24.1801 -19.7367 16.5481 43.2335 13.2953 4.28293 9.43584 
-
-# diagonal of covariance matrix
-0.171982 4.72297 54.2881 7.02077 98.3247 5.55741 51.1544 7.37302 2.78181 0.0462322 
-
-# definition for class # 192
-# class name, prior probability
-''	0.000643182
-# class type is GaussDiag
-# mean vector
-2.63583 23.4032 38.522 28.7933 -19.0865 18.131 61.9003 19.0207 5.33645 9.36 
-
-# diagonal of covariance matrix
-0.306041 5.18922 79.5857 8.15874 190.612 6.74684 25.9928 15.5589 2.3706 0.0645093 
-
-# definition for class # 193
-# class name, prior probability
-''	0.000978429
-# class type is GaussDiag
-# mean vector
-2.12906 33.5021 -15.1175 45.1532 -26.1402 21.8394 -1.05831 25.5335 0.844087 8.48239 
-
-# diagonal of covariance matrix
-0.0621831 12.8692 50.3132 21.8286 83.845 18.6117 179.695 30.8074 0.131496 0.494658 
-
-# definition for class # 194
-# class name, prior probability
-''	0.00124082
-# class type is GaussDiag
-# mean vector
-4.00353 29.4775 -1.12378 41.3449 -18.1045 16.9741 1.01558 27.3166 4.72448 8.96503 
-
-# diagonal of covariance matrix
-0.0185474 13.834 315.254 22.2994 238.309 19.0339 421.377 29.4673 1.61169 0.113641 
-
-# definition for class # 195
-# class name, prior probability
-''	0.000488629
-# class type is GaussDiag
-# mean vector
-3.24473 11.6875 55.3802 21.2583 58.4615 2.47586 44.8594 28.9317 4.76821 8.12853 
-
-# diagonal of covariance matrix
-0.664927 5.63434 45.443 12.2316 83.5832 10.3377 199.124 36.2088 2.10237 0.775108 
-
-# definition for class # 196
-# class name, prior probability
-''	0.000481582
-# class type is GaussDiag
-# mean vector
-2.44197 11.7077 14.8322 19.1738 61.5988 6.46779 -23.3472 40.0433 7.96513 9.23861 
-
-# diagonal of covariance matrix
-0.153662 16.0108 283.9 20.9864 84.6078 20.7976 423.252 131.834 0.713111 0.170284 
-
-# definition for class # 197
-# class name, prior probability
-''	0.000501182
-# class type is GaussDiag
-# mean vector
-2.41495 13.3354 9.11443 17.5228 40.4871 9.20276 -26.8065 15.2462 4.73506 9.20099 
-
-# diagonal of covariance matrix
-0.220257 2.57611 29.5392 4.23747 49.2548 4.83331 68.3046 11.3324 3.2809 0.140388 
-
-# definition for class # 198
-# class name, prior probability
-''	0.00030835
-# class type is GaussDiag
-# mean vector
-2 8.69061 -9.91272 12.2051 0.0887268 5.17607 -19.3109 8.35445 0.907189 9.24536 
-
-# diagonal of covariance matrix
-0 5.98871 2.15599 8.39453 1.90161 6.8483 7.43017 7.08706 0.237298 0.134413 
-
-# definition for class # 199
-# class name, prior probability
-''	0.000254351
-# class type is GaussDiag
-# mean vector
-1.59133 15.718 -5.23214 17.1816 -12.2724 14.2554 2.01105 4.4146 4.14983 9.75705 
-
-# diagonal of covariance matrix
-0.141369 4.20045 23.6686 4.7266 64.1732 4.72558 84.8294 3.88941 1.99071 0.0261771 
-
-# definition for class # 200
-# class name, prior probability
-''	0.000458899
-# class type is GaussDiag
-# mean vector
-2.20736 11.8352 11.4696 15.5732 -19.1929 8.08438 36.8569 12.7976 3.89433 9.14874 
-
-# diagonal of covariance matrix
-0.100272 2.14203 19.9483 4.53647 57.4866 3.3537 32.9289 7.98244 3.25779 0.142762 
-
-# definition for class # 201
-# class name, prior probability
-''	0.000529306
-# class type is GaussDiag
-# mean vector
-2.29725 12.4091 -1.29125 21.3104 -21.6237 3.5136 19.9806 20.3213 1.25387 7.96903 
-
-# diagonal of covariance matrix
-0.178632 2.23227 30.2162 5.04884 87.3976 4.50821 63.3096 10.5817 0.34889 0.696864 
-
-# definition for class # 202
-# class name, prior probability
-''	0.00202217
-# class type is GaussDiag
-# mean vector
-4.0002 17.3566 -2.32388 29.2637 -11.0214 4.86969 -10.8854 26.7654 4.7654 8.76573 
-
-# diagonal of covariance matrix
-0.000101627 10.5914 279.095 17.1888 298.446 17.2356 275.93 30.0134 1.66217 0.173375 
-
-# definition for class # 203
-# class name, prior probability
-''	0.00047201
-# class type is GaussDiag
-# mean vector
-4.18364 5.8674 76.6338 25.4708 59.4763 -14.8591 79.8035 68.6348 7.74947 8.72046 
-
-# diagonal of covariance matrix
-0.991256 84.7896 18.8012 97.0233 243.81 147.397 14.4917 296.514 0.647119 0.286679 
-
-# definition for class # 204
-# class name, prior probability
-''	0.000495993
-# class type is GaussDiag
-# mean vector
-3.37826 -22.1087 60.4253 5.65815 -18.5314 -62.5216 83.7562 114.134 7.99748 9.39819 
-
-# diagonal of covariance matrix
-0.975761 247.309 695.513 347.991 1472.23 768.52 11.4383 1751.03 1.18002 0.117835 
-
-# definition for class # 205
-# class name, prior probability
-''	0.00321736
-# class type is GaussDiag
-# mean vector
-4.22298 7.39969 -15.9469 32.1353 -24.6545 -42.6499 -8.24015e-08 79.5602 7.1546 8.67885 
-
-# diagonal of covariance matrix
-1.58864 182.609 1089.64 195.023 747.226 315.596 4.93925e-11 364.164 3.29219 0.391258 
-
-# definition for class # 206
-# class name, prior probability
-''	0.00152727
-# class type is GaussDiag
-# mean vector
-4.15225 -23.2765 -68.6895 37.6307 -85.8997 -55.0198 -14.9964 166.757 8.15002 8.92789 
-
-# diagonal of covariance matrix
-1.81122 175.722 184.923 558.32 3.46256 259.892 903.418 1873.3 0.735982 0.236182 
-
-# definition for class # 207
-# class name, prior probability
-''	0.000637868
-# class type is GaussDiag
-# mean vector
-5.04814 -1.37343 -34.3185 45.6533 -15.0548 -42.2266 -39.5747 93.3936 5.15883 8.16467 
-
-# diagonal of covariance matrix
-1.56689 46.9241 281.18 87.416 398.798 71.9443 190.843 104.565 3.37117 0.589668 
-
-# definition for class # 208
-# class name, prior probability
-''	0.000205084
-# class type is GaussDiag
-# mean vector
-2.60435 9.4503 13.3739 41.3882 59.2759 -19.6289 -52.1943 75.8129 3.58455 5.07009 
-
-# diagonal of covariance matrix
-4.88086 62.8268 1177.91 244.857 523.297 102.458 486.325 457.285 5.9267 7.95159 
-
-# definition for class # 209
-# class name, prior probability
-''	0.000266378
-# class type is GaussDiag
-# mean vector
-0.991627 37.8621 -60.9486 93.437 65.8543 -18.9292 -84.6993 169.341 4.0721 4.17063 
-
-# diagonal of covariance matrix
-0.943386 664.031 717.448 1974.73 709.091 1186.66 9.21799 3825.22 7.6927 8.17625 
-
-# definition for class # 210
-# class name, prior probability
-''	0.000576013
-# class type is GaussDiag
-# mean vector
-4.63542 15.6314 -50.8092 34.8754 -31.182 -1.37272 -53.7466 43.9145 4.84472 8.25237 
-
-# diagonal of covariance matrix
-1.21148 8.34733 62.3451 13.7764 214.763 14.8351 77.8229 22.3468 1.82519 0.437492 
-
-# definition for class # 211
-# class name, prior probability
-''	0.000527927
-# class type is GaussDiag
-# mean vector
-2.78341 14.3904 -50.6893 21.3279 -29.9244 7.33349 -60.1613 22.2219 4.43234 8.52259 
-
-# diagonal of covariance matrix
-0.489418 7.64841 18.3548 10.6227 135.64 11.9427 36.0778 14.4611 1.63616 0.643467 
-
-# definition for class # 212
-# class name, prior probability
-''	0.000766349
-# class type is GaussDiag
-# mean vector
-4.20197 19.8703 -32.5567 31.482 -29.1236 7.61576 -28.5301 27.8876 4.23932 8.29372 
-
-# diagonal of covariance matrix
-0.531448 2.62717 61.1912 4.76953 82.5739 3.70241 72.2034 6.57481 1.82267 0.490104 
-
-# definition for class # 213
-# class name, prior probability
-''	0.000403416
-# class type is GaussDiag
-# mean vector
-3.06211 15.6911 -0.884553 28.7858 -24.6827 2.88359 21.0101 28.8444 1.86109 7.36006 
-
-# diagonal of covariance matrix
-0.955083 4.21638 57.7992 8.71664 62.5903 6.60821 55.2077 13.9136 1.37187 1.24531 
-
-# definition for class # 214
-# class name, prior probability
-''	0.000589902
-# class type is GaussDiag
-# mean vector
-4.67785 14.4072 -39.2298 30.302 -27.2463 -0.365832 -42.3149 35.8925 4.54556 8.09243 
-
-# diagonal of covariance matrix
-1.61032 4.59157 87.8427 5.55279 137.996 6.42312 62.8392 8.51837 2.22899 0.770073 
-
-# definition for class # 215
-# class name, prior probability
-''	0.000688907
-# class type is GaussDiag
-# mean vector
-3.71426 24.3868 -32.8135 34.9613 -21.1155 13.9973 -35.4939 25.2396 3.84445 8.7213 
-
-# diagonal of covariance matrix
-0.825972 2.89594 42.1342 6.25759 126.04 6.16959 88.3331 14.4166 2.4352 0.242846 
-
-# definition for class # 216
-# class name, prior probability
-''	0.000528297
-# class type is GaussDiag
-# mean vector
-2.66406 31.4029 -33.2421 45.031 -9.77721 17.9043 -45.1271 31.8144 1.9763 7.9329 
-
-# diagonal of covariance matrix
-0.659174 7.85379 87.5728 17.6293 308.158 14.244 109.865 29.2839 1.31043 0.939196 
-
-# definition for class # 217
-# class name, prior probability
-''	0.000634663
-# class type is GaussDiag
-# mean vector
-3.40647 22.2775 33.9787 36.0808 -18.0521 7.96615 57.1847 34.9414 3.31049 7.49664 
-
-# diagonal of covariance matrix
-1.05916 9.60099 195.878 15.2959 276.701 16.0625 107.11 27.0486 1.88636 1.40588 
-
-# definition for class # 218
-# class name, prior probability
-''	0.000688554
-# class type is GaussDiag
-# mean vector
-5.35145 21.0846 -17.1407 39.3547 -29.7612 2.89849 -25.603 40.8184 6.01365 8.52343 
-
-# diagonal of covariance matrix
-1.82928 7.80063 260.114 16.1275 109.398 10.4161 140.867 22.4881 0.750209 0.196545 
-
-# definition for class # 219
-# class name, prior probability
-''	0.000662861
-# class type is GaussDiag
-# mean vector
-4.73789 29.7533 -28.5095 43.8546 -21.8199 15.7284 -27.5379 31.9493 5.49122 8.88225 
-
-# diagonal of covariance matrix
-0.7938 6.57615 146.715 9.79418 176.32 9.05443 140.371 11.7121 1.1348 0.106143 
-
-# definition for class # 220
-# class name, prior probability
-''	0.0010554
-# class type is GaussDiag
-# mean vector
-2.81887 41.5362 65.3305 55.3182 -13.9532 17.1035 84.0932 95.439 8.69123 9.46165 
-
-# diagonal of covariance matrix
-0.331452 49.7139 223.586 67.9269 923.828 149.806 5.21337 725.397 0.35182 0.0675833 
-
-# definition for class # 221
-# class name, prior probability
-''	0.00302102
-# class type is GaussDiag
-# mean vector
-5.3947 45.9063 64.6134 169.792 -1.57575 -74.9988 15.0835 270.799 8.37868 9.06742 
-
-# diagonal of covariance matrix
-2.34471 2422.02 297.258 2566.48 1936.84 2045.22 1943.69 2418.69 0.512017 0.180093 
-
-# definition for class # 222
-# class name, prior probability
-''	0.0012858
-# class type is GaussDiag
-# mean vector
-5.80444 -13.0255 72.2052 77.034 82.3435 -78.2684 -1.40432 205.453 7.75376 8.58023 
-
-# diagonal of covariance matrix
-2.49567 610.352 84.1191 920.613 35.9984 472.867 1365.09 2332.37 0.870209 0.291458 
-
-# definition for class # 223
-# class name, prior probability
-''	0.000819952
-# class type is GaussDiag
-# mean vector
-3.98527 -111.765 15.061 -19.1393 28.8542 -186.918 -8.31952 250.05 8.3362 9.51448 
-
-# diagonal of covariance matrix
-3.07762 4122.08 3554.66 7110.75 3093.02 4706.86 1800.68 19386.7 1.97167 0.128182 
-
-# definition for class # 224
-# class name, prior probability
-''	0.000620553
-# class type is GaussDiag
-# mean vector
-4.95054 -6.46598 -25.9112 54.2182 -25.5678 -88.8102 -3.88632 147.178 6.53837 8.77425 
-
-# diagonal of covariance matrix
-2.82455 406.928 986.31 295.587 511.118 166.428 421.549 256.836 4.76892 0.41934 
-
-# definition for class # 225
-# class name, prior probability
-''	0.00102955
-# class type is GaussDiag
-# mean vector
-4.19089 -77.4645 -15.6719 -24.9259 -18.8548 -126.415 -9.87914 114.434 4.63651 8.79635 
-
-# diagonal of covariance matrix
-1.53314 896.041 1253.22 1511.76 1352.35 929.75 1212.67 1610.56 5.67858 0.320934 
-
-# definition for class # 226
-# class name, prior probability
-''	0.000732652
-# class type is GaussDiag
-# mean vector
-5.36032 -32.2603 -46.5489 18.1674 -26.8822 -67.8902 -36.3211 92.4767 6.71384 8.65918 
-
-# diagonal of covariance matrix
-1.37567 73.6331 423.84 77.6966 373.537 115.331 325.288 143.869 1.63295 0.179707 
-
-# definition for class # 227
-# class name, prior probability
-''	0.000388139
-# class type is GaussDiag
-# mean vector
-6.5801 -12.1357 -40.5159 36.9928 -34.028 -56.5874 0.949935 99.0142 6.75877 8.15409 
-
-# diagonal of covariance matrix
-2.37038 120.753 499.572 132.543 484.215 85.2164 530.205 157.649 0.771029 0.310414 
-
-# definition for class # 228
-# class name, prior probability
-''	0.000736354
-# class type is GaussDiag
-# mean vector
-6.29351 -22.6011 41.3582 31.0269 32.7835 -64.6967 -31.8172 106.062 7.45168 8.6087 
-
-# diagonal of covariance matrix
-1.59993 86.3673 847.699 128.281 1439.59 133.577 308.136 287.153 0.53416 0.138987 
-
-# definition for class # 229
-# class name, prior probability
-''	0.000449403
-# class type is GaussDiag
-# mean vector
-3.42312 -32.7062 38.5044 -12.5418 76.0521 -46.9841 -25.3727 65.341 7.19165 9.16021 
-
-# diagonal of covariance matrix
-0.907951 85.2245 845.081 115.824 55.158 152.574 442.636 519.003 2.01307 0.126456 
-
-# definition for class # 230
-# class name, prior probability
-''	0.000959507
-# class type is GaussDiag
-# mean vector
-6.04458 -3.62963 15.3069 33.9912 13.9767 -37.538 -33.8356 78.9282 6.9019 8.46052 
-
-# diagonal of covariance matrix
-1.87655 53.3256 961.269 71.3484 1130.15 66.2386 276.632 89.1294 0.725777 0.279004 
-
-# definition for class # 231
-# class name, prior probability
-''	0.00029334
-# class type is GaussDiag
-# mean vector
-4.29482 -25.0369 -15.0171 18.6658 72.635 -51.3335 -37.9454 119.462 7.63713 8.88324 
-
-# diagonal of covariance matrix
-1.59932 154.39 953.947 272.581 137.936 192.952 721.417 761.83 1.43585 0.220254 
-
-# definition for class # 232
-# class name, prior probability
-''	0.000533117
-# class type is GaussDiag
-# mean vector
-4.35355 -16.4392 -16.0303 12.1394 -5.9916 -42.4964 -33.3555 59.4427 4.61439 8.49972 
-
-# diagonal of covariance matrix
-1.2583 25.9677 730.597 41.308 806.471 35.716 192.021 66.3856 4.52781 0.31997 
-
-# definition for class # 233
-# class name, prior probability
-''	0.000935555
-# class type is GaussDiag
-# mean vector
-2 -55.504 -16.8687 -46.86 -19.2013 -64.148 -12.3239 20.196 1.2709 9.47262 
-
-# diagonal of covariance matrix
-9.8371e-06 91.3355 252.278 105.38 396.632 106.364 509.876 64.4016 0.678433 0.0424736 
-
-# definition for class # 234
-# class name, prior probability
-''	0.000222347
-# class type is GaussDiag
-# mean vector
-2.8834 -18.5277 -64.3476 -4.14131 -20.7593 -39.9106 -78.5341 65.1186 7.54144 9.49814 
-
-# diagonal of covariance matrix
-0.593145 85.3103 151.416 124.174 661.681 188.474 57.7846 626.888 2.17608 0.104134 
-
-# definition for class # 235
-# class name, prior probability
-''	0.0002569
-# class type is GaussDiag
-# mean vector
-2.65124 -9.16029 -20.7877 1.50006 31.666 -17.0344 -44.9505 46.7546 7.81073 9.39134 
-
-# diagonal of covariance matrix
-0.800096 32.1161 664.231 50.6391 1381 51.0122 487.703 532.447 1.2575 0.0833293 
-
-# definition for class # 236
-# class name, prior probability
-''	0.000294895
-# class type is GaussDiag
-# mean vector
-0.888397 15.5057 -34.7291 20.0488 45.537 10.8474 -68.9606 13.8499 7.1488 9.58819 
-
-# diagonal of covariance matrix
-0.108001 56.7853 563.35 66.7196 295.602 54.1659 67.1055 26.7553 0.871057 0.0604039 
-
-# definition for class # 237
-# class name, prior probability
-''	0.0104069
-# class type is GaussDiag
-# mean vector
-0 107.417 0 107.417 0 107.417 0 -150.936 0 10.0079 
-
-# diagonal of covariance matrix
-0 18.8879 0 18.8879 0 18.8879 0 549.823 0 0.000929206 
-
-# definition for class # 238
-# class name, prior probability
-''	0.00257295
-# class type is GaussDiag
-# mean vector
-0 31.2103 0 31.2103 0 31.2103 0 -45.5198 0 10.0069 
-
-# diagonal of covariance matrix
-0 24.3321 0 24.3321 0 24.3321 0 127.128 0 0.000956043 
-
-# definition for class # 239
-# class name, prior probability
-''	0.000449418
-# class type is GaussDiag
-# mean vector
-1.68752 18.5532 81.9732 22.9422 81.7691 13.9604 81.3994 57.6191 9.2571 9.65012 
-
-# diagonal of covariance matrix
-0.471456 58.1688 7.12473 74.6384 11.3949 76.6543 12.1378 450.03 0.174501 0.060687 
-
-# definition for class # 240
-# class name, prior probability
-''	0.000338797
-# class type is GaussDiag
-# mean vector
-1.77738 -51.4576 85.63 -41.6152 85.5343 -61.0946 84.761 202.566 9.67175 9.91638 
-
-# diagonal of covariance matrix
-0.39814 783.285 15.3435 1048.73 19.6931 923.49 24.014 25385.2 0.129846 0.00430594 
-
-# definition for class # 241
-# class name, prior probability
-''	0.000773138
-# class type is GaussDiag
-# mean vector
-3.33688 -22.7677 -40.4679 -11.1352 -45.2693 -34.403 -30.7151 29.8015 4.29076 8.9362 
-
-# diagonal of covariance matrix
-0.816832 12.5798 113.019 21.1893 139.251 19.7836 306.843 30.7435 3.53518 0.162124 
-
-# definition for class # 242
-# class name, prior probability
-''	0.000348655
-# class type is GaussDiag
-# mean vector
-2.46674 -19.2321 -60.3592 -10.9792 -59.7006 -27.3214 -58.5724 29.8689 5.66556 9.31055 
-
-# diagonal of covariance matrix
-0.829474 61.0074 36.7169 88.3062 79.0382 82.7631 104.284 149.509 3.84103 0.17147 
-
-# definition for class # 243
-# class name, prior probability
-''	0.000595713
-# class type is GaussDiag
-# mean vector
-2.47573 -7.8805 -47.5707 -2.17929 -46.91 -13.5319 -46.7818 19.15 4.41178 9.16495 
-
-# diagonal of covariance matrix
-0.588141 9.53183 21.5084 12.5103 67.3722 16.8457 44.4632 22.1095 1.6901 0.0977853 
-
-# definition for class # 244
-# class name, prior probability
-''	0.000712752
-# class type is GaussDiag
-# mean vector
-3.80527 -5.59418 -61.5896 6.26135 -71.6692 -15.377 -40.5013 37.6833 6.5206 8.82087 
-
-# diagonal of covariance matrix
-0.89052 27.0448 46.3512 33.0795 36.0661 46.0669 139.725 82.8289 1.18688 0.181863 
-
-# definition for class # 245
-# class name, prior probability
-''	0.00163814
-# class type is GaussDiag
-# mean vector
-4.80968 12.0023 -66.793 80.1489 -85.5512 -25.8935 -15.0138 167.903 7.72458 8.52883 
-
-# diagonal of covariance matrix
-1.90748 111.011 175.436 552.023 3.22201 193.235 1158.99 1252.98 0.747666 0.380564 
-
-# definition for class # 246
-# class name, prior probability
-''	0.00523161
-# class type is GaussDiag
-# mean vector
-3.81975 51.893 83.2975 162.432 88.3791 -13.4766 -2.1704 331.441 9.35031 9.58572 
-
-# diagonal of covariance matrix
-1.38621 3319.31 16.4274 7045.54 0.455296 4173.49 2490.07 12187.9 0.0974036 0.043876 
-
-# definition for class # 247
-# class name, prior probability
-''	0.000937963
-# class type is GaussDiag
-# mean vector
-4.59995 16.3986 16.9486 28.7611 -33.358 4.02101 37.1169 30.3944 5.14483 8.20065 
-
-# diagonal of covariance matrix
-0.553362 9.17991 268.274 14.0341 83.5338 12.5135 231.156 19.8495 0.924421 0.403839 
-
-# definition for class # 248
-# class name, prior probability
-''	0.000471816
-# class type is GaussDiag
-# mean vector
-3.57979 -0.443541 -24.074 25.2654 -32.1135 -26.8831 -7.19059 55.4693 2.69772 8.11288 
-
-# diagonal of covariance matrix
-1.2834 24.4215 145.307 41.7116 115.723 34.9729 258.631 60.1568 4.07451 0.64608 
-
-# definition for class # 249
-# class name, prior probability
-''	0.000521577
-# class type is GaussDiag
-# mean vector
-6.94812 3.47996 -42.3002 31.7848 -40.6274 -28.4958 -16.3094 66.4067 6.25491 7.68676 
-
-# diagonal of covariance matrix
-3.56253 27.9586 275.173 24.1663 263.404 30.5522 614.645 46.9099 0.995808 0.683528 
-
-# definition for class # 250
-# class name, prior probability
-''	0.000639325
-# class type is GaussDiag
-# mean vector
-5.59156 13.9433 -53.4213 41.3483 -48.1524 -12.9992 -44.9407 63.2809 5.56707 8.03446 
-
-# diagonal of covariance matrix
-2.56826 12.8504 111.595 20.8781 191.806 19.6898 149.513 34.848 1.82513 0.531651 
-
-# definition for class # 251
-# class name, prior probability
-''	0.00110907
-# class type is GaussDiag
-# mean vector
-2.9687 0.558589 -69.1339 31.0435 -84.6732 -15.2389 -16.7551 121.168 8.85559 9.36606 
-
-# diagonal of covariance matrix
-0.60613 74.6222 164.873 268.421 6.62914 97.9979 915.147 1398.72 0.256224 0.0885124 
-
-# definition for class # 252
-# class name, prior probability
-''	0.001693
-# class type is GaussDiag
-# mean vector
-4.153 18.6334 69.1235 83.1943 86.4512 -16.1485 -8.11039 171.836 8.15674 8.8683 
-
-# diagonal of covariance matrix
-1.32599 162.785 184.542 518.789 1.67997 224.761 1210.96 1136.39 0.581191 0.233944 
-
-# definition for class # 253
-# class name, prior probability
-''	0.00058517
-# class type is GaussDiag
-# mean vector
-5.37339 8.89089 56.4225 31.9006 75.9287 -10.3074 -37.4996 60.2621 6.83939 8.24776 
-
-# diagonal of covariance matrix
-1.49808 18.1971 159.252 52.5017 29.6422 34.5595 192.24 120.799 0.834549 0.443855 
-
-# definition for class # 254
-# class name, prior probability
-''	0.000620361
-# class type is GaussDiag
-# mean vector
-2 1.15502 -42.5867 7.05515 -43.6692 -4.7451 -40.2323 18.1251 3.14725 8.96071 
-
-# diagonal of covariance matrix
-0 4.69286 19.6429 7.65546 39.1809 7.78982 79.992 13.1428 0.599617 0.207684 
-
-# definition for class # 255
-# class name, prior probability
-''	0.000470831
-# class type is GaussDiag
-# mean vector
-2.80476 4.72254 14.5092 11.5619 -37.1435 -2.12727 51.4898 21.2858 4.884 8.8243 
-
-# diagonal of covariance matrix
-0.741082 4.34372 188.933 10.4795 126.27 7.89622 98.7606 29.2807 2.25395 0.240228 
-
-# definition for class # 256
-# class name, prior probability
-''	0.000396828
-# class type is GaussDiag
-# mean vector
-3.11514 -9.53714 55.7654 2.45644 -17.2841 -22.594 74.5027 40.1238 6.31603 9.13668 
-
-# diagonal of covariance matrix
-0.643103 36.811 224.21 52.5826 679.324 66.5002 29.7075 128.391 3.14596 0.223584 
-
-# definition for class # 257
-# class name, prior probability
-''	0.000364269
-# class type is GaussDiag
-# mean vector
-4.47428 -0.908787 -19.9896 17.5048 -8.48328 -18.2708 -32.086 39.02 3.88678 7.86773 
-
-# diagonal of covariance matrix
-2.79582 10.3829 131.384 12.036 159.613 13.3249 94.2787 19.0195 3.87704 0.905623 
-
-# definition for class # 258
-# class name, prior probability
-''	0.000691191
-# class type is GaussDiag
-# mean vector
-4.54117 -6.93156 -41.6379 9.28232 -27.5205 -20.3692 -41.3614 35.3352 5.6468 8.72995 
-
-# diagonal of covariance matrix
-0.748274 8.49868 100.845 21.7485 201.825 14.5797 106.745 36.2435 1.47794 0.226172 
-
-# definition for class # 259
-# class name, prior probability
-''	0.000372589
-# class type is GaussDiag
-# mean vector
-2.9266 -2.20463 53.1328 8.83632 76.1709 -11.1848 -29.6699 41.0218 7.13937 9.18805 
-
-# diagonal of covariance matrix
-0.337082 23.4706 171.855 31.1444 14.5638 33.0002 210.547 107.182 1.605 0.14023 
-
-# definition for class # 260
-# class name, prior probability
-''	0.000382336
-# class type is GaussDiag
-# mean vector
-3.08198 3.19394 60.5821 12.3828 38.841 -6.21265 67.2043 34.0474 6.43223 8.91793 
-
-# diagonal of covariance matrix
-0.7149 19.7015 65.6192 36.2353 514.167 35.1577 63.6822 144.744 2.71902 0.370127 
-
-# definition for class # 261
-# class name, prior probability
-''	0.000241496
-# class type is GaussDiag
-# mean vector
-0.952975 -23.2046 -2.48054 -20.382 -42.1372 -26.0387 41.1317 8.32393 6.65831 9.81735 
-
-# diagonal of covariance matrix
-0.180059 40.4326 203.684 40.9541 202.836 47.221 168.403 27.433 1.47061 0.0248267 
-
-# definition for class # 262
-# class name, prior probability
-''	0.000303041
-# class type is GaussDiag
-# mean vector
-3.3874 -17.412 -22.0751 5.36087 -34.2211 -42.2646 -0.148467 50.829 2.66715 8.68556 
-
-# diagonal of covariance matrix
-1.09202 33.2342 182.8 63.2057 195.536 75.6037 7.00569 126.403 4.24511 0.27674 
-
-# definition for class # 263
-# class name, prior probability
-''	0.000619428
-# class type is GaussDiag
-# mean vector
-5.23687 -1.75597 19.5449 16.2897 31.3351 -18.7405 -34.4653 41.0498 6.02551 8.4037 
-
-# diagonal of covariance matrix
-1.07189 23.2588 366.116 24.8567 430.651 33.6827 91.353 38.7138 1.11793 0.312131 
-
-# definition for class # 264
-# class name, prior probability
-''	0.00041022
-# class type is GaussDiag
-# mean vector
-2.42993 -54.2764 27.6783 -45.4067 38.2625 -62.5733 6.59677 26.9749 5.8457 9.62882 
-
-# diagonal of covariance matrix
-0.96025 89.7821 1173.85 128.812 1047.15 118.792 1709.23 215.683 5.61729 0.0722154 
-
-# definition for class # 265
-# class name, prior probability
-''	0.000913803
-# class type is GaussDiag
-# mean vector
-2.90051 -35.7642 -11.2578 -13.3666 -20.1906 -58.5501 1.47208 48.7276 1.59396 8.61422 
-
-# diagonal of covariance matrix
-0.897092 74.8222 442.623 100.569 538.489 140.946 858.219 175.501 1.47257 0.175423 
-
-# definition for class # 266
-# class name, prior probability
-''	0.000205229
-# class type is GaussDiag
-# mean vector
-2.00525 -6.26401 -21.1054 1.54929 -3.02846 -14.0763 -34.7115 18.7328 1.3747 9.23856 
-
-# diagonal of covariance matrix
-0.00331258 6.71398 43.1231 14.314 172.077 14.0078 106.552 32.3322 0.51894 0.134509 
-
-# definition for class # 267
-# class name, prior probability
-''	0.000998822
-# class type is GaussDiag
-# mean vector
-2.90541 -17.6257 -39.0565 -11.6749 -39.999 -23.5119 -36.8152 17.5377 4.22845 9.12972 
-
-# diagonal of covariance matrix
-0.884942 4.86769 46.0498 10.7567 63.2 8.14657 101.961 19.311 1.61461 0.097518 
-
-# definition for class # 268
-# class name, prior probability
-''	0.0010622
-# class type is GaussDiag
-# mean vector
-3.0342 -33.4925 -38.9619 -25.923 -42.0153 -41.1802 -33.5505 21.1102 4.26089 9.20282 
-
-# diagonal of covariance matrix
-0.86533 12.1825 84.3804 20.136 96.6544 19.9813 192.934 33.2534 2.11762 0.0765079 
-
-# definition for class # 269
-# class name, prior probability
-''	0.000202239
-# class type is GaussDiag
-# mean vector
-1.25755 -0.333795 -26.9488 2.16894 -1.33817 -2.86872 -44.7966 7.58013 5.81942 9.74986 
-
-# diagonal of covariance matrix
-0.501858 17.4455 21.5712 21.1563 79.458 19.1318 32.4147 22.1916 2.54735 0.0469327 
-
-# definition for class # 270
-# class name, prior probability
-''	0.000260353
-# class type is GaussDiag
-# mean vector
-2 0.883471 -14.149 5.24006 -21.0938 -3.47312 -6.4994 10.649 1.49766 9.01948 
-
-# diagonal of covariance matrix
-0 2.65776 5.53579 4.96347 31.2556 4.35844 33.4072 8.46079 0.359965 0.263287 
-
-# definition for class # 271
-# class name, prior probability
-''	0.000124696
-# class type is GaussDiag
-# mean vector
-1.93518 5.03451 -9.63274 7.47356 -26.5941 2.58234 9.63035 8.24503 3.87544 9.30299 
-
-# diagonal of covariance matrix
-0.106998 1.85481 6.75602 2.5563 17.5599 2.93577 14.3354 5.10927 2.37907 0.117075 
-
-# definition for class # 272
-# class name, prior probability
-''	0.000650518
-# class type is GaussDiag
-# mean vector
-2.82654 6.65184 53.3583 13.9923 -20.5236 -0.512204 71.4759 26.0122 6.42808 9.10949 
-
-# diagonal of covariance matrix
-0.458612 5.80732 79.1319 10.8885 261.328 12.3062 16.9362 45.4225 1.88499 0.199986 
-
-# definition for class # 273
-# class name, prior probability
-''	0.000346061
-# class type is GaussDiag
-# mean vector
-2.94585 -72.2015 31.2707 -52.734 4.2521 -93.3261 34.488 50.9074 4.03493 9.2417 
-
-# diagonal of covariance matrix
-0.993759 170.703 730.133 322.265 1604.25 190.988 1222.88 424.097 7.37934 0.204484 
-
-# definition for class # 274
-# class name, prior probability
-''	0.000211297
-# class type is GaussDiag
-# mean vector
-3.40882 -3.86639 -24.1226 8.33598 22.6448 -14.17 -47.9506 30.6579 4.49643 8.64049 
-
-# diagonal of covariance matrix
-1.58265 5.86163 221.611 17.8232 383.222 15.1311 97.0901 44.7071 3.92202 0.29564 
-
-# definition for class # 275
-# class name, prior probability
-''	0.000425248
-# class type is GaussDiag
-# mean vector
-3.94208 5.12927 -2.49978 17.534 49.4479 -5.53269 -46.4071 35.3876 5.69216 8.66403 
-
-# diagonal of covariance matrix
-1.3419 8.43639 594.367 19.2388 222.365 14.7507 145.781 46.3578 1.99851 0.211979 
-
-# definition for class # 276
-# class name, prior probability
-''	0.000784695
-# class type is GaussDiag
-# mean vector
-3.92998 0.0940144 -40.2779 8.93652 -31.0783 -7.73916 -40.7909 22.224 4.9727 8.88404 
-
-# diagonal of covariance matrix
-0.392858 6.84646 46.9307 10.1879 152.899 11.3217 69.2923 15.8678 1.46705 0.156832 
-
-# definition for class # 277
-# class name, prior probability
-''	0.000374228
-# class type is GaussDiag
-# mean vector
-2.15988 3.50692 -56.7835 9.61956 -51.7588 -2.65436 -59.0497 23.2058 4.76409 8.91533 
-
-# diagonal of covariance matrix
-0.107879 14.5563 21.534 23.1251 92.9566 18.9651 52.0029 31.6089 1.80555 0.399893 
-
-# definition for class # 278
-# class name, prior probability
-''	0.000601114
-# class type is GaussDiag
-# mean vector
-2.00189 7.68763 -49.434 11.9892 -47.681 3.38623 -49.8627 16.9162 4.52859 9.1055 
-
-# diagonal of covariance matrix
-0.000566647 4.44444 13.9998 6.90609 47.542 6.26235 46.0712 9.63315 1.00177 0.177861 
-
-# definition for class # 279
-# class name, prior probability
-''	0.000772574
-# class type is GaussDiag
-# mean vector
-6.08846 8.04611 -69.4883 47.9796 -79.4643 -23.7543 -40.7412 98.7757 7.06411 8.12937 
-
-# diagonal of covariance matrix
-2.58825 59.4181 81.2566 124.398 19.6546 90.9503 251.775 253.561 0.986051 0.543443 
-
-# definition for class # 280
-# class name, prior probability
-''	0.00668079
-# class type is GaussDiag
-# mean vector
-3.77521 132.903 -73.9037 214.039 -87.0483 95.0606 -14.924 217.612 8.46852 9.38008 
-
-# diagonal of covariance matrix
-1.25779 971.593 102.243 2211.81 2.31317 1187.18 1118.35 5120.52 0.658264 0.114595 
-
-# definition for class # 281
-# class name, prior probability
-''	0.00164156
-# class type is GaussDiag
-# mean vector
-5.87265 82.2701 -48.4327 126.961 -36.0992 34.9723 -33.0093 97.8398 5.49162 8.3167 
-
-# diagonal of covariance matrix
-2.40338 55.77 195.704 73.205 232.328 68.5281 303.486 127.534 2.11121 0.3665 
-
-# definition for class # 282
-# class name, prior probability
-''	0.00128723
-# class type is GaussDiag
-# mean vector
-5.71842 68.8062 -29.4417 104.404 -21.4981 31.7515 -29.7272 76.6169 5.60436 8.45255 
-
-# diagonal of covariance matrix
-2.12707 35.1771 402.866 39.4041 243.099 41.3123 178.024 62.3313 1.97785 0.262599 
-
-# definition for class # 283
-# class name, prior probability
-''	0.00549906
-# class type is GaussDiag
-# mean vector
-4.56606 130.733 -29.8552 171.742 -29.3882 85.7715 -21.4946 93.2657 4.73963 8.80509 
-
-# diagonal of covariance matrix
-1.4658 149.982 573.427 262.384 499.764 195.37 576.062 416.568 3.72331 0.194096 
-
-# definition for class # 284
-# class name, prior probability
-''	0.00595051
-# class type is GaussDiag
-# mean vector
-3.26268 167.481 -19.6581 196.757 -19.6502 136.217 -15.3539 65.7878 2.77561 9.03201 
-
-# diagonal of covariance matrix
-1.23332 395.414 709.599 579.581 798.52 494.831 841.598 587.625 4.40999 0.146789 
-
-# definition for class # 285
-# class name, prior probability
-''	0.00154582
-# class type is GaussDiag
-# mean vector
-4.17632 103.759 15.0925 150.596 66.9499 67.3819 -32.5446 126.235 7.32874 9.13058 
-
-# diagonal of covariance matrix
-1.71745 260.169 1492.74 752.748 309.261 369.99 869.229 1977.03 1.83137 0.175805 
-
-# definition for class # 286
-# class name, prior probability
-''	0.00353104
-# class type is GaussDiag
-# mean vector
-3.64528 196.998 62.2822 261.111 47.6592 145.693 10.8301 173.331 8.02352 9.44607 
-
-# diagonal of covariance matrix
-1.01004 994.788 461.007 1684.84 2025.37 1907.05 2090.68 4408.57 1.51042 0.0970705 
-
-# definition for class # 287
-# class name, prior probability
-''	0.00179715
-# class type is GaussDiag
-# mean vector
-3.04736 127.857 62.9929 158.857 82.133 108.678 -13.7288 97.0412 7.5279 9.51052 
-
-# diagonal of covariance matrix
-0.479367 364.286 297.304 627.155 24.8498 410.191 889.9 1679.81 2.24802 0.0654148 
-
-# definition for class # 288
-# class name, prior probability
-''	0.00188295
-# class type is GaussDiag
-# mean vector
-2 51.6766 -29.4898 55.7155 -28.5845 47.6377 -29.3867 12.0817 2.85672 9.50525 
-
-# diagonal of covariance matrix
--1.01512e-05 11.7484 25.9457 14.423 75.6974 14.5695 77.446 12.4645 0.895111 0.0509239 
-
-# definition for class # 289
-# class name, prior probability
-''	0.00164907
-# class type is GaussDiag
-# mean vector
-1.99989 42.4462 -30.9614 46.1658 -28.2537 38.7266 -32.4404 11.6871 3.14326 9.42423 
-
-# diagonal of covariance matrix
-2.0306e-05 3.63991 33.5808 6.30907 99.6605 6.03048 78.9306 11.7867 1.05292 0.110393 
-
-# definition for class # 290
-# class name, prior probability
-''	0.00157866
-# class type is GaussDiag
-# mean vector
-2.02256 66.9668 -40.3294 72.2601 -38.1759 61.6691 -41.0593 16.6157 3.35138 9.38667 
-
-# diagonal of covariance matrix
-0.0148916 24.278 33.3096 25.788 99.5008 32.6814 66.7739 23.6755 0.998851 0.0865202 
-
-# definition for class # 291
-# class name, prior probability
-''	0.00227417
-# class type is GaussDiag
-# mean vector
-2.00083 75.367 -20.2049 82.4229 -21.9377 68.3108 -16.4473 17.3405 1.64081 9.48135 
-
-# diagonal of covariance matrix
-0.000299599 12.5258 194.348 17.2358 313.317 29.8149 442.427 51.1671 0.786233 0.0696049 
-
-# definition for class # 292
-# class name, prior probability
-''	0.00332133
-# class type is GaussDiag
-# mean vector
-2 63.0928 -18.0963 68.1618 -16.7995 58.0238 -17.7825 12.89 1.79547 9.56105 
-
-# diagonal of covariance matrix
-0 21.3187 129.368 24.3997 265.169 29.6381 267.053 26.2299 1.02738 0.0409133 
-
-# definition for class # 293
-# class name, prior probability
-''	0.0010541
-# class type is GaussDiag
-# mean vector
-1.14861 107.741 -0.293576 110.072 -0.529136 105.408 0.0731292 5.20881 4.48977 9.89884 
-
-# diagonal of covariance matrix
-0.462365 137.877 15.1934 134.555 59.4809 147.454 46.2955 13.165 10.4355 0.00936299 
-
-# definition for class # 294
-# class name, prior probability
-''	0.00431358
-# class type is GaussDiag
-# mean vector
-1.58797 162.247 -9.00304 167.463 -4.79516 157.038 -11.3276 13.4266 3.79035 9.79072 
-
-# diagonal of covariance matrix
-0.371761 378.413 492.499 418.645 912.119 365.168 893.696 76.7294 7.81525 0.0264023 
-
-# definition for class # 295
-# class name, prior probability
-''	0.000958575
-# class type is GaussDiag
-# mean vector
-3.19483 64.1384 10.5351 78.7341 -32.5815 36.2662 76.6439 98.0031 8.05424 9.23727 
-
-# diagonal of covariance matrix
-0.75926 102.526 676.574 141.071 412.856 228.953 41.8829 807.192 0.797414 0.126432 
-
-# definition for class # 296
-# class name, prior probability
-''	0.00126004
-# class type is GaussDiag
-# mean vector
-2.99134 74.0657 -22.9526 89.4331 -0.00958319 58.8329 -37.9057 35.1387 2.69616 8.82135 
-
-# diagonal of covariance matrix
-0.886595 56.4428 158.442 87.1009 536 100.56 159.438 146.912 3.52592 0.23878 
-
-# definition for class # 297
-# class name, prior probability
-''	0.000709303
-# class type is GaussDiag
-# mean vector
-2.91067 51.6872 53.8977 61.7966 -17.7873 40.1726 74.252 40.0471 6.41622 9.30888 
-
-# diagonal of covariance matrix
-0.37968 23.6636 182.598 34.3401 611.7 49.9622 23.4308 144.96 2.78362 0.10836 
-
-# definition for class # 298
-# class name, prior probability
-''	0.00102726
-# class type is GaussDiag
-# mean vector
-4.81072 70.5255 24.7655 103.098 38.8967 38.7359 -24.1664 74.132 5.71977 8.65645 
-
-# diagonal of covariance matrix
-1.60337 58.7143 921.64 100.201 797.717 111.03 463.425 236.076 2.88053 0.365667 
-
-# definition for class # 299
-# class name, prior probability
-''	0.00176457
-# class type is GaussDiag
-# mean vector
-0.984489 92.0312 -15.341 94.5014 13.9339 89.5422 -37.8361 7.45739 6.49795 9.85507 
-
-# diagonal of covariance matrix
-0.192041 220.379 490.937 226.504 979.496 221.865 412.829 25.3317 1.90944 0.0180958 
-
-# definition for class # 300
-# class name, prior probability
-''	0.000401863
-# class type is GaussDiag
-# mean vector
-4.99529 64.0276 59.4737 99.5739 54.621 23.4554 76.5595 121.759 7.58163 8.64336 
-
-# diagonal of covariance matrix
-2.55268 116.976 518.149 285.439 576.387 245.114 52.0328 768.148 0.652076 0.313527 
-
-# definition for class # 301
-# class name, prior probability
-''	0.00106262
-# class type is GaussDiag
-# mean vector
-3.1287 44.9671 -0.969593 59.3088 -5.78569 30.4572 0.993815 31.0211 2.10051 8.65938 
-
-# diagonal of covariance matrix
-0.818237 9.72001 226.662 18.5562 381.291 15.378 345.36 28.7875 3.03457 0.334437 
-
-# definition for class # 302
-# class name, prior probability
-''	0.00475183
-# class type is GaussDiag
-# mean vector
-0 56.8901 0 56.8901 0 56.8901 0 -81.2553 0 10.0053 
-
-# diagonal of covariance matrix
-0 3.64661 0 3.64661 0 3.64661 0 298.356 0 0.00198439 
-
-# definition for class # 303
-# class name, prior probability
-''	0.0010378
-# class type is GaussDiag
-# mean vector
-0.354089 -20.7281 9.81763e-06 -19.3989 -1.27359e-05 -22.0569 4.4389e-07 2.71274 7.05855 9.96469 
-
-# diagonal of covariance matrix
-0.061145 25.1959 4.26954e-08 25.8437 4.86747e-08 27.2582 1.03715e-08 5.39514 9.40917 0.0015462 
-
-# definition for class # 304
-# class name, prior probability
-''	0.00076044
-# class type is GaussDiag
-# mean vector
-2.68035 -24.1385 -33.1822 -18.8861 -37.2571 -29.3851 -27.844 15.1813 3.77398 9.1934 
-
-# diagonal of covariance matrix
-0.764524 5.65078 50.8815 8.53219 64.5286 9.63196 159.667 14.8231 1.69298 0.0948886 
-
-# definition for class # 305
-# class name, prior probability
-''	0.00057869
-# class type is GaussDiag
-# mean vector
-1.99999 -11.8442 -24.5712 -8.97261 -25.0515 -14.7158 -23.0508 9.02263 2.93765 9.51064 
-
-# diagonal of covariance matrix
-9.60554e-06 4.46492 60.8271 5.11566 123.924 5.65121 135.188 5.03655 1.15047 0.0346265 
-
-# definition for class # 306
-# class name, prior probability
-''	0.000324897
-# class type is GaussDiag
-# mean vector
-2 -4.1599 -19.6365 -1.13223 -21.624 -7.18757 -17.2591 8.53967 2.28811 9.41591 
-
-# diagonal of covariance matrix
-0 1.69333 9.99489 3.29265 32.1066 2.02844 44.6875 4.44974 0.541252 0.0835413 
-
-# definition for class # 307
-# class name, prior probability
-''	0.000129381
-# class type is GaussDiag
-# mean vector
-3.14708 -4.3434 -31.6776 -0.341134 -28.1655 -8.23074 -34.5036 12.275 4.64862 9.22906 
-
-# diagonal of covariance matrix
-0.734988 4.81798 16.6595 6.8592 38.9307 7.42112 41.6315 9.37541 1.42453 0.0773459 
-
-# definition for class # 308
-# class name, prior probability
-''	0.000457484
-# class type is GaussDiag
-# mean vector
-1.99961 -1.07756 -24.8906 0.997244 -23.7187 -3.15236 -25.6214 7.42712 3.52471 9.54088 
-
-# diagonal of covariance matrix
-4.96562e-05 1.15697 15.187 1.59208 46.4082 1.86433 38.3358 2.93969 0.820719 0.035404 
-
-# definition for class # 309
-# class name, prior probability
-''	0.000193593
-# class type is GaussDiag
-# mean vector
-2 0.556307 -22.2971 3.49593 -28.1512 -2.38331 -15.6939 8.86517 2.72907 9.30251 
-
-# diagonal of covariance matrix
-0 0.995503 5.47832 1.55867 14.276 1.79654 28.9965 3.54887 0.401678 0.105497 
-
-# definition for class # 310
-# class name, prior probability
-''	0.000684552
-# class type is GaussDiag
-# mean vector
-2 5.12202 -29.8979 7.39217 -29.1112 2.85186 -30.3273 8.5722 3.90671 9.42163 
-
-# diagonal of covariance matrix
-0 0.866413 6.6266 1.37863 23.2499 1.49697 25.0699 2.56799 0.698917 0.0451891 
-
-# definition for class # 311
-# class name, prior probability
-''	0.000272797
-# class type is GaussDiag
-# mean vector
-1.74406 2.47936 -11.1996 5.3558 -21.4869 -0.378967 0 6.97111 2.9732 9.32201 
-
-# diagonal of covariance matrix
-0.148355 2.51122 10.17 4.1933 31.7781 3.48719 0 5.66023 2.72488 0.256323 
-
-# definition for class # 312
-# class name, prior probability
-''	0.000402273
-# class type is GaussDiag
-# mean vector
-2.73494 0.0659065 39.3608 7.81934 -17.2509 -7.62331 61.6382 22.6277 4.26704 8.92541 
-
-# diagonal of covariance matrix
-0.509313 6.97286 79.4573 14.37 203.545 14.37 33.3325 32.5191 2.74487 0.258455 
-
-# definition for class # 313
-# class name, prior probability
-''	0.000281832
-# class type is GaussDiag
-# mean vector
-2.50561 -0.638584 -44.5692 5.79553 -59.0992 -6.67788 -15.7005 20.1326 4.71812 8.84175 
-
-# diagonal of covariance matrix
-0.511229 6.77086 33.5863 10.9215 58.3844 12.6953 269.151 27.4914 2.03294 0.257958 
-
-# definition for class # 314
-# class name, prior probability
-''	0.000528737
-# class type is GaussDiag
-# mean vector
-2.85969 10.183 -45.9415 19.0257 -47.8323 1.2726 -37.444 24.2895 3.35583 8.18816 
-
-# diagonal of covariance matrix
-0.736753 2.76452 20.7286 4.83174 53.9413 6.28346 112.437 12.1883 1.3157 0.721037 
-
-# definition for class # 315
-# class name, prior probability
-''	0.00097901
-# class type is GaussDiag
-# mean vector
-5.23494 9.54059 -25.0226 25.244 -26.8456 -6.0264 -28.041 35.4226 5.57089 8.53479 
-
-# diagonal of covariance matrix
-1.5329 6.23094 187.114 9.19947 139.734 10.7385 169.812 17.6794 0.974484 0.230761 
-
-# definition for class # 316
-# class name, prior probability
-''	0.000506113
-# class type is GaussDiag
-# mean vector
-3.85716 9.72005 -36.6237 17.9952 -43.3434 0.245984 -14.0875 22.1565 4.63724 8.4775 
-
-# diagonal of covariance matrix
-0.193417 3.53534 46.6947 6.18682 41.4697 6.18471 117.183 13.0395 1.13451 0.213589 
-
-# definition for class # 317
-# class name, prior probability
-''	0.000302242
-# class type is GaussDiag
-# mean vector
-3.63042 17.8659 -37.4554 30.5994 -52.2139 4.6801 1.91381 31.2486 3.52298 8.0679 
-
-# diagonal of covariance matrix
-1.14275 3.49161 88.5331 7.0489 72.9684 5.86446 105.322 12.237 2.17721 0.455595 
-
-# definition for class # 318
-# class name, prior probability
-''	0.000707435
-# class type is GaussDiag
-# mean vector
-3.69374 16.7773 -31.0179 29.8782 -34.268 3.35051 -18.8616 30.1245 2.86885 7.58429 
-
-# diagonal of covariance matrix
-1.18399 1.55521 57.3699 3.29216 56.414 2.85618 131.579 6.45951 2.0592 1.00794 
-
-# definition for class # 319
-# class name, prior probability
-''	0.000544899
-# class type is GaussDiag
-# mean vector
-5.00967 16.8624 30.3795 34.5055 4.54005 0.695722 11.6406 38.5315 6.15905 8.45275 
-
-# diagonal of covariance matrix
-1.30911 12.2225 340.946 24.1804 581.334 18.9237 640.147 43.6433 1.0271 0.274812 
-
-# definition for class # 320
-# class name, prior probability
-''	0.000762273
-# class type is GaussDiag
-# mean vector
-4.74156 13.0929 -5.67794 35.2202 -22.2435 -8.18887 3.44488 46.2825 3.69076 7.33182 
-
-# diagonal of covariance matrix
-3.01511 7.20496 372.491 14.2475 257.129 10.6395 396.817 21.3999 3.66309 1.29211 
-
-# definition for class # 321
-# class name, prior probability
-''	0.000469909
-# class type is GaussDiag
-# mean vector
-5.45257 25.6244 28.1177 51.1111 -23.9044 1.89221 6.08641 52.3218 6.34068 8.17644 
-
-# diagonal of covariance matrix
-1.72218 15.0523 226.535 17.8255 211.698 15.0577 252.268 23.1392 0.900367 0.494218 
-
-# definition for class # 322
-# class name, prior probability
-''	0.000553053
-# class type is GaussDiag
-# mean vector
-3.18 12.6465 65.5167 23.762 77.6346 2.20012 -3.52098 36.7458 6.50545 8.30454 
-
-# diagonal of covariance matrix
-0.2031 7.61006 27.2119 16.3993 4.47912 9.21887 441.219 27.3662 1.19693 0.651122 
-
-# definition for class # 323
-# class name, prior probability
-''	0.000506234
-# class type is GaussDiag
-# mean vector
-3.24734 8.50761 63.2383 21.1967 79.312 -2.17592 -21.2895 45.0834 7.08948 8.70535 
-
-# diagonal of covariance matrix
-0.406483 11.0011 66.2776 24.735 4.38671 18.799 225.318 60.6269 1.03908 0.315387 
-
-# definition for class # 324
-# class name, prior probability
-''	0.000232064
-# class type is GaussDiag
-# mean vector
-2 4.10764 -16.1206 6.35395 -23.0296 1.86133 -8.58933 6.72087 2.55325 9.47294 
-
-# diagonal of covariance matrix
-0 1.19709 5.04326 1.77932 14.1685 1.65418 14.2226 2.5501 0.735534 0.0473961 
-
-# definition for class # 325
-# class name, prior probability
-''	0.000555933
-# class type is GaussDiag
-# mean vector
-2 1.12015 -1.58458 3.67577 -6.55238 -1.43548 3.42785 6.53016 1.51881 9.45968 
-
-# diagonal of covariance matrix
-0 1.88237 29.9683 2.68181 92.3003 2.79605 116.832 4.30691 1.04105 0.0539551 
-
-# definition for class # 326
-# class name, prior probability
-''	0.000186337
-# class type is GaussDiag
-# mean vector
-1.58015 1.08924 11.3715 3.66102 -1.30633 -1.46738 23.0311 7.08686 3.92022 9.60519 
-
-# diagonal of covariance matrix
-0.313286 19.6035 12.969 18.6435 18.2107 28.3897 43.0055 24.7258 4.59518 0.107117 
-
-# definition for class # 327
-# class name, prior probability
-''	0.000335701
-# class type is GaussDiag
-# mean vector
-2 5.13654 -20.883 8.73019 -32.2377 1.54288 -7.17871 10.1104 2.447 9.02162 
-
-# diagonal of covariance matrix
-0 1.51636 10.5413 2.18358 25.2306 2.39718 51.4741 3.57281 0.495831 0.233277 
-
-# definition for class # 328
-# class name, prior probability
-''	0.000421467
-# class type is GaussDiag
-# mean vector
-2.00001 4.29665 -25.8875 9.5474 -20.7034 -0.954109 -29.548 13.8189 1.92218 8.77376 
-
-# diagonal of covariance matrix
--9.81995e-06 1.4058 9.51132 2.79115 107.432 2.482 65.8845 5.833 0.238544 0.322739 
-
-# definition for class # 329
-# class name, prior probability
-''	0.000309918
-# class type is GaussDiag
-# mean vector
-2.02153 5.79534 -2.40162 8.76392 12.1048 2.83578 -16.1697 8.65575 2.57906 9.18853 
-
-# diagonal of covariance matrix
-0.00863677 2.74633 18.8778 4.10421 38.3348 4.17505 67.7448 6.33728 2.48238 0.131117 
-
-# definition for class # 330
-# class name, prior probability
-''	0.00042476
-# class type is GaussDiag
-# mean vector
-2.33682 4.444 13.0483 8.31268 43.8087 0.711442 -23.8116 15.671 5.26137 9.18134 
-
-# diagonal of covariance matrix
-0.134672 2.41167 38.0029 4.12015 42.1476 4.23639 83.9377 19.4778 3.21058 0.134189 
-
-# definition for class # 331
-# class name, prior probability
-''	0.000572698
-# class type is GaussDiag
-# mean vector
-2 4.9464 -22.0869 6.64204 -23.1858 3.25077 -20.7694 6.25128 3.57131 9.5518 
-
-# diagonal of covariance matrix
-0 1.21832 3.5898 1.63291 16.9417 1.64769 18.3741 1.9896 0.749844 0.0249224 
-
-# definition for class # 332
-# class name, prior probability
-''	0.00047518
-# class type is GaussDiag
-# mean vector
-2.08754 11.4626 -10.3926 15.0966 -34.7098 7.79369 18.9875 13.0256 3.96495 9.17121 
-
-# diagonal of covariance matrix
-0.0272868 1.8328 33.2459 3.79769 36.3698 2.64909 99.0418 7.67573 2.51147 0.0885995 
-
-# definition for class # 333
-# class name, prior probability
-''	0.000608811
-# class type is GaussDiag
-# mean vector
-2.51173 7.11269 26.27 11.7959 -22.624 2.51323 53.6675 14.9134 4.26019 8.9144 
-
-# diagonal of covariance matrix
-0.257303 3.47744 15.9521 5.02074 61.4147 5.38267 12.3696 5.9475 1.96278 0.218172 
-
-# definition for class # 334
-# class name, prior probability
-''	0.000318476
-# class type is GaussDiag
-# mean vector
-2.32466 8.75369 -26.4828 14.5945 -39.174 2.82654 -6.1126 15.037 2.3509 8.59798 
-
-# diagonal of covariance matrix
-0.182556 1.98402 14.7283 3.49557 27.2577 2.72317 53.9399 4.90864 0.34388 0.335048 
-
-# definition for class # 335
-# class name, prior probability
-''	0.000224019
-# class type is GaussDiag
-# mean vector
-2.12826 8.61615 -25.6819 14.6931 -51.9322 2.52738 18.9205 17.4161 3.36454 8.58196 
-
-# diagonal of covariance matrix
-0.22205 4.42346 32.27 6.6988 18.8965 6.40965 99.2817 10.8865 0.87557 0.30607 
-
-# definition for class # 336
-# class name, prior probability
-''	0.00031203
-# class type is GaussDiag
-# mean vector
-2.52574 11.5708 -32.9557 22.997 -48.3025 0.0137793 -1.82518 27.3486 1.96303 7.28231 
-
-# diagonal of covariance matrix
-0.342268 3.63359 39.7118 5.37903 47.9084 7.55653 128.842 11.4251 0.423063 1.47256 
-
-# definition for class # 337
-# class name, prior probability
-''	0.000326581
-# class type is GaussDiag
-# mean vector
-3.80911 11.9803 -51.9871 24.8458 -58.7133 -2.03504 -23.525 34.6277 4.40138 7.91747 
-
-# diagonal of covariance matrix
-0.807883 3.97241 28.6412 6.76314 68.4384 9.31921 202.619 16.3324 1.89685 0.686171 
-
-# definition for class # 338
-# class name, prior probability
-''	0.0005041
-# class type is GaussDiag
-# mean vector
-4.57521 19.6596 -30.3919 33.1983 -39.0824 4.83132 -22.0903 32.9416 5.68982 8.61826 
-
-# diagonal of covariance matrix
-0.598252 6.05215 95.6926 7.29296 45.446 8.99275 140.211 10.2309 0.81685 0.131991 
-
-# definition for class # 339
-# class name, prior probability
-''	0.000608402
-# class type is GaussDiag
-# mean vector
-5.4645 26.5792 24.9958 46.9087 -31.4158 6.50589 37.4493 45.8634 5.28808 7.80896 
-
-# diagonal of covariance matrix
-1.41834 7.83594 211.465 13.9141 169.318 12.1375 200.26 23.4187 0.994108 0.567341 
-
-# definition for class # 340
-# class name, prior probability
-''	0.000714723
-# class type is GaussDiag
-# mean vector
-5.46699 19.4032 40.7908 36.9715 -35.0783 1.50053 55.3224 42.9944 5.91659 8.10041 
-
-# diagonal of covariance matrix
-1.28782 14.5448 169.611 17.4981 101.223 27.7836 139.042 43.2916 0.868658 0.359854 
-
-# definition for class # 341
-# class name, prior probability
-''	0.000211157
-# class type is GaussDiag
-# mean vector
-5.1839 22.6427 -51.7131 47.2289 -54.0948 -1.98784 -5.71495 55.3834 5.10192 7.39966 
-
-# diagonal of covariance matrix
-1.24758 12.0831 80.7852 14.0809 154.043 14.9983 186.619 15.4791 1.61941 1.02233 
-
-# definition for class # 342
-# class name, prior probability
-''	0.000479194
-# class type is GaussDiag
-# mean vector
-5.16732 28.4116 -50.0407 46.1808 -44.5999 6.65006 -24.4647 44.7781 5.8409 8.2964 
-
-# diagonal of covariance matrix
-1.11061 7.74005 75.3584 7.39373 77.2289 6.95349 119.924 10.3719 1.08409 0.294943 
-
-# definition for class # 343
-# class name, prior probability
-''	0.00091959
-# class type is GaussDiag
-# mean vector
-5.84145 25.2375 -20.954 51.5083 -29.5085 0.0196329 -15.837 54.8615 5.49665 7.64483 
-
-# diagonal of covariance matrix
-1.70256 10.3456 208.305 9.12493 142.508 9.31436 241.488 12.6257 1.20654 0.661481 
-
-# definition for class # 344
-# class name, prior probability
-''	0.00103869
-# class type is GaussDiag
-# mean vector
-6.52794 30.7455 -34.0198 57.1159 -28.3824 4.76904 -25.7563 56.2032 5.38296 7.61568 
-
-# diagonal of covariance matrix
-2.4492 8.27924 228.593 8.88416 155.367 7.96016 197.757 14.23 1.09315 0.723308 
-
-# definition for class # 345
-# class name, prior probability
-''	0.000552869
-# class type is GaussDiag
-# mean vector
-4.85496 42.3719 -49.0218 65.2681 -25.9744 17.1434 -31 53.4412 7.22284 8.97028 
-
-# diagonal of covariance matrix
-0.907464 23.4622 153.553 20.2053 412.081 25.1198 247.43 25.0484 0.436483 0.0822856 
-
-# definition for class # 346
-# class name, prior probability
-''	0.000627448
-# class type is GaussDiag
-# mean vector
-4.02869 36.8284 68.1231 58.1501 78.5234 17.1733 0.311177 57.0727 6.67665 8.66556 
-
-# diagonal of covariance matrix
-0.698158 18.369 56.2432 41.0958 11.7655 33.6478 994.182 65.7469 1.02164 0.210772 
-
-# definition for class # 347
-# class name, prior probability
-''	0.000798915
-# class type is GaussDiag
-# mean vector
-3.91081 19.1222 68.9907 39.0094 80.9668 2.8258 -8.58811 55.9327 6.68246 7.9528 
-
-# diagonal of covariance matrix
-0.741164 12.8975 34.8835 31.4468 2.84785 13.3345 526.875 56.1927 0.619031 0.496575 
-
-# definition for class # 348
-# class name, prior probability
-''	0.000355106
-# class type is GaussDiag
-# mean vector
-2 5.59019 -4.15727 8.55434 -9.02042 2.62603 0.782776 6.93682 1.17957 9.14961 
-
-# diagonal of covariance matrix
-0 2.34828 3.81881 3.29646 11.1168 3.82597 13.1481 4.72643 0.555785 0.254549 
-
-# definition for class # 349
-# class name, prior probability
-''	0.00047434
-# class type is GaussDiag
-# mean vector
-2.33254 9.04587 -14.6541 15.4978 -20.3278 2.58405 -6.58384 14.6996 1.26546 8.26132 
-
-# diagonal of covariance matrix
-0.169267 0.887838 11.0294 2.23921 57.7155 1.74152 63.9321 4.56077 0.222401 0.42159 
-
-# definition for class # 350
-# class name, prior probability
-''	0.000358035
-# class type is GaussDiag
-# mean vector
-2.51052 8.48399 36.3769 15.2635 53.7317 1.88111 6.73008 18.358 3.12923 8.29914 
-
-# diagonal of covariance matrix
-0.25338 4.10672 24.1111 9.22057 20.5642 5.56087 150.394 15.7738 1.18692 0.444882 
-
-# definition for class # 351
-# class name, prior probability
-''	0.000336588
-# class type is GaussDiag
-# mean vector
-2.0408 4.12135 9.23286 7.78539 24.9902 0.465938 -8.17926 10.1693 2.50048 8.84089 
-
-# diagonal of covariance matrix
-0.0113849 2.00878 16.9223 3.6769 51.5399 3.70285 78.5037 7.58334 1.81919 0.335668 
-
-# definition for class # 352
-# class name, prior probability
-''	0.000315862
-# class type is GaussDiag
-# mean vector
-2 4.2947 -8.27828 6.34138 -7.44599 2.24802 -9.05443 5.23742 1.27754 9.31622 
-
-# diagonal of covariance matrix
-0 1.16575 3.00458 1.7351 13.6237 1.90621 13.8336 3.08753 0.525862 0.161639 
-
-# definition for class # 353
-# class name, prior probability
-''	0.00013108
-# class type is GaussDiag
-# mean vector
-1.65702 7.65846 -8.05439 9.1173 -15.528 6.19828 -0.201055 4.2245 3.98624 9.68315 
-
-# diagonal of covariance matrix
-0.154205 3.74318 12.0048 4.59284 24.2332 3.79683 43.2625 2.4235 1.55929 0.0152039 
-
-# definition for class # 354
-# class name, prior probability
-''	0.000202903
-# class type is GaussDiag
-# mean vector
-2.01803 5.70851 -18.1645 10.519 -19.3806 0.898795 -16.7033 11.7793 1.38385 8.54655 
-
-# diagonal of covariance matrix
-0.00483516 1.23721 5.22996 2.56764 12.9364 1.86609 19.0468 4.42409 0.168519 0.349793 
-
-# definition for class # 355
-# class name, prior probability
-''	0.000219808
-# class type is GaussDiag
-# mean vector
-2 10.0705 -17.6374 12.2063 -15.4552 7.93479 -19.6686 6.60382 2.53961 9.49627 
-
-# diagonal of covariance matrix
-0 0.580028 2.23415 1.12925 10.5868 1.0344 11.8782 2.75886 0.620612 0.0396568 
-
-# definition for class # 356
-# class name, prior probability
-''	0.000262708
-# class type is GaussDiag
-# mean vector
-2 8.60449 -13.6526 10.7481 -8.92272 6.45928 -18.1678 6.10105 1.97454 9.40707 
-
-# diagonal of covariance matrix
-0 0.854044 3.34551 1.54135 11.1173 1.4129 9.80703 2.80559 0.641012 0.0934337 
-
-# definition for class # 357
-# class name, prior probability
-''	0.000326126
-# class type is GaussDiag
-# mean vector
-2 7.50776 -15.0741 9.70885 -18.9377 5.30666 -10.9855 6.40191 2.33316 9.43517 
-
-# diagonal of covariance matrix
-0 1.01874 2.67253 1.62644 10.2325 1.96006 10.8718 3.32875 0.705595 0.0544579 
-
-# definition for class # 358
-# class name, prior probability
-''	0.000223006
-# class type is GaussDiag
-# mean vector
-1.76624 12.5757 -21.3096 14.7282 -31.6353 10.4044 -7.64817 7.47415 4.6877 9.57303 
-
-# diagonal of covariance matrix
-0.169706 2.14978 16.6169 3.19812 48.9579 3.13646 90.6665 8.38798 1.30367 0.0664821 
-
-# definition for class # 359
-# class name, prior probability
-''	0.00040975
-# class type is GaussDiag
-# mean vector
-2 13.5365 -28.4231 16.0322 -23.1129 11.0407 -33.1041 8.7674 3.50911 9.41676 
-
-# diagonal of covariance matrix
-0 1.98416 2.51339 2.49658 13.2149 2.81094 9.32863 3.3251 0.648147 0.0643238 
-
-# definition for class # 360
-# class name, prior probability
-''	0.00114721
-# class type is GaussDiag
-# mean vector
-2 19.6563 -30.4682 22.1 -30.6084 17.2126 -29.8186 9.03282 3.81138 9.49236 
-
-# diagonal of covariance matrix
-0 1.47288 13.0698 2.09897 35.7198 2.05337 39.4882 2.85627 0.775782 0.0509013 
-
-# definition for class # 361
-# class name, prior probability
-''	0.000971741
-# class type is GaussDiag
-# mean vector
-2 24.8927 -44.1737 28.8475 -43.7724 20.9378 -43.7378 14.7141 4.18734 9.25178 
-
-# diagonal of covariance matrix
-0 3.01834 13.2144 4.89081 39.067 5.07156 38.5448 8.10323 0.947986 0.130773 
-
-# definition for class # 362
-# class name, prior probability
-''	0.00112662
-# class type is GaussDiag
-# mean vector
-2 32.0211 -42.8387 36.0037 -42.2434 28.0385 -42.6075 14.5416 4.06578 9.29747 
-
-# diagonal of covariance matrix
-0 3.46916 19.1255 5.49361 43.8052 5.4905 47.4915 9.60486 0.878632 0.117351 
-
-# definition for class # 363
-# class name, prior probability
-''	0.00129168
-# class type is GaussDiag
-# mean vector
-0.475008 37.9023 -2.26026e-06 39.7934 5.22887e-06 36.0136 -4.90776e-06 3.83698 6.72581 9.93814 
-
-# diagonal of covariance matrix
-0.160454 20.3551 3.94945e-09 22.5153 1.16517e-08 25.0507 1.11289e-08 13.4535 9.87038 0.00487258 
-
-# definition for class # 364
-# class name, prior probability
-''	0.00662435
-# class type is GaussDiag
-# mean vector
-0 77.8393 0 77.8393 0 77.8393 0 -109.962 0 10.0066 
-
-# diagonal of covariance matrix
-0 5.34284 0 5.34284 0 5.34284 0 391.458 0 0.000955451 
-
-# definition for class # 365
-# class name, prior probability
-''	0.00226533
-# class type is GaussDiag
-# mean vector
-0.714343 -48.457 1.72435e-05 -46.3196 -6.55586e-06 -50.5868 -8.17459e-06 4.37426 5.1 9.92242 
-
-# diagonal of covariance matrix
-0.348197 221.229 1.67191e-07 234.475 3.53842e-08 219.106 1.62307e-07 22.0939 15.1309 0.0108897 
-
-# definition for class # 366
-# class name, prior probability
-''	0.000867196
-# class type is GaussDiag
-# mean vector
-2.43386 -85.765 -32.7135 -71.6747 -42.2059 -99.8846 -9.84137 34.6404 3.28535 9.34105 
-
-# diagonal of covariance matrix
-1.00605 129.525 375.967 189.808 543.262 205.267 1118.92 301.903 5.56577 0.136678 
-
-# definition for class # 367
-# class name, prior probability
-''	0.000279223
-# class type is GaussDiag
-# mean vector
-2.00421 -31.3347 -22.3837 -23.668 -38.5438 -39.0001 -0.791993 18.3595 1.72874 9.28647 
-
-# diagonal of covariance matrix
-0.00220232 34.7766 26.556 45.4448 53.4554 46.9423 31.6948 47.9727 0.499968 0.103766 
-
-# definition for class # 368
-# class name, prior probability
-''	0.000687654
-# class type is GaussDiag
-# mean vector
-0.882582 -31.8977 -0.154218 -30.3367 6.44643 -33.4602 -5.9878 4.58786 6.62973 9.92665 
-
-# diagonal of covariance matrix
-0.12239 42.7568 388.116 42.4356 1014.04 45.6549 1001.45 6.73984 1.83418 0.00461844 
-
-# definition for class # 369
-# class name, prior probability
-''	0.000983941
-# class type is GaussDiag
-# mean vector
-2 -15.6565 -9.91788 -9.93952 -12.4661 -21.373 -6.27622 13.6325 1.3558 9.42059 
-
-# diagonal of covariance matrix
-1.00729e-05 10.25 182.467 18.5069 344.887 14.5389 323.152 28.9279 0.631096 0.069278 
-
-# definition for class # 370
-# class name, prior probability
-''	0.000319406
-# class type is GaussDiag
-# mean vector
-2.70778 -17.5636 -24.5149 -5.28795 -10.0756 -29.533 -34.4291 28.8601 2.62333 9.18105 
-
-# diagonal of covariance matrix
-0.805408 14.8669 134.781 30.2616 454.355 33.71 192.567 69.7737 4.31574 0.107908 
-
-# definition for class # 371
-# class name, prior probability
-''	0.000569082
-# class type is GaussDiag
-# mean vector
-1.2084 -12.5558 -25.3274 -10.1501 -42.2743 -14.9624 -0.261652 7.33932 5.71346 9.65975 
-
-# diagonal of covariance matrix
-0.128929 8.89388 115.261 10.1205 131.654 10.0036 442.987 7.98878 1.13658 0.037126 
-
-# definition for class # 372
-# class name, prior probability
-''	0.00044544
-# class type is GaussDiag
-# mean vector
-3.57292 -11.1206 -33.5649 -4.34623 -31.6516 -17.6544 -35.3 18.1014 4.75959 9.15155 
-
-# diagonal of covariance matrix
-0.543242 5.65525 30.6776 10.3691 51.2162 10.0732 48.52 18.9183 2.0623 0.0832244 
-
-# definition for class # 373
-# class name, prior probability
-''	0.000331787
-# class type is GaussDiag
-# mean vector
-1.99817 -6.73229 -27.7244 -4.31649 -26.3251 -9.1481 -28.4747 8.5416 3.57307 9.53706 
-
-# diagonal of covariance matrix
-0.000215932 1.82657 23.1757 2.43061 68.7831 2.77357 47.1044 4.01437 0.934572 0.0311889 
-
-# definition for class # 374
-# class name, prior probability
-''	0.00056917
-# class type is GaussDiag
-# mean vector
-2 -6.56019 -28.8101 -0.474429 -34.2788 -12.6459 -20.949 15.9906 2.10088 9.06797 
-
-# diagonal of covariance matrix
-0 4.97161 40.753 9.4117 68.0838 6.78623 235.49 13.7667 0.397834 0.176715 
-
-# definition for class # 375
-# class name, prior probability
-''	0.000412835
-# class type is GaussDiag
-# mean vector
-2 -0.448375 -28.0336 5.20402 -26.9191 -6.10077 -28.3476 14.998 2.06581 8.98582 
-
-# diagonal of covariance matrix
-0 2.16713 15.0662 5.55558 54.6821 3.90791 60.6395 11.575 0.353549 0.230842 
-
-# definition for class # 376
-# class name, prior probability
-''	0.000278693
-# class type is GaussDiag
-# mean vector
-1.46696 2.66466 -24.9288 3.86379 -26.5028 1.46436 -22.2429 5.07572 5.79735 9.75232 
-
-# diagonal of covariance matrix
-0.148839 2.18283 48.323 2.63293 71.2766 2.56942 158.077 2.63397 1.51894 0.0178467 
-
-# definition for class # 377
-# class name, prior probability
-''	0.000821395
-# class type is GaussDiag
-# mean vector
-1.99995 -2.96083 -37.9076 0.173308 -37.3637 -6.09496 -37.693 11.719 4.06381 9.33871 
-
-# diagonal of covariance matrix
--1.614e-07 4.68239 19.2238 5.08137 46.0538 6.56576 50.1077 5.97904 0.743649 0.0587005 
-
-# definition for class # 378
-# class name, prior probability
-''	0.000997943
-# class type is GaussDiag
-# mean vector
-2 8.50939 -30.8322 10.8392 -31.1508 6.17961 -30.1291 8.83157 3.95854 9.37671 
-
-# diagonal of covariance matrix
-0 1.23328 4.19266 1.85575 20.4696 1.84223 25.1613 2.66298 0.680563 0.0686107 
-
-# definition for class # 379
-# class name, prior probability
-''	9.70555e-05
-# class type is GaussDiag
-# mean vector
-1.86878 10.0788 -33.9627 12.0628 -27.0614 8.05114 -39.7215 8.98171 5.55166 9.49332 
-
-# diagonal of covariance matrix
-0.191931 2.38479 5.75502 3.49085 31.0787 4.07785 22.5524 10.5015 2.22607 0.214266 
-
-# definition for class # 380
-# class name, prior probability
-''	0.000562691
-# class type is GaussDiag
-# mean vector
-2 12.0475 -21.9546 13.7793 -22.2927 10.3157 -21.3121 6.39474 3.54028 9.60127 
-
-# diagonal of covariance matrix
-0 0.788753 6.08455 1.0489 24.0526 1.23334 29.7224 1.8424 0.688219 0.0232267 
-
-# definition for class # 381
-# class name, prior probability
-''	0.000643037
-# class type is GaussDiag
-# mean vector
-4.79778 2.64491 -68.5063 25.2349 -77.9661 -15.1776 -41.0745 63.046 6.97301 8.53194 
-
-# diagonal of covariance matrix
-1.43451 25.8472 51.7769 49.0439 18.8267 49.3965 146.225 157.362 1.00643 0.307889 
-
-# definition for class # 382
-# class name, prior probability
-''	0.00254829
-# class type is GaussDiag
-# mean vector
-4.61565 77.1786 -12.5665 164.759 -86.7563 1.14668 84.7552 331.051 9.08215 9.37123 
-
-# diagonal of covariance matrix
-1.92157 1206.46 3348.26 2675.66 2.92414 2224.74 12.9553 9642.24 0.242042 0.126545 
-
-# definition for class # 383
-# class name, prior probability
-''	0.000807301
-# class type is GaussDiag
-# mean vector
-7.30508 32.8416 71.9574 89.0607 2.78466 -29.612 80.1696 146.922 7.41258 8.12511 
-
-# diagonal of covariance matrix
-3.82171 165.469 94.0928 322.832 2102.06 248.76 35.4247 672.027 0.771858 0.401588 
-
-# definition for class # 384
-# class name, prior probability
-''	0.00095121
-# class type is GaussDiag
-# mean vector
-5.47938 28.2571 55.5681 54.4877 71.6299 5.01788 -11.4585 61.1168 5.98549 7.78005 
-
-# diagonal of covariance matrix
-1.70589 18.1312 171.496 28.9706 51.3476 24.5051 771.458 71.307 1.02401 0.663828 
-
-# definition for class # 385
-# class name, prior probability
-''	0.000731502
-# class type is GaussDiag
-# mean vector
-3.01026 11.599 33.9524 29.9847 79.004 1.37638 -30.235 81.1996 8.44229 9.12389 
-
-# diagonal of covariance matrix
-0.609064 34.0022 459.635 102.138 14.3983 43.4206 469.675 472.155 0.357831 0.138234 
-
-# definition for class # 386
-# class name, prior probability
-''	0.000347599
-# class type is GaussDiag
-# mean vector
-2.95282 19.1824 -23.216 29.6421 -40.8205 8.48813 6.85039 25.1285 2.47686 8.13305 
-
-# diagonal of covariance matrix
-0.851894 3.10155 53.5244 6.08891 50.9669 4.48606 135.1 7.4155 1.8374 0.534201 
-
-# definition for class # 387
-# class name, prior probability
-''	0.00029854
-# class type is GaussDiag
-# mean vector
-4.18797 29.3581 -46.1554 42.1268 -52.0891 14.1049 -6.80223 34.5968 5.1115 8.75779 
-
-# diagonal of covariance matrix
-0.992005 7.52389 56.4691 12.9127 119.396 12.4968 190.68 26.3214 2.50117 0.157918 
-
-# definition for class # 388
-# class name, prior probability
-''	0.000424388
-# class type is GaussDiag
-# mean vector
-4.42012 27.9343 -37.2849 44.5725 -43.3868 9.45176 -10.6955 39.5498 4.03023 7.95012 
-
-# diagonal of covariance matrix
-1.34644 5.86789 58.6162 8.64239 42.4656 6.70493 176.497 10.6532 2.59894 0.545585 
-
-# definition for class # 389
-# class name, prior probability
-''	0.00059667
-# class type is GaussDiag
-# mean vector
-5.15032 20.0837 2.5843 39.7508 -32.3455 1.7723 9.69998 41.5286 5.29828 7.93331 
-
-# diagonal of covariance matrix
-1.29691 9.13097 215.01 15.9138 97.2486 10.8444 163.818 19.0456 0.784228 0.387994 
-
-# definition for class # 390
-# class name, prior probability
-''	0.000680463
-# class type is GaussDiag
-# mean vector
-5.55259 34.5664 39.8159 56.4142 -31.9765 11.2353 44.3254 52.2067 6.52516 8.60822 
-
-# diagonal of covariance matrix
-1.32465 10.6241 295.614 23.2182 139.243 15.167 325.769 35.6399 0.71989 0.126947 
-
-# definition for class # 391
-# class name, prior probability
-''	0.000673104
-# class type is GaussDiag
-# mean vector
-5.32141 24.928 -10.1783 54.1643 -29.7658 -2.79107 -0.197468 59.8658 3.83229 6.07557 
-
-# diagonal of covariance matrix
-1.80889 11.3308 480.641 14.7887 178.687 12.9846 289.487 20.3361 1.59435 1.86335 
-
-# definition for class # 392
-# class name, prior probability
-''	0.000438026
-# class type is GaussDiag
-# mean vector
-5.32271 24.4785 -51.7785 55.8145 -52.2789 -7.42386 -15.0798 70.9066 5.25613 7.39932 
-
-# diagonal of covariance matrix
-1.82016 31.1431 150.507 35.9522 210.856 30.0704 361.322 40.3236 2.4671 1.27087 
-
-# definition for class # 393
-# class name, prior probability
-''	0.000638541
-# class type is GaussDiag
-# mean vector
-5.43572 40.5322 -21.2124 66.4057 -29.1296 14.436 -7.95522 54.8615 4.45155 8.00171 
-
-# diagonal of covariance matrix
-2.51055 11.2207 213.989 9.84305 131.506 9.81191 150.213 12.5364 2.3559 0.352537 
-
-# definition for class # 394
-# class name, prior probability
-''	0.000566469
-# class type is GaussDiag
-# mean vector
-5.67766 36.8233 -57.4127 68.7739 -21.512 3.37169 -23.0799 69.099 7.0275 8.18405 
-
-# diagonal of covariance matrix
-1.82138 34.6746 110.612 14.1703 350.134 14.3306 255.561 14.2786 0.57614 0.409433 
-
-# definition for class # 395
-# class name, prior probability
-''	0.00079217
-# class type is GaussDiag
-# mean vector
-6.18014 46.7199 -60.1536 89.2941 -34.8674 2.81733 -17.6329 91.6573 6.94342 8.1225 
-
-# diagonal of covariance matrix
-2.35517 52.8412 119.925 27.2047 433.224 26.2104 410.409 35.2596 0.777916 0.398184 
-
-# definition for class # 396
-# class name, prior probability
-''	0.00119907
-# class type is GaussDiag
-# mean vector
-5.68568 49.7352 -46.7357 82.7917 -28.2856 14.7836 -23.3062 72.2875 6.78106 8.56708 
-
-# diagonal of covariance matrix
-2.07955 32.24 264.444 20.2841 311.475 20.7842 292.718 23.3879 0.824123 0.192649 
-
-# definition for class # 397
-# class name, prior probability
-''	0.000603535
-# class type is GaussDiag
-# mean vector
-6.23685 26.5271 54.1727 66.6568 -18.7328 -9.59654 47.1113 83.9323 6.49076 7.87006 
-
-# diagonal of covariance matrix
-3.16 39.9269 190.609 92.731 500.804 50.6264 458.185 112.76 0.975135 0.544155 
-
-# definition for class # 398
-# class name, prior probability
-''	0.000766664
-# class type is GaussDiag
-# mean vector
-4.34247 30.8749 76.7987 53.5084 80.031 8.72546 59.1088 74.2684 7.58131 8.59834 
-
-# diagonal of covariance matrix
-1.41815 32.9355 26.6601 77.231 19.9994 46.9734 207.88 196.984 0.644242 0.331453 
-
-# definition for class # 399
-# class name, prior probability
-''	0.000318654
-# class type is GaussDiag
-# mean vector
-1.88985 5.01481 72.7933 22.5724 83.2589 -11.3582 -28.7549 71.3378 6.39288 6.9237 
-
-# diagonal of covariance matrix
-0.734937 55.3149 58.506 93.7548 4.46487 82.5033 869.106 306.209 2.26769 3.02708 
-
-# definition for class # 400
-# class name, prior probability
-''	0.000360083
-# class type is GaussDiag
-# mean vector
-1.08621 10.3415 -25.2618 12.5741 -44.934 8.10671 3.18398 6.45707 6.24641 9.72452 
-
-# diagonal of covariance matrix
-0.132758 8.85538 17.0153 9.50301 15.0457 10.7038 90.2913 7.69125 1.35356 0.0346139 
-
-# definition for class # 401
-# class name, prior probability
-''	0.000415189
-# class type is GaussDiag
-# mean vector
-2.76081 7.91587 36.4678 13.59 61.6978 2.21237 -23.1542 18.6738 4.77444 8.64114 
-
-# diagonal of covariance matrix
-0.224769 2.6367 20.2395 5.15289 5.24177 4.02571 65.417 6.41822 1.95502 0.586903 
-
-# definition for class # 402
-# class name, prior probability
-''	0.000298491
-# class type is GaussDiag
-# mean vector
-2.19491 7.31092 -9.88255 11.6993 16.9604 2.99779 -31.2636 13.89 3.60383 8.77409 
-
-# diagonal of covariance matrix
-0.13993 2.84345 21.9012 5.72941 44.7178 4.52955 40.3173 8.53888 3.88731 0.368749 
-
-# definition for class # 403
-# class name, prior probability
-''	0.00039612
-# class type is GaussDiag
-# mean vector
-2 7.13254 -10.668 10.4744 -19.8995 3.79066 -0.792747 8.23819 1.63376 9.11871 
-
-# diagonal of covariance matrix
-0 1.97967 3.57277 3.15996 10.1469 3.2426 10.5162 5.16133 0.504869 0.231834 
-
-# definition for class # 404
-# class name, prior probability
-''	0.000519318
-# class type is GaussDiag
-# mean vector
-1.68834 8.50408 -0.0146916 11.2968 -34.9966 5.67032 35.6035 10.3812 6.10097 9.53616 
-
-# diagonal of covariance matrix
-0.718678 4.52303 55.0389 5.88732 92.7579 6.86627 100.601 20.9937 1.53437 0.10214 
-
-# definition for class # 405
-# class name, prior probability
-''	0.000446008
-# class type is GaussDiag
-# mean vector
-3.00199 9.25846 -24.4213 15.4391 -23.9731 2.93545 -19.8613 15.2572 2.59624 8.53709 
-
-# diagonal of covariance matrix
-0.471866 1.24812 15.286 1.91219 41.1734 2.36143 55.9858 3.40882 1.14723 0.239092 
-
-# definition for class # 406
-# class name, prior probability
-''	0.000307732
-# class type is GaussDiag
-# mean vector
-1.98556 3.13368 -17.7269 8.46111 24.4868 -2.07153 -45.9134 16.6467 3.86118 9.02642 
-
-# diagonal of covariance matrix
-0.158381 6.47105 88.904 9.13792 197.97 9.09456 70.6398 17.4694 2.56099 0.154448 
-
-# definition for class # 407
-# class name, prior probability
-''	0.000522524
-# class type is GaussDiag
-# mean vector
-2.48558 11.9479 -16.4324 19.4477 33.6909 4.72407 -49.5268 22.6141 4.0179 8.49979 
-
-# diagonal of covariance matrix
-0.424042 6.93966 125.614 10.2599 182.493 12.1015 76.2461 20.7795 2.24138 0.543669 
-
-# definition for class # 408
-# class name, prior probability
-''	0.000219727
-# class type is GaussDiag
-# mean vector
-2 8.8178 -4.89963 11.2103 -0.575718 6.4253 -9.15643 5.5803 0.522789 9.34072 
-
-# diagonal of covariance matrix
-0 2.82691 1.87292 3.33417 3.65837 3.74652 5.84439 2.95335 0.440276 0.135751 
-
-# definition for class # 409
-# class name, prior probability
-''	0.000200554
-# class type is GaussDiag
-# mean vector
-2.00688 9.45424 -17.652 12.2451 -28.0298 6.66253 -5.64199 8.21183 2.62799 9.35906 
-
-# diagonal of covariance matrix
-0.00280279 0.594149 6.45089 1.40351 25.6483 1.176 32.3144 2.87314 0.770458 0.0596934 
-
-# definition for class # 410
-# class name, prior probability
-''	0.000321523
-# class type is GaussDiag
-# mean vector
-2.56556 7.23393 40.2627 14.0482 7.31344 0.485527 55.7971 19.3318 3.47929 8.39282 
-
-# diagonal of covariance matrix
-0.345301 4.59606 41.5854 10.1871 289.624 6.73802 41.2636 16.2965 2.01694 0.642964 
-
-# definition for class # 411
-# class name, prior probability
-''	0.000223181
-# class type is GaussDiag
-# mean vector
-2.33508 9.70973 -1.48457 22.3892 -2.23101 -2.97852 0 25.9858 0.472001 7.27193 
-
-# diagonal of covariance matrix
-0.249312 6.79714 32.3831 9.17774 100.108 13.3716 0 17.4552 0.206046 1.85333 
-
-# definition for class # 412
-# class name, prior probability
-''	0.000498036
-# class type is GaussDiag
-# mean vector
-3.11677 14.3903 -69.0309 24.8065 -78.3946 4.85231 -24.0195 40.0056 7.24784 8.7344 
-
-# diagonal of covariance matrix
-0.295045 9.97129 21.1347 17.6586 4.63662 15.6068 508.674 56.8219 0.719415 0.391456 
-
-# definition for class # 413
-# class name, prior probability
-''	0.00050336
-# class type is GaussDiag
-# mean vector
-4.88971 23.2845 -41.0708 47.2432 -4.19879 3.194 -23.3652 47.6671 6.99119 8.46301 
-
-# diagonal of covariance matrix
-1.01064 16.804 188.399 22.8603 225.345 16.1091 268.537 32.0977 0.850965 0.352363 
-
-# definition for class # 414
-# class name, prior probability
-''	0.000577333
-# class type is GaussDiag
-# mean vector
-4.67769 24.4983 -1.37848 43.7352 -3.19109 5.45551 -17.7079 40.6147 5.19485 8.0433 
-
-# diagonal of covariance matrix
-0.792316 10.0793 270.255 10.0324 143.507 11.6055 236.506 14.546 2.13113 0.637133 
-
-# definition for class # 415
-# class name, prior probability
-''	0.000639184
-# class type is GaussDiag
-# mean vector
-3.13058 20.1595 56.9874 29.0423 73.2582 11.071 -21.8558 29.2217 6.1056 9.0067 
-
-# diagonal of covariance matrix
-0.163679 6.81253 39.7063 11.5839 7.13581 11.559 174.263 20.9172 1.18725 0.180962 
-
-# definition for class # 416
-# class name, prior probability
-''	0.000702058
-# class type is GaussDiag
-# mean vector
-3.00087 22.8906 67.9899 33.3831 79.5544 12.6034 -15.3668 42.3074 7.80417 9.20794 
-
-# diagonal of covariance matrix
-0.182308 14.2594 39.1435 21.5086 3.78757 18.7513 426.025 53.7139 0.496225 0.0949608 
-
-# definition for class # 417
-# class name, prior probability
-''	0.000647108
-# class type is GaussDiag
-# mean vector
-2.69859 10.8456 32.8472 17.3175 -32.4156 4.50167 61.6782 20.5185 4.62145 8.65627 
-
-# diagonal of covariance matrix
-0.335063 2.43096 55.2515 4.03122 54.2589 4.71067 16.8999 7.87717 1.9079 0.329191 
-
-# definition for class # 418
-# class name, prior probability
-''	0.000412622
-# class type is GaussDiag
-# mean vector
-2.15938 13.268 -19.7631 20.4317 -34.8975 6.07937 0.773194 17.1235 1.61244 8.54996 
-
-# diagonal of covariance matrix
-0.0699482 2.62517 16.4229 4.57862 34.2846 3.85996 46.4742 6.64473 0.227197 0.35268 
-
-# definition for class # 419
-# class name, prior probability
-''	0.000350739
-# class type is GaussDiag
-# mean vector
-2.20676 4.97459 -35.346 12.3952 -53.8583 -2.47764 0.999327 20.0032 2.669 8.07341 
-
-# diagonal of covariance matrix
-0.104171 5.61786 22.9802 8.56302 24.2539 9.1366 178.736 14.64 0.477549 0.854254 
-
-# definition for class # 420
-# class name, prior probability
-''	0.000664088
-# class type is GaussDiag
-# mean vector
-3.61762 14.877 -37.9604 23.2924 -41.2258 5.61923 -24.1397 22.4848 4.06685 8.48873 
-
-# diagonal of covariance matrix
-0.746726 2.17589 25.9681 3.66805 39.8535 3.42096 118.659 4.79675 2.18953 0.333763 
-
-# definition for class # 421
-# class name, prior probability
-''	0.000602522
-# class type is GaussDiag
-# mean vector
-4.47974 14.5535 -39.8169 26.4306 -43.5938 1.1138 -19.0649 30.0428 4.71562 8.06592 
-
-# diagonal of covariance matrix
-0.778229 2.59863 64.4945 4.0094 53.2608 3.82271 129.943 7.01707 1.48913 0.513935 
-
-# definition for class # 422
-# class name, prior probability
-''	0.000492241
-# class type is GaussDiag
-# mean vector
-4.15929 20.8627 -47.3173 32.0301 -48.3759 7.50155 -30.4815 30.7959 5.1495 8.53329 
-
-# diagonal of covariance matrix
-0.351308 4.23274 35.3933 6.82257 48.3423 6.09084 130.648 10.7604 1.36135 0.251962 
-
-# definition for class # 423
-# class name, prior probability
-''	0.000803472
-# class type is GaussDiag
-# mean vector
-3.21405 51.9255 -70.0124 63.8792 -32.1681 34.77 -81.245 61.0485 7.89867 9.19306 
-
-# diagonal of covariance matrix
-0.623482 55.6625 53.8444 88.6976 327.014 74.9671 7.55964 250.381 0.663303 0.114946 
-
-# definition for class # 424
-# class name, prior probability
-''	0.0005731
-# class type is GaussDiag
-# mean vector
-3.00405 43.414 -58.3002 52.4633 -30.4314 32.6408 -70.9083 36.3168 6.04959 9.05626 
-
-# diagonal of covariance matrix
-0.702934 15.1045 69.8771 29.8224 363.38 25.6182 35.3726 83.9002 2.73056 0.161253 
-
-# definition for class # 425
-# class name, prior probability
-''	0.000669409
-# class type is GaussDiag
-# mean vector
-3.02828 36.2053 61.5978 47.1265 -28.1954 23.6161 78.2051 44.6135 7.24535 9.16101 
-
-# diagonal of covariance matrix
-0.260678 18.2263 94.8708 28.6931 350.81 36.8618 9.60238 108.686 1.03161 0.1466 
-
-# definition for class # 426
-# class name, prior probability
-''	0.000484899
-# class type is GaussDiag
-# mean vector
-4.86688 31.5865 -13.0369 51.821 -30.7213 10.718 0.104072 44.0393 4.35218 8.12657 
-
-# diagonal of covariance matrix
-1.55118 6.903 120.729 9.01362 99.7918 8.61246 100.126 13.0001 2.62633 0.400765 
-
-# definition for class # 427
-# class name, prior probability
-''	0.00078639
-# class type is GaussDiag
-# mean vector
-5.1354 30.7918 36.1676 59.4294 -28.1204 -14.174 80.458 107.004 7.04795 8.44602 
-
-# diagonal of covariance matrix
-2.77337 83.0251 666.245 99.5661 455.413 282.201 15.2503 232.144 1.3854 0.434346 
-
-# definition for class # 428
-# class name, prior probability
-''	0.000734953
-# class type is GaussDiag
-# mean vector
-4.33569 19.5778 68.0888 63.4652 -18.892 -53.9924 86.0771 177.559 8.12853 9.20912 
-
-# diagonal of covariance matrix
-1.67169 271.667 333.226 397.668 1313.96 678.361 3.32215 1213.4 0.955009 0.167011 
-
-# definition for class # 429
-# class name, prior probability
-''	0.0016369
-# class type is GaussDiag
-# mean vector
-5.79655 28.79 -22.8232 67.3728 -30.3104 -53.2772 0 124.057 7.46711 8.22773 
-
-# diagonal of covariance matrix
-4.07541 275.826 1316.52 203.725 447.36 331.52 0 289.061 1.04306 0.548258 
-
-# definition for class # 430
-# class name, prior probability
-''	0.00109535
-# class type is GaussDiag
-# mean vector
-5.7457 -0.234546 1.70238 67.627 80.7995 -44.6467 -28.2659 172.32 7.59891 8.46399 
-
-# diagonal of covariance matrix
-3.14944 304.918 1321.47 631.149 26.921 410.882 904.539 1390.71 0.889764 0.337671 
-
-# definition for class # 431
-# class name, prior probability
-''	0.000949865
-# class type is GaussDiag
-# mean vector
-7.57529 16.8027 65.3369 78.9375 78.0385 -37.6096 -29.7026 140.481 7.14168 7.95083 
-
-# diagonal of covariance matrix
-4.09258 151.723 185.11 314.561 54.7329 152.068 522.746 452.787 1.0346 0.601595 
-
-# definition for class # 432
-# class name, prior probability
-''	0.00115135
-# class type is GaussDiag
-# mean vector
-7.51907 7.16183 -46.9443 57.7347 -34.9492 -40.8259 -40.2915 105.411 6.73325 8.03918 
-
-# diagonal of covariance matrix
-3.66078 44.7036 328.892 53.0845 302.704 61.3958 194.235 86.9204 0.851046 0.406386 
-
-# definition for class # 433
-# class name, prior probability
-''	0.00149545
-# class type is GaussDiag
-# mean vector
-8.14844 19.7283 -17.5321 69.188 -25.3534 -27.373 -36.6093 101.601 6.62215 7.86918 
-
-# diagonal of covariance matrix
-4.86811 36.0272 892.345 46.5106 285.729 48.0259 151.099 64.7372 0.802627 0.476604 
-
-# definition for class # 434
-# class name, prior probability
-''	0.000431203
-# class type is GaussDiag
-# mean vector
-5.41747 18.3088 -62.1126 48.4006 -28.7245 -22.7617 -76.3534 94.6209 7.07857 8.49737 
-
-# diagonal of covariance matrix
-1.77132 62.1079 170.875 96.3017 488.733 102.985 74.0582 232.115 1.03825 0.285505 
-
-# definition for class # 435
-# class name, prior probability
-''	0.00109983
-# class type is GaussDiag
-# mean vector
-7.18259 19.0843 -41.7182 58.6313 -33.8319 -17.5013 -41.672 82.3184 6.57388 8.16449 
-
-# diagonal of covariance matrix
-3.5776 26.0895 367.872 22.2702 213.362 24.3105 137.844 27.0212 0.7949 0.335407 
-
-# definition for class # 436
-# class name, prior probability
-''	0.000593368
-# class type is GaussDiag
-# mean vector
-5.01289 22.4037 -39.3378 62.1051 -7.19111 -12.9344 -47.6333 81.7856 4.39298 7.44121 
-
-# diagonal of covariance matrix
-2.33693 48.4793 316.868 67.9368 566.333 45.1173 193.129 82.3574 3.60192 1.7713 
-
-# definition for class # 437
-# class name, prior probability
-''	0.000805283
-# class type is GaussDiag
-# mean vector
-4.54773 39.8139 -66.2399 60.5847 -29.2064 9.70372 -81.1521 80.9748 7.2666 8.57491 
-
-# diagonal of covariance matrix
-1.71965 29.4934 99.3055 47.1338 382.036 98.4188 10.4368 322.542 0.772325 0.286816 
-
-# definition for class # 438
-# class name, prior probability
-''	0.000611396
-# class type is GaussDiag
-# mean vector
-6.38892 35.8298 51.0345 70.99 63.1847 4.42637 -28.6081 77.8102 6.58359 8.1206 
-
-# diagonal of covariance matrix
-2.4155 38.3555 265.82 39.3602 267.234 52.412 294.697 87.3719 0.738741 0.405156 
-
-# definition for class # 439
-# class name, prior probability
-''	0.000243862
-# class type is GaussDiag
-# mean vector
-0.855249 19.2623 50.3164 44.9639 75.3101 -6.03898 -41.3654 63.1903 2.08076 2.5242 
-
-# diagonal of covariance matrix
-1.21581 46.2288 294.68 184.728 25.1692 32.3064 464.684 238.227 2.52242 4.79131 
-
-# definition for class # 440
-# class name, prior probability
-''	0.000522532
-# class type is GaussDiag
-# mean vector
-3.63946 38.3688 24.2631 51.9951 65.4062 26.5802 -33.8149 41.7515 6.19613 8.98201 
-
-# diagonal of covariance matrix
-1.49693 18.685 510.712 36.7502 71.9194 30.5469 328.903 81.1823 2.73748 0.188593 
-
-# definition for class # 441
-# class name, prior probability
-''	0.000383211
-# class type is GaussDiag
-# mean vector
-3.28395 19.6655 3.908 32.0487 66.4982 8.79957 -55.4574 47.538 6.74642 8.79866 
-
-# diagonal of covariance matrix
-0.791272 16.7161 575.889 26.511 62.3493 35.5186 182.337 155.879 1.83222 0.285077 
-
-# definition for class # 442
-# class name, prior probability
-''	0.000962962
-# class type is GaussDiag
-# mean vector
-2 32.1537 -17.1582 35.8784 -12.7528 28.4283 -20.3493 9.77152 1.87659 9.40423 
-
-# diagonal of covariance matrix
-0 3.72943 13.1672 6.35051 122.814 6.70058 103.805 12.6654 0.62077 0.15236 
-
-# definition for class # 443
-# class name, prior probability
-''	0.00112187
-# class type is GaussDiag
-# mean vector
-2 32.7329 -3.75074 36.1973 -2.32043 29.2685 -5.05212 8.06006 0.903928 9.52363 
-
-# diagonal of covariance matrix
-0 9.48737 31.8471 12.7655 71.8116 12.207 98.0061 12.5522 0.537694 0.0730656 
-
-# definition for class # 444
-# class name, prior probability
-''	0.00060887
-# class type is GaussDiag
-# mean vector
-1.4683 28.0703 -2.25534 30.0769 12.2189 26.0687 -15.243 6.40612 4.99818 9.75981 
-
-# diagonal of covariance matrix
-0.232245 10.9003 87.3358 11.5751 311.471 12.4278 326.718 12.4277 1.8718 0.025703 
-
-# definition for class # 445
-# class name, prior probability
-''	0.000371731
-# class type is GaussDiag
-# mean vector
-2.08691 34.9797 2.12261 40.0999 -19.5879 29.82 23.1426 13.9282 2.98267 9.3218 
-
-# diagonal of covariance matrix
-0.230796 7.7107 47.0016 13.978 84.6442 14.0456 122.374 26.4003 3.27138 0.190744 
-
-# definition for class # 446
-# class name, prior probability
-''	0.000738445
-# class type is GaussDiag
-# mean vector
-2.40413 30.9145 22.291 36.9395 -26.8168 24.8166 53.2135 19.5163 4.15066 9.25 
-
-# diagonal of covariance matrix
-0.235479 8.07873 103.157 12.8834 136.668 12.5183 50.4333 22.766 2.96692 0.129603 
-
-# definition for class # 447
-# class name, prior probability
-''	0.000493485
-# class type is GaussDiag
-# mean vector
-1.97014 38.3647 12.2827 41.7997 16.9389 34.9311 6.52003 9.07396 2.13577 9.5687 
-
-# diagonal of covariance matrix
-0.0195186 11.4897 69.0453 12.685 171.19 14.4984 239.558 10.8209 1.28427 0.039384 
-
-# definition for class # 448
-# class name, prior probability
-''	0.000448568
-# class type is GaussDiag
-# mean vector
-2.6573 22.3318 -35.4885 28.9884 -36.001 15.627 -29.7539 18.0349 2.90728 8.90836 
-
-# diagonal of covariance matrix
-0.500177 2.32567 16.2764 4.37357 79.428 4.59484 76.5964 8.49136 0.970983 0.219031 
-
-# definition for class # 449
-# class name, prior probability
-''	0.00060424
-# class type is GaussDiag
-# mean vector
-2.83039 28.5963 -62.8886 38.5252 -76.0636 20.4736 -25.7731 41.8841 7.39207 9.21777 
-
-# diagonal of covariance matrix
-0.313634 14.1485 87.4639 34.289 17.8892 15.2877 520.697 129.562 1.27081 0.128316 
-
-# definition for class # 450
-# class name, prior probability
-''	0.000330335
-# class type is GaussDiag
-# mean vector
-2.22854 47.7264 -33.6229 58.5335 -62.4015 37.1262 28.751 33.1108 4.50497 9.15693 
-
-# diagonal of covariance matrix
-0.45959 49.4207 169.221 65.5192 68.4625 74.7751 525.58 138.915 4.37285 0.200736 
-
-# definition for class # 451
-# class name, prior probability
-''	0.000543113
-# class type is GaussDiag
-# mean vector
-4.24084 28.1884 -4.77698 44.4551 20.9544 12.6852 -24.7965 37.1006 5.65972 8.67452 
-
-# diagonal of covariance matrix
-0.563677 9.00502 593.112 20.8641 279.99 15.3797 365.309 34.5154 3.23587 0.261508 
-
-# definition for class # 452
-# class name, prior probability
-''	0.000524999
-# class type is GaussDiag
-# mean vector
-2.24927 32.4245 -0.31521 43.4905 1.74689 21.3264 -1.62029 23.4682 0.612127 8.6058 
-
-# diagonal of covariance matrix
-0.143205 12.9119 61.4717 21.8163 119.495 22.4726 185.206 37.0296 0.254813 0.286609 
-
-# definition for class # 453
-# class name, prior probability
-''	0.000761278
-# class type is GaussDiag
-# mean vector
-3.79487 33.9622 -25.9497 47.5694 -34.7524 19.4676 -3.76924 31.5871 3.35822 8.44015 
-
-# diagonal of covariance matrix
-0.793262 6.89897 99.6231 12.2423 132.951 10.2966 157.928 15.345 2.46926 0.368762 
-
-# definition for class # 454
-# class name, prior probability
-''	0.0010488
-# class type is GaussDiag
-# mean vector
-4.46292 46.9018 -26.8418 64.4689 -33.5909 27.2345 -11.4944 40.8695 4.73542 8.72416 
-
-# diagonal of covariance matrix
-1.02684 8.34135 215.748 13.8905 110.511 13.4099 188.167 21.764 2.791 0.20133 
-
-# definition for class # 455
-# class name, prior probability
-''	0.000389348
-# class type is GaussDiag
-# mean vector
-6.12417 24.4613 -21.2017 52.8333 -46.5018 -12.7349 72.0126 96.7933 7.48103 8.38542 
-
-# diagonal of covariance matrix
-3.09364 78.9938 825.788 101.412 528.193 220.308 77.6449 370.298 0.356989 0.258238 
-
-# definition for class # 456
-# class name, prior probability
-''	0.00105262
-# class type is GaussDiag
-# mean vector
-4.62498 52.3422 -38.7097 76.6729 -15.5027 13.8869 -77.6126 106.444 7.72936 8.8556 
-
-# diagonal of covariance matrix
-1.81096 92.0941 820.809 122.117 625.725 236.128 42.234 524.175 0.640499 0.193441 
-
-# definition for class # 457
-# class name, prior probability
-''	0.00151498
-# class type is GaussDiag
-# mean vector
-3.84405 69.6744 11.5425 90.4421 -17.8293 47.9574 22.4619 48.4422 4.15284 8.9033 
-
-# diagonal of covariance matrix
-1.21498 45.6679 553.35 75.547 573.461 67.5076 724.843 112.703 4.95482 0.183642 
-
-# definition for class # 458
-# class name, prior probability
-''	0.000764849
-# class type is GaussDiag
-# mean vector
-5.42031 42.0779 19.0883 67.3223 -31.0192 16.7423 15.7725 55.3796 5.94693 8.48649 
-
-# diagonal of covariance matrix
-1.95224 15.2104 366.198 21.0472 151.969 22.3574 548.116 36.3399 1.03022 0.166482 
-
-# definition for class # 459
-# class name, prior probability
-''	0.000876094
-# class type is GaussDiag
-# mean vector
-4.65911 42.6209 25.9037 72.9383 -0.532118 8.30784 -10.0804 67.0261 6.93549 8.46812 
-
-# diagonal of covariance matrix
-0.788493 35.909 701.278 33.2142 351.137 24.3948 262.145 44.8616 0.947577 0.29355 
-
-# definition for class # 460
-# class name, prior probability
-''	0.000597286
-# class type is GaussDiag
-# mean vector
-6.19978 45.2271 44.6955 86.1635 62.9532 6.63759 -16.785 90.0308 5.39114 7.3544 
-
-# diagonal of covariance matrix
-3.61353 62.5394 467.582 89.4816 200.785 92.5254 449.662 187.565 1.56491 1.0482 
-
-# definition for class # 461
-# class name, prior probability
-''	0.000861959
-# class type is GaussDiag
-# mean vector
-3.39999 52.9555 32.5651 68.43 54.6015 37.9342 -15.0882 38.6321 4.00975 8.81249 
-
-# diagonal of covariance matrix
-0.980567 35.575 449.684 55.0351 270.726 58.1565 742.079 100.311 3.28291 0.256211 
-
-# definition for class # 462
-# class name, prior probability
-''	0.000594643
-# class type is GaussDiag
-# mean vector
-4.81886 37.9872 54.531 65.2338 -0.617935 10.5294 48.5022 60.6561 5.83001 7.95656 
-
-# diagonal of covariance matrix
-1.03229 28.8125 196.99 31.0711 328.107 33.3698 260.867 46.9274 2.21089 0.79315 
-
-# definition for class # 463
-# class name, prior probability
-''	0.000414
-# class type is GaussDiag
-# mean vector
-2.44382 29.8461 12.33 47.2267 -5.05539 12.5029 25.425 37.4536 0.92801 8.19007 
-
-# diagonal of covariance matrix
-0.435144 22.7323 124.216 44.0688 261.28 44.5515 278.97 84.1177 0.435768 0.670148 
-
-# definition for class # 464
-# class name, prior probability
-''	0.000669332
-# class type is GaussDiag
-# mean vector
-4.77404 34.5271 -21.8045 54.9537 -11.672 12.6877 -18.5329 44.8898 4.29642 8.08719 
-
-# diagonal of covariance matrix
-1.70844 7.65935 331.219 11.3303 264.953 8.64225 207.044 14.9659 3.75758 0.502064 
-
-# definition for class # 465
-# class name, prior probability
-''	0.000717643
-# class type is GaussDiag
-# mean vector
-4.43156 53.6803 40.9678 83.8777 15.326 22.211 5.64404 67.4543 5.97549 8.62279 
-
-# diagonal of covariance matrix
-0.626177 27.7554 414.589 55.541 762.805 42.6555 1045.38 78.7075 2.86232 0.314881 
-
-# definition for class # 466
-# class name, prior probability
-''	0.000328985
-# class type is GaussDiag
-# mean vector
-3.78854 43.5017 -1.86298 71.3002 -4.6078 15.0059 -1.193 57.8135 2.33593 8.15383 
-
-# diagonal of covariance matrix
-1.31367 21.702 206.002 35.621 132.821 43.4119 256.134 71.5893 2.95131 0.638964 
-
-# definition for class # 467
-# class name, prior probability
-''	0.00100625
-# class type is GaussDiag
-# mean vector
-4.40826 50.6524 -6.82676 73.3868 -4.6783 25.9855 -24.3239 51.5304 5.99358 8.84514 
-
-# diagonal of covariance matrix
-0.649745 21.2947 584.954 28.4572 404.615 30.2208 291.004 43.1781 2.6254 0.211991 
-
-# definition for class # 468
-# class name, prior probability
-''	0.00047861
-# class type is GaussDiag
-# mean vector
-5.17912 28.9161 25.7271 57.7919 3.17232 3.10134 -20.0429 57.538 6.40149 8.19772 
-
-# diagonal of covariance matrix
-1.45322 20.6571 313.609 22.3769 266.871 14.7312 312.7 25.3389 1.14053 0.481192 
-
-# definition for class # 469
-# class name, prior probability
-''	0.000719345
-# class type is GaussDiag
-# mean vector
-2.5494 57.1912 -58.3278 67.2558 -1.30876 39.9008 -80.5138 68.7853 8.33003 9.38286 
-
-# diagonal of covariance matrix
-0.590419 53.0266 277.408 67.4372 1131.29 116.766 21.5677 563.082 0.765997 0.13692 
-
-# definition for class # 470
-# class name, prior probability
-''	0.00695382
-# class type is GaussDiag
-# mean vector
-1.99995 122.22 -23.0493 132.089 -22.7101 112.35 -21.0128 23.6091 1.51058 9.5049 
-
-# diagonal of covariance matrix
-9.14324e-06 238.472 323.691 285.595 477.61 243.478 554.55 119.015 1.02816 0.066175 
-
-# definition for class # 471
-# class name, prior probability
-''	0.00263201
-# class type is GaussDiag
-# mean vector
-0.880661 78.535 4.63385e-05 81.5398 -1.04087e-06 75.5462 -1.42699e-07 6.05417 5.00547 9.8769 
-
-# diagonal of covariance matrix
-0.540176 151.223 3.95003e-06 157.751 3.01818e-08 160.031 2.9894e-08 30.8048 15.3057 0.0219524 
-
-# definition for class # 472
-# class name, prior probability
-''	0.000946387
-# class type is GaussDiag
-# mean vector
-4.02442 53.3145 79.4804 86.6695 81.2116 16.9429 80.913 144.417 8.70312 9.25176 
-
-# diagonal of covariance matrix
-0.948444 275.364 26.1658 397.578 29.736 549.759 37.9662 1917.63 0.224297 0.097342 
-
-# definition for class # 473
-# class name, prior probability
-''	0.000479849
-# class type is GaussDiag
-# mean vector
-0.719059 14.6993 74.5319 63.2313 84.6747 -34.4107 -41.2044 143.077 3.38315 3.38057 
-
-# diagonal of covariance matrix
-0.328917 555.536 132.136 1653.44 7.23522 695.214 1055.16 3367.87 5.5374 5.53085 
-
-# definition for class # 474
-# class name, prior probability
-''	0.0162695
-# class type is GaussDiag
-# mean vector
-0 270.826 0 270.826 0 270.826 0 -368.676 0 10.0084 
-
-# diagonal of covariance matrix
-0 1916.98 0 1916.98 0 1916.98 0 3991.01 0 0.00192751 
-
-# definition for class # 475
-# class name, prior probability
-''	0.00119873
-# class type is GaussDiag
-# mean vector
-2 2.22118 0 7.837 0 -3.39465 0 11.2419 0.000579216 9.26406 
-
-# diagonal of covariance matrix
-0 71.0214 0 73.7534 0 91.3103 0 45.9737 9.69347e-05 0.246692 
-
-# definition for class # 476
-# class name, prior probability
-''	0.000365191
-# class type is GaussDiag
-# mean vector
-1.17451 2.52346 -10.7039 5.33028 -42.3647 -0.279579 27.7967 8.13937 5.76693 9.55234 
-
-# diagonal of covariance matrix
-0.133686 5.20905 89.7425 6.34872 68.4722 6.81732 164.841 9.37986 1.09512 0.085906 
-
-# definition for class # 477
-# class name, prior probability
-''	0.000197213
-# class type is GaussDiag
-# mean vector
-2.08079 0.480908 -26.7257 4.87537 -43.0674 -3.93793 -2.60651 12.4858 2.92219 8.96838 
-
-# diagonal of covariance matrix
-0.076313 3.1907 22.723 3.65147 28.8988 4.45541 104.923 3.60581 0.391116 0.143858 
-
-# definition for class # 478
-# class name, prior probability
-''	0.000388253
-# class type is GaussDiag
-# mean vector
-2.62694 7.46061 -33.5781 13.6281 -35.1441 1.23668 -27.6877 16.6432 2.81817 8.27647 
-
-# diagonal of covariance matrix
-0.517126 1.5215 9.85126 2.87888 42.7723 2.92736 46.4412 5.4909 0.775678 0.719242 
-
-# definition for class # 479
-# class name, prior probability
-''	0.000424652
-# class type is GaussDiag
-# mean vector
-3.18593 7.84879 -42.1918 14.4533 -35.4472 1.47434 -42.5732 18.9042 4.17908 8.80216 
-
-# diagonal of covariance matrix
-0.75695 2.91689 15.3922 4.32508 82.916 5.01017 58.9426 7.05223 1.67249 0.220379 
-
-# definition for class # 480
-# class name, prior probability
-''	0.000982618
-# class type is GaussDiag
-# mean vector
-2 15.1274 -46.8379 19.4306 -45.3247 10.8242 -47.1588 16.1987 4.27528 9.02749 
-
-# diagonal of covariance matrix
-0 2.55176 15.0214 4.72282 50.5318 4.51671 43.7677 9.09612 0.919282 0.218327 
-
-# definition for class # 481
-# class name, prior probability
-''	0.000419707
-# class type is GaussDiag
-# mean vector
-2.10516 13.3726 -36.0107 18.4665 -25.2105 8.30139 -42.8394 15.2242 2.97712 8.80604 
-
-# diagonal of covariance matrix
-0.0576813 1.78958 12.0195 2.7954 110.365 3.42843 45.2056 6.11169 0.527527 0.309565 
-
-# definition for class # 482
-# class name, prior probability
-''	0.000939795
-# class type is GaussDiag
-# mean vector
-2 27.135 -35.8626 30.3033 -35.4938 23.9667 -35.4742 11.4122 3.88517 9.42176 
-
-# diagonal of covariance matrix
-0 3.19077 7.56394 4.75789 37.6601 4.28229 38.1211 5.8437 0.811653 0.0729458 
-
-# definition for class # 483
-# class name, prior probability
-''	0.000372864
-# class type is GaussDiag
-# mean vector
-3.80018 21.2011 9.746 31.7485 -48.8137 8.63506 62.9862 37.8564 6.21321 8.62856 
-
-# diagonal of covariance matrix
-0.964633 12.0864 330.457 19.5427 141.293 20.7013 62.8389 44.6931 1.02592 0.256345 
-
-# definition for class # 484
-# class name, prior probability
-''	0.000574932
-# class type is GaussDiag
-# mean vector
-2.90354 25.7543 57.1034 33.792 -17.6839 17.7407 73.4383 29.9925 6.61235 9.28631 
-
-# diagonal of covariance matrix
-0.235595 8.74994 76.8912 15.0407 441.709 13.0456 12.4058 42.0719 1.46592 0.0834429 
-
-# definition for class # 485
-# class name, prior probability
-''	0.000782795
-# class type is GaussDiag
-# mean vector
-4.31186 12.4827 -37.4266 23.2733 -30.0481 2.10729 -36.1581 25.9003 4.65059 8.49549 
-
-# diagonal of covariance matrix
-0.655063 2.55219 56.6496 4.18746 93.1028 4.09335 61.1918 7.68654 1.51731 0.327347 
-
-# definition for class # 486
-# class name, prior probability
-''	0.000813735
-# class type is GaussDiag
-# mean vector
-4.11776 21.3985 -41.5072 37.0895 -35.6159 5.87873 -37.8323 36.5284 3.75683 7.71456 
-
-# diagonal of covariance matrix
-1.35635 3.9682 52.1225 5.14894 116.668 6.33953 108.067 8.89589 2.55903 1.05827 
-
-# definition for class # 487
-# class name, prior probability
-''	0.000810067
-# class type is GaussDiag
-# mean vector
-4.88128 27.7132 -34.1628 46.464 -30.0744 9.82735 -35.978 41.4145 5.06603 8.34329 
-
-# diagonal of covariance matrix
-1.61571 5.47762 132.183 8.27659 107.17 6.7592 62.2335 10.8291 2.54224 0.394906 
-
-# definition for class # 488
-# class name, prior probability
-''	0.00033512
-# class type is GaussDiag
-# mean vector
-3.70246 30.6583 -1.74966 46.358 -33.9919 14.6387 28.9052 37.0607 3.10832 8.1726 
-
-# diagonal of covariance matrix
-1.56829 9.82565 141.749 17.4057 133.431 17.4535 159.711 26.7845 3.06715 0.431217 
-
-# definition for class # 489
-# class name, prior probability
-''	0.000405526
-# class type is GaussDiag
-# mean vector
-3.72927 33.9433 -61.2363 66.8902 -84.5604 10.4853 66.2009 119.613 8.60105 9.12189 
-
-# diagonal of covariance matrix
-1.32145 145.822 266.305 336.311 4.3885 181.51 157.521 1018.13 0.426634 0.215821 
-
-# definition for class # 490
-# class name, prior probability
-''	0.00172851
-# class type is GaussDiag
-# mean vector
-5.16863 63.754 26.2158 129.619 82.5311 20.4516 -26.0267 165.734 7.16493 8.52552 
-
-# diagonal of covariance matrix
-2.45096 230.878 1282.77 588.613 16.9376 303.969 946.951 859.444 0.798285 0.259206 
-
-# definition for class # 491
-# class name, prior probability
-''	0.000402004
-# class type is GaussDiag
-# mean vector
-4.29319 28.415 -58.968 49.2944 -64.6177 6.21864 -26.5991 52.7176 4.53375 7.43687 
-
-# diagonal of covariance matrix
-1.28722 14.2177 58.8552 19.6722 70.283 25.7479 216.443 40.1445 2.89691 1.39766 
-
-# definition for class # 492
-# class name, prior probability
-''	0.000490358
-# class type is GaussDiag
-# mean vector
-4.20682 40.0803 -45.2387 55.0493 -48.7848 22.2465 -16.6991 38.9153 4.74327 8.6552 
-
-# diagonal of covariance matrix
-0.469866 7.4295 93.0401 11.4245 112.863 14.7262 298.649 23.3095 1.76079 0.19861 
-
-# definition for class # 493
-# class name, prior probability
-''	0.000456111
-# class type is GaussDiag
-# mean vector
-4.8975 36.6288 -44.6028 64.7381 -45.2434 6.42513 -29.7575 64.0783 3.7683 6.82519 
-
-# diagonal of covariance matrix
-1.68869 14.6211 123.11 17.7888 120.865 18.9415 164.551 26.2613 1.93241 1.43597 
-
-# definition for class # 494
-# class name, prior probability
-''	0.000395822
-# class type is GaussDiag
-# mean vector
-4.23763 44.1426 -35.1415 78.0349 -46.2436 9.41502 0.245408 74.3383 3.48298 7.51878 
-
-# diagonal of covariance matrix
-1.45239 22.5907 268.985 35.925 208.08 35.7824 273.636 49.9969 3.49805 1.26794 
-
-# definition for class # 495
-# class name, prior probability
-''	0.000743433
-# class type is GaussDiag
-# mean vector
-5.57153 44.9905 -48.6695 73.0061 -38.9261 14.4965 -33.0898 64.0447 6.27168 8.50952 
-
-# diagonal of covariance matrix
-1.68255 18.5349 135.62 12.839 92.4186 14.5345 217.745 16.4063 0.964833 0.18008 
-
-# definition for class # 496
-# class name, prior probability
-''	0.00090308
-# class type is GaussDiag
-# mean vector
-5.68679 63.3161 57.2194 94.373 -29.3606 26.3809 72.916 85.7898 6.75542 8.50588 
-
-# diagonal of covariance matrix
-1.81572 39.3814 249.82 76.6872 275.835 82.7052 77.7569 222.989 0.982896 0.243699 
-
-# definition for class # 497
-# class name, prior probability
-''	0.00107561
-# class type is GaussDiag
-# mean vector
-5.83425 47.4264 67.9575 87.734 -4.56757 5.99819 62.1643 93.7335 6.9113 8.07121 
-
-# diagonal of covariance matrix
-2.07673 65.4767 70.4887 98.0354 1011.09 66.4037 230.98 133.972 0.92063 0.507374 
-
-# definition for class # 498
-# class name, prior probability
-''	0.00111541
-# class type is GaussDiag
-# mean vector
-8.11114 39.8473 -14.3988 95.5258 -22.7126 -12.1784 -26.3344 112.323 6.36405 7.69675 
-
-# diagonal of covariance matrix
-3.7863 43.1425 903.985 80.3514 329.43 38.1596 413.139 95.445 0.71977 0.376736 
-
-# definition for class # 499
-# class name, prior probability
-''	0.00100027
-# class type is GaussDiag
-# mean vector
-6.42491 49.1252 -36.5857 97.7128 -23.5518 1.37315 -37.397 101.22 5.43603 7.85743 
-
-# diagonal of covariance matrix
-4.50613 44.7148 339.766 38.5586 367.984 35.0222 122.204 36.6126 2.58168 0.898994 
-
-# definition for class # 500
-# class name, prior probability
-''	0.00139144
-# class type is GaussDiag
-# mean vector
-6.15232 52.9658 8.88948 93.7647 -31.7412 -4.37031 77.1692 136.079 7.10628 8.30913 
-
-# diagonal of covariance matrix
-3.23866 124.124 1381.69 175.471 490.396 339.469 59.0649 522.108 0.97808 0.337763 
-
-# definition for class # 501
-# class name, prior probability
-''	0.00200359
-# class type is GaussDiag
-# mean vector
-3.55511 79.6121 67.3432 103.419 -20.0521 31.4856 85.7576 140.217 8.40358 9.28852 
-
-# diagonal of covariance matrix
-1.18679 100.604 202.344 161.012 710.373 397.537 3.41408 929.793 0.617845 0.159494 
-
-# definition for class # 502
-# class name, prior probability
-''	0.00227797
-# class type is GaussDiag
-# mean vector
-6.39266 65.634 -21.1443 120.764 -19.0889 10.3629 -19.9193 114.342 5.52277 7.85811 
-
-# diagonal of covariance matrix
-3.7736 78.7377 816.919 71.1563 461.701 53.8353 463.618 89.7056 2.19991 0.670097 
-
-# definition for class # 503
-# class name, prior probability
-''	0.000948368
-# class type is GaussDiag
-# mean vector
-6.76251 53.4801 -56.0538 108.147 -34.1281 0.7525 -23.4191 112.909 6.58785 7.79938 
-
-# diagonal of covariance matrix
-2.75966 83.3886 175.852 50.9261 386.633 47.6216 425.114 53.7588 0.955531 0.585375 
-
-# definition for class # 504
-# class name, prior probability
-''	0.00116736
-# class type is GaussDiag
-# mean vector
-4.88239 66.0838 -45.5499 122.268 -80.2512 29.8378 -6.44788 137.358 7.09203 8.6394 
-
-# diagonal of covariance matrix
-1.56917 143.541 713.757 395.737 39.3255 190.516 1042.14 807.879 0.974207 0.245373 
-
-# definition for class # 505
-# class name, prior probability
-''	0.00336969
-# class type is GaussDiag
-# mean vector
-5.67516 106.449 -46.9872 169.631 -34.464 43.7779 -32.2568 138.295 6.14457 8.53781 
-
-# diagonal of covariance matrix
-2.73196 172.611 365.433 281.424 583.323 228.285 520.249 394.193 2.05436 0.287596 
-
-# definition for class # 506
-# class name, prior probability
-''	0.0118015
-# class type is GaussDiag
-# mean vector
-7.27418 211.865 -68.7241 388.197 -33.3784 39.7381 -40.0825 424.054 7.99395 8.74667 
-
-# diagonal of covariance matrix
-4.55961 2666.92 188.038 3906.09 2482.87 5658.82 2669.58 10168.2 0.728068 0.269686 
-
-# definition for class # 507
-# class name, prior probability
-''	0.0136547
-# class type is GaussDiag
-# mean vector
-7.51216 138.331 -10.1731 259.636 -14.4284 14.5567 -18.3897 264.93 6.64809 8.11359 
-
-# diagonal of covariance matrix
-4.51076 911.637 2300.6 1365.26 1377.38 1359.32 1760.4 1586.39 1.3528 0.455658 
-
-# definition for class # 508
-# class name, prior probability
-''	0.00863434
-# class type is GaussDiag
-# mean vector
-5.63907 141.914 -5.78818 212.369 -16.2862 69.4811 -7.81776 155.083 5.79891 8.47906 
-
-# diagonal of covariance matrix
-2.6989 279.115 1879.94 452.208 1148.82 412.656 1388.36 770.066 2.66144 0.399436 
-
-# definition for class # 509
-# class name, prior probability
-''	0.0047602
-# class type is GaussDiag
-# mean vector
-5.6374 198.02 70.1917 358.308 76.0406 103.98 -8.43894 327.675 8.11285 9.0664 
-
-# diagonal of covariance matrix
-2.39552 1710.27 197.555 3638.37 445.987 2085.96 1555.26 5131.12 0.827458 0.191399 
-
-# definition for class # 510
-# class name, prior probability
-''	0.00326799
-# class type is GaussDiag
-# mean vector
-3.37624 71.8394 73.7538 130.173 86.8502 43.9904 -12.2396 174.671 8.75231 9.42901 
-
-# diagonal of covariance matrix
-0.664603 344.801 94.1768 860.689 1.31289 478.345 1215.65 2519.24 0.277069 0.0655646 
-
-# definition for class # 511
-# class name, prior probability
-''	0.000569131
-# class type is GaussDiag
-# mean vector
-2.88637 15.5171 43.896 22.7897 -28.6386 8.33282 67.104 23.6035 5.19379 8.73853 
-
-# diagonal of covariance matrix
-0.25229 5.1826 40.4212 7.34058 84.3886 8.37111 8.11383 9.40878 1.81135 0.375088 
-
-# definition for class # 512
-# class name, prior probability
-''	0.000582735
-# class type is GaussDiag
-# mean vector
-5.29847 12.0254 63.6238 34.8657 -26.967 -15.2422 79.1012 68.5455 6.79797 8.11965 
-
-# diagonal of covariance matrix
-2.22072 26.4877 110.032 43.313 487.681 71.6223 17.2709 110.244 0.829204 0.398389 
-
-# definition for class # 513
-# class name, prior probability
-''	0.00437895
-# class type is GaussDiag
-# mean vector
-4.34154 18.1744 -78.7098 127.867 -87.9417 -37.42 -16.3003 291.867 8.84718 9.22433 
-
-# diagonal of covariance matrix
-2.09373 813.321 56.0872 2677.73 0.778382 1135.48 1617.7 5367.75 0.3571 0.180736 
-
-# definition for class # 514
-# class name, prior probability
-''	0.0011872
-# class type is GaussDiag
-# mean vector
-5.36676 41.9214 -63.2236 82.7304 -24.2447 -26.4266 -84.213 155.431 7.39988 8.72002 
-
-# diagonal of covariance matrix
-2.50789 160.316 173.656 304.621 796.055 546.735 6.11105 1079.9 0.893676 0.217449 
-
-# definition for class # 515
-# class name, prior probability
-''	0.000932541
-# class type is GaussDiag
-# mean vector
-3.2869 5.51287 73.1555 35.8149 85.3109 -12.8422 -12.7087 109.577 8.62809 9.21225 
-
-# diagonal of covariance matrix
-0.871687 50.7578 72.1425 190.243 2.41066 73.6929 898.129 719.08 0.354063 0.140654 
-
-# definition for class # 516
-# class name, prior probability
-''	0.00125884
-# class type is GaussDiag
-# mean vector
-2 16.2294 -36.6233 18.9728 -36.4735 13.486 -36.1377 10.7968 4.25509 9.37927 
-
-# diagonal of covariance matrix
-0 1.31856 12.704 1.89691 35.1039 2.33379 40.2467 3.75012 0.772106 0.0736018 
-
-# definition for class # 517
-# class name, prior probability
-''	0.000779707
-# class type is GaussDiag
-# mean vector
-3.43014 14.5712 -31.2065 21.1484 -27.756 7.87951 -27.6176 17.0799 3.75156 8.91755 
-
-# diagonal of covariance matrix
-0.495139 2.83711 30.6644 3.7322 72.8994 4.08873 84.3892 4.77001 1.7085 0.108804 
-
-# definition for class # 518
-# class name, prior probability
-''	0.00040855
-# class type is GaussDiag
-# mean vector
-2.97027 15.5123 12.0704 23.4631 -13.3878 6.60616 38.7705 37.5697 7.60275 9.2472 
-
-# diagonal of covariance matrix
-0.988217 20.9785 407.656 31.9779 635.064 33.9762 630.438 181.768 1.0438 0.14079 
-
-# definition for class # 519
-# class name, prior probability
-''	0.000468155
-# class type is GaussDiag
-# mean vector
-2.96919 16.7347 53.2494 25.0911 -34.0585 8.27517 73.3355 30.2521 6.60042 9.01507 
-
-# diagonal of covariance matrix
-0.295532 7.61985 80.5614 11.8367 135.309 13.2149 7.69428 28.9966 1.16555 0.167415 
-
-# definition for class # 520
-# class name, prior probability
-''	0.000701142
-# class type is GaussDiag
-# mean vector
-3.65263 12.2525 -18.7711 26.9688 -31.5262 -2.269 -0.407924 31.8913 2.73295 7.25823 
-
-# diagonal of covariance matrix
-1.00569 2.60527 93.6349 5.95291 87.3587 6.73374 73.4465 14.095 2.47514 1.6169 
-
-# definition for class # 521
-# class name, prior probability
-''	0.000515156
-# class type is GaussDiag
-# mean vector
-3.27696 12.0107 -30.6939 27.0063 -23.7297 -2.69094 -29.1856 33.0771 2.08327 7.05577 
-
-# diagonal of covariance matrix
-0.961034 4.31808 58.7445 5.4329 138.422 7.31724 75.1006 10.5355 1.4256 2.21111 
-
-# definition for class # 522
-# class name, prior probability
-''	0.000636447
-# class type is GaussDiag
-# mean vector
-2.94419 12.0947 44.5755 17.8683 66.3965 6.064 -25.1268 20.6508 5.8699 9.115 
-
-# diagonal of covariance matrix
-0.130395 3.34023 30.3444 6.40687 6.43502 4.25161 61.0629 8.42241 1.17767 0.127479 
-
-# definition for class # 523
-# class name, prior probability
-''	0.00578603
-# class type is GaussDiag
-# mean vector
-7.31168 33.5448 -20.0062 263.091 -24.6325 -135.86 -9.44739 446.86 8.20787 8.73763 
-
-# diagonal of covariance matrix
-4.71744 3369.66 3277.16 7826.82 2877.93 3344.76 1433.65 10365.2 0.550078 0.237524 
-
-# definition for class # 524
-# class name, prior probability
-''	0.00383778
-# class type is GaussDiag
-# mean vector
-5.5305 74.8496 -66.9633 180.217 -86.5805 13.6268 -18.1989 248.211 7.64804 8.64316 
-
-# diagonal of covariance matrix
-2.22487 454.027 179.606 1200.33 2.12772 796.655 1493.21 2580.9 0.77478 0.276688 
-
-# definition for class # 525
-# class name, prior probability
-''	0.00452991
-# class type is GaussDiag
-# mean vector
-7.23906 53.6805 -48.7465 161.816 -27.9408 -47.2932 -35.4197 226.109 6.70509 8.02774 
-
-# diagonal of covariance matrix
-4.29781 525.894 481.769 805.284 993.572 462.803 890.265 1011.22 1.41137 0.594199 
-
-# definition for class # 526
-# class name, prior probability
-''	0.000895537
-# class type is GaussDiag
-# mean vector
-4.048 53.0618 8.03203 97.8999 83.9001 6.85206 -81.3665 208.572 8.92009 9.31304 
-
-# diagonal of covariance matrix
-1.2427 366.685 2238.52 665.01 9.61307 626.968 60.5927 3192.82 0.236703 0.117889 
-
-# definition for class # 527
-# class name, prior probability
-''	0.000744908
-# class type is GaussDiag
-# mean vector
-4.59497 28.321 8.85213 69.4608 79.3137 0.575669 -46.493 118.975 7.78892 8.68347 
-
-# diagonal of covariance matrix
-1.54795 70.306 1342.35 247.277 27.9071 121.638 680.221 616.05 0.676126 0.272554 
-
-# definition for class # 528
-# class name, prior probability
-''	0.000314085
-# class type is GaussDiag
-# mean vector
-2.26837 16.5103 -14.7144 22.1591 -49.1071 10.6586 39.0835 20.3243 5.4444 9.11037 
-
-# diagonal of covariance matrix
-0.724718 3.591 104.101 8.3093 94.6729 6.57527 116.68 34.1548 2.59481 0.228463 
-
-# definition for class # 529
-# class name, prior probability
-''	0.000271273
-# class type is GaussDiag
-# mean vector
-2.68087 14.5212 0.691041 27.2922 -35.0275 1.79393 36.1433 30.4819 2.07479 7.18666 
-
-# diagonal of covariance matrix
-0.750386 10.8107 52.5128 15.4109 61.3442 22.394 69.4819 31.7898 0.987686 1.53392 
-
-# definition for class # 530
-# class name, prior probability
-''	0.000491489
-# class type is GaussDiag
-# mean vector
-3.02885 17.1532 50.5695 28.3316 66.5581 6.45704 2.50561 29.7932 4.06527 8.17651 
-
-# diagonal of covariance matrix
-0.527967 3.56973 62.3956 10.9005 30.0397 7.05143 505.651 25.8162 2.23548 0.673386 
-
-# definition for class # 531
-# class name, prior probability
-''	0.000351505
-# class type is GaussDiag
-# mean vector
-2.36486 8.24374 11.701 11.6473 34.4163 4.90115 -14.8527 11.8578 4.33425 9.17642 
-
-# diagonal of covariance matrix
-0.181727 1.81315 22.0956 3.23742 53.3481 3.06553 80.0083 7.5206 3.30298 0.130811 
-
-# definition for class # 532
-# class name, prior probability
-''	0.000370575
-# class type is GaussDiag
-# mean vector
-2.00587 9.94191 10.306 14.2125 20.4467 5.67249 -0.801764 10.3238 1.57642 8.81518 
-
-# diagonal of covariance matrix
-0.00146538 4.47243 15.5524 8.29085 44.1275 5.72166 23.9398 10.6622 0.70228 0.439303 
-
-# definition for class # 533
-# class name, prior probability
-''	0.000167637
-# class type is GaussDiag
-# mean vector
-2.05114 10.3734 -15.4592 14.3205 3.01581 6.45109 -30.4988 11.1469 2.58127 9.09209 
-
-# diagonal of covariance matrix
-0.0565244 1.49357 7.83413 3.68928 33.5462 3.28554 22.5533 10.7576 2.41745 0.199311 
-
-# definition for class # 534
-# class name, prior probability
-''	0.000214114
-# class type is GaussDiag
-# mean vector
-2.32556 5.35192 -7.93571 13.9141 2.95224 -3.20049 -17.5489 18.6126 0.840641 8.0699 
-
-# diagonal of covariance matrix
-0.22868 3.98155 17.6221 6.93883 45.6627 9.25506 31.6971 15.7981 0.448943 0.726719 
-
-# definition for class # 535
-# class name, prior probability
-''	0.000244227
-# class type is GaussDiag
-# mean vector
-2 9.81198 -9.07632 12.2686 -9.34733 7.35531 -8.78438 6.18536 1.16113 9.42548 
-
-# diagonal of covariance matrix
-0 1.39175 1.93302 2.37744 5.20752 2.01281 6.32567 3.98182 0.301267 0.055628 
-
-# definition for class # 536
-# class name, prior probability
-''	0.00064862
-# class type is GaussDiag
-# mean vector
-2 16.9923 -8.47865 19.5584 -11.2287 14.4262 -5.50937 6.49296 1.43327 9.51437 
-
-# diagonal of covariance matrix
-0 1.60472 12.038 2.18603 44.5893 2.61376 46.5401 3.63047 0.607537 0.0444696 
-
-# definition for class # 537
-# class name, prior probability
-''	0.000390544
-# class type is GaussDiag
-# mean vector
-2.16769 12.6319 -9.78236 20.2118 -2.29934 5.05441 -16.2202 16.5709 0.673567 8.07707 
-
-# diagonal of covariance matrix
-0.0741799 1.97711 22.9804 3.68717 42.9292 3.32394 86.9651 6.18628 0.157669 0.717836 
-
-# definition for class # 538
-# class name, prior probability
-''	0.000190368
-# class type is GaussDiag
-# mean vector
-1.65303 17.353 -14.23 19.5055 -27.0691 15.1954 0.492395 6.59591 4.55719 9.64253 
-
-# diagonal of covariance matrix
-0.270862 2.38137 7.83212 3.80544 16.8219 4.02381 24.2318 10.6922 3.20232 0.0650076 
-
-# definition for class # 539
-# class name, prior probability
-''	0.000388026
-# class type is GaussDiag
-# mean vector
-2 12.5043 -11.6196 16.6275 -22.1752 8.38108 -0.0485456 10.0223 1.52062 9.07936 
-
-# diagonal of covariance matrix
-0 2.01347 11.2729 3.95122 29.1315 2.57351 19.1785 5.57551 0.399675 0.182322 
-
-# definition for class # 540
-# class name, prior probability
-''	0.000270705
-# class type is GaussDiag
-# mean vector
-1.99283 18.7364 -5.7506 21.4847 1.40537 15.9881 -12.6206 6.68334 0.999869 9.47578 
-
-# diagonal of covariance matrix
-0.00178842 1.1473 14.3283 2.1677 22.5149 2.15367 44.6185 4.61056 0.581782 0.0770021 
-
-# definition for class # 541
-# class name, prior probability
-''	0.000463953
-# class type is GaussDiag
-# mean vector
-2.90012 15.2584 61.6266 24.2941 -7.24243 4.99859 77.3626 41.7852 7.42412 9.15073 
-
-# diagonal of covariance matrix
-0.404764 11.1222 80.9229 21.0638 684.92 23.8848 8.23756 131.027 1.37655 0.184935 
-
-# definition for class # 542
-# class name, prior probability
-''	0.000399179
-# class type is GaussDiag
-# mean vector
-3.4702 10.5613 40.3701 23.361 -9.06283 -2.44325 58.5927 31.5782 3.3183 7.55089 
-
-# diagonal of covariance matrix
-1.03071 10.8559 92.9052 20.5027 232.349 19.3198 72.2655 35.1672 1.68389 1.48286 
-
-# definition for class # 543
-# class name, prior probability
-''	0.000437915
-# class type is GaussDiag
-# mean vector
-2.39879 18.8445 -44.4326 27.9534 1.31896 9.44366 -62.8957 26.0012 3.41109 8.35834 
-
-# diagonal of covariance matrix
-0.390747 9.89985 57.1542 18.0834 286.085 17.7283 36.0012 42.0356 1.59906 0.672551 
-
-# definition for class # 544
-# class name, prior probability
-''	0.000379736
-# class type is GaussDiag
-# mean vector
-2.28284 30.2969 -55.7483 38.716 19.2388 16.3622 -80.8678 61.8152 8.72003 9.56753 
-
-# diagonal of covariance matrix
-0.713312 42.4608 434.637 66.0514 1106.75 73.6914 20.4291 814.351 0.358774 0.0528723 
-
-# definition for class # 545
-# class name, prior probability
-''	0.000139614
-# class type is GaussDiag
-# mean vector
-2 16.9233 -0.00108171 20.8692 0.00595845 12.9775 -0.00812149 7.95431 0.0137196 9.36297 
-
-# diagonal of covariance matrix
-0 2.29093 0.00758169 4.5005 0.00402853 4.72249 0.0261981 9.17045 0.00666155 0.142882 
-
-# definition for class # 546
-# class name, prior probability
-''	0.000908444
-# class type is GaussDiag
-# mean vector
-2.32771 63.1981 22.3489 71.4241 -16.3367 54.7842 48.7573 23.2789 3.1919 9.29696 
-
-# diagonal of covariance matrix
-0.290097 33.1203 270.183 44.0876 541.637 47.2717 164.486 54.7618 3.21327 0.102134 
-
-# definition for class # 547
-# class name, prior probability
-''	0.00142392
-# class type is GaussDiag
-# mean vector
-1.91875 97.8239 15.5148 104.947 -14.3176 90.5407 40.3001 19.8236 4.09097 9.59677 
-
-# diagonal of covariance matrix
-0.613078 133.624 452.628 148.227 797.696 167.161 345.482 139.189 6.33127 0.0951967 
-
-# definition for class # 548
-# class name, prior probability
-''	0.000867789
-# class type is GaussDiag
-# mean vector
-2.39894 64.522 -1.42018 79.0836 -5.86927 49.9416 3.87951 30.7978 0.772918 8.78999 
-
-# diagonal of covariance matrix
-0.382726 40.0412 120.103 52.4338 262.237 65.9764 271.932 77.0156 0.398591 0.199966 
-
-# definition for class # 549
-# class name, prior probability
-''	0.00119293
-# class type is GaussDiag
-# mean vector
-2.61684 86.3936 31.2391 97.1826 49.9741 75.9796 -6.71206 29.3067 4.21537 9.39016 
-
-# diagonal of covariance matrix
-0.77748 79.0758 507.259 115.122 395.749 104.471 961.768 141.318 5.06295 0.11001 
-
-# definition for class # 550
-# class name, prior probability
-''	0.00121484
-# class type is GaussDiag
-# mean vector
-3.01275 70.6214 56.6748 86.8271 77.2197 57.8727 -15.2689 54.438 6.76234 9.39906 
-
-# diagonal of covariance matrix
-0.352068 64.3182 246.567 125.564 29.4071 75.4506 717.626 448.784 2.40136 0.0756621 
-
-# definition for class # 551
-# class name, prior probability
-''	0.000484693
-# class type is GaussDiag
-# mean vector
-2.00932 18.4007 -55.3008 23.64 -56.7101 13.17 -51.9058 20.7106 4.66386 8.99381 
-
-# diagonal of covariance matrix
-0.00349327 7.56526 13.6015 10.6714 39.2944 11.0401 64.3781 13.186 1.15601 0.246788 
-
-# definition for class # 552
-# class name, prior probability
-''	0.000397916
-# class type is GaussDiag
-# mean vector
-2.96827 24.9281 37.2988 34.1787 -38.6582 15.1002 68.147 30.7209 5.21254 8.7012 
-
-# diagonal of covariance matrix
-0.449843 7.91282 155.11 12.1664 115.904 12.466 16.276 20.3304 2.08753 0.306527 
-
-# definition for class # 553
-# class name, prior probability
-''	0.000429206
-# class type is GaussDiag
-# mean vector
-3.83467 22.7587 58.2537 37.0496 -36.4345 7.44552 75.0996 43.4795 6.25456 8.42271 
-
-# diagonal of covariance matrix
-0.667107 15.6636 77.5865 23.1672 191.757 23.9542 15.38 38.383 0.900379 0.405455 
-
-# definition for class # 554
-# class name, prior probability
-''	0.0007175
-# class type is GaussDiag
-# mean vector
-4.57361 13.9362 -35.267 31.8192 -36.7576 -4.45114 -25.7543 40.8715 4.32823 7.91101 
-
-# diagonal of covariance matrix
-1.75399 4.50833 88.5188 7.35847 68.8189 7.23215 130.785 10.8707 2.63613 0.738927 
-
-# definition for class # 555
-# class name, prior probability
-''	0.000705352
-# class type is GaussDiag
-# mean vector
-5.13039 22.6341 -35.8489 37.5434 -32.8784 6.23064 -17.6548 34.8883 5.10798 8.22983 
-
-# diagonal of covariance matrix
-1.0592 6.00954 110.406 5.94307 77.2709 6.20253 121.52 7.69645 1.41654 0.326102 
-
-# definition for class # 556
-# class name, prior probability
-''	0.000458663
-# class type is GaussDiag
-# mean vector
-4.29733 25.0903 -54.4042 43.9876 -42.2216 6.73677 -52.4442 45.5094 4.51893 7.87849 
-
-# diagonal of covariance matrix
-1.07316 7.62486 50.3323 11.6311 126.797 11.6648 98.4161 20.4645 2.07417 0.885296 
-
-# definition for class # 557
-# class name, prior probability
-''	0.00084257
-# class type is GaussDiag
-# mean vector
-3.97797 34.2878 -45.0431 50.1454 -35.5395 18.6017 -43.2164 38.0513 4.19071 8.5121 
-
-# diagonal of covariance matrix
-1.39576 5.3668 83.6293 8.93878 193.084 10.3388 137.903 15.7486 3.15515 0.342848 
-
-# definition for class # 558
-# class name, prior probability
-''	0.00109103
-# class type is GaussDiag
-# mean vector
-3.05387 23.1823 -72.8756 47.0599 -84.153 8.54059 -26.7946 92.5131 8.71987 9.29672 
-
-# diagonal of covariance matrix
-0.582626 29.6519 76.4263 103.626 5.08246 50.5063 541.63 581.286 0.289178 0.10901 
-
-# definition for class # 559
-# class name, prior probability
-''	0.00231495
-# class type is GaussDiag
-# mean vector
-3.12369 71.167 -73.9083 115.805 -86.047 49.9162 -19.5433 144.773 8.7299 9.49316 
-
-# diagonal of covariance matrix
-0.500362 180.578 78.2228 524.4 3.0743 245.773 891.019 1961.38 0.341339 0.0505078 
-
-# definition for class # 560
-# class name, prior probability
-''	0.000745552
-# class type is GaussDiag
-# mean vector
-3.42069 51.1631 13.5275 73.9371 73.0771 35.5518 -36.648 82.9488 7.93134 9.26486 
-
-# diagonal of covariance matrix
-1.08568 53.5772 807.767 159.765 68.247 84.6896 638.714 779.467 0.915047 0.110559 
-
-# definition for class # 561
-# class name, prior probability
-''	0.000599121
-# class type is GaussDiag
-# mean vector
-5.55438 28.7001 66.5435 55.2485 -31.8211 -4.67058 81.3315 84.2109 7.30517 8.2802 
-
-# diagonal of covariance matrix
-2.71946 41.7333 73.4919 71.1929 282.308 88.9517 7.72786 149.615 0.532791 0.34769 
-
-# definition for class # 562
 # class name, prior probability
 ''	0.000587017
 # class type is GaussDiag
 # mean vector
-6.17588 26.9249 32.473 76.9864 -15.35 -20.1183 6.28523 100.066 6.15056 7.84914 
+3.88671 10.0443 5.01869 21.0636 32.0421 -0.625277 -19.5766 27.6299 4.25014 7.94688 
 
 # diagonal of covariance matrix
-2.99591 53.7598 474.334 95.3446 424.829 78.295 342.494 104.396 1.53831 0.732496 
+0.931585 4.88504 205.915 10.3947 268.114 7.70197 268.298 23.7295 2.13671 1.0056 
 
-# definition for class # 563
+# definition for class # 10
 # class name, prior probability
-''	0.000541724
+''	0.00058096
 # class type is GaussDiag
 # mean vector
-5.42472 42.857 -8.98784 75.7565 -29.74 11.7985 -1.44958 67.0193 5.25416 7.96649 
+4.05065 7.0953 -31.7998 20.0917 -35.0056 -5.5914 -19.9638 29.6103 4.1268 8.28686 
 
 # diagonal of covariance matrix
-1.23101 19.2077 260.04 24.4827 130.392 14.4144 170.213 21.7431 1.144 0.251638 
+0.490833 3.03321 82.7127 5.51661 72.158 5.31924 137.244 10.7571 2.28472 0.375245 
 
-# definition for class # 564
+# definition for class # 11
 # class name, prior probability
-''	0.000706467
+''	0.000667033
 # class type is GaussDiag
 # mean vector
-4.76919 31.7281 -31.7806 82.4901 -30.6595 -19.4184 -20.2976 107.447 4.23588 7.81252 
+2.79948 7.18929 47.5196 13.1701 67.2658 1.16803 -15.6108 21.2233 5.64447 8.94164 
 
 # diagonal of covariance matrix
-1.27423 79.1877 382.013 94.8539 277.035 79.8278 642.907 118.142 3.41172 0.917831 
+0.185202 2.52101 26.2975 4.79146 7.43227 4.45346 145.437 11.7685 1.89866 0.237081 
 
-# definition for class # 565
+# definition for class # 12
 # class name, prior probability
-''	0.000730008
+''	0.000304687
 # class type is GaussDiag
 # mean vector
-6.96007 39.1314 -49.858 79.5277 -22.8201 1.82514 -44.0846 83.8135 6.25397 7.87333 
+2.11247 5.6181 -8.04618 9.3654 15.8968 1.93275 -27.7665 12.4997 3.69436 9.03192 
 
 # diagonal of covariance matrix
-3.82452 29.7135 188.9 26.2843 320.455 26.8104 241.878 32.0569 0.79586 0.477973 
+0.0304407 3.20395 17.7793 5.25208 44.2968 6.03789 31.2755 9.77651 4.4918 0.236616 
 
-# definition for class # 566
+# definition for class # 13
 # class name, prior probability
-''	0.000598025
+''	0.000404299
 # class type is GaussDiag
 # mean vector
-5.98442 40.2242 -57.5574 74.8199 -41.9434 2.78972 -23.7636 77.6274 6.88451 8.23803 
+2 4.55776 -22.6661 6.58858 -18.4298 2.52694 -26.4768 7.00465 3.27617 9.4912 
 
 # diagonal of covariance matrix
-1.97022 40.4036 125.936 18.6925 273.451 19.5559 151.142 19.0264 0.708323 0.319557 
+0 0.964627 4.2769 1.45781 27.0815 1.5986 11.836 2.65968 0.742411 0.0421175 
 
-# definition for class # 567
+# definition for class # 14
 # class name, prior probability
-''	0.00081075
+''	4.70865e-05
 # class type is GaussDiag
 # mean vector
-6.24165 43.8799 33.1254 81.6581 -24.0871 7.30194 37.4472 80.3254 5.77556 7.5745 
+1.90053 4.40814 -22.5862 6.38686 -33.0333 2.43923 -10.3202 7.12898 4.11627 9.52048 
 
 # diagonal of covariance matrix
-2.6708 25.3742 461.918 30.1852 431.742 33.4915 475.897 52.8397 1.17821 0.679846 
+0.0878258 0.8498 5.11852 1.05682 12.3012 1.42417 8.21847 2.21424 1.30122 0.0507564 
 
-# definition for class # 568
+# definition for class # 15
 # class name, prior probability
-''	0.00114166
+''	0.000358259
 # class type is GaussDiag
 # mean vector
-6.41489 57.2998 55.5743 115.106 -16.9259 0.587865 36.1055 123.022 6.68608 7.79045 
+2 9.15702 -21.5749 10.8941 -18.3484 7.41991 -24.397 6.28111 3.39895 9.57197 
 
 # diagonal of covariance matrix
-3.66459 162.843 285.467 144.608 538.155 152.733 1167.89 143.487 1.37153 0.804589 
+0 0.738788 2.83269 1.17358 24.9722 1.07764 21.5604 1.76956 0.776038 0.0270831 
 
-# definition for class # 569
+# definition for class # 16
 # class name, prior probability
-''	0.00242134
+''	0.000310534
 # class type is GaussDiag
 # mean vector
-5.57611 73.4881 61.174 128.78 -17.348 -16.7403 85.727 203.408 7.57086 8.66732 
+2 12.7386 -17.4677 15.1502 -9.21461 10.327 -24.8422 7.08057 2.27321 9.4398 
 
 # diagonal of covariance matrix
-2.6799 318.309 394.462 449.013 1038.17 768.012 3.74173 1166.08 1.07708 0.375658 
+0 1.13906 6.47747 1.37644 29.64 2.13808 23.0951 2.52763 0.785746 0.0584645 
 
-# definition for class # 570
+# definition for class # 17
 # class name, prior probability
-''	0.00352251
+''	0.00064124
 # class type is GaussDiag
 # mean vector
-6.26142 168.78 80.6831 325.709 83.7157 19.4571 86.8198 474.278 8.87743 9.19333 
+2.33244 8.94597 13.9353 13.8885 -31.4423 3.99507 47.9301 15.7956 3.83316 8.78854 
 
 # diagonal of covariance matrix
-3.21892 3825.41 38.068 8081.64 69.0414 5179.82 4.58219 14020.3 0.255341 0.135391 
+0.171454 3.08873 21.3934 4.23855 38.6217 5.59422 17.5056 6.77301 1.75648 0.272565 
 
-# definition for class # 571
+# definition for class # 18
 # class name, prior probability
-''	0.00362352
+''	0.000324817
 # class type is GaussDiag
 # mean vector
-6.70741 -5.62994 -34.5575 124.561 -26.9489 -103.156 -19.6715 250.48 7.1247 8.38112 
+2.3525 9.68375 -2.85928 16.2029 -16.6638 3.17046 11.7072 14.9606 1.34704 8.38811 
 
 # diagonal of covariance matrix
-4.31695 826.633 1486.62 1348.86 1733.64 873.14 1023.85 1779.57 1.11855 0.347332 
+0.195374 2.07437 18.1351 2.99103 54.5348 3.81968 35.5245 5.12344 0.467493 0.412711 
 
-# definition for class # 572
+# definition for class # 19
 # class name, prior probability
-''	0.00343709
+''	0.000207513
 # class type is GaussDiag
 # mean vector
-5.44525 47.8858 -14.8441 120.614 -25.3591 -62.5029 0.000245399 191.705 7.7658 8.60459 
+2.75575 10.8526 -11.16 22.3033 -2.01289 -0.700861 -17.4664 24.3427 1.06621 7.57572 
 
 # diagonal of covariance matrix
-2.84255 851.85 2217.59 877.363 1059.15 803.658 0.000623646 1081.09 1.02056 0.386126 
+0.542502 2.96607 26.3774 3.26774 21.2125 6.57284 49.8999 8.40202 0.809926 1.13187 
 
-# definition for class # 573
+# definition for class # 20
 # class name, prior probability
-''	0.00189151
+''	0.000249952
 # class type is GaussDiag
 # mean vector
-0.000770789 85.3633 0 275.383 0 -104.621 0 380.005 0.383709 0.383701 
+2.04611 15.2749 14.3459 19.1085 26.5822 11.4755 0.478725 10.9774 3.29553 9.22978 
 
 # diagonal of covariance matrix
-0.000335359 2077.99 0 15781.1 0 2878.15 0 29004.2 2.19362 2.19358 
+0.204084 3.53539 15.9292 6.74626 63.2958 5.8909 67.65 15.1997 3.41778 0.223356 
 
-# definition for class # 574
+# definition for class # 21
 # class name, prior probability
-''	0.00320275
+''	0.00055638
 # class type is GaussDiag
 # mean vector
-6.04604 40.9717 63.7548 153.792 86.1722 -29.0156 -16.1424 254.388 7.674 8.4771 
+2.41462 8.30773 1.90848 13.3342 34.7074 3.39513 -30.1169 16.0935 4.00325 8.81538 
 
 # diagonal of covariance matrix
-2.7603 627.01 283.986 1110.42 3.79125 876.515 1100.01 2090.85 0.740025 0.349665 
+0.303491 1.88552 42.5166 3.87215 69.8763 4.82129 77.8844 12.1643 3.08259 0.324473 
 
-# definition for class # 575
+# definition for class # 22
 # class name, prior probability
-''	0.00140222
+''	0.00055695
 # class type is GaussDiag
 # mean vector
-3.65267 -20.3754 66.8116 38.0531 86.4454 -47.8754 -16.635 177.204 8.61841 9.16314 
+2 10.598 7.57625 15.8561 -0.563653 5.33987 15.2199 11.8125 0.663485 8.7962 
 
 # diagonal of covariance matrix
-1.2265 179.144 263.35 760.952 2.37376 223.896 912.337 2492.14 0.388207 0.144958 
+0 7.59341 14.7951 11.0411 24.3345 11.1149 56.0496 14.3299 0.227727 0.38617 
 
-# definition for class # 576
+# definition for class # 23
 # class name, prior probability
-''	0.00107306
+''	0.000425108
 # class type is GaussDiag
 # mean vector
-5.65801 -14.8 -38.648 18.6894 -22.4773 -41.1121 -34.2837 64.7101 6.86854 8.63749 
+1.75364 8.92694 2.33159 11.8006 -35.8158 6.00634 39.608 11.3719 6.2805 9.53056 
 
 # diagonal of covariance matrix
-1.32922 28.251 479.362 32.8383 408.806 29.6654 185.598 48.4532 0.636066 0.145165 
+0.681527 4.41524 49.7533 5.72784 77.1884 6.33208 64.3863 22.8999 1.45182 0.0904307 
 
-# definition for class # 577
+# definition for class # 24
+# class name, prior probability
+''	0.00030343
+# class type is GaussDiag
+# mean vector
+2.09219 7.23841 -4.91293 14.8551 -9.36158 -0.379695 -0.120348 15.9585 0.447112 7.84984 
+
+# diagonal of covariance matrix
+0.0359609 2.76583 5.92962 6.571 19.7248 6.70249 8.38144 15.7083 0.0864899 1.12111 
+
+# definition for class # 25
+# class name, prior probability
+''	0.000230973
+# class type is GaussDiag
+# mean vector
+2.1815 13.1334 4.57401 19.5252 27.7364 6.75542 -20.2736 15.4496 1.51504 8.50187 
+
+# diagonal of covariance matrix
+0.076468 4.95778 20.1768 7.70757 35.4211 6.38791 51.8972 8.96385 0.302624 0.359003 
+
+# definition for class # 26
+# class name, prior probability
+''	0.000208761
+# class type is GaussDiag
+# mean vector
+2.05985 7.32689 18.4336 12.1198 33.308 2.55031 0.259874 12.1732 2.14763 8.57424 
+
+# diagonal of covariance matrix
+0.0323482 7.56928 7.95941 10.5155 16.9572 9.57432 13.6799 10.3872 1.05673 0.515715 
+
+# definition for class # 27
+# class name, prior probability
+''	0.000260854
+# class type is GaussDiag
+# mean vector
+2 6.68778 -10.7093 8.68537 -10.9041 4.68963 -10.4843 5.50995 1.82347 9.34791 
+
+# diagonal of covariance matrix
+0 0.773798 2.3899 1.68444 8.47559 1.29597 7.92546 3.08335 0.887848 0.157878 
+
+# definition for class # 28
+# class name, prior probability
+''	0.000329309
+# class type is GaussDiag
+# mean vector
+2 7.72493 -17.9199 11.9232 -6.73523 3.52665 -27.6666 10.6506 1.53999 8.85914 
+
+# diagonal of covariance matrix
+0 1.90276 5.39616 3.65631 32.5186 3.21514 21.3893 6.13771 0.372421 0.333331 
+
+# definition for class # 29
+# class name, prior probability
+''	0.000561168
+# class type is GaussDiag
+# mean vector
+2 9.88476 5.94894 12.9551 13.6291 6.81373 -2.13904 7.72275 1.63115 9.235 
+
+# diagonal of covariance matrix
+0 5.22953 18.1632 6.82038 58.4706 5.86669 47.9501 4.81663 0.91357 0.128382 
+
+# definition for class # 30
+# class name, prior probability
+''	0.000482701
+# class type is GaussDiag
+# mean vector
+4.83534 5.64078 59.8232 24.3407 -29.6914 -15.7382 76.0528 53.1978 6.54297 8.15807 
+
+# diagonal of covariance matrix
+1.45129 32.3844 101.354 40.3473 242.351 70.2721 17.751 94.8835 0.766343 0.354896 
+
+# definition for class # 31
+# class name, prior probability
+''	0.000537509
+# class type is GaussDiag
+# mean vector
+3.71682 -11.5508 20.7257 11.8412 5.5322 -34.3884 3.58626 50.4256 4.3661 8.67796 
+
+# diagonal of covariance matrix
+1.00315 37.678 571.575 61.5999 730.321 51.0078 790.621 92.809 6.89607 0.333103 
+
+# definition for class # 32
+# class name, prior probability
+''	0.00391088
+# class type is GaussDiag
+# mean vector
+0 50.3256 0 50.3256 0 50.3256 0 -72.8304 0 10.0059 
+
+# diagonal of covariance matrix
+0 4.39446 0 4.39446 0 4.39446 0 287.453 0 -4.92235e-05 
+
+# definition for class # 33
+# class name, prior probability
+''	9.88333e-05
+# class type is GaussDiag
+# mean vector
+1.81457 27.8337 -0.00695962 30.8931 -0.00105261 24.7766 -2.0287e-06 6.34038 1.26419 9.63831 
+
+# diagonal of covariance matrix
+0.091506 20.0601 0.00295559 23.9753 0.000733045 19.5201 2.99933e-10 6.88788 1.87732 0.0303705 
+
+# definition for class # 34
+# class name, prior probability
+''	0.000276741
+# class type is GaussDiag
+# mean vector
+1.62357 14.7484 -39.2642 18.9214 -59.5725 10.6221 4.99716 13.7181 5.40185 9.43979 
+
+# diagonal of covariance matrix
+0.272211 6.15172 47.4527 7.82164 31.578 8.10599 379.87 13.5717 1.58521 0.0938657 
+
+# definition for class # 35
+# class name, prior probability
+''	0.000258626
+# class type is GaussDiag
+# mean vector
+2.13677 20.2417 -39.4011 27.493 -53.4352 12.968 -12.7737 20.287 2.76524 8.77941 
+
+# diagonal of covariance matrix
+0.0608539 3.70462 23.7034 6.37395 30.4699 6.99297 211.518 13.6266 0.597458 0.300655 
+
+# definition for class # 36
+# class name, prior probability
+''	0.000516288
+# class type is GaussDiag
+# mean vector
+2.51248 31.0952 -24.4214 42.7566 -38.3542 19.2848 -0.836611 26.7098 1.62996 8.5005 
+
+# diagonal of covariance matrix
+0.442324 7.58059 47.7722 16.2733 59.9856 11.7755 91.7891 26.3764 0.839151 0.458507 
+
+# definition for class # 37
+# class name, prior probability
+''	0.000706539
+# class type is GaussDiag
+# mean vector
+3.21529 26.9372 -46.7743 36.3569 -40.3647 17.5176 -45.0108 25.7463 3.92844 8.75 
+
+# diagonal of covariance matrix
+0.847809 4.83618 25.0949 8.75583 99.801 7.54771 109.018 12.436 2.09786 0.277999 
+
+# definition for class # 38
+# class name, prior probability
+''	0.00088458
+# class type is GaussDiag
+# mean vector
+2.00934 40.3636 -38.9362 44.5665 -37.9258 36.1617 -38.872 14.0625 3.57901 9.32654 
+
+# diagonal of covariance matrix
+0.00446293 2.97957 15.2624 4.56702 54.7837 5.2913 51.9875 8.84009 0.764786 0.0881552 
+
+# definition for class # 39
+# class name, prior probability
+''	0.000556389
+# class type is GaussDiag
+# mean vector
+2.16821 39.6594 9.99418 45.3391 -31.2068 33.832 45.104 18.417 4.0526 9.33391 
+
+# diagonal of covariance matrix
+0.205986 9.70178 117.606 15.556 128.086 16.2157 77.9492 29.7461 3.46913 0.117318 
+
+# definition for class # 40
+# class name, prior probability
+''	0.000610692
+# class type is GaussDiag
+# mean vector
+5.30165 25.9043 57.4247 49.6871 -17.5129 2.21256 61.9507 55.2408 5.62635 7.37883 
+
+# diagonal of covariance matrix
+1.78301 20.4142 80.4632 29.9921 329.694 24.3346 129.481 42.4743 1.70529 1.05097 
+
+# definition for class # 41
+# class name, prior probability
+''	0.000211085
+# class type is GaussDiag
+# mean vector
+5.56797 22.618 -24.8394 39.816 -40.6714 3.45049 45.0505 49.4681 6.41304 8.30188 
+
+# diagonal of covariance matrix
+1.65211 38.8221 203.364 58.3661 242.727 45.1184 119.112 45.0271 0.859514 0.353592 
+
+# definition for class # 42
+# class name, prior probability
+''	0.000404947
+# class type is GaussDiag
+# mean vector
+3.28523 36.777 10.4246 56.2722 -15.4983 17.1247 31.0913 44.0426 2.41019 7.9425 
+
+# diagonal of covariance matrix
+1.27166 10.2523 422.97 25.9794 543.933 24.8816 411.261 54.9095 2.73622 0.771487 
+
+# definition for class # 43
+# class name, prior probability
+''	0.000838296
+# class type is GaussDiag
+# mean vector
+4.44446 34.1036 18.6938 55.1852 17.9889 12.8918 -12.8437 46.1088 6.11645 8.64194 
+
+# diagonal of covariance matrix
+0.544875 15.3246 651.142 18.6338 659.529 19.0825 388.034 26.7888 1.96964 0.259771 
+
+# definition for class # 44
+# class name, prior probability
+''	0.000834191
+# class type is GaussDiag
+# mean vector
+3.21812 31.3254 64.8988 44.3806 77.6862 19.0674 -10.5388 43.1322 6.92855 9.07214 
+
+# diagonal of covariance matrix
+0.307604 17.9194 49.9152 39.2024 9.30422 25.8063 566.112 73.4334 1.3493 0.164479 
+
+# definition for class # 45
+# class name, prior probability
+''	0.000416279
+# class type is GaussDiag
+# mean vector
+2 14.1845 -3.73816 16.9406 -0.416072 11.4282 -6.9929 6.3805 0.625262 9.43732 
+
+# diagonal of covariance matrix
+0 2.61697 7.55676 3.92711 14.6958 3.27125 28.2957 4.20132 0.424456 0.0594938 
+
+# definition for class # 46
+# class name, prior probability
+''	0.000458885
+# class type is GaussDiag
+# mean vector
+2.3648 15.8756 -2.51004 23.5121 -3.36246 8.23916 -1.22201 16.4763 0.870732 8.699 
+
+# diagonal of covariance matrix
+0.176171 2.52332 30.7986 5.34113 91.5519 4.05784 78.9182 8.78955 0.466776 0.229789 
+
+# definition for class # 47
+# class name, prior probability
+''	0.000438479
+# class type is GaussDiag
+# mean vector
+2.56103 14.2566 33.7293 19.0186 -7.02043 9.63232 53.8639 15.5847 4.66375 9.22977 
+
+# diagonal of covariance matrix
+0.333056 3.36435 39.0943 6.32981 145.87 5.46471 39.4604 11.0421 2.72274 0.121851 
+
+# definition for class # 48
+# class name, prior probability
+''	0.000512086
+# class type is GaussDiag
+# mean vector
+2.66144 7.444 38.4097 12.3725 -16.714 2.74103 60.6109 16.4056 5.12821 9.06163 
+
+# diagonal of covariance matrix
+0.278278 2.98997 31.665 4.00222 146.893 5.83946 15.3988 8.6033 2.23676 0.200858 
+
+# definition for class # 49
+# class name, prior probability
+''	0.000275808
+# class type is GaussDiag
+# mean vector
+3.07441 10.671 30.1573 28.2528 50.8715 -6.26315 -8.56599 40.6482 2.59673 5.72287 
+
+# diagonal of covariance matrix
+2.1785 24.2818 263.527 60.4603 285.891 26.7435 646.72 74.5437 2.16533 4.43556 
+
+# definition for class # 50
+# class name, prior probability
+''	0.000354781
+# class type is GaussDiag
+# mean vector
+2.58216 6.34449 53.2678 13.8229 58.2361 -0.914465 40.3793 25.0406 5.11047 8.59761 
+
+# diagonal of covariance matrix
+0.58843 11.4711 37.4616 25.4884 57.6068 18.3041 282.412 55.1153 3.826 0.835499 
+
+# definition for class # 51
+# class name, prior probability
+''	0.000200006
+# class type is GaussDiag
+# mean vector
+2.22541 6.74703 26.8515 9.86372 32.2591 3.66173 19.3414 12.112 4.88221 9.34795 
+
+# diagonal of covariance matrix
+0.26364 6.09749 39.8289 7.43703 103.31 8.25873 78.3872 18.9614 3.10293 0.101225 
+
+# definition for class # 52
+# class name, prior probability
+''	0.000272375
+# class type is GaussDiag
+# mean vector
+2.09826 -29.2398 40.7884 -23.6542 10.1861 -34.9754 53.9799 20.1962 5.76383 9.65419 
+
+# diagonal of covariance matrix
+0.542165 58.2122 346.437 78.9658 1385.48 61.4415 263.641 78.2035 4.79506 0.0597137 
+
+# definition for class # 53
+# class name, prior probability
+''	0.000268985
+# class type is GaussDiag
+# mean vector
+2.04838 -16.977 31.7501 -11.0659 46.1185 -22.7275 8.42845 17.4289 4.08362 9.48643 
+
+# diagonal of covariance matrix
+0.32431 48.6345 152.771 43.6089 168.584 72.3567 566.031 53.1535 3.58045 0.0774456 
+
+# definition for class # 54
+# class name, prior probability
+''	0.000778364
+# class type is GaussDiag
+# mean vector
+0.853022 -68.2649 1.95031 -66.955 7.26328 -69.5746 -3.92724 3.87281 6.63809 9.96909 
+
+# diagonal of covariance matrix
+0.0852315 326.593 164.908 324.088 953.895 329.945 935.901 2.24765 1.14936 0.000835821 
+
+# definition for class # 55
+# class name, prior probability
+''	0.000450849
+# class type is GaussDiag
+# mean vector
+0.776235 2.21115 2.65066 4.18064 36.5699 0.241522 -32.7607 5.72242 7.10456 9.86941 
+
+# diagonal of covariance matrix
+0.0398752 50.7952 553.819 54.1189 427.312 50.3134 539.487 10.0385 0.612034 0.00955929 
+
+# definition for class # 56
+# class name, prior probability
+''	0.0127835
+# class type is GaussDiag
+# mean vector
+0 126.405 0 126.405 0 126.405 0 -178.215 0 10.008 
+
+# diagonal of covariance matrix
+0 61.3745 0 61.3745 0 61.3745 0 718.115 0 0.000933111 
+
+# definition for class # 57
+# class name, prior probability
+''	0.00181318
+# class type is GaussDiag
+# mean vector
+0.346506 27.8086 -1.38676e-06 29.6168 1.46588e-06 25.9737 -1.25177e-07 3.6715 7.61042 9.95449 
+
+# diagonal of covariance matrix
+0.0357946 33.9248 2.5839e-09 34.4151 2.79121e-09 39.7059 2.88038e-10 12.2502 6.39851 0.0024323 
+
+# definition for class # 58
+# class name, prior probability
+''	0.000188448
+# class type is GaussDiag
+# mean vector
+1.01547 17.9268 -25.3587 19.8322 -44.0177 16.0202 1.28689 5.41218 6.44505 9.811 
+
+# diagonal of covariance matrix
+0.119641 10.9289 9.89834 12.9559 12.5721 11.0801 52.4255 6.53181 1.51143 0.0170759 
+
+# definition for class # 59
+# class name, prior probability
+''	0.000335058
+# class type is GaussDiag
+# mean vector
+2.42068 24.389 -51.3212 29.9941 -62.8989 19.2044 -29.4927 22.2974 5.72554 9.28982 
+
+# diagonal of covariance matrix
+0.320128 5.90963 52.4743 10.9119 53.6285 9.79207 269.421 44.577 2.64269 0.120747 
+
+# definition for class # 60
+# class name, prior probability
+''	0.000324524
+# class type is GaussDiag
+# mean vector
+2.38234 37.2851 -52.42 44.5289 -59.3406 30.135 -38.9212 23.2015 3.99184 8.96196 
+
+# diagonal of covariance matrix
+0.289626 10.4114 22.7737 15.4871 39.5333 15.9137 93.6502 22.2854 1.38841 0.19798 
+
+# definition for class # 61
+# class name, prior probability
+''	0.000467211
+# class type is GaussDiag
+# mean vector
+3.36569 26.9391 -59.0567 40.1437 -60.1056 13.4498 -45.773 37.3191 4.30631 8.28043 
+
+# diagonal of covariance matrix
+0.995131 10.2299 34.0655 17.4533 99.4272 16.0129 258.793 27.9148 2.18379 0.646477 
+
+# definition for class # 62
+# class name, prior probability
+''	0.00103099
+# class type is GaussDiag
+# mean vector
+2.95514 37.4424 -39.6926 45.7218 -28.8973 29.4058 -43.5426 22.0073 3.52407 8.784 
+
+# diagonal of covariance matrix
+0.773185 8.80652 34.5074 14.9468 183.056 12.4569 93.8421 21.1058 2.21293 0.325635 
+
+# definition for class # 63
+# class name, prior probability
+''	0.000852184
+# class type is GaussDiag
+# mean vector
+3.78454 40.8108 -44.5158 55.8571 -40.8755 25.4416 -38.7348 36.9799 3.97959 8.66209 
+
+# diagonal of covariance matrix
+1.22616 8.01876 70.6336 15.8745 156.264 10.834 153.645 25.027 3.04347 0.286492 
+
+# definition for class # 64
+# class name, prior probability
+''	0.0009426
+# class type is GaussDiag
+# mean vector
+1.1899 59.705 -5.57598 62.2057 -29.1732 57.1791 21.3676 7.76775 5.99567 9.83668 
+
+# diagonal of covariance matrix
+0.302558 68.7933 307.614 72.6704 435.704 71.7907 548.086 31.4061 2.15094 0.0219218 
+
+# definition for class # 65
+# class name, prior probability
+''	0.000665278
+# class type is GaussDiag
+# mean vector
+4.72868 47.5207 48.0638 65.5034 -33.0085 26.556 66.5694 51.036 6.32559 8.83659 
+
+# diagonal of covariance matrix
+1.22188 18.1434 259.971 30.8042 198.659 40.3399 109.015 65.7867 1.00291 0.131281 
+
+# definition for class # 66
+# class name, prior probability
+''	0.000672551
+# class type is GaussDiag
+# mean vector
+5.79932 38.4207 7.26835 68.4461 -21.7775 7.46658 -13.3059 64.1621 6.82395 8.47486 
+
+# diagonal of covariance matrix
+2.07449 24.5697 382.2 24.3414 258.149 18.4055 217.556 23.9746 0.633709 0.158142 
+
+# definition for class # 67
+# class name, prior probability
+''	0.000436762
+# class type is GaussDiag
+# mean vector
+4.51546 47.9146 -45.6679 71.6394 -48.8992 22.2498 -16.0636 55.1964 4.19029 8.20736 
+
+# diagonal of covariance matrix
+1.66382 13.4511 115.733 23.1369 136.778 15.7084 258.472 29.2076 2.80597 0.33034 
+
+# definition for class # 68
+# class name, prior probability
+''	0.00152597
+# class type is GaussDiag
+# mean vector
+5.88393 43.2914 -37.016 70.4586 -31.8722 14.6658 -26.7075 60.0933 5.86403 8.32431 
+
+# diagonal of covariance matrix
+2.24056 14.4946 266.076 13.9654 138.923 13.6013 195.333 17.5552 1.17155 0.254553 
+
+# definition for class # 69
+# class name, prior probability
+''	0.00113678
+# class type is GaussDiag
+# mean vector
+3.77811 55.3664 -45.5573 72.976 -35.374 37.5794 -42.9782 42.6465 4.05886 8.69789 
+
+# diagonal of covariance matrix
+1.27728 12.5915 116.532 22.7239 351.18 24.1387 225.804 42.5261 3.38826 0.308901 
+
+# definition for class # 70
+# class name, prior probability
+''	0.00126871
+# class type is GaussDiag
+# mean vector
+4.05828 57.4873 -15.9243 81.1682 -28.6036 32.8457 -2.2542 51.4464 3.4636 8.56507 
+
+# diagonal of covariance matrix
+1.53866 13.0208 275.437 26.6434 218.704 25.5601 261.945 56.948 4.31728 0.261576 
+
+# definition for class # 71
+# class name, prior probability
+''	0.00121968
+# class type is GaussDiag
+# mean vector
+3.26358 105.159 57.706 122.455 -12.7945 79.2943 80.1341 79.8029 7.13507 9.39686 
+
+# diagonal of covariance matrix
+0.813045 136.985 307.308 190.772 1022.74 275.535 22.7843 773.797 2.32778 0.0962192 
+
+# definition for class # 72
+# class name, prior probability
+''	0.000857928
+# class type is GaussDiag
+# mean vector
+6.08961 38.637 -26.4565 82.9937 -11.7831 -2.57498 -31.6866 89.2279 4.90308 7.36704 
+
+# diagonal of covariance matrix
+4.56815 35.4522 393.824 26.5659 399.708 30.5268 192.159 41.482 3.10901 1.67762 
+
+# definition for class # 73
+# class name, prior probability
+''	0.00158662
+# class type is GaussDiag
+# mean vector
+4.29678 66.4663 -34.7737 86.8919 -33.5886 44.9289 -26.3736 46.8981 4.35706 8.83771 
+
+# diagonal of covariance matrix
+1.24688 16.0505 174.43 33.8077 153.186 27.6137 359.743 53.2979 3.61323 0.155675 
+
+# definition for class # 74
+# class name, prior probability
+''	0.00111502
+# class type is GaussDiag
+# mean vector
+6.16311 55.7058 22.1066 100.343 -18.2501 11.9843 20.8202 93.3977 5.02542 7.49876 
+
+# diagonal of covariance matrix
+3.09758 43.2342 598.058 56.3814 460.113 57.2736 965.649 92.6287 2.10815 0.610398 
+
+# definition for class # 75
+# class name, prior probability
+''	0.00147342
+# class type is GaussDiag
+# mean vector
+4.65489 79.8193 -6.45256 119.247 -21.1939 37.8504 0.106071 84.3762 3.93012 8.30975 
+
+# diagonal of covariance matrix
+2.0892 49.2798 494.1 80.0527 405.664 94.5174 182.756 168.217 4.29146 0.486659 
+
+# definition for class # 76
+# class name, prior probability
+''	0.000819794
+# class type is GaussDiag
+# mean vector
+4.2697 57.1495 -12.7966 94.3553 -7.00133 19.0319 -18.3649 77.9709 3.49947 8.1711 
+
+# diagonal of covariance matrix
+0.997163 35.3045 442.74 44.8579 234.245 50.4488 442.726 69.4888 4.35861 0.521526 
+
+# definition for class # 77
+# class name, prior probability
+''	0.00133866
+# class type is GaussDiag
+# mean vector
+5.62337 71.8532 -49.011 115.469 -23.5857 25.663 -29.0437 96.8768 7.28444 8.84819 
+
+# diagonal of covariance matrix
+1.98821 77.2972 326.182 89.8101 793.215 97.9054 422.344 129.605 0.59414 0.116231 
+
+# definition for class # 78
+# class name, prior probability
+''	0.00245175
+# class type is GaussDiag
+# mean vector
+4.28069 96.3357 -30.762 127.779 -31.126 62.0115 -18.6385 70.6285 4.04995 8.65632 
+
+# diagonal of covariance matrix
+1.26839 40.5326 342.209 72.3287 329.092 58.9337 491.09 118.025 4.2273 0.280432 
+
+# definition for class # 79
+# class name, prior probability
+''	0.00270441
+# class type is GaussDiag
+# mean vector
+3.61083 113.385 -41.9162 136.641 -34.8207 88.9726 -35.6156 55.6788 3.81464 9.02798 
+
+# diagonal of covariance matrix
+1.48931 76.242 195.632 175.836 488.049 134.328 436.339 342.311 4.46642 0.147482 
+
+# definition for class # 80
+# class name, prior probability
+''	0.00282424
+# class type is GaussDiag
+# mean vector
+3.57682 107.519 4.42698 133.852 -8.28178 79.7314 5.18101 58.0268 2.98253 8.95663 
+
+# diagonal of covariance matrix
+1.14576 86.765 538.318 144.74 718.222 131.953 759.451 216.611 4.45461 0.153079 
+
+# definition for class # 81
+# class name, prior probability
+''	0.00855112
+# class type is GaussDiag
+# mean vector
+5.99649 204.603 78.2012 340.102 8.97861 37.7507 87.6932 445.704 8.79873 9.18459 
+
+# diagonal of covariance matrix
+4.09721 4617.22 67.1014 8127.64 3654.19 6884.6 1.82286 15109.9 0.362956 0.183199 
+
+# definition for class # 82
+# class name, prior probability
+''	0.0012149
+# class type is GaussDiag
+# mean vector
+3.16829 17.1536 74.7034 40.6927 84.9738 1.0786 -16.9885 86.9601 8.55763 9.11259 
+
+# diagonal of covariance matrix
+0.556638 36.674 47.0922 120.804 1.41295 37.146 483.014 404.501 0.304979 0.159104 
+
+# definition for class # 83
+# class name, prior probability
+''	0.000959038
+# class type is GaussDiag
+# mean vector
+2.96288 34.7027 -26.3809 43.4144 -25.2966 25.8852 -22.5646 20.8783 2.5321 8.98547 
+
+# diagonal of covariance matrix
+0.728313 4.87254 50.9813 9.67995 123.724 7.54338 125.144 13.5526 2.05883 0.121631 
+
+# definition for class # 84
+# class name, prior probability
+''	0.000567506
+# class type is GaussDiag
+# mean vector
+2.87109 30.9442 47.945 38.5191 69.831 23.613 -23.1534 27.7543 6.17392 9.3459 
+
+# diagonal of covariance matrix
+0.250781 11.5944 112.927 18.669 17.0815 14.2102 178.37 48.5919 2.02701 0.066062 
+
+# definition for class # 85
+# class name, prior probability
+''	0.000559702
+# class type is GaussDiag
+# mean vector
+3.48352 22.7426 33.1916 35.2717 51.2594 10.632 -4.55571 30.0929 3.6496 8.42141 
+
+# diagonal of covariance matrix
+0.907488 7.23616 178.078 16.017 157.124 11.5516 247.544 29.8114 2.78942 0.394962 
+
+# definition for class # 86
+# class name, prior probability
+''	0.000290325
+# class type is GaussDiag
+# mean vector
+1.97684 20.5337 -22.1851 21.9936 -22.8218 19.0741 -21.2424 5.82522 3.91447 9.725 
+
+# diagonal of covariance matrix
+0.0119438 1.38803 6.43032 1.64053 22.7525 1.54367 30.1945 1.22881 0.594625 0.00636947 
+
+# definition for class # 87
+# class name, prior probability
+''	0.000611652
+# class type is GaussDiag
+# mean vector
+2 27.256 -18.3673 29.4841 -20.2506 25.0279 -16.0603 6.92133 2.73953 9.65776 
+
+# diagonal of covariance matrix
+0 2.13143 14.0373 2.78882 36.0631 2.75114 62.8267 3.06119 0.704795 0.0201802 
+
+# definition for class # 88
+# class name, prior probability
+''	0.00124754
+# class type is GaussDiag
+# mean vector
+2 29.5013 -27.1915 32.9551 -27.393 26.0475 -26.2078 10.5309 2.92092 9.44672 
+
+# diagonal of covariance matrix
+0 2.4403 15.6283 3.73131 52.3736 4.9957 67.7452 8.08914 0.935917 0.0825752 
+
+# definition for class # 89
+# class name, prior probability
+''	0.000507417
+# class type is GaussDiag
+# mean vector
+2.52092 23.962 17.7114 30.9647 -35.3037 16.5384 56.386 24.1016 4.58358 9.03785 
+
+# diagonal of covariance matrix
+0.283522 5.83959 114.876 11.5643 117.899 9.22629 39.1786 19.6409 3.32809 0.168257 
+
+# definition for class # 90
+# class name, prior probability
+''	0.000378396
+# class type is GaussDiag
+# mean vector
+0.912597 24.3455 0.928731 26.6707 -39.9551 22.0031 40.8472 7.26363 6.94282 9.86856 
+
+# diagonal of covariance matrix
+0.187477 36.7416 153.933 41.6468 110.38 36.9326 131.086 21.3755 1.09165 0.014023 
+
+# definition for class # 91
+# class name, prior probability
+''	0.000585738
+# class type is GaussDiag
+# mean vector
+4.93195 25.4971 23.9166 43.4217 57.2697 8.62618 -33.2167 43.8889 5.31514 8.06667 
+
+# diagonal of covariance matrix
+1.59137 8.81985 477.296 17.1757 153.812 21.9115 234.751 39.2441 1.76798 0.618627 
+
+# definition for class # 92
+# class name, prior probability
+''	0.000578122
+# class type is GaussDiag
+# mean vector
+3.97734 21.1813 72.0705 35.4907 74.6876 6.83017 57.2026 49.6291 7.03644 8.47716 
+
+# diagonal of covariance matrix
+0.714267 13.6386 29.4626 26.7502 33.5727 25.2495 199.143 111.602 0.960518 0.44845 
+
+# definition for class # 93
+# class name, prior probability
+''	0.000594908
+# class type is GaussDiag
+# mean vector
+5.01293 26.6553 6.43332 45.764 -32.4398 0.176094 71.2572 75.2541 7.30161 8.49659 
+
+# diagonal of covariance matrix
+2.46333 30.44 839.872 59.9663 248.399 78.9471 77.671 181.621 0.615884 0.283766 
+
+# definition for class # 94
+# class name, prior probability
+''	0.000768885
+# class type is GaussDiag
+# mean vector
+3.06303 19.5888 -58.9797 27.3576 -37.1297 11.0419 -68.579 28.3818 5.52326 8.62745 
+
+# diagonal of covariance matrix
+0.583487 9.02289 35.1552 15.1158 160.935 16.8474 26.8306 28.7695 1.7558 0.386909 
+
+# definition for class # 95
+# class name, prior probability
+''	0.000277923
+# class type is GaussDiag
+# mean vector
+2.02445 19.4285 -27.2026 23.9374 -12.5547 14.9257 -38.033 12.7365 2.43467 9.26841 
+
+# diagonal of covariance matrix
+0.00850231 2.71241 9.39054 4.56083 80.5985 4.22547 37.2809 7.37258 0.684622 0.0743816 
+
+# definition for class # 96
+# class name, prior probability
+''	0.000380156
+# class type is GaussDiag
+# mean vector
+2.14225 25.3745 -26.5144 31.5192 -51.7229 19.168 20.1074 19.6812 4.39283 9.2413 
+
+# diagonal of covariance matrix
+0.320545 5.56375 108.805 10.2701 80.6214 9.91981 243.078 24.1344 2.80154 0.119278 
+
+# definition for class # 97
+# class name, prior probability
+''	0.000364801
+# class type is GaussDiag
+# mean vector
+2.08232 33.4595 -12.7877 39.7122 -39.338 27.1209 23.1354 18.9546 3.29003 9.24027 
+
+# diagonal of covariance matrix
+0.0357035 9.09196 68.9027 18.0911 92.7416 12.7598 141.597 25.2602 2.9132 0.0823174 
+
+# definition for class # 98
+# class name, prior probability
+''	0.0006257
+# class type is GaussDiag
+# mean vector
+1.75743 56.3371 21.8704 60.394 38.489 52.3197 -2.37555 11.8244 4.50914 9.62469 
+
+# diagonal of covariance matrix
+0.50063 27.3311 185.05 32.2047 230.787 33.9892 454.257 37.7965 5.04636 0.0653421 
+
+# definition for class # 99
+# class name, prior probability
+''	0.000782037
+# class type is GaussDiag
+# mean vector
+2.5229 20.6416 12.9639 25.7878 43.1494 15.5632 -25.1185 16.5409 4.23768 9.21644 
+
+# diagonal of covariance matrix
+0.315725 4.70538 78.9173 7.70935 60.4794 7.67679 116.227 12.9576 3.17417 0.131131 
+
+# definition for class # 100
+# class name, prior probability
+''	0.000973445
+# class type is GaussDiag
+# mean vector
+2 25.6578 -3.23637 30.9368 -10.3719 20.3788 4.2834 12.3042 1.106 9.16783 
+
+# diagonal of covariance matrix
+0 4.70628 64.512 7.47145 196.868 9.52856 174.572 16.2507 0.513644 0.171282 
+
+# definition for class # 101
+# class name, prior probability
+''	0.000358746
+# class type is GaussDiag
+# mean vector
+2 22.7683 -14.3346 26.0064 -4.48463 19.5302 -23.1784 8.45327 1.67354 9.48972 
+
+# diagonal of covariance matrix
+0 2.84754 5.91823 4.61821 41.6119 4.30332 28.9248 6.87181 0.652304 0.0520071 
+
+# definition for class # 102
+# class name, prior probability
+''	0.000192819
+# class type is GaussDiag
+# mean vector
+1.30109 28.1897 -12.804 29.964 -0.296616 26.4158 -23.8664 4.79517 4.71574 9.75942 
+
+# diagonal of covariance matrix
+0.284925 13.3999 11.9566 13.9687 5.27446 14.8785 40.372 5.80865 2.48839 0.0382138 
+
+# definition for class # 103
+# class name, prior probability
+''	0.000489115
+# class type is GaussDiag
+# mean vector
+2.02267 28.7362 10.96 35.9773 -24.9012 21.4915 40.4696 18.9795 2.07851 8.9116 
+
+# diagonal of covariance matrix
+0.00679614 9.72575 67.1864 13.914 134.32 14.6464 66.3314 20.4406 0.776486 0.221481 
+
+# definition for class # 104
+# class name, prior probability
+''	0.000623517
+# class type is GaussDiag
+# mean vector
+2.52519 19.7396 29.4121 25.0887 -21.8146 14.4056 56.2533 17.6931 4.43829 9.14165 
+
+# diagonal of covariance matrix
+0.270406 2.03924 56.5155 3.39014 174.139 4.8837 29.6364 12.1862 2.39648 0.161028 
+
+# definition for class # 105
+# class name, prior probability
+''	0.000869818
+# class type is GaussDiag
+# mean vector
+2 36.3425 -13.5102 41.973 -22.9596 30.712 -2.74299 13.3126 1.41293 9.29739 
+
+# diagonal of covariance matrix
+0 8.65279 30.0605 13.5272 77.1238 16.403 79.2687 26.4307 0.506609 0.173243 
+
+# definition for class # 106
+# class name, prior probability
+''	0.000567378
+# class type is GaussDiag
+# mean vector
+2.637 27.5698 0.73758 38.9389 -20.2847 16.2318 22.3561 25.6768 1.60319 8.48066 
+
+# diagonal of covariance matrix
+0.52479 9.40416 87.4706 17.5622 169.932 14.0357 87.9197 25.374 1.1682 0.316397 
+
+# definition for class # 107
+# class name, prior probability
+''	0.000413626
+# class type is GaussDiag
+# mean vector
+2.8914 17.1375 48.4352 25.2572 54.625 9.12887 34.1567 24.901 4.44735 8.76833 
+
+# diagonal of covariance matrix
+0.469475 6.32205 52.4112 11.6849 101.779 10.9164 218 23.3853 2.71858 0.244594 
+
+# definition for class # 108
+# class name, prior probability
+''	0.000598516
+# class type is GaussDiag
+# mean vector
+2.54739 11.6722 19.5145 19.3787 63.9012 6.09009 -21.6254 41.6779 8.01458 9.21607 
+
+# diagonal of covariance matrix
+0.280214 12.9797 404.531 18.896 79.357 18.7005 480.547 123.983 0.774112 0.184446 
+
+# definition for class # 109
+# class name, prior probability
+''	0.00054057
+# class type is GaussDiag
+# mean vector
+2.32375 13.1979 10.0757 16.8558 40.5619 9.63246 -24.4598 14.7727 5.13931 9.33373 
+
+# diagonal of covariance matrix
+0.138305 2.34346 43.1503 3.99499 52.7923 3.12922 93.2932 15.4413 2.97429 0.0751893 
+
+# definition for class # 110
+# class name, prior probability
+''	0.00012523
+# class type is GaussDiag
+# mean vector
+1.77297 12.522 -10.1644 14.4067 0.0316409 10.6378 -19.69 5.2228 2.59349 9.60393 
+
+# diagonal of covariance matrix
+0.0994175 1.59753 6.61797 2.036 14.3936 2.40421 17.6189 3.44356 2.02745 0.0567179 
+
+# definition for class # 111
+# class name, prior probability
+''	0.00020931
+# class type is GaussDiag
+# mean vector
+1.61222 15.7264 -6.08534 17.1354 -12.5193 14.3168 0.673014 4.21717 4.07437 9.76334 
+
+# diagonal of covariance matrix
+0.132487 5.11231 11.343 5.25303 51.5471 5.9232 42.8905 3.44648 2.03981 0.0202943 
+
+# definition for class # 112
+# class name, prior probability
+''	0.000518602
+# class type is GaussDiag
+# mean vector
+2.18379 12.4925 12.8719 16.0907 -17.471 8.88145 37.5534 12.5463 3.9444 9.20372 
+
+# diagonal of covariance matrix
+0.0711513 3.02741 24.6702 5.10837 75.9721 4.19385 40.1523 7.56135 3.28861 0.123832 
+
+# definition for class # 113
+# class name, prior probability
+''	0.000578688
+# class type is GaussDiag
+# mean vector
+2.08415 12.0193 -3.0043 22.0242 -25.9802 2.00448 21.2729 22.796 1.07437 7.57283 
+
+# diagonal of covariance matrix
+0.0311286 3.40944 28.1145 5.9236 62.3862 9.16736 58.1947 17.6134 0.179399 1.33694 
+
+# definition for class # 114
+# class name, prior probability
+''	0.00101295
+# class type is GaussDiag
+# mean vector
+4.00382 19.4132 -3.67934 30.1001 -4.95115 7.90578 -16.7377 24.4579 4.56694 8.85647 
+
+# diagonal of covariance matrix
+0.00212541 10.1007 198.726 15.135 252.567 13.8306 170.999 21.7662 1.54666 0.148236 
+
+# definition for class # 115
+# class name, prior probability
+''	0.000557508
+# class type is GaussDiag
+# mean vector
+4.49952 8.94625 75.8358 30.2682 59.3726 -14.6046 79.1811 74.1227 7.70375 8.63209 
+
+# diagonal of covariance matrix
+1.32022 90.4296 25.3915 111.236 265.664 150.373 23.1435 296.685 0.732932 0.377633 
+
+# definition for class # 116
+# class name, prior probability
+''	0.000474171
+# class type is GaussDiag
+# mean vector
+3.28682 -20.3026 65.3544 2.93043 -11.8362 -50.9386 82.3897 90.4201 7.75025 9.32395 
+
+# diagonal of covariance matrix
+0.952114 181.003 342.662 250.312 1464.03 353.389 15.9769 938.636 1.51832 0.165361 
+
+# definition for class # 117
+# class name, prior probability
+''	0.00128116
+# class type is GaussDiag
+# mean vector
+3.83097 2.33246 -18.1893 24.0947 -24.1732 -39.2621 0.000767502 65.7989 6.13345 8.63246 
+
+# diagonal of covariance matrix
+1.05657 97.7146 535.827 65.4834 380.95 104.438 0.000530518 107.475 7.18759 0.432144 
+
+# definition for class # 118
+# class name, prior probability
+''	0.00220011
+# class type is GaussDiag
+# mean vector
+3.68755 -43.9092 -81.0845 72.6928 -88.2914 -97.1779 -7.65537 335.335 9.13745 9.4559 
+
+# diagonal of covariance matrix
+1.63277 2916.41 44.7833 7257.46 0.747717 3344.76 1561.03 20156.4 0.331506 0.124754 
+
+# definition for class # 119
+# class name, prior probability
+''	0.00117363
+# class type is GaussDiag
+# mean vector
+6.06861 -3.44478 -45.0339 44.5093 -27.9162 -46.1373 -40.0622 96.8797 6.08308 8.18564 
+
+# diagonal of covariance matrix
+2.62887 49.4543 356.558 67.232 440.916 44.09 250.06 68.0919 2.15574 0.397896 
+
+# definition for class # 120
+# class name, prior probability
+''	0.000382656
+# class type is GaussDiag
+# mean vector
+4.48974 14.4381 -8.82894 57.6053 22.7385 -25.5846 -41.4997 93.2426 3.72219 5.97511 
+
+# diagonal of covariance matrix
+5.71014 91.4593 1642.38 257.219 1745.68 117.986 515.495 321.627 4.3592 4.48236 
+
+# definition for class # 121
+# class name, prior probability
+''	0.000257983
+# class type is GaussDiag
+# mean vector
+0.988405 42.5209 -58.065 103.63 68.1756 -18.5255 -85.2093 187.52 4.20773 4.29605 
+
+# diagonal of covariance matrix
+0.788366 845.393 1424.35 3010.72 682.278 1276.77 7.18551 5876.15 7.06971 7.45615 
+
+# definition for class # 122
+# class name, prior probability
+''	0.000864477
+# class type is GaussDiag
+# mean vector
+5.92997 9.6298 -40.9745 33.8808 -32.3052 -13.7376 -41.0316 53.1658 5.55398 8.09082 
+
+# diagonal of covariance matrix
+2.21996 10.196 153.251 12.5515 132.984 13.8013 92.1677 18.9279 1.66821 0.550224 
+
+# definition for class # 123
+# class name, prior probability
+''	0.000568745
+# class type is GaussDiag
+# mean vector
+4.78863 9.73256 -50.5563 26.2154 -42.1273 -5.75918 -46.9474 39.6889 5.0433 8.24532 
+
+# diagonal of covariance matrix
+1.51682 5.24538 64.1701 11.0767 133.061 12.2968 109.662 27.1112 1.83192 0.489689 
+
+# definition for class # 124
+# class name, prior probability
+''	0.00066869
+# class type is GaussDiag
+# mean vector
+3.19765 17.3023 -33.2162 29.9122 -25.5193 4.58795 -32.2151 29.1478 2.29348 7.37292 
+
+# diagonal of covariance matrix
+0.906135 2.7274 36.0238 3.39624 89.8363 5.04161 80.4874 5.78274 1.52123 1.75865 
+
+# definition for class # 125
+# class name, prior probability
+''	0.00056827
+# class type is GaussDiag
+# mean vector
+4.24046 14.3318 0.271573 27.1118 -29.999 2.18749 14.5193 28.6269 4.47975 8.12654 
+
+# diagonal of covariance matrix
+0.248299 8.3475 132.889 12.2583 83.758 14.2299 159.476 22.3295 1.12474 0.444641 
+
+# definition for class # 126
+# class name, prior probability
+''	0.000613615
+# class type is GaussDiag
+# mean vector
+4.31517 15.0131 -42.2397 30.6241 -29.2684 0.679188 -43.7922 35.4185 4.13226 7.99237 
+
+# diagonal of covariance matrix
+1.61041 3.07985 68.9378 6.01863 123.009 3.88336 79.9934 7.89997 2.45933 0.961231 
+
+# definition for class # 127
+# class name, prior probability
+''	0.00074713
+# class type is GaussDiag
+# mean vector
+3.80661 24.9384 -31.607 37.1762 -24.0616 12.7199 -32.3353 28.4404 3.68883 8.52836 
+
+# diagonal of covariance matrix
+0.89242 3.03922 45.1874 6.27011 113.77 6.03113 67.8584 12.1037 2.83313 0.333871 
+
+# definition for class # 128
+# class name, prior probability
+''	0.000549464
+# class type is GaussDiag
+# mean vector
+3.11657 22.9362 -43.8404 36.095 -15.481 10.1224 -53.7261 32.2784 3.08324 7.88045 
+
+# diagonal of covariance matrix
+0.999893 7.02081 52.5296 12.6309 324.877 14.125 90.1562 28.5648 2.21123 1.08601 
+
+# definition for class # 129
+# class name, prior probability
+''	0.000589633
+# class type is GaussDiag
+# mean vector
+4.27224 25.4168 36.9772 40.1161 -16.6755 10.1343 51.1252 36.3659 4.79883 8.17628 
+
+# diagonal of covariance matrix
+0.852263 9.48032 220.267 15.2285 181.251 14.015 211.704 25.3115 2.11233 0.59205 
+
+# definition for class # 130
+# class name, prior probability
+''	0.00116191
+# class type is GaussDiag
+# mean vector
+4.69201 16.9747 -21.0903 31.2089 -29.7324 2.12665 -17.3788 32.7415 5.55989 8.54492 
+
+# diagonal of covariance matrix
+0.813444 5.30253 176.535 7.44154 134.664 9.12056 194.21 12.0442 0.993924 0.210845 
+
+# definition for class # 131
+# class name, prior probability
+''	0.00106851
+# class type is GaussDiag
+# mean vector
+3.27877 34.8583 -32.392 50.6159 -17.8987 19.1251 -36.0674 35.828 2.5268 8.08031 
+
+# diagonal of covariance matrix
+1.12197 9.05903 121.368 18.0409 330.459 12.7566 206.383 24.1145 2.59103 0.755488 
+
+# definition for class # 132
+# class name, prior probability
+''	0.00128207
+# class type is GaussDiag
+# mean vector
+3.808 40.408 74.4827 64.647 -12.9347 -0.350222 85.7569 117.429 8.36833 9.18839 
+
+# diagonal of covariance matrix
+1.32174 86.3434 63.6676 123.615 1233.53 228.119 1.73479 507.029 0.578056 0.190696 
+
+# definition for class # 133
+# class name, prior probability
+''	0.000909397
+# class type is GaussDiag
+# mean vector
+4.7915 17.6848 60.8312 86.0691 -13.0697 -75.6372 82.7341 226.99 8.24971 9.21233 
+
+# diagonal of covariance matrix
+1.64673 1027.89 626.595 1985.72 2170.09 1290.69 39.1888 3253.44 0.787481 0.144981 
+
+# definition for class # 134
+# class name, prior probability
+''	0.000508561
+# class type is GaussDiag
+# mean vector
+4.83432 -32.1077 63.2391 38.5188 82.3583 -78.981 -0.59429 168.039 6.98366 8.30637 
+
+# diagonal of covariance matrix
+2.69935 365.566 277.196 480.132 30.7309 540.791 1058.19 2189.99 1.42559 0.630218 
+
+# definition for class # 135
+# class name, prior probability
+''	0.0007798
+# class type is GaussDiag
+# mean vector
+4.68258 -96.6185 70.1789 93.0046 82.9262 -178.727 -7.37536 435.875 8.91061 9.39772 
+
+# diagonal of covariance matrix
+3.51284 4158.17 540.162 23609.6 153.535 3440.96 1567.63 37170 0.533022 0.152056 
+
+# definition for class # 136
+# class name, prior probability
+''	0.00105578
+# class type is GaussDiag
+# mean vector
+3.67923 -115.482 -18.3526 -69.0785 -19.6757 -157.948 -12.187 106.128 4.60661 9.1873 
+
+# diagonal of covariance matrix
+1.91957 1756.71 1487.14 2833.95 1840.57 2156.03 1253.06 3871.35 8.02235 0.216623 
+
+# definition for class # 137
+# class name, prior probability
+''	0.000624868
+# class type is GaussDiag
+# mean vector
+4.2641 -22.9307 -22.5379 22.5823 -27.773 -67.3577 -4.9051 95.0528 3.51003 7.97889 
+
+# diagonal of covariance matrix
+1.75395 123.526 671.373 168.618 638.341 172.611 611.562 187.024 4.85929 0.444815 
+
+# definition for class # 138
+# class name, prior probability
+''	0.0012292
+# class type is GaussDiag
+# mean vector
+3.62814 11.4406 -61.3881 66.7336 -13.8063 -54.8661 -52.7048 170.225 8.78402 9.53249 
+
+# diagonal of covariance matrix
+1.1159 871.893 492.511 1526.47 1334.03 1382.6 1254.06 2317.35 0.526783 0.0680383 
+
+# definition for class # 139
+# class name, prior probability
+''	0.00123974
+# class type is GaussDiag
+# mean vector
+5.92911 -26.3219 -51.4023 27.7199 -30.8507 -67.3214 -37.3969 102.415 7.0388 8.55554 
+
+# diagonal of covariance matrix
+1.58675 105.499 445.263 97.8552 552.525 125.418 303.272 202.767 0.935992 0.20693 
+
+# definition for class # 140
+# class name, prior probability
+''	0.00101964
+# class type is GaussDiag
+# mean vector
+6.28156 -18.3213 -11.0831 50.9842 -11.4563 -78.2968 -29.5175 136.961 6.52692 8.40462 
+
+# diagonal of covariance matrix
+2.4352 129.175 1719.55 177.091 1137.18 228.941 513.877 319.985 1.92682 0.273254 
+
+# definition for class # 141
+# class name, prior probability
+''	0.000610876
+# class type is GaussDiag
+# mean vector
+3.19872 -25.1003 60.1814 -4.61255 80.726 -40.1012 -14.36 71.2678 7.65742 9.24951 
+
+# diagonal of covariance matrix
+0.869491 77.018 296.149 144.021 14.7434 110.494 793.426 531.531 1.65252 0.129563 
+
+# definition for class # 142
+# class name, prior probability
+''	0.000862609
+# class type is GaussDiag
+# mean vector
+6.10504 -8.42588 24.5445 28.1577 37.0511 -40.6329 -39.6517 78.2819 6.70705 8.40157 
+
+# diagonal of covariance matrix
+1.30709 59.3335 1066.51 88.8251 823.936 60.2074 198.163 120.145 0.867082 0.290816 
+
+# definition for class # 143
+# class name, prior probability
+''	0.000467185
+# class type is GaussDiag
+# mean vector
+4.03282 -29.7531 -1.62998 8.07025 73.1359 -51.7141 -35.2693 109.449 7.78474 8.99731 
+
+# diagonal of covariance matrix
+1.26256 145.943 991.896 383.111 134.2 231.472 523.816 1456.82 1.05953 0.148722 
+
+# definition for class # 144
+# class name, prior probability
+''	0.000521949
+# class type is GaussDiag
+# mean vector
+5.01921 -14.6704 -15.5448 20.5429 -9.02216 -45.3969 -30.6057 69.544 5.48472 8.371 
+
+# diagonal of covariance matrix
+1.23733 35.1704 399.818 43.1153 330.886 39.7914 199.641 70.5224 3.63884 0.428055 
+
+# definition for class # 145
+# class name, prior probability
+''	0.000760871
+# class type is GaussDiag
+# mean vector
+2 -55.6987 -13.4724 -47.1085 -14.6828 -64.2887 -10.7152 19.7098 1.106 9.49176 
+
+# diagonal of covariance matrix
+0 77.2649 240.59 91.3791 352.874 91.4634 508.739 62.0818 0.550384 0.0392873 
+
+# definition for class # 146
+# class name, prior probability
+''	0.000743243
+# class type is GaussDiag
+# mean vector
+5.34378 -16.3436 -46.0073 13.6033 -28.2428 -39.4855 -36.4302 58.8842 6.6797 8.66056 
+
+# diagonal of covariance matrix
+1.26861 21.6738 228.308 33.3852 399.884 26.4454 219.301 41.0608 0.90431 0.136905 
+
+# definition for class # 147
+# class name, prior probability
+''	0.000375486
+# class type is GaussDiag
+# mean vector
+2.65822 -11.4516 -52.709 1.29052 -5.88084 -26.5965 -63.7747 60.5086 8.27641 9.54232 
+
+# diagonal of covariance matrix
+0.622436 77.0959 503.181 99.0856 1440.67 158.147 611.398 622.489 0.812135 0.0701231 
+
+# definition for class # 148
+# class name, prior probability
+''	0.000183304
+# class type is GaussDiag
+# mean vector
+1.47021 14.332 -44.4274 19.7143 36.4683 8.54887 -72.4932 21.4753 7.33088 9.45543 
+
+# diagonal of covariance matrix
+0.841713 7.87679 404.926 11.6594 498.633 13.201 48.1757 144.682 1.09469 0.110643 
+
+# definition for class # 149
+# class name, prior probability
+''	0.000469715
+# class type is GaussDiag
+# mean vector
+3.1205 31.3534 -41.5527 43.7404 31.5764 10.8145 -80.4604 78.0197 8.40651 9.27901 
+
+# diagonal of covariance matrix
+0.99158 45.8043 715.623 74.9674 1121.16 110.037 19.1335 572.686 0.488987 0.130773 
+
+# definition for class # 150
+# class name, prior probability
+''	0.0121147
+# class type is GaussDiag
+# mean vector
+0 166.098 0 166.098 0 166.098 0 -232.001 0 10.0095 
+
+# diagonal of covariance matrix
+0 252.452 0 252.452 0 252.452 0 1044.73 0 0.00191893 
+
+# definition for class # 151
+# class name, prior probability
+''	0.00258812
+# class type is GaussDiag
+# mean vector
+0 31.2349 0 31.2349 0 31.2349 0 -45.5699 0 10.0069 
+
+# diagonal of covariance matrix
+0 24.379 0 24.379 0 24.379 0 127.724 0 0.000955899 
+
+# definition for class # 152
+# class name, prior probability
+''	0.000439996
+# class type is GaussDiag
+# mean vector
+1.81593 19.1015 80.9805 23.8588 80.4411 14.1246 80.5534 53.8784 9.11978 9.58607 
+
+# diagonal of covariance matrix
+0.530447 56.1277 7.15862 73.9586 13.9791 71.4517 10.9699 412.168 0.210223 0.0769654 
+
+# definition for class # 153
+# class name, prior probability
+''	0.000315148
+# class type is GaussDiag
+# mean vector
+1.7985 -52.8585 85.7808 -42.831 85.5475 -62.7681 84.9007 202.228 9.68088 9.91666 
+
+# diagonal of covariance matrix
+0.396208 793.959 13.4943 1107.12 19.8452 882.456 23.7609 23579.3 0.116874 0.00424248 
+
+# definition for class # 154
+# class name, prior probability
+''	0.000997263
+# class type is GaussDiag
+# mean vector
+3.49901 -27.4633 -43.8208 -12.9542 -48.4998 -42.003 -31.7692 37.9704 4.85454 8.95971 
+
+# diagonal of covariance matrix
+0.773729 26.0091 174.268 46.9177 213.029 46.3281 458.048 105.068 3.75954 0.174192 
+
+# definition for class # 155
+# class name, prior probability
+''	0.000376135
+# class type is GaussDiag
+# mean vector
+2.41551 -18.4718 -60.9417 -11.1989 -62.5965 -25.4597 -55.8853 30.159 6.24871 9.3508 
+
+# diagonal of covariance matrix
+0.665682 27.7516 62.1292 53.2026 118.748 35.8927 223.303 147.835 3.94982 0.147447 
+
+# definition for class # 156
+# class name, prior probability
+''	0.000665638
+# class type is GaussDiag
+# mean vector
+3.31257 -10.7889 -43.093 -2.19505 -42.2661 -19.1334 -41.5888 23.7286 4.48883 9.04063 
+
+# diagonal of covariance matrix
+0.787079 10.5036 41.4435 13.3351 87.0466 18.44 81.3618 19.8635 2.6147 0.0987041 
+
+# definition for class # 157
+# class name, prior probability
+''	0.00038617
+# class type is GaussDiag
+# mean vector
+3.30858 2.97377 -49.8673 16.4046 -50.434 -9.94506 -43.2469 34.8769 3.88822 8.55235 
+
+# diagonal of covariance matrix
+1.2861 6.21569 43.6126 14.1801 104.022 14.2238 87.3757 32.8018 3.31024 0.528309 
+
+# definition for class # 158
+# class name, prior probability
+''	0.00205018
+# class type is GaussDiag
+# mean vector
+4.96945 -3.63346 -68.0686 68.9115 -85.5164 -44.1222 -17.9445 176.469 7.76727 8.5692 
+
+# diagonal of covariance matrix
+2.09907 245.709 162.665 698.445 4.1652 291.511 963.845 1422.89 0.742315 0.31972 
+
+# definition for class # 159
+# class name, prior probability
+''	0.00215687
+# class type is GaussDiag
+# mean vector
+4.25587 84.4471 85.926 192.525 88.2295 -4.49551 80.4997 405.455 9.51009 9.66 
+
+# diagonal of covariance matrix
+1.86887 3077.99 6.91204 8021.92 0.775244 4007.75 185.118 14705.3 0.0701873 0.0353979 
+
+# definition for class # 160
+# class name, prior probability
+''	0.000725812
+# class type is GaussDiag
+# mean vector
+5.51306 4.07403 22.0553 46.5321 -23.8553 -42.2278 55.6944 104.762 6.42342 8.37201 
+
+# diagonal of covariance matrix
+2.66457 126.328 1793.91 183.304 787.855 185.753 495.424 362.521 2.39558 0.520543 
+
+# definition for class # 161
+# class name, prior probability
+''	0.000433207
+# class type is GaussDiag
+# mean vector
+4.68443 11.8289 -37.4221 33.2896 -36.8423 -48.4065 0.0140736 84.8011 7.86201 8.57788 
+
+# diagonal of covariance matrix
+2.66621 96.3661 263.156 71.8125 186.675 92.1607 0.0502391 72.5033 0.8493 0.432475 
+
+# definition for class # 162
+# class name, prior probability
+''	0.00059696
+# class type is GaussDiag
+# mean vector
+5.59422 0.113292 -44.0243 26.2174 -37.0968 -27.1779 -32.7446 58.8562 5.04857 7.82961 
+
+# diagonal of covariance matrix
+3.0837 14.8513 120.041 18.579 143.227 25.2287 185.101 35.9677 3.13954 0.756208 
+
+# definition for class # 163
+# class name, prior probability
+''	0.000848857
+# class type is GaussDiag
+# mean vector
+5.36538 13.2502 -54.9528 41.0578 -41.9443 -12.6259 -48.7639 62.6166 5.71791 8.20384 
+
+# diagonal of covariance matrix
+1.6753 14.5692 108.83 21.9271 353.945 28.7786 144.222 37.7909 1.56841 0.421005 
+
+# definition for class # 164
+# class name, prior probability
+''	0.00155282
+# class type is GaussDiag
+# mean vector
+3.01167 10.8367 -74.4994 51.0524 -86.2034 -9.14928 -12.4298 145.857 8.93683 9.38078 
+
+# diagonal of covariance matrix
+0.452783 91.0939 86.2995 443.543 2.70399 124.753 1201.09 2396.94 0.256779 0.085566 
+
+# definition for class # 165
+# class name, prior probability
+''	0.00231611
+# class type is GaussDiag
+# mean vector
+3.59181 20.1724 75.9115 85.2514 87.2449 -13.0044 -9.33348 192.884 8.78118 9.26276 
+
+# diagonal of covariance matrix
+0.954301 198.3 92.5941 930.958 1.06584 261.588 1324.23 2488.77 0.376971 0.142473 
+
+# definition for class # 166
+# class name, prior probability
+''	0.000874267
+# class type is GaussDiag
+# mean vector
+6.1572 7.46257 61.8661 39.6605 76.9011 -20.0016 -35.862 80.1312 7.10469 8.15186 
+
+# diagonal of covariance matrix
+1.86779 34.9045 144.626 67.5748 42.921 64.051 242.197 186.91 0.717886 0.463076 
+
+# definition for class # 167
+# class name, prior probability
+''	0.000696251
+# class type is GaussDiag
+# mean vector
+2.00228 -2.96742 -46.1504 2.2431 -45.5703 -8.17774 -45.6627 17.7062 3.78427 9.11712 
+
+# diagonal of covariance matrix
+0.000564642 8.99642 25.3707 13.6488 56.0977 11.1818 57.1378 13.6695 1.1542 0.147021 
+
+# definition for class # 168
+# class name, prior probability
+''	0.000474239
+# class type is GaussDiag
+# mean vector
+2.88066 4.37342 11.6152 11.9356 -38.6497 -3.50355 52.4734 25.0908 5.17536 8.84194 
+
+# diagonal of covariance matrix
+0.789038 5.0824 266.765 12.6854 169.161 11.5246 122.122 66.1597 3.09345 0.247003 
+
+# definition for class # 169
+# class name, prior probability
+''	0.00047382
+# class type is GaussDiag
+# mean vector
+3.15013 -7.5184 57.3431 4.92824 -16.8047 -20.796 75.4484 41.9382 6.56537 9.10923 
+
+# diagonal of covariance matrix
+0.584779 33.1206 248.709 49.9227 688.2 60.3044 27.3486 131.297 2.88702 0.224329 
+
+# definition for class # 170
+# class name, prior probability
+''	0.000603144
+# class type is GaussDiag
+# mean vector
+4.2279 0.248419 -25.8769 18.2051 -11.9047 -16.8135 -34.8592 38.55 3.59053 7.84206 
+
+# diagonal of covariance matrix
+2.07306 8.3499 141.557 13.1174 196.886 12.6842 109.866 22.6876 3.44459 0.740095 
+
+# definition for class # 171
+# class name, prior probability
+''	0.000892558
+# class type is GaussDiag
+# mean vector
+4.91112 -4.67893 -41.0441 14.0867 -27.3966 -20.1922 -39.2417 39.4986 5.98983 8.63175 
+
+# diagonal of covariance matrix
+0.9211 9.94221 175.422 15.3669 198.669 11.8741 102.819 20.6906 1.02344 0.219388 
+
+# definition for class # 172
+# class name, prior probability
+''	0.000240299
+# class type is GaussDiag
+# mean vector
+2.11764 4.08161 53.1276 11.0266 76.0983 -1.81048 -31.046 33.3843 8.06869 9.4506 
+
+# diagonal of covariance matrix
+0.7514 12.55 221.958 10.3471 18.8193 24.3711 317.786 226.249 0.908038 0.0963653 
+
+# definition for class # 173
+# class name, prior probability
+''	0.000415324
+# class type is GaussDiag
+# mean vector
+3.26804 4.2637 63.4101 14.5516 45.4122 -6.25838 69.1947 39.1721 6.74599 8.83261 
+
+# diagonal of covariance matrix
+0.581614 21.8637 83.9191 36.9369 467.802 33.7059 70.7132 143.997 2.11832 0.349997 
+
+# definition for class # 174
+# class name, prior probability
+''	0.000242958
+# class type is GaussDiag
+# mean vector
+0.948854 -26.6692 -4.05374 -24.0911 -43.362 -29.2738 39.4512 7.60102 6.66738 9.82802 
+
+# diagonal of covariance matrix
+0.214236 39.4777 114.399 40.3769 127.837 44.6496 145.653 20.5912 1.57875 0.025322 
+
+# definition for class # 175
+# class name, prior probability
+''	0.000313097
+# class type is GaussDiag
+# mean vector
+3.23963 -18.4956 -22.467 2.67883 -33.1441 -41.5827 -3.06983 47.5439 2.44638 8.70602 
+
+# diagonal of covariance matrix
+1.0718 24.1978 113.615 51.1056 168.999 57.3096 76.5754 111.778 4.00172 0.271707 
+
+# definition for class # 176
+# class name, prior probability
+''	0.000516292
+# class type is GaussDiag
+# mean vector
+5.25614 -4.10121 17.9553 15.2166 31.5233 -21.6329 -34.8109 43.3461 6.16692 8.42966 
+
+# diagonal of covariance matrix
+1.19039 16.9108 401.76 22.2601 543.322 22.0006 98.3612 35.1956 1.0831 0.291335 
+
+# definition for class # 177
+# class name, prior probability
+''	0.000452614
+# class type is GaussDiag
+# mean vector
+2.51736 -49.6128 32.0091 -39.1309 49.7702 -59.0472 -1.50904 31.8123 6.23415 9.58717 
+
+# diagonal of covariance matrix
+1.06895 121.63 1110.62 177.592 662.557 160.618 1549.59 285.347 4.92348 0.0863763 
+
+# definition for class # 178
+# class name, prior probability
+''	0.00120772
+# class type is GaussDiag
+# mean vector
+3.216 -35.0839 -6.74365 -12.7167 -16.636 -57.9666 0.404956 49.4015 2.516 8.73675 
+
+# diagonal of covariance matrix
+1.00844 73.1399 633.059 98.0145 606.206 127.984 1008.95 155.022 3.99494 0.197806 
+
+# definition for class # 179
+# class name, prior probability
+''	0.000210008
+# class type is GaussDiag
+# mean vector
+1.89548 -6.11788 -19.8924 -1.21336 2.78892 -11.0059 -36.7267 12.9299 2.67176 9.40574 
+
+# diagonal of covariance matrix
+0.127485 6.08784 50.9824 12.9431 123.625 10.5272 88.9596 27.4087 2.40193 0.110357 
+
+# definition for class # 180
+# class name, prior probability
+''	0.00104653
+# class type is GaussDiag
+# mean vector
+2.97824 -22.0308 -40.7427 -15.3309 -41.2317 -28.6587 -38.6064 19.3039 4.25647 9.15801 
+
+# diagonal of covariance matrix
+0.887147 11.6909 32.3624 17.7995 58.7268 18.225 70.846 24.9374 1.71316 0.075462 
+
+# definition for class # 181
+# class name, prior probability
+''	0.00105466
+# class type is GaussDiag
+# mean vector
+3.48036 -39.0174 -39.9262 -29.5124 -42.8734 -48.7921 -35.5352 25.5847 4.83554 9.22349 
+
+# diagonal of covariance matrix
+0.648093 27.6726 121.768 31.2264 111.901 56.241 177.33 67.3751 1.84976 0.0665329 
+
+# definition for class # 182
+# class name, prior probability
+''	0.000140229
+# class type is GaussDiag
+# mean vector
+1.4176 -6.85848 -13.3361 -4.8641 -23.8952 -8.84978 -1.3937 5.3516 4.52337 9.68844 
+
+# diagonal of covariance matrix
+0.22721 4.66096 18.4015 4.93773 49.9603 7.03429 46.0103 7.04797 2.50163 0.0480265 
+
+# definition for class # 183
+# class name, prior probability
+''	0.000259966
+# class type is GaussDiag
+# mean vector
+2.00227 3.47226 -25.7019 9.39929 -8.92386 -2.45365 -38.5357 15.3343 1.83119 9.02387 
+
+# diagonal of covariance matrix
+0.000984694 3.99711 13.2144 6.84834 70.2187 6.956 23.5598 12.9053 0.406123 0.273764 
+
+# definition for class # 184
+# class name, prior probability
+''	0.000286245
+# class type is GaussDiag
+# mean vector
+2.00665 0.591941 -15.1402 7.02897 -22.2453 -5.84606 -6.82033 14.9605 1.17333 8.74951 
+
+# diagonal of covariance matrix
+0.00177591 1.78518 27.2463 3.88478 86.5176 4.45739 99.2291 10.0254 0.265667 0.28748 
+
+# definition for class # 185
+# class name, prior probability
+''	0.000149225
+# class type is GaussDiag
+# mean vector
+1.9899 2.95067 -8.92944 5.67625 -25.6124 0.217626 10.6063 8.92338 3.81627 9.38147 
+
+# diagonal of covariance matrix
+0.118878 2.96145 11.5683 4.22549 30.602 4.86411 29.0224 10.0245 2.35428 0.0820307 
+
+# definition for class # 186
+# class name, prior probability
+''	0.000598006
+# class type is GaussDiag
+# mean vector
+2.9671 6.09535 54.2274 14.2371 -18.8651 -1.99981 71.817 27.8497 6.21545 9.00921 
+
+# diagonal of covariance matrix
+0.392306 5.68781 69.4789 12.034 280.634 13.1874 15.3684 43.7042 1.88299 0.229248 
+
+# definition for class # 187
+# class name, prior probability
+''	0.000461236
+# class type is GaussDiag
+# mean vector
+2.82833 -74.2131 23.7916 -54.8211 -1.77749 -95.1629 32.0978 50.2211 3.88849 9.21187 
+
+# diagonal of covariance matrix
+0.972099 181.736 875 325.318 1557.45 249.291 1240.28 531.931 7.83565 0.251347 
+
+# definition for class # 188
+# class name, prior probability
+''	0.000285956
+# class type is GaussDiag
+# mean vector
+4.1614 -2.59522 -12.1695 10.4059 27.1784 -13.3289 -41.6363 31.9897 5.45388 8.69948 
+
+# diagonal of covariance matrix
+1.41935 7.86923 310.068 17.5832 359.745 15.0264 97.7187 44.339 2.7136 0.275446 
+
+# definition for class # 189
+# class name, prior probability
+''	0.000455871
+# class type is GaussDiag
+# mean vector
+3.52938 5.82854 -9.01483 16.9861 44.1861 -3.94872 -46.2989 31.8388 5.12573 8.58492 
+
+# diagonal of covariance matrix
+1.08928 8.25082 294.933 19.2794 235.549 14.5466 124.722 44.6307 2.70029 0.297649 
+
+# definition for class # 190
+# class name, prior probability
+''	0.000308223
+# class type is GaussDiag
+# mean vector
+3.0027 -0.896667 -55.5425 9.83824 -30.093 -11.2809 -63.6681 31.8146 4.85239 8.85866 
+
+# diagonal of covariance matrix
+0.856922 8.92872 59.191 23.174 494.041 16.3203 68.9231 57.2011 3.40421 0.282552 
+
+# definition for class # 191
+# class name, prior probability
+''	0.00037196
+# class type is GaussDiag
+# mean vector
+2.53678 8.02169 -60.0521 15.1548 -51.9195 0.952092 -62.8794 26.4294 5.17317 8.7484 
+
+# diagonal of covariance matrix
+0.394047 10.5533 21.425 19.369 154.826 13.4507 63.5911 31.7818 2.04681 0.544602 
+
+# definition for class # 192
+# class name, prior probability
+''	0.000834121
+# class type is GaussDiag
+# mean vector
+2 7.16318 -49.096 11.9354 -47.0739 2.39093 -49.6585 17.7507 4.26541 8.9978 
+
+# diagonal of covariance matrix
+0 6.28666 19.4926 8.88622 62.358 9.01365 48.4832 11.4747 1.09028 0.239101 
+
+# definition for class # 193
+# class name, prior probability
+''	0.000862665
+# class type is GaussDiag
+# mean vector
+5.58291 23.7647 -70.0465 69.8905 -82.2904 -7.26524 -39.3065 114.331 7.42055 8.37301 
+
+# diagonal of covariance matrix
+2.16872 52.416 79.5879 242.298 13.5308 68.3513 407.279 532.921 0.624043 0.293106 
+
+# definition for class # 194
+# class name, prior probability
+''	0.00347345
+# class type is GaussDiag
+# mean vector
+6.38841 79.185 -68.1112 199.124 -45.8006 -44.0939 -26.3565 275.473 7.97547 8.77756 
+
+# diagonal of covariance matrix
+3.15362 1241.09 129.265 1376.34 930.715 1910.86 1752.71 2154.13 0.634869 0.251534 
+
+# definition for class # 195
+# class name, prior probability
+''	0.00308076
+# class type is GaussDiag
+# mean vector
+3.39807 83.909 -66.3464 129.949 -84.9834 60.4849 -14.4029 139.583 8.26955 9.34535 
+
+# diagonal of covariance matrix
+0.876519 206.64 230.555 495.755 6.542 301.927 991.876 1692.89 0.81654 0.125329 
+
+# definition for class # 196
+# class name, prior probability
+''	0.00178757
+# class type is GaussDiag
+# mean vector
+5.26228 79.941 -39.4013 116.548 -30.5798 40.8023 -33.6923 81.6182 5.35054 8.50806 
+
+# diagonal of covariance matrix
+1.64271 45.5563 363.938 52.3642 394.906 61.3624 245.459 87.9789 2.12252 0.268408 
+
+# definition for class # 197
+# class name, prior probability
+''	0.00708587
+# class type is GaussDiag
+# mean vector
+4.10973 143.816 -20.0203 180.907 -23.3107 102.645 -13.6559 83.5651 3.85517 8.85743 
+
+# diagonal of covariance matrix
+1.40652 249.159 718.508 327.957 516.851 393.504 777.529 493.893 4.39456 0.170829 
+
+# definition for class # 198
+# class name, prior probability
+''	0.00565445
+# class type is GaussDiag
+# mean vector
+2.53328 344.717 -5.92973 384.236 -2.88761 303.926 -6.14111 126.985 6.66189 9.67191 
+
+# diagonal of covariance matrix
+2.5746 5970.18 2669.5 6743.71 2205.79 8889.99 2605.77 19206.7 8.36202 0.146747 
+
+# definition for class # 199
+# class name, prior probability
+''	0.00196859
+# class type is GaussDiag
+# mean vector
+3.26918 134.928 48.8696 164.387 72.1702 112.589 -15.1054 82.9899 6.70648 9.41205 
+
+# diagonal of covariance matrix
+0.949763 396.836 740.242 693.616 243.333 496.618 1016.35 1400.12 3.31033 0.106408 
+
+# definition for class # 200
+# class name, prior probability
+''	0.00684354
+# class type is GaussDiag
+# mean vector
+4.58023 125.794 59.172 224.328 86.874 73.4015 -20.6842 253.65 8.16534 9.15286 
+
+# diagonal of covariance matrix
+1.91199 591.671 730.114 1677.85 2.78751 1000.14 1405.72 6104.47 0.88092 0.174365 
+
+# definition for class # 201
+# class name, prior probability
+''	0.00130369
+# class type is GaussDiag
+# mean vector
+3.0474 78.7619 62.6291 99.5441 80.7911 63.3375 -13.7739 68.7137 7.30554 9.40836 
+
+# diagonal of covariance matrix
+0.309894 134.773 216.536 191.973 12.2899 171.481 803.386 538.767 1.66148 0.0736883 
+
+# definition for class # 202
+# class name, prior probability
+''	0.00164738
+# class type is GaussDiag
+# mean vector
+2 43.0317 -23.6141 47.0642 -24.6568 38.9992 -21.2968 11.2443 2.47897 9.50436 
+
+# diagonal of covariance matrix
+0 5.93286 27.3113 11.0907 91.7202 8.90243 137.556 17.8437 0.944277 0.0814348 
+
+# definition for class # 203
+# class name, prior probability
+''	0.00214266
+# class type is GaussDiag
+# mean vector
+2 51.1536 -31.4518 55.1261 -30.0391 47.1813 -31.926 12.2529 3.061 9.48247 
+
+# diagonal of covariance matrix
+-2.01881e-05 15.2393 26.5443 18.2334 69.0785 17.7246 69.4604 11.8834 0.998379 0.0595654 
+
+# definition for class # 204
+# class name, prior probability
+''	0.00255163
+# class type is GaussDiag
+# mean vector
+1.99991 68.0616 -41.6504 74.3191 -40.0226 61.8043 -41.9188 18.8035 3.15318 9.36924 
+
+# diagonal of covariance matrix
+1.01173e-05 47.9986 37.9742 56.8917 95.6116 57.9085 69.7239 42.4564 1.10916 0.0874505 
+
+# definition for class # 205
+# class name, prior probability
+''	0.000928678
+# class type is GaussDiag
+# mean vector
+3.44454 69.0439 -36.1856 78.0073 -33.7025 59.8223 -33.2044 23.5147 4.00933 9.19363 
+
+# diagonal of covariance matrix
+0.607144 40.1999 80.4423 50.6406 176.992 45.5923 195.898 34.7599 2.16157 0.0784695 
+
+# definition for class # 206
+# class name, prior probability
+''	0.00482121
+# class type is GaussDiag
+# mean vector
+2 67.8646 -18.1054 73.2982 -17.396 62.4312 -17.1671 13.6171 1.73362 9.56846 
+
+# diagonal of covariance matrix
+0 54.4457 124.085 60.844 277.813 61.4855 264.009 29.8526 0.919001 0.0385655 
+
+# definition for class # 207
+# class name, prior probability
+''	0.00159517
+# class type is GaussDiag
+# mean vector
+1.10986 116.389 -0.317329 119.318 -0.436796 113.464 -0.139755 6.17846 4.39491 9.88644 
+
+# diagonal of covariance matrix
+0.536701 146.2 5.65081 144.615 19.5912 159.021 13.9902 22.1828 13.0763 0.0134992 
+
+# definition for class # 208
+# class name, prior probability
+''	0.0059229
+# class type is GaussDiag
+# mean vector
+1.96964 201.871 -13.3676 215.134 -11.6047 188.414 -12.9331 30.7378 2.98496 9.5396 
+
+# diagonal of covariance matrix
+0.721918 768.799 598.674 876.06 938.711 895.664 976.575 518.858 7.26991 0.14382 
+
+# definition for class # 209
+# class name, prior probability
+''	0.000749215
+# class type is GaussDiag
+# mean vector
+3.34157 60.832 15.9718 75.2575 -32.3676 35.5542 76.6188 86.8204 7.82039 9.17023 
+
+# diagonal of covariance matrix
+0.97351 51.7076 622.236 91.0388 364.328 148.209 32.9397 613.649 0.969795 0.152479 
+
+# definition for class # 210
+# class name, prior probability
+''	0.000876041
+# class type is GaussDiag
+# mean vector
+3.20388 70.69 -24.4409 89.9443 5.15782 51.9959 -42.1344 43.0964 2.92371 8.5877 
+
+# diagonal of covariance matrix
+1.01975 44.8234 209.974 92.7829 461.475 76.4265 146.982 157.8 4.18082 0.342305 
+
+# definition for class # 211
+# class name, prior probability
+''	0.000865354
+# class type is GaussDiag
+# mean vector
+2.64403 56.1123 41.7899 63.9664 -7.85852 47.9025 62.683 27.0818 5.15464 9.3369 
+
+# diagonal of covariance matrix
+0.506235 18.3898 323.354 25.8688 1097.48 33.7604 105.321 80.5811 3.84799 0.124305 
+
+# definition for class # 212
+# class name, prior probability
+''	0.00126604
+# class type is GaussDiag
+# mean vector
+4.67984 70.2791 27.0339 101.294 24.8291 38.7286 -17.6979 69.1243 5.98464 8.799 
+
+# diagonal of covariance matrix
+1.1205 71.6582 812.098 93.0257 982.576 107.436 472.853 134.121 2.35319 0.265201 
+
+# definition for class # 213
+# class name, prior probability
+''	0.00184822
+# class type is GaussDiag
+# mean vector
+0.994694 93.0952 -11.466 95.3676 13.6275 90.8121 -31.9817 6.67919 6.34175 9.8707 
+
+# diagonal of covariance matrix
+0.190644 223.923 415.707 226.62 885.331 227.171 500.421 18.8237 2.0402 0.0145839 
+
+# definition for class # 214
+# class name, prior probability
+''	0.000403705
+# class type is GaussDiag
+# mean vector
+4.35221 56.5791 56.3308 81.6612 48.6923 27.2373 71.3753 98.8047 7.87395 9.00044 
+
+# diagonal of covariance matrix
+1.64607 117.625 421.871 232.128 718.48 200.161 110.977 966.031 0.666112 0.184382 
+
+# definition for class # 215
+# class name, prior probability
+''	0.000352392
+# class type is GaussDiag
+# mean vector
+3.00855 33.7946 -8.4795 51.5304 -11.2055 15.6584 -3.63489 37.2671 1.35561 7.93553 
+
+# diagonal of covariance matrix
+1.09223 10.6148 56.4821 18.5478 143.877 22.2695 78.5326 40.4031 1.80868 0.85376 
+
+# definition for class # 216
+# class name, prior probability
+''	0.00513039
+# class type is GaussDiag
+# mean vector
+0 57.0518 0 57.0518 0 57.0518 0 -81.7018 0 10.0054 
+
+# diagonal of covariance matrix
+0 4.07214 0 4.07214 0 4.07214 0 306.406 0 -3.94977e-05 
+
+# definition for class # 217
+# class name, prior probability
+''	0.00115445
+# class type is GaussDiag
+# mean vector
+0.315586 -20.6571 8.10006e-06 -19.3682 -1.00284e-05 -21.9458 4.27064e-07 2.61375 7.22012 9.96814 
+
+# diagonal of covariance matrix
+0.0324095 33.7422 3.71739e-08 34.4768 4.05418e-08 35.4379 6.02781e-09 4.83141 9.29237 0.00118603 
+
+# definition for class # 218
+# class name, prior probability
+''	0.000599
+# class type is GaussDiag
+# mean vector
+3.05577 -22.5565 -29.0073 -16.2369 -35.6525 -28.8757 -22.4981 16.7459 3.90196 9.08257 
+
+# diagonal of covariance matrix
+0.82027 16.2493 31.8256 22.0451 53.3892 20.349 104.208 20.1279 2.38071 0.13252 
+
+# definition for class # 219
+# class name, prior probability
+''	0.000761583
+# class type is GaussDiag
+# mean vector
+2 -12.6134 -20.8295 -9.09561 -21.803 -16.1306 -18.6618 9.84506 2.36514 9.50357 
+
+# diagonal of covariance matrix
+0 6.47613 60.7939 7.74909 135.492 9.63777 171.102 10.6808 0.944593 0.0402624 
+
+# definition for class # 220
+# class name, prior probability
+''	0.000414919
+# class type is GaussDiag
+# mean vector
+1.99998 -4.35908 -19.6445 -1.54748 -21.6037 -7.17067 -17.1867 8.15793 2.48732 9.46371 
+
+# diagonal of covariance matrix
+1.98641e-05 2.36412 9.69259 3.83201 40.5441 3.05549 53.4743 4.47187 0.78742 0.0679953 
+
+# definition for class # 221
+# class name, prior probability
+''	0.00029461
+# class type is GaussDiag
+# mean vector
+2 -3.68633 -27.5691 0.961896 -29.0389 -8.33456 -25.7463 12.9041 2.36219 9.18583 
+
+# diagonal of covariance matrix
+-9.92877e-06 3.24457 5.44976 5.26857 21.4813 5.5818 22.29 10.0222 0.476098 0.133019 
+
+# definition for class # 222
+# class name, prior probability
+''	0.000220653
+# class type is GaussDiag
+# mean vector
+1.99996 0.0556899 -23.3524 2.73518 -28.8269 -2.6238 -17.193 8.46391 3.00568 9.38822 
+
+# diagonal of covariance matrix
+-1.44296e-07 1.14665 4.18942 2.14616 12.2278 1.91007 23.0707 4.46702 0.550067 0.090326 
+
+# definition for class # 223
+# class name, prior probability
+''	0.000179893
+# class type is GaussDiag
+# mean vector
+2.91314 -1.81346 -32.9753 2.05056 -28.248 -5.54775 -36.4523 12.3946 4.85405 9.2424 
+
+# diagonal of covariance matrix
+0.888665 5.11423 35.2296 6.706 61.8945 8.30337 56.7798 11.6269 1.8684 0.111442 
+
+# definition for class # 224
+# class name, prior probability
+''	0.00017521
+# class type is GaussDiag
+# mean vector
+1.55334 0.995962 -13.4408 3.55188 -25.3604 -1.55974 -0.00115421 6.40282 3.84485 9.55672 
+
+# diagonal of covariance matrix
+0.184155 3.11167 10.7139 3.82355 31.9282 4.58014 0.000566896 5.0993 2.93993 0.083009 
+
+# definition for class # 225
+# class name, prior probability
+''	0.00041205
+# class type is GaussDiag
+# mean vector
+2.70718 0.265618 39.0594 7.70091 -16.7636 -7.12267 61.2467 21.9491 4.32858 8.93712 
+
+# diagonal of covariance matrix
+0.489866 5.7528 87.3333 11.1344 231.997 13.9114 35.8516 30.057 2.8996 0.258079 
+
+# definition for class # 226
+# class name, prior probability
+''	0.000348996
+# class type is GaussDiag
+# mean vector
+1.42875 -4.44287 -42.5393 -1.30108 -54.9614 -7.55151 -16.5732 11.7695 6.23714 9.52419 
+
+# diagonal of covariance matrix
+0.292123 6.1884 106.968 8.12187 108.865 9.4639 812.779 26.4109 1.84248 0.0830021 
+
+# definition for class # 227
+# class name, prior probability
+''	0.000661659
+# class type is GaussDiag
+# mean vector
+3.00081 9.68401 -47.1917 18.745 -45.4063 0.865751 -41.288 24.597 3.56659 8.2197 
+
+# diagonal of covariance matrix
+0.78106 2.99915 23.5536 5.82592 117.748 6.00184 89.6311 12.2206 1.44283 0.710832 
+
+# definition for class # 228
+# class name, prior probability
+''	0.000809721
+# class type is GaussDiag
+# mean vector
+2.81697 14.9582 -22.3006 24.7543 -27.9851 5.54092 -23.0702 49.2644 8.30947 9.3814 
+
+# diagonal of covariance matrix
+0.430689 39.1442 359.177 59.2677 690.584 61.2342 734.196 353.319 0.507807 0.079436 
+
+# definition for class # 229
+# class name, prior probability
+''	0.000309209
+# class type is GaussDiag
+# mean vector
+4.12645 11.4342 -30.2995 23.9498 -39.6578 -1.53657 -3.3905 29.1366 3.97263 7.77589 
+
+# diagonal of covariance matrix
+0.65601 3.02609 144.96 3.75105 130.779 4.3053 54.3604 6.14949 1.57091 0.842534 
+
+# definition for class # 230
+# class name, prior probability
+''	0.000273945
+# class type is GaussDiag
+# mean vector
+3.6659 16.294 -38.4167 29.2056 -50.7528 2.78255 -1.65689 31.3467 3.41215 7.81226 
+
+# diagonal of covariance matrix
+1.01528 2.55456 91.0873 4.99494 77.9333 4.52611 60.4007 8.37232 2.01113 0.631701 
+
+# definition for class # 231
+# class name, prior probability
+''	0.000938905
+# class type is GaussDiag
+# mean vector
+4.36739 24.1476 -29.5867 37.2668 -36.4625 9.27847 -10.1725 31.6798 4.64273 8.45391 
+
+# diagonal of covariance matrix
+0.690303 3.6224 134.257 5.21566 86.746 6.0915 122.142 9.92034 2.07376 0.281802 
+
+# definition for class # 232
+# class name, prior probability
+''	0.000658822
+# class type is GaussDiag
+# mean vector
+4.62795 19.9712 40.1885 44.5123 0.136656 -0.336067 18.2036 49.081 6.47992 8.33662 
+
+# diagonal of covariance matrix
+0.810778 16.9291 259.905 38.4553 425.753 22.8323 528.787 53.5653 1.21425 0.43396 
+
+# definition for class # 233
+# class name, prior probability
+''	0.000625379
+# class type is GaussDiag
+# mean vector
+4.86157 13.8981 -2.55091 35.5937 -25.129 -6.93228 8.18611 45.5342 3.94687 7.3309 
+
+# diagonal of covariance matrix
+2.88024 7.07782 306.791 13.6386 223.844 8.95389 348.703 18.6368 3.55591 1.4423 
+
+# definition for class # 234
+# class name, prior probability
+''	0.00051082
+# class type is GaussDiag
+# mean vector
+5.16137 27.2758 22.6813 49.4291 -26.3195 5.2743 7.19949 47.5687 6.2285 8.44308 
+
+# diagonal of covariance matrix
+1.24016 12.6227 229.466 15.8241 197.001 11.6503 266.155 20.5891 0.811091 0.2088 
+
+# definition for class # 235
+# class name, prior probability
+''	0.000543574
+# class type is GaussDiag
+# mean vector
+3.19285 12.7117 66.6041 24.11 78.7628 2.20167 -8.77842 39.2898 6.92785 8.49795 
+
+# diagonal of covariance matrix
+0.239108 7.74968 31.2837 19.7909 3.95057 7.24495 326.226 29.3816 1.08869 0.44355 
+
+# definition for class # 236
+# class name, prior probability
+''	0.000417179
+# class type is GaussDiag
+# mean vector
+3.84311 6.84852 59.9198 22.6377 78.4604 -5.98626 -27.7503 48.9144 6.83362 8.57392 
+
+# diagonal of covariance matrix
+0.902506 9.52738 91.7778 20.9246 8.23514 20.3517 295.731 68.9016 1.03574 0.351989 
+
+# definition for class # 237
+# class name, prior probability
+''	0.000238116
+# class type is GaussDiag
+# mean vector
+2.00017 2.91849 -15.6969 4.34693 -19.5066 1.48914 -11.5278 4.98221 3.1318 9.61493 
+
+# diagonal of covariance matrix
+0.00150998 0.869936 7.22033 0.9869 25.2026 1.23304 22.4578 1.47558 0.701327 0.0118175 
+
+# definition for class # 238
+# class name, prior probability
+''	0.000280173
+# class type is GaussDiag
+# mean vector
+2 3.19401 -4.81977 6.07417 -9.83542 0.313849 0.302716 6.6672 1.29249 9.27321 
+
+# diagonal of covariance matrix
+0 3.3293 3.52382 4.82536 13.3645 4.35676 1.64004 5.29304 0.57577 0.179582 
+
+# definition for class # 239
+# class name, prior probability
+''	0.000152747
+# class type is GaussDiag
+# mean vector
+1.36582 5.12385 11.5753 7.02156 0.493332 3.24988 21.5752 5.71191 5.19948 9.69985 
+
+# diagonal of covariance matrix
+0.289865 18.057 16.6054 23.6983 14.6227 18.1339 62.4869 23.0479 2.51931 0.0746066 
+
+# definition for class # 240
+# class name, prior probability
+''	0.000346853
+# class type is GaussDiag
+# mean vector
+2 5.46337 -17.7627 8.85692 -29.1788 2.06982 -4.55643 9.35801 2.3457 9.05295 
+
+# diagonal of covariance matrix
+0 2.04729 6.64355 2.78666 13.9616 3.37452 32.6563 4.45935 0.542401 0.234399 
+
+# definition for class # 241
+# class name, prior probability
+''	0.000408824
+# class type is GaussDiag
+# mean vector
+2 4.69546 -24.5503 9.91087 -23.1473 -0.519934 -25.59 13.4363 1.7826 8.61294 
+
+# diagonal of covariance matrix
+0 2.96556 9.98574 4.65266 35.1135 4.60889 27.8029 7.74283 0.236347 0.382469 
+
+# definition for class # 242
+# class name, prior probability
+''	0.000270205
+# class type is GaussDiag
+# mean vector
+2 7.42204 -4.27697 9.99437 -0.548748 4.84973 -7.93935 5.95367 0.576013 9.24188 
+
+# diagonal of covariance matrix
+0 1.57102 4.28633 2.66256 6.15791 2.00582 16.8549 3.12122 0.534513 0.177246 
+
+# definition for class # 243
+# class name, prior probability
+''	0.000360471
+# class type is GaussDiag
+# mean vector
+2.33491 4.90885 12.2043 8.69889 43.7923 1.26418 -25.0791 15.9283 5.54177 9.23943 
+
+# diagonal of covariance matrix
+0.164605 2.95339 29.4181 4.2036 35.2644 5.09316 75.5998 18.3883 2.99258 0.0981294 
+
+# definition for class # 244
+# class name, prior probability
+''	0.000297787
+# class type is GaussDiag
+# mean vector
+2 4.02845 -20.2474 6.63014 -21.5722 1.42675 -18.8235 7.75296 2.56098 9.33772 
+
+# diagonal of covariance matrix
+0 0.996791 1.78379 2.03465 8.28018 1.55442 6.70386 3.32761 0.646411 0.0891911 
+
+# definition for class # 245
+# class name, prior probability
+''	0.00030251
+# class type is GaussDiag
+# mean vector
+2.08061 10.8425 -10.937 14.4009 -31.995 7.2565 14.4229 12.2717 3.70391 9.13392 
+
+# diagonal of covariance matrix
+0.0205822 2.3942 15.601 4.46008 22.33 2.97221 36.405 4.74438 2.61625 0.0951096 
+
+# definition for class # 246
+# class name, prior probability
+''	0.000550737
+# class type is GaussDiag
+# mean vector
+2.5196 7.33302 25.4949 11.8382 -22.374 2.91076 52.886 14.5334 4.37692 8.97732 
+
+# diagonal of covariance matrix
+0.272466 4.33481 13.2721 5.42904 55.4211 6.74238 9.95059 5.83731 1.99247 0.193431 
+
+# definition for class # 247
+# class name, prior probability
+''	0.000465789
+# class type is GaussDiag
+# mean vector
+3.47133 7.17326 -29.865 14.6212 -33.5831 -0.546512 -15.1841 18.53 3.30605 8.07689 
+
+# diagonal of covariance matrix
+0.38597 1.37274 28.9869 2.80749 38.8054 2.53451 100.946 5.32308 1.05643 0.522443 
+
+# definition for class # 248
+# class name, prior probability
+''	0.000249901
+# class type is GaussDiag
+# mean vector
+2.26557 15.0646 -26.9056 25.5471 -55.4954 4.56289 25.5098 27.5817 2.50959 7.78956 
+
+# diagonal of covariance matrix
+0.156123 7.54282 76.6267 11.6877 41.011 12.5209 193.29 19.3518 0.637188 1.07386 
+
+# definition for class # 249
+# class name, prior probability
+''	0.000272184
+# class type is GaussDiag
+# mean vector
+2.2887 13.5415 -30.4599 20.9744 -47.1379 6.01623 -1.18339 19.3128 2.3575 8.53722 
+
+# diagonal of covariance matrix
+0.136152 1.90078 33.7365 4.20858 34.2181 3.68147 126.915 8.31377 0.434144 0.308274 
+
+# definition for class # 250
+# class name, prior probability
+''	0.000420089
+# class type is GaussDiag
+# mean vector
+3.91416 14.1388 -53.7776 26.565 -58.0907 0.632509 -33.4025 34.4221 4.81088 8.21072 
+
+# diagonal of covariance matrix
+0.813551 5.47334 30.3199 9.66075 68.6206 10.8574 186.433 21.399 1.77983 0.517779 
+
+# definition for class # 251
+# class name, prior probability
+''	0.000525268
+# class type is GaussDiag
+# mean vector
+3.67619 19.436 -36.3373 34.0763 -39.3342 4.16459 -22.5488 34.1831 2.77342 7.25098 
+
+# diagonal of covariance matrix
+0.986327 3.24186 44.4807 5.36577 59.7206 4.01289 124.1 7.41559 1.47582 1.1505 
+
+# definition for class # 252
+# class name, prior probability
+''	0.000627515
+# class type is GaussDiag
+# mean vector
+5.77272 25.8109 22.3833 50.1316 -31.5379 2.41658 36.4576 52.9322 4.64541 6.81553 
+
+# diagonal of covariance matrix
+2.43171 9.9295 226.179 16.1828 169.311 13.2097 357.423 25.6521 1.18006 1.08806 
+
+# definition for class # 253
+# class name, prior probability
+''	0.000592713
+# class type is GaussDiag
+# mean vector
+5.82038 23.3113 42.5072 42.8678 -37.1487 3.10684 56.1964 47.5097 6.04344 8.05392 
+
+# diagonal of covariance matrix
+1.40008 16.9403 181.228 22.2716 72.924 22.5692 118.495 32.9083 0.718935 0.305076 
+
+# definition for class # 254
+# class name, prior probability
+''	0.000266865
+# class type is GaussDiag
+# mean vector
+4.46285 27.3201 -55.6667 47.5912 -62.2701 4.84644 -14.3392 51.0286 4.63849 7.64776 
+
+# diagonal of covariance matrix
+1.09477 8.84322 75.6285 11.7374 81.2148 12.3466 273.745 19.4719 2.16841 0.784365 
+
+# definition for class # 255
+# class name, prior probability
+''	0.000593022
+# class type is GaussDiag
+# mean vector
+5.56285 27.7842 -50.2862 46.4517 -39.2275 6.07469 -24.8366 45.3206 6.49106 8.53928 
+
+# diagonal of covariance matrix
+1.3667 7.76519 76.9278 10.9597 121.043 10.571 137.795 18.7733 0.554442 0.158702 
+
+# definition for class # 256
+# class name, prior probability
+''	0.00102606
+# class type is GaussDiag
+# mean vector
+6.61883 26.187 -24.6688 56.496 -30.0966 -2.18724 -24.8781 62.6688 5.55108 7.44297 
+
+# diagonal of covariance matrix
+2.56779 8.90511 383.478 10.6622 173.125 9.88208 191.199 17.0413 1.11891 0.8266 
+
+# definition for class # 257
+# class name, prior probability
+''	0.000685995
+# class type is GaussDiag
+# mean vector
+6.46108 30.8167 -42.464 59.2351 -32.1687 4.17061 -38.9698 60.3649 5.47618 7.60674 
+
+# diagonal of covariance matrix
+2.84044 8.55404 165.199 11.793 109.005 10.0606 120.865 19.2388 1.15725 0.675109 
+
+# definition for class # 258
+# class name, prior probability
+''	0.000806254
+# class type is GaussDiag
+# mean vector
+6.09268 34.0187 -30.7648 56.2613 -24.5814 10.2556 -15.3844 49.2445 5.68701 8.1902 
+
+# diagonal of covariance matrix
+1.76615 8.46811 332.197 8.54614 231.113 7.38667 240.452 11.2194 1.07012 0.298126 
+
+# definition for class # 259
+# class name, prior probability
+''	0.000749658
+# class type is GaussDiag
+# mean vector
+2.93847 49.015 66.038 63.4206 80.6027 36.8352 -19.9564 54.9913 7.79845 9.42411 
+
+# diagonal of covariance matrix
+0.358814 38.1299 110.462 71.9076 8.77483 47.728 635.512 232.627 0.915477 0.0662398 
+
+# definition for class # 260
+# class name, prior probability
+''	0.000848447
+# class type is GaussDiag
+# mean vector
+4.18967 21.5407 69.0039 46.2203 80.8294 2.05171 -5.91988 63.5895 6.50816 7.74489 
+
+# diagonal of covariance matrix
+0.896265 13.8862 49.2024 43.9139 7.41826 18.1085 445.26 122.315 0.740853 0.583373 
+
+# definition for class # 261
+# class name, prior probability
+''	0.000373952
+# class type is GaussDiag
+# mean vector
+2 10.4805 -3.45518 13.7933 -7.85777 7.16761 1.00503 7.55171 0.966202 9.21823 
+
+# diagonal of covariance matrix
+0 3.81311 3.33043 5.64389 12.1647 4.91796 12.7121 6.02338 0.394794 0.167534 
+
+# definition for class # 262
+# class name, prior probability
+''	0.000341883
+# class type is GaussDiag
+# mean vector
+2.07096 8.63093 -12.6992 14.3468 -19.4676 2.91213 -5.11528 13.0824 1.04183 8.4532 
+
+# diagonal of covariance matrix
+0.0236346 1.06585 9.40632 2.10533 28.7256 1.6322 45.7994 3.2918 0.16635 0.388805 
+
+# definition for class # 263
+# class name, prior probability
+''	0.000380728
+# class type is GaussDiag
+# mean vector
+2.4705 7.7103 36.0584 14.4081 55.5338 1.149 -0.176851 17.972 3.02486 8.08276 
+
+# diagonal of covariance matrix
+0.22213 3.47087 26.5919 7.19866 21.6471 5.31965 149.31 12.8582 1.03702 0.774592 
+
+# definition for class # 264
+# class name, prior probability
+''	0.000279336
+# class type is GaussDiag
+# mean vector
+2.15506 5.76714 9.30126 8.55347 29.5831 3.01187 -13.0204 10.1266 4.24512 9.24864 
+
+# diagonal of covariance matrix
+0.0917865 2.7766 16.6036 3.53416 28.3252 3.84734 63.2132 6.86197 3.22286 0.112464 
+
+# definition for class # 265
+# class name, prior probability
+''	0.000332965
+# class type is GaussDiag
+# mean vector
+2 3.98097 -8.40494 6.14339 -7.74193 1.81856 -9.02688 5.47548 1.24858 9.2645 
+
+# diagonal of covariance matrix
+0 1.48408 2.94069 2.50716 10.4844 2.07696 11.0324 3.70222 0.514338 0.219248 
+
+# definition for class # 266
+# class name, prior probability
+''	8.62344e-05
+# class type is GaussDiag
+# mean vector
+1.74873 4.51923 -9.31214 6.66129 -18.1069 2.37772 -0.00114684 5.42824 3.27249 9.47282 
+
+# diagonal of covariance matrix
+0.159393 1.12986 2.31434 1.74031 7.7612 2.3624 0.0371642 3.76021 2.78131 0.132474 
+
+# definition for class # 267
+# class name, prior probability
+''	0.000304864
+# class type is GaussDiag
+# mean vector
+2 6.47068 -18.9139 7.95615 -18.3249 4.98519 -19.4003 5.33895 3.28829 9.57714 
+
+# diagonal of covariance matrix
+0 0.594596 2.91936 0.900779 11.6001 0.969977 10.7084 1.53381 0.803647 0.0253928 
+
+# definition for class # 268
+# class name, prior probability
+''	0.000240129
+# class type is GaussDiag
+# mean vector
+2 10.0523 -17.7854 11.9868 -15.9768 8.11772 -19.4669 6.23227 2.75617 9.53216 
+
+# diagonal of covariance matrix
+0 0.782262 2.02854 1.47463 10.9078 1.17953 9.8438 2.81351 0.765067 0.0403253 
+
+# definition for class # 269
+# class name, prior probability
+''	0.000289916
+# class type is GaussDiag
+# mean vector
+2 8.92959 -13.9421 11.164 -8.16701 6.69441 -19.3765 6.29568 1.92393 9.40023 
+
+# diagonal of covariance matrix
+0 1.06962 3.41786 1.97811 16.4024 1.40738 11.4253 2.88432 0.620293 0.0887673 
+
+# definition for class # 270
+# class name, prior probability
+''	0.000253818
+# class type is GaussDiag
+# mean vector
+2 7.29889 -15.3222 9.59579 -18.8308 5.00199 -11.6341 6.60777 2.24815 9.41033 
+
+# diagonal of covariance matrix
+0 0.931306 1.71418 1.47012 6.775 1.8877 8.50072 3.34278 0.607571 0.057892 
+
+# definition for class # 271
+# class name, prior probability
+''	0.000198062
+# class type is GaussDiag
+# mean vector
+2.01083 13.6441 -20.3428 17.4805 -31.5018 9.80166 -6.91358 10.8048 2.49813 9.09613 
+
+# diagonal of covariance matrix
+0.00367323 1.54754 5.21747 3.11213 13.6266 2.63987 31.9392 6.2353 0.909176 0.215411 
+
+# definition for class # 272
+# class name, prior probability
+''	0.000360669
+# class type is GaussDiag
+# mean vector
+2 13.6759 -28.2672 15.8548 -22.9594 11.4969 -32.881 8.11373 3.75362 9.48718 
+
+# diagonal of covariance matrix
+0 1.34575 2.95938 1.78131 21.39 1.9163 11.5999 2.41258 0.710838 0.0458184 
+
+# definition for class # 273
+# class name, prior probability
+''	0.00121024
+# class type is GaussDiag
+# mean vector
+2 19.6949 -32.4892 22.2992 -32.485 17.0907 -31.9519 9.69016 3.90885 9.45469 
+
+# diagonal of covariance matrix
+0 2.14088 9.2818 3.13368 33.7747 2.69596 33.4561 3.68251 0.715091 0.0609429 
+
+# definition for class # 274
+# class name, prior probability
+''	0.000409566
+# class type is GaussDiag
+# mean vector
+2.31456 17.0815 -56.6982 23.5313 -63.3244 10.7838 -43.1504 23.4148 4.61227 8.58082 
+
+# diagonal of covariance matrix
+0.175912 6.27039 18.9243 10.2839 29.1693 9.69566 151.563 14.6491 1.46687 0.537126 
+
+# definition for class # 275
+# class name, prior probability
+''	0.00163783
+# class type is GaussDiag
+# mean vector
+2 33.0061 -44.0373 37.3313 -43.4299 28.6807 -43.6748 15.5134 4.02109 9.27338 
+
+# diagonal of covariance matrix
+0 7.54738 20.7163 9.9342 51.8337 10.4765 48.5117 12.7494 0.911834 0.125721 
+
+# definition for class # 276
+# class name, prior probability
+''	0.00309003
+# class type is GaussDiag
+# mean vector
+0.89202 51.4216 6.75703e-07 54.4523 -3.34595e-06 48.3916 1.33837e-06 6.12501 4.84878 9.8481 
+
+# diagonal of covariance matrix
+0.55165 105.499 3.53117e-09 114.647 3.09358e-08 113.603 3.16417e-08 34.1339 15.4622 0.0313388 
+
+# definition for class # 277
+# class name, prior probability
+''	0.00659185
+# class type is GaussDiag
+# mean vector
+0 77.5864 0 77.5864 0 77.5864 0 -109.621 0 10.0066 
+
+# diagonal of covariance matrix
+0 5.2802 0 5.2802 0 5.2802 0 386.636 0 0.000952072 
+
+# definition for class # 278
+# class name, prior probability
+''	0.00205325
+# class type is GaussDiag
+# mean vector
+0.665085 -48.7546 1.74872e-05 -46.7795 -7.77023e-06 -50.7185 -8.25699e-06 4.05338 5.31197 9.93205 
+
+# diagonal of covariance matrix
+0.288077 186.509 1.72186e-07 194.158 3.99967e-08 188.194 1.68556e-07 18.5581 14.4129 0.00788961 
+
+# definition for class # 279
+# class name, prior probability
+''	0.000942264
+# class type is GaussDiag
+# mean vector
+2.40527 -77.1135 -33.7265 -64.7791 -44.5925 -89.4566 -11.3392 30.2951 3.07623 9.30394 
+
+# diagonal of covariance matrix
+0.888156 118.088 228.373 167.548 325.669 150.738 858.794 172.357 3.96371 0.11631 
+
+# definition for class # 280
+# class name, prior probability
+''	0.000235405
+# class type is GaussDiag
+# mean vector
+2.02012 -20.1403 -20.1315 -14.4561 -35.3173 -25.8219 -0.0811438 14.2267 2.15294 9.32267 
+
+# diagonal of covariance matrix
+0.0536656 8.73029 40.3277 17.1911 93.2884 13.5846 97.3642 30.074 0.891099 0.098323 
+
+# definition for class # 281
+# class name, prior probability
+''	0.000761351
+# class type is GaussDiag
+# mean vector
+0.869954 -26.8966 0.405975 -25.4991 9.12237 -28.2947 -7.99205 4.04464 6.58718 9.93089 
+
+# diagonal of covariance matrix
+0.102026 78.6259 342.34 77.3699 774.363 81.6819 870.872 4.51939 1.69126 0.00382371 
+
+# definition for class # 282
+# class name, prior probability
+''	0.000279091
+# class type is GaussDiag
+# mean vector
+2.56794 -17.4027 -26.1924 -5.85608 -7.81653 -28.6398 -38.3503 27.5969 2.53563 9.25556 
+
+# diagonal of covariance matrix
+0.687834 16.742 107.831 28.0785 437.636 38.7769 125.434 66.847 3.99128 0.0835124 
+
+# definition for class # 283
+# class name, prior probability
+''	0.00074556
+# class type is GaussDiag
+# mean vector
+2 -16.4343 -2.50551 -10.061 -3.54694 -22.8076 -1.32912 14.2405 0.863049 9.411 
+
+# diagonal of covariance matrix
+0 26.4998 91.8731 35.7073 228.788 37.4844 207.734 43.5371 0.359746 0.0835684 
+
+# definition for class # 284
+# class name, prior probability
+''	0.000555408
+# class type is GaussDiag
+# mean vector
+1.23219 -13.1073 -25.665 -10.7126 -41.8194 -15.5021 -1.81784 7.3785 5.68429 9.66135 
+
+# diagonal of covariance matrix
+0.127008 9.56669 108.007 10.7572 133.418 10.6139 448.872 7.08513 0.989253 0.0318134 
+
+# definition for class # 285
+# class name, prior probability
+''	0.000468506
+# class type is GaussDiag
+# mean vector
+3.35983 -12.3823 -33.12 -6.75663 -31.3465 -17.8397 -34.6288 15.6759 4.55283 9.17266 
+
+# diagonal of covariance matrix
+0.705542 8.98263 23.3657 11.1859 38.9171 13.7641 47.2363 13.7142 1.95154 0.0868159 
+
+# definition for class # 286
+# class name, prior probability
+''	0.00014589
+# class type is GaussDiag
+# mean vector
+1.99809 -7.32141 -26.2845 -5.07391 -22.5839 -9.57035 -29.3903 8.00457 3.54075 9.5673 
+
+# diagonal of covariance matrix
+0.00241623 1.26595 13.608 1.73103 40.1604 2.1771 35.1612 3.09656 0.989288 0.0242766 
+
+# definition for class # 287
+# class name, prior probability
+''	0.000332423
+# class type is GaussDiag
+# mean vector
+1.99945 -8.6968 -31.5787 -4.98926 -34.4383 -12.4043 -27.3191 11.6415 3.15181 9.28895 
+
+# diagonal of covariance matrix
+8.01847e-05 1.47127 28.3858 3.34978 52.3735 2.46836 134.696 5.83547 0.843094 0.0834033 
+
+# definition for class # 288
+# class name, prior probability
+''	0.000306772
+# class type is GaussDiag
+# mean vector
+1.99975 -0.261474 -24.7559 2.52119 -20.4281 -3.04414 -28.5845 8.83857 3.01908 9.37117 
+
+# diagonal of covariance matrix
+3.9705e-05 2.01525 4.62234 3.778 21.0757 3.09121 17.3594 6.55518 0.754347 0.109667 
+
+# definition for class # 289
+# class name, prior probability
+''	0.000591911
+# class type is GaussDiag
+# mean vector
+2 0.846838 -31.1866 3.68167 -31.707 -1.988 -30.1794 9.79689 3.6067 9.32691 
+
+# diagonal of covariance matrix
+0 1.42009 6.73799 2.74641 27.246 2.45971 30.9587 4.99794 0.822115 0.114854 
+
+# definition for class # 290
+# class name, prior probability
+''	0.000665202
+# class type is GaussDiag
+# mean vector
+1.9999 -3.8814 -36.4398 -0.695615 -36.0364 -7.06718 -36.0156 11.4625 3.90487 9.36547 
+
+# diagonal of covariance matrix
+9.89338e-06 3.60213 13.4709 5.0295 46.9579 5.16446 46.5267 6.7871 0.824589 0.0608725 
+
+# definition for class # 291
+# class name, prior probability
+''	0.000603465
+# class type is GaussDiag
+# mean vector
+2 5.38549 -30.1776 7.50164 -28.9217 3.26934 -31.1846 8.31345 4.05348 9.44008 
+
+# diagonal of covariance matrix
+0 1.47 4.50543 1.9557 15.8063 1.85352 15.5006 2.05605 0.570298 0.0383986 
+
+# definition for class # 292
+# class name, prior probability
+''	0.000143543
+# class type is GaussDiag
+# mean vector
+2.05351 10.4949 -35.5571 13.2789 -21.9175 7.67896 -45.3395 11.2851 4.71333 9.36255 
+
+# diagonal of covariance matrix
+0.0844669 2.50308 14.3027 3.32181 57.3923 3.49658 29.1001 7.64052 1.35762 0.0846628 
+
+# definition for class # 293
+# class name, prior probability
+''	0.000612006
+# class type is GaussDiag
+# mean vector
+2 11.7927 -23.6569 13.6928 -25.1255 9.89266 -21.838 6.95105 3.57943 9.55885 
+
+# diagonal of covariance matrix
+0 0.657235 6.43804 0.893238 26.6343 1.23497 26.4037 2.17431 0.617781 0.0325793 
+
+# definition for class # 294
+# class name, prior probability
+''	0.000866986
+# class type is GaussDiag
+# mean vector
+5.87046 4.30032 -68.3562 39.5284 -78.9373 -23.755 -39.5156 89.9959 7.15579 8.24578 
+
+# diagonal of covariance matrix
+2.4624 44.8496 86.2398 102.906 21.8926 78.334 220.097 274.667 0.830873 0.437116 
+
+# definition for class # 295
+# class name, prior probability
+''	0.00226185
+# class type is GaussDiag
+# mean vector
+4.37486 70.5406 -14.3108 152.998 -86.5896 4.0136 79.035 305.798 9.11527 9.418 
+
+# diagonal of covariance matrix
+1.5261 1146.04 3175.72 2338.11 3.37106 1687.33 228.419 7217.58 0.215256 0.0979715 
+
+# definition for class # 296
+# class name, prior probability
+''	0.00233872
+# class type is GaussDiag
+# mean vector
+5.16181 108.955 77.7514 194.464 85.2846 24.1227 85.3746 306.718 8.70985 9.16412 
+
+# diagonal of covariance matrix
+2.04232 972.907 63.7291 2014.55 8.3269 1918.34 7.73859 6143.07 0.292208 0.135608 
+
+# definition for class # 297
+# class name, prior probability
+''	0.000961818
+# class type is GaussDiag
+# mean vector
+5.31817 27.393 57.8984 53.4332 72.479 4.30502 -9.43924 60.1285 5.94416 7.73521 
+
+# diagonal of covariance matrix
+1.44397 27.8317 116.325 57.8526 37.605 28.7326 457.688 94.9533 0.958362 0.619727 
+
+# definition for class # 298
+# class name, prior probability
+''	0.000838123
+# class type is GaussDiag
+# mean vector
+2.87648 12.8732 37.7588 29.6585 79.0538 3.42169 -28.454 78.4523 8.53023 9.1882 
+
+# diagonal of covariance matrix
+0.534732 33.0627 444.413 86.9523 13.8865 46.4466 457.71 406.156 0.368883 0.145978 
+
+# definition for class # 299
+# class name, prior probability
+''	0.000379906
+# class type is GaussDiag
+# mean vector
+3.4942 20.4142 -24.235 31.309 -38.4675 9.09204 1.56971 25.7795 3.14704 8.36115 
+
+# diagonal of covariance matrix
+0.846566 2.31244 55.7377 4.86852 45.6115 4.5385 95.0245 9.31544 2.26314 0.372975 
+
+# definition for class # 300
+# class name, prior probability
+''	0.000296814
+# class type is GaussDiag
+# mean vector
+2.56663 31.5574 -43.3088 40.821 -59.8945 22.1984 -0.0434409 26.0383 3.68732 8.92821 
+
+# diagonal of covariance matrix
+0.494231 8.71051 42.0678 16.6961 42.2785 21.4039 295.337 52.074 2.34977 0.282463 
+
+# definition for class # 301
+# class name, prior probability
+''	0.00120483
+# class type is GaussDiag
+# mean vector
+4.53189 36.2914 -25.7209 50.5696 -32.2157 20.5211 -12.1558 33.8916 5.06625 8.79296 
+
+# diagonal of covariance matrix
+0.717575 6.87419 214.035 10.1855 134.369 11.6215 287.637 14.8994 1.63461 0.171151 
+
+# definition for class # 302
+# class name, prior probability
+''	0.000608624
+# class type is GaussDiag
+# mean vector
+5.21155 20.1489 2.94903 39.5505 -32.6746 2.01056 10.9127 41.2743 5.15792 7.85207 
+
+# diagonal of covariance matrix
+1.36734 6.41188 219.122 10.4783 109.721 9.42795 276.39 16.4423 0.776962 0.418101 
+
+# definition for class # 303
+# class name, prior probability
+''	0.000893946
+# class type is GaussDiag
+# mean vector
+5.50954 34.0701 44.5164 55.972 -30.8228 10.5767 49.4832 52.7968 6.46786 8.51523 
+
+# diagonal of covariance matrix
+1.27487 10.9384 283.77 21.6452 162.685 17.0024 279.673 32.038 0.746085 0.172249 
+
+# definition for class # 304
+# class name, prior probability
+''	0.000614613
+# class type is GaussDiag
+# mean vector
+4.7138 28.1542 -15.8492 56.2145 -27.2489 0.660931 0.0628439 57.845 3.78971 6.84371 
+
+# diagonal of covariance matrix
+1.94679 13.8991 185.507 16.89 162.364 14.1958 47.9933 22.0358 3.5161 2.58863 
+
+# definition for class # 305
+# class name, prior probability
+''	0.000374485
+# class type is GaussDiag
+# mean vector
+5.82917 20.2107 -45.4048 53.7611 -46.4039 -14.8348 3.59649 77.1585 6.24752 8.05429 
+
+# diagonal of covariance matrix
+2.23967 32.5976 238.264 55.404 326.928 68.7637 477.679 91.0753 1.5378 0.551217 
+
+# definition for class # 306
+# class name, prior probability
+''	0.000545293
+# class type is GaussDiag
+# mean vector
+5.22159 44.4833 -26.5507 76.656 -33.644 12.4479 -6.88515 67.4996 4.7413 7.97289 
+
+# diagonal of covariance matrix
+1.7701 21.7765 189.768 18.238 118.021 16.0238 160.998 16.2939 2.69787 0.355526 
+
+# definition for class # 307
+# class name, prior probability
+''	0.000642392
+# class type is GaussDiag
+# mean vector
+5.82168 36.317 -57.9213 68.7836 -26.2529 2.96164 -24.2962 69.8047 7.13518 8.30751 
+
+# diagonal of covariance matrix
+1.88994 35.8655 108.143 18.946 337.015 15.8756 142.552 21.6836 0.432 0.280271 
+
+# definition for class # 308
+# class name, prior probability
+''	0.000599069
+# class type is GaussDiag
+# mean vector
+4.95505 47.5371 -53.9411 76.9799 -31.3496 9.72725 -17.5182 72.3366 7.59455 8.82807 
+
+# diagonal of covariance matrix
+0.90978 39.2243 164.858 37.6557 319.272 38.0296 251.037 60.2161 0.341711 0.0995866 
+
+# definition for class # 309
+# class name, prior probability
+''	0.00130794
+# class type is GaussDiag
+# mean vector
+6.06776 48.358 -44.402 84.322 -26.399 12.5879 -27.4188 75.9617 6.09415 8.17605 
+
+# diagonal of covariance matrix
+2.58369 28.6239 279.342 19.3901 352.293 17.6928 249.499 21.0801 1.21603 0.329402 
+
+# definition for class # 310
+# class name, prior probability
+''	0.000482199
+# class type is GaussDiag
+# mean vector
+5.49064 26.0818 58.473 66.7059 -17.1403 -8.33828 42.0037 82.3736 6.90502 8.26823 
+
+# diagonal of covariance matrix
+2.47227 42.7766 119.708 111.463 557.927 51.4891 465.579 120.721 1.0796 0.432362 
+
+# definition for class # 311
+# class name, prior probability
+''	0.000809338
+# class type is GaussDiag
+# mean vector
+4.40043 31.4474 75.5011 54.1546 79.2649 9.49881 55.4547 70.8193 7.37193 8.53154 
+
+# diagonal of covariance matrix
+1.46271 28.7311 33.2342 65.4895 20.9956 47.5006 262.756 157.897 0.738856 0.381028 
+
+# definition for class # 312
+# class name, prior probability
+''	0.000769303
+# class type is GaussDiag
+# mean vector
+2.78774 -2.98443 73.9472 20.2032 84.6354 -19.8941 -4.01515 94.6611 8.63327 9.32137 
+
+# diagonal of covariance matrix
+0.524396 65.2624 74.1821 132.655 3.49938 110.157 1166.49 717.615 0.592444 0.130361 
+
+# definition for class # 313
+# class name, prior probability
+''	0.000446435
+# class type is GaussDiag
+# mean vector
+3.83895 10.696 -23.9595 20.1413 -32.8822 1.26678 -5.65394 21.7817 3.37549 8.04486 
+
+# diagonal of covariance matrix
+0.381264 1.46758 48.2884 2.89203 61.651 2.29955 79.482 5.37454 1.19887 0.428631 
+
+# definition for class # 314
+# class name, prior probability
+''	0.000471349
+# class type is GaussDiag
+# mean vector
+2.81341 9.65779 35.7322 14.9117 60.8526 4.28673 -23.4841 17.7646 4.97287 8.86284 
+
+# diagonal of covariance matrix
+0.217354 1.63869 24.0798 2.55018 7.61114 3.48285 59.0011 4.65394 1.45637 0.280667 
+
+# definition for class # 315
+# class name, prior probability
+''	0.000336008
+# class type is GaussDiag
+# mean vector
+2 7.28043 -10.1465 10.3034 -19.802 4.25746 0.169119 7.66538 1.79048 9.17768 
+
+# diagonal of covariance matrix
+0 1.51384 3.56554 2.36695 10.0188 2.33533 14.8551 3.45905 0.602111 0.198785 
+
+# definition for class # 316
+# class name, prior probability
+''	0.00041103
+# class type is GaussDiag
+# mean vector
+2.01412 7.90861 3.08775 12.6508 -23.6765 3.16495 28.5583 12.932 2.20389 8.56122 
+
+# diagonal of covariance matrix
+0.00340029 2.01249 21.7426 3.69926 43.0173 2.66919 48.9315 4.52737 0.628919 0.374805 
+
+# definition for class # 317
+# class name, prior probability
+''	0.00039015
+# class type is GaussDiag
+# mean vector
+2.53135 9.67236 -25.4133 15.9743 -25.6152 3.2946 -20.7646 15.5018 1.93482 8.4038 
+
+# diagonal of covariance matrix
+0.256758 1.38884 10.0952 2.73374 31.8296 2.08941 46.5934 4.40521 0.351392 0.338649 
+
+# definition for class # 318
+# class name, prior probability
+''	0.000303765
+# class type is GaussDiag
+# mean vector
+2.05222 2.84704 -16.7929 8.98519 26.5248 -3.16974 -46.1451 18.1051 3.46121 8.79646 
+
+# diagonal of covariance matrix
+0.152963 9.72726 70.2775 12.1995 129.326 15.1459 54.6799 19.6894 2.45022 0.32249 
+
+# definition for class # 319
+# class name, prior probability
+''	0.000437165
+# class type is GaussDiag
+# mean vector
+2.24719 13.3519 -18.1476 19.2991 31.4004 7.70064 -49.1822 19.313 4.83132 8.96175 
+
+# diagonal of covariance matrix
+0.545627 5.89276 104.939 8.55871 199.745 9.04874 73.0109 21.967 1.76985 0.223436 
+
+# definition for class # 320
+# class name, prior probability
+''	0.000298797
+# class type is GaussDiag
+# mean vector
+2 9.41696 -8.59652 11.521 -7.59912 7.31288 -9.4864 5.46219 1.32034 9.49279 
+
+# diagonal of covariance matrix
+0 0.618664 4.28213 0.993568 27.5811 1.18529 22.6892 2.21098 0.491892 0.0391362 
+
+# definition for class # 321
+# class name, prior probability
+''	0.00039983
+# class type is GaussDiag
+# mean vector
+2 9.92202 -16.2532 12.7453 -24.7894 7.09871 -6.61978 7.91251 2.29728 9.34684 
+
+# diagonal of covariance matrix
+0 0.767514 11.2375 1.69633 34.6896 1.22181 35.0521 3.29209 0.673845 0.0750844 
+
+# definition for class # 322
+# class name, prior probability
+''	0.000567631
+# class type is GaussDiag
+# mean vector
+2.77964 9.46602 5.25925 16.9803 -30.7107 2.01103 36.9083 19.3601 2.84658 8.15282 
+
+# diagonal of covariance matrix
+0.553182 3.85817 48.8018 5.95839 76.193 5.75051 75.4475 10.4825 1.14396 0.603935 
+
+# definition for class # 323
+# class name, prior probability
+''	0.000341495
+# class type is GaussDiag
+# mean vector
+2.75049 8.3103 42.8286 16.1973 10.8969 0.50464 56.5311 21.7629 3.55865 8.29199 
+
+# diagonal of covariance matrix
+0.534475 5.93422 45.0013 11.1865 339.57 9.26534 45.2846 18.2242 2.07321 0.613496 
+
+# definition for class # 324
+# class name, prior probability
+''	0.000300566
+# class type is GaussDiag
+# mean vector
+3.30294 3.45474 -2.43002 12.038 -4.66793 -5.03065 -3.94565 18.9124 2.63889 8.61574 
+
+# diagonal of covariance matrix
+0.532288 4.00927 41.6589 7.06756 104.802 11.8611 100.925 20.1442 2.22619 0.222426 
+
+# definition for class # 325
+# class name, prior probability
+''	0.000617536
+# class type is GaussDiag
+# mean vector
+2.54142 10.8781 -63.86 20.9537 -79.1429 3.91721 -19.4729 54.5075 8.56469 9.30206 
+
+# diagonal of covariance matrix
+0.0872243 16.2549 89.9803 28.1435 11.2118 22.5101 310.693 248.663 0.302289 0.0838795 
+
+# definition for class # 326
+# class name, prior probability
+''	0.000555304
+# class type is GaussDiag
+# mean vector
+4.8114 25.1756 -42.2505 51.2501 -1.62367 3.99433 -24.4485 51.0544 7.27192 8.6077 
+
+# diagonal of covariance matrix
+0.91573 26.0032 223.115 28.8373 238.8 22.7606 233.753 35.2378 0.738075 0.279693 
+
+# definition for class # 327
+# class name, prior probability
+''	0.000734298
+# class type is GaussDiag
+# mean vector
+4.40292 25.0491 -5.87444 42.1921 -3.3251 8.02111 -20.9055 36.9586 5.24965 8.45885 
+
+# diagonal of covariance matrix
+0.488798 7.82858 373.478 13.6466 133.471 11.0312 213.477 21.6819 2.49597 0.31196 
+
+# definition for class # 328
+# class name, prior probability
+''	0.000611814
+# class type is GaussDiag
+# mean vector
+3.38201 20.8904 56.8093 32.2478 73.0317 9.54697 -19.2031 33.0759 5.69487 8.66034 
+
+# diagonal of covariance matrix
+0.303407 6.32818 54.1734 15.1694 12.2709 12.3244 247.288 29.7247 1.14016 0.258103 
+
+# definition for class # 329
+# class name, prior probability
+''	0.000832135
+# class type is GaussDiag
+# mean vector
+2.71793 19.0416 65.2144 27.8159 78.6631 10.8497 -18.5624 41.9537 8.17886 9.35059 
+
+# diagonal of covariance matrix
+0.325556 12.5285 57.5616 22.5357 8.85696 15.13 338.422 137.317 0.535354 0.0749694 
+
+# definition for class # 330
+# class name, prior probability
+''	0.00051381
+# class type is GaussDiag
+# mean vector
+2.54941 10.4061 27.6201 16.4737 -31.1793 4.39966 58.2609 18.936 4.1974 8.61461 
+
+# diagonal of covariance matrix
+0.296329 2.16208 28.6801 3.75922 56.1811 4.31759 10.4977 6.15788 1.92603 0.362298 
+
+# definition for class # 331
+# class name, prior probability
+''	0.000387658
+# class type is GaussDiag
+# mean vector
+2.22285 10.9814 -20.1019 17.0554 -36.0851 4.86051 2.21847 15.1472 2.03771 8.56746 
+
+# diagonal of covariance matrix
+0.128768 1.72986 16.2106 3.5483 30.4957 2.57134 51.9973 5.18234 0.411348 0.350035 
+
+# definition for class # 332
+# class name, prior probability
+''	0.000364524
+# class type is GaussDiag
+# mean vector
+2.22372 6.67608 -37.0366 15.0191 -55.8352 -1.7017 2.21011 22.3131 2.63749 7.93696 
+
+# diagonal of covariance matrix
+0.102469 6.10106 31.9605 11.4166 25.3102 9.55142 209.124 20.2045 0.458386 0.929063 
+
+# definition for class # 333
+# class name, prior probability
+''	0.000631749
+# class type is GaussDiag
+# mean vector
+4.19563 13.1288 -39.3953 24.3944 -42.6617 0.792414 -23.0807 28.4121 4.28797 8.0052 
+
+# diagonal of covariance matrix
+0.944288 2.3306 48.4502 4.26527 56.6393 3.26321 96.4983 6.62963 1.85041 0.484471 
+
+# definition for class # 334
+# class name, prior probability
+''	0.000659972
+# class type is GaussDiag
+# mean vector
+4.18177 19.9471 -41.1838 29.9041 -44.2921 8.0853 -23.4353 27.1659 5.27762 8.7706 
+
+# diagonal of covariance matrix
+0.343202 3.28422 68.2346 4.5059 76.6301 6.39781 166.455 8.34494 1.11163 0.118868 
+
+# definition for class # 335
+# class name, prior probability
+''	0.000735016
+# class type is GaussDiag
+# mean vector
+4.43852 24.0453 -42.9676 37.8344 -42.1163 8.87198 -33.6509 34.7574 5.21131 8.47984 
+
+# diagonal of covariance matrix
+0.535942 4.26754 64.0853 6.6082 82.5175 5.28878 95.3467 9.3331 1.39635 0.330407 
+
+# definition for class # 336
+# class name, prior probability
+''	0.000802015
+# class type is GaussDiag
+# mean vector
+3.71818 35.5142 -66.7672 48.7822 -32.5677 17.6682 -79.0394 56.0422 7.19567 8.74221 
+
+# diagonal of covariance matrix
+1.04954 17.3018 70.1116 26.607 347.135 59.3527 10.8738 191.722 1.04773 0.342557 
+
+# definition for class # 337
+# class name, prior probability
+''	0.000602506
+# class type is GaussDiag
+# mean vector
+3.02506 41.7317 -60.3739 51.422 -37.6929 30.9453 -69.2178 35.036 5.51364 8.90908 
+
+# diagonal of covariance matrix
+0.797892 16.8051 50.5021 27.7679 417.345 27.7135 39.6168 56.9088 2.32047 0.213709 
+
+# definition for class # 338
+# class name, prior probability
+''	0.00063416
+# class type is GaussDiag
+# mean vector
+3.18321 37.0179 63.5324 49.0587 -25.4168 23.3588 78.5219 46.1647 7.19803 9.10249 
+
+# diagonal of covariance matrix
+0.397575 14.6652 80.7944 26.1942 479.106 38.4214 9.72176 108.37 0.954861 0.153172 
+
+# definition for class # 339
+# class name, prior probability
+''	0.00041598
+# class type is GaussDiag
+# mean vector
+4.6615 22.1769 -17.8841 43.7925 -36.2531 1.27544 1.03349 45.6788 3.72314 7.04973 
+
+# diagonal of covariance matrix
+1.63862 6.2901 131.265 8.38699 71.2727 7.05752 87.6862 11.4974 2.35523 1.40801 
+
+# definition for class # 340
+# class name, prior probability
+''	0.000863852
+# class type is GaussDiag
+# mean vector
+6.4919 28.463 52.4522 66.1213 -22.2602 -18.8865 79.061 107.973 6.75763 7.92503 
+
+# diagonal of covariance matrix
+3.69204 81.0507 544.137 115.954 873.904 162.868 24.8489 229.131 1.02004 0.461502 
+
+# definition for class # 341
+# class name, prior probability
+''	0.00085825
+# class type is GaussDiag
+# mean vector
+5.65728 31.3924 74.1367 79.6658 -20.3597 -34.1229 85.2741 162.186 8.11195 8.82139 
+
+# diagonal of covariance matrix
+4.09068 187.097 101.789 313.7 1297.37 359.218 4.6075 728.001 0.603569 0.353175 
+
+# definition for class # 342
+# class name, prior probability
+''	0.00564645
+# class type is GaussDiag
+# mean vector
+5.15111 24.4782 -14.6272 73.7308 -24.0566 -55.8235 0 136.643 7.58725 8.53348 
+
+# diagonal of covariance matrix
+3.27286 562.398 1773.19 833.52 1027.64 578.827 0 1006.59 1.50153 0.490818 
+
+# definition for class # 343
+# class name, prior probability
+''	0.00117961
+# class type is GaussDiag
+# mean vector
+5.84246 1.86452 1.35591 76.7404 81.6447 -45.0447 -29.0423 183.656 7.56344 8.426 
+
+# diagonal of covariance matrix
+3.07526 302.305 1253.27 857 23.2732 374.335 726.825 1941.07 0.777576 0.295429 
+
+# definition for class # 344
+# class name, prior probability
+''	0.00158451
+# class type is GaussDiag
+# mean vector
+6.25382 12.367 70.8431 97.5672 82.4819 -55.0845 -4.55389 193.686 7.46064 8.25256 
+
+# diagonal of covariance matrix
+3.74004 424.448 101.815 721.441 25.6355 439.028 1188.17 1276.13 1.05045 0.535162 
+
+# definition for class # 345
+# class name, prior probability
+''	0.00178013
+# class type is GaussDiag
+# mean vector
+7.55431 4.53267 -50.9639 70.7339 -35.1521 -55.0955 -38.4197 134.863 7.14744 8.24051 
+
+# diagonal of covariance matrix
+4.8141 115.022 362.941 199.385 606.11 123.416 231.277 284.771 0.633703 0.324995 
+
+# definition for class # 346
+# class name, prior probability
+''	0.00164634
+# class type is GaussDiag
+# mean vector
+8.01874 18.9473 -15.0344 73.0786 -20.8363 -31.9155 -36.4636 109.839 6.36611 7.67892 
+
+# diagonal of covariance matrix
+5.08462 48.4318 937.647 58.6885 424.299 66.0607 143.846 94.6944 1.24144 0.683798 
+
+# definition for class # 347
+# class name, prior probability
+''	0.00146114
+# class type is GaussDiag
+# mean vector
+7.94302 13.6097 -34.2947 54.2647 -35.7804 -26.6402 -38.6766 86.9011 6.72899 8.03123 
+
+# diagonal of covariance matrix
+3.49964 27.1821 566.634 40.4521 131.533 40.8448 137.291 65.0489 0.632796 0.367746 
+
+# definition for class # 348
+# class name, prior probability
+''	0.00129093
+# class type is GaussDiag
+# mean vector
+7.87261 24.5521 -56.1616 80.7773 -35.7197 -28.706 -45.8529 119.248 6.72834 7.94655 
+
+# diagonal of covariance matrix
+5.01441 56.8854 163.425 114.738 544.683 65.6346 318.711 165.415 1.01934 0.552246 
+
+# definition for class # 349
+# class name, prior probability
+''	0.000963002
+# class type is GaussDiag
+# mean vector
+5.92177 20.9936 -44.0716 59.2005 -20.0447 -13.565 -48.5796 82.0778 6.44155 8.36693 
+
+# diagonal of covariance matrix
+2.27024 32.8737 344.744 64.2211 551.03 38.0028 251.432 78.5653 1.57143 0.286985 
+
+# definition for class # 350
+# class name, prior probability
+''	0.000734451
+# class type is GaussDiag
+# mean vector
+4.55344 48.662 -69.6822 69.2898 -32.1193 20.0089 -81.0788 75.8783 7.19855 8.59339 
+
+# diagonal of covariance matrix
+1.36098 45.7098 60.4312 59.2629 351.961 117.969 9.90888 281.943 0.754974 0.258336 
+
+# definition for class # 351
+# class name, prior probability
+''	0.00103336
+# class type is GaussDiag
+# mean vector
+4.95942 58.0297 61.9266 93.6163 80.1393 29.6231 -24.2359 88.8366 6.98943 8.71488 
+
+# diagonal of covariance matrix
+2.01875 55.8237 228.726 133.348 23.0129 80.7619 549.061 365.488 0.991963 0.204467 
+
+# definition for class # 352
+# class name, prior probability
+''	0.000556482
+# class type is GaussDiag
+# mean vector
+5.09006 31.9464 55.6439 61.6217 78.0309 8.20066 -39.1905 71.8236 6.66363 8.29577 
+
+# diagonal of covariance matrix
+1.43849 26.2674 241.547 52.7861 18.0185 38.3722 260.485 102.5 0.786534 0.349907 
+
+# definition for class # 353
+# class name, prior probability
+''	0.000700021
+# class type is GaussDiag
+# mean vector
+3.75346 40.9338 31.0873 56.2966 67.8408 27.5055 -31.5066 44.6875 6.05381 8.90827 
+
+# diagonal of covariance matrix
+1.26084 17.7341 640.76 48.9428 76.376 27.2174 376.394 92.5474 2.42808 0.200822 
+
+# definition for class # 354
+# class name, prior probability
+''	0.000364101
+# class type is GaussDiag
+# mean vector
+4.3614 16.1232 17.6159 37.4233 69.731 -1.74376 -53.0667 57.4157 5.71494 7.93327 
+
+# diagonal of covariance matrix
+1.71849 17.3384 825 50.2965 57.3272 25.3375 153.535 100.218 1.69386 0.825828 
+
+# definition for class # 355
+# class name, prior probability
+''	0.000930644
+# class type is GaussDiag
+# mean vector
+2 32.7863 -16.9459 35.4436 -13.8822 30.1289 -19.2342 7.61615 2.28845 9.62486 
+
+# diagonal of covariance matrix
+0 4.49847 17.4375 5.08118 85.3615 6.3225 84.3976 5.63496 0.811857 0.0254724 
+
+# definition for class # 356
+# class name, prior probability
+''	0.00100384
+# class type is GaussDiag
+# mean vector
+2 33.199 -4.97214 37.0931 -2.33449 29.3049 -7.33233 8.89412 0.759828 9.44932 
+
+# diagonal of covariance matrix
+0 9.23632 30.4066 12.6319 47.9821 13.6389 121.246 16.8567 0.371396 0.116355 
+
+# definition for class # 357
+# class name, prior probability
+''	0.00053244
+# class type is GaussDiag
+# mean vector
+1.39397 25.0933 -1.36544 27.0655 14.657 23.1332 -16.2416 5.84972 4.95493 9.75978 
+
+# diagonal of covariance matrix
+0.206468 7.41027 87.8195 8.84666 246.843 8.14907 300.57 8.07068 1.95777 0.0337921 
+
+# definition for class # 358
+# class name, prior probability
+''	0.000339865
+# class type is GaussDiag
+# mean vector
+1.68141 36.0581 1.47482 38.7859 -17.0507 33.31 20.0503 8.50734 4.42719 9.72223 
+
+# diagonal of covariance matrix
+0.284581 17.1234 40.9894 19.6039 123.12 21.1337 113.826 21.4306 3.21399 0.0449503 
+
+# definition for class # 359
+# class name, prior probability
+''	0.000566151
+# class type is GaussDiag
+# mean vector
+2.45747 29.7032 24.3851 34.3428 -21.9018 25.0875 51.9087 16.4493 4.85153 9.47172 
+
+# diagonal of covariance matrix
+0.258891 7.91391 99.5939 11.022 133.419 9.72233 65.227 14.4875 2.66196 0.0475289 
+
+# definition for class # 360
+# class name, prior probability
+''	0.000621857
+# class type is GaussDiag
+# mean vector
+1.99625 34.2581 13.061 38.134 16.1705 30.3826 8.61817 10.0651 1.95672 9.50476 
+
+# diagonal of covariance matrix
+0.00146583 11.1927 68.6853 15.3382 192.289 13.2345 290.214 14.3268 0.982557 0.0574446 
+
+# definition for class # 361
+# class name, prior probability
+''	0.00106709
+# class type is GaussDiag
+# mean vector
+3.48472 21.4196 -35.8977 29.373 -30.1612 13.3534 -33.585 20.7958 4.01352 8.93409 
+
+# diagonal of covariance matrix
+0.556626 3.17977 44.455 5.93093 97.0121 5.15271 124.728 9.78872 1.82856 0.121345 
+
+# definition for class # 362
+# class name, prior probability
+''	0.000479878
+# class type is GaussDiag
+# mean vector
+2.71052 31.2832 -63.9887 40.0067 -74.399 23.552 -34.7537 35.3547 6.57843 9.04103 
+
+# diagonal of covariance matrix
+0.331441 22.5916 42.2568 41.5641 13.1482 23.4103 366.81 76.3253 1.96155 0.250281 
+
+# definition for class # 363
+# class name, prior probability
+''	0.000404918
+# class type is GaussDiag
+# mean vector
+2.14407 42.6716 -34.6781 50.0587 -56.2821 35.2163 10.8988 23.6527 4.8282 9.35665 
+
+# diagonal of covariance matrix
+0.523614 17.7345 130.369 22.7166 106.025 36.5521 705.389 81.9898 3.76718 0.121795 
+
+# definition for class # 364
+# class name, prior probability
+''	0.00064684
+# class type is GaussDiag
+# mean vector
+4.09281 29.4323 0.0768366 43.8089 18.6727 15.4269 -22.128 33.2765 5.29005 8.8449 
+
+# diagonal of covariance matrix
+0.460806 7.27664 465.053 18.1404 388.016 13.0538 337.479 37.4846 3.33367 0.176147 
+
+# definition for class # 365
 # class name, prior probability
 ''	0.000805939
 # class type is GaussDiag
 # mean vector
-5.21116 0.601692 -35.7636 21.6723 -23.3489 -18.5058 -37.7646 44.8192 5.65145 8.33273 
+2.05223 48.5479 -2.15577 60.6004 -3.8458 36.4918 -0.0526547 24.938 0.296325 8.83113 
 
 # diagonal of covariance matrix
-1.30471 10.2879 206.775 11.1324 179.209 12.0134 88.6051 14.4693 1.64271 0.366202 
+0.0181428 43.1613 34.9415 58.9012 101.047 62.6986 76.7349 69.6612 0.0726405 0.311341 
+
+# definition for class # 366
+# class name, prior probability
+''	0.000894472
+# class type is GaussDiag
+# mean vector
+2.72798 42.7632 -19.2326 55.8147 -29.7782 29.5942 -1.82612 28.9462 1.62173 8.62126 
+
+# diagonal of covariance matrix
+0.640056 9.36882 97.6311 17.7796 143.169 16.8952 174.32 30.1305 1.20924 0.336985 
+
+# definition for class # 367
+# class name, prior probability
+''	0.00122931
+# class type is GaussDiag
+# mean vector
+2.79525 56.681 -19.3592 68.0321 -24.8801 45.0712 -8.62503 26.0422 2.01098 9.0066 
+
+# diagonal of covariance matrix
+0.710508 11.0443 133.224 21.2836 271.422 19.5367 369.264 36.8358 1.83298 0.116051 
+
+# definition for class # 368
+# class name, prior probability
+''	0.000151586
+# class type is GaussDiag
+# mean vector
+4.69057 25.881 -39.2054 47.0025 -72.8758 2.69709 69.3436 73.7555 6.98298 8.19876 
+
+# diagonal of covariance matrix
+1.71165 36.8708 351.997 89.5151 67.4675 95.8477 63.2452 337.936 0.935894 0.466634 
+
+# definition for class # 369
+# class name, prior probability
+''	0.00116616
+# class type is GaussDiag
+# mean vector
+4.40105 57.3318 -39.8319 80.6583 -18.3852 19.7112 -78.0374 108.085 7.77007 8.94468 
+
+# diagonal of covariance matrix
+1.69446 149.245 630.33 186.418 475.592 304.35 29.5743 594.231 0.675713 0.170499 
+
+# definition for class # 370
+# class name, prior probability
+''	0.00138061
+# class type is GaussDiag
+# mean vector
+4.49209 73.066 23.5672 98.7355 -23.6785 45.2984 34.6103 61.083 4.95828 8.78778 
+
+# diagonal of covariance matrix
+1.50332 48.3793 711.367 91.7319 415.09 77.8749 771.907 137.607 3.87406 0.21213 
+
+# definition for class # 371
+# class name, prior probability
+''	0.000775077
+# class type is GaussDiag
+# mean vector
+5.35823 45.2004 19.8226 70.9944 -30.8759 19.5363 21.2093 56.2297 5.58996 8.39402 
+
+# diagonal of covariance matrix
+1.46187 19.2438 421.344 27.7452 163.169 23.886 480.75 38.401 1.09854 0.190828 
+
+# definition for class # 372
+# class name, prior probability
+''	0.00128466
+# class type is GaussDiag
+# mean vector
+4.89775 44.8858 28.4768 83.9559 0.517583 5.8964 -8.47469 80.876 6.8532 8.19934 
+
+# diagonal of covariance matrix
+1.08455 69.4854 704.422 38.1467 439.223 41.6924 405.313 48.9924 1.12575 0.470226 
+
+# definition for class # 373
+# class name, prior probability
+''	0.00104011
+# class type is GaussDiag
+# mean vector
+6.08365 41.9823 51.7023 82.6394 60.6518 4.21608 -12.5558 88.1818 5.75213 7.44796 
+
+# diagonal of covariance matrix
+3.0359 64.0565 327.582 95.5799 268.889 66.9087 553.877 145.01 1.3611 0.897786 
+
+# definition for class # 374
+# class name, prior probability
+''	0.000704426
+# class type is GaussDiag
+# mean vector
+2.96676 52.3965 38.1924 63.2398 62.016 41.995 -16.319 30.7973 4.5566 9.14298 
+
+# diagonal of covariance matrix
+0.589295 15.6969 353.58 28.3776 132.826 28.68 428.026 60.1163 3.4641 0.171024 
+
+# definition for class # 375
+# class name, prior probability
+''	0.000473883
+# class type is GaussDiag
+# mean vector
+4.55392 37.0393 47.7215 66.4291 3.13055 8.46473 43.135 63.1423 5.12827 7.66405 
+
+# diagonal of covariance matrix
+1.21721 30.7304 335.928 37.1049 197.293 43.7213 335.272 63.21 3.55715 1.51723 
+
+# definition for class # 376
+# class name, prior probability
+''	0.0010235
+# class type is GaussDiag
+# mean vector
+3.81337 54.416 28.6437 77.1048 11.9699 31.1047 12.7849 52.6925 4.20082 8.65996 
+
+# diagonal of covariance matrix
+1.12491 22.0484 478.819 42.8299 1040.77 61.6576 1205.7 134.49 5.16861 0.353795 
+
+# definition for class # 377
+# class name, prior probability
+''	0.000489238
+# class type is GaussDiag
+# mean vector
+5.48607 25.2019 -18.1842 47.3973 -15.7593 3.14723 -5.89651 46.3329 5.51289 7.88513 
+
+# diagonal of covariance matrix
+1.46973 11.4792 321.827 7.39573 213.381 9.02585 134.979 12.6823 1.84445 0.503125 
+
+# definition for class # 378
+# class name, prior probability
+''	0.000996376
+# class type is GaussDiag
+# mean vector
+3.15773 35.5993 12.9175 47.5308 7.26394 23.7362 7.11687 27.0018 2.69033 8.73604 
+
+# diagonal of covariance matrix
+0.797943 10.3398 225.467 19.743 694.241 13.6958 546.399 25.1697 3.02722 0.249603 
+
+# definition for class # 379
+# class name, prior probability
+''	0.00041548
+# class type is GaussDiag
+# mean vector
+4.32998 44.7933 -2.05052 71.2994 -5.56877 16.6997 -5.55489 56.1745 3.53437 8.11511 
+
+# diagonal of covariance matrix
+1.46388 18.9001 239.673 21.1457 173.812 34.9451 135.399 44.4857 3.93983 0.577079 
+
+# definition for class # 380
+# class name, prior probability
+''	0.00112318
+# class type is GaussDiag
+# mean vector
+4.06991 48.4795 -8.13207 68.127 0.420781 27.7039 -26.0442 44.761 5.92317 8.98871 
+
+# diagonal of covariance matrix
+0.152433 25.9476 569.493 41.3017 433.241 42.656 282.969 78.6227 2.90576 0.150984 
+
+# definition for class # 381
+# class name, prior probability
+''	0.000662178
+# class type is GaussDiag
+# mean vector
+4.25103 39.1512 44.226 67.1492 6.35992 8.674 -5.10138 62.1891 7.27838 8.68311 
+
+# diagonal of covariance matrix
+0.247543 50.1137 362.191 36.8448 632.131 35.0777 568.309 41.696 0.625086 0.203999 
+
+# definition for class # 382
+# class name, prior probability
+''	0.000915951
+# class type is GaussDiag
+# mean vector
+2.74451 51.6841 -62.7837 61.0799 -14.8345 37.6504 -79.4966 55.8165 8.04512 9.32014 
+
+# diagonal of covariance matrix
+0.549245 34.7938 163.986 50.4059 868.878 61.8975 19.2909 273.498 0.877346 0.116591 
+
+# definition for class # 383
+# class name, prior probability
+''	0.00103453
+# class type is GaussDiag
+# mean vector
+2.36216 85.4938 -49.4624 94.2654 -18.061 76.1775 -61.9523 32.9404 5.44824 9.328 
+
+# diagonal of covariance matrix
+0.66876 66.9505 257.231 99.7937 1545.16 79.9287 161.952 271.15 4.31678 0.145511 
+
+# definition for class # 384
+# class name, prior probability
+''	0.00189593
+# class type is GaussDiag
+# mean vector
+0.88457 84.788 7.01589e-05 87.8429 -1.46589e-06 81.745 2.71516e-06 6.16221 5.03681 9.88339 
+
+# diagonal of covariance matrix
+0.537836 92.2646 6.11072e-06 101.255 3.33751e-08 99.2841 3.31738e-08 31.9572 15.1031 0.0202895 
+
+# definition for class # 385
+# class name, prior probability
+''	0.00100051
+# class type is GaussDiag
+# mean vector
+4.60895 55.598 78.1044 97.5222 80.6747 9.01998 82.2088 165.015 8.50655 9.07825 
+
+# diagonal of covariance matrix
+1.50718 273.113 39.5327 412.159 37.2935 664.852 24.5131 1807.35 0.359205 0.180775 
+
+# definition for class # 386
+# class name, prior probability
+''	0.000419602
+# class type is GaussDiag
+# mean vector
+1.29582 7.41857 72.2901 30.2986 84.5365 -16.0569 -46.9031 99.1314 5.65368 5.65513 
+
+# diagonal of covariance matrix
+0.137701 221.31 244.862 357.915 6.58015 342.979 885.139 1733.97 0.117202 0.112208 
+
+# definition for class # 387
+# class name, prior probability
+''	0.012851
+# class type is GaussDiag
+# mean vector
+4.57003e-05 458.913 0 458.913 0 458.913 0 -613.325 0 10.0087 
+
+# diagonal of covariance matrix
+1.1423e-05 7506.86 0 7506.86 0 7506.86 0 15245.4 0 0.00291924 
+
+# definition for class # 388
+# class name, prior probability
+''	7.11216e-05
+# class type is GaussDiag
+# mean vector
+2 -2.23203 0.518565 0.7195 0.0350184 -5.18355 0.997061 6.32058 0.217265 9.54569 
+
+# diagonal of covariance matrix
+0 3.71538 5.16757 4.01933 1.0959 5.50621 20.0651 4.08857 0.123064 0.0248021 
+
+# definition for class # 389
+# class name, prior probability
+''	0.000303595
+# class type is GaussDiag
+# mean vector
+0.902696 -3.1109 -3.85356 -0.520813 -43.5666 -5.6932 39.8273 7.46672 6.66473 9.78274 
+
+# diagonal of covariance matrix
+0.136994 19.0696 147.746 20.9124 126.831 22.2464 141.656 16.2242 1.32167 0.0353044 
+
+# definition for class # 390
+# class name, prior probability
+''	0.000179646
+# class type is GaussDiag
+# mean vector
+2.38999 0.571441 -28.5137 5.02366 -40.9908 -3.92548 -9.89664 12.733 3.32404 8.95925 
+
+# diagonal of covariance matrix
+0.422598 2.07516 26.6849 3.03714 46.2744 3.32161 92.3115 5.27071 1.17216 0.147131 
+
+# definition for class # 391
+# class name, prior probability
+''	0.000365343
+# class type is GaussDiag
+# mean vector
+3.39156 10.4145 -35.2663 17.2268 -38.229 3.11522 -23.5725 18.3729 3.74556 8.62712 
+
+# diagonal of covariance matrix
+0.63602 1.33218 25.2081 2.17733 36.3835 2.2384 73.2552 3.83253 1.75608 0.271698 
+
+# definition for class # 392
+# class name, prior probability
+''	0.0004907
+# class type is GaussDiag
+# mean vector
+3.8822 4.65932 -43.2061 12.7378 -33.8785 -2.57272 -43.9447 21.3285 5.03838 8.90309 
+
+# diagonal of covariance matrix
+0.424324 6.27684 20.9629 9.73443 71.5771 8.96851 43.5533 14.119 1.11312 0.126097 
+
+# definition for class # 393
+# class name, prior probability
+''	0.000792374
+# class type is GaussDiag
+# mean vector
+2.00199 15.1875 -49.6326 19.5118 -47.5042 10.8637 -50.2896 17.0658 4.52604 9.09065 
+
+# diagonal of covariance matrix
+0.000595716 2.98088 15.4652 5.39664 63.8511 4.43503 40.2862 9.0365 0.887562 0.155395 
+
+# definition for class # 394
+# class name, prior probability
+''	0.000457025
+# class type is GaussDiag
+# mean vector
+1.45904 25.6597 -42.5949 28.4071 -20.8118 22.8591 -53.114 10.5528 6.14285 9.61343 
+
+# diagonal of covariance matrix
+0.327542 16.0547 53.1546 20.2367 498.28 16.9055 85.3127 22.6774 2.03649 0.071364 
+
+# definition for class # 395
+# class name, prior probability
+''	0.00136233
+# class type is GaussDiag
+# mean vector
+2 26.6117 -37.4093 30.0426 -36.8105 23.1807 -37.142 12.2199 3.83986 9.36029 
+
+# diagonal of covariance matrix
+0 3.33952 14.0641 4.34218 47.497 5.00615 47.952 5.87403 0.795676 0.0866741 
+
+# definition for class # 396
+# class name, prior probability
+''	0.000352665
+# class type is GaussDiag
+# mean vector
+3.78429 21.6947 10.1291 35.2848 -50.996 5.98936 64.2576 43.7451 5.39574 7.92324 
+
+# diagonal of covariance matrix
+0.816448 21.85 459.656 25.5028 157.588 35.3527 62.501 44.8964 1.68439 0.875765 
+
+# definition for class # 397
+# class name, prior probability
+''	0.000558411
+# class type is GaussDiag
+# mean vector
+2.91097 26.8717 56.4847 35.0341 -20.9461 18.6251 73.7812 31.0118 6.7114 9.28583 
+
+# diagonal of covariance matrix
+0.211385 8.88972 97.2489 13.9818 406.841 14.2197 11.805 42.2382 1.32931 0.0814673 
+
+# definition for class # 398
+# class name, prior probability
+''	0.000728764
+# class type is GaussDiag
+# mean vector
+4.24082 14.1817 -39.2119 23.8311 -37.232 4.11997 -33.3915 24.8412 4.90999 8.58606 
+
+# diagonal of covariance matrix
+0.512946 2.42239 44.1369 5.19366 69.3482 3.41185 55.3277 8.3888 1.2532 0.248384 
+
+# definition for class # 399
+# class name, prior probability
+''	0.000735667
+# class type is GaussDiag
+# mean vector
+4.57353 28.6183 -35.1902 47.039 -28.5986 10.9434 -36.8371 40.8327 4.49772 8.28605 
+
+# diagonal of covariance matrix
+1.91142 5.15093 83.7797 8.4722 128.672 7.01499 61.528 12.3408 3.37952 0.462177 
+
+# definition for class # 400
+# class name, prior probability
+''	0.000637575
+# class type is GaussDiag
+# mean vector
+3.79197 19.0048 -47.144 30.8196 -40.0137 7.47651 -45.6675 30.0742 4.12153 8.27254 
+
+# diagonal of covariance matrix
+1.07266 3.26249 35.0633 5.94321 99.6939 6.8598 68.0592 13.0576 1.95579 0.529979 
+
+# definition for class # 401
+# class name, prior probability
+''	0.000384326
+# class type is GaussDiag
+# mean vector
+4.59172 30.7183 -1.14127 49.5627 -34.0719 11.6001 22.841 42.8695 4.13985 8.00597 
+
+# diagonal of covariance matrix
+1.25781 7.98306 191.034 10.3589 143.606 13.9817 232.347 19.1361 2.23164 0.39924 
+
+# definition for class # 402
+# class name, prior probability
+''	0.000513123
+# class type is GaussDiag
+# mean vector
+3.89845 41.8533 -44.6511 77.9439 -83.9009 14.8396 70.5923 135.203 8.57518 9.13221 
+
+# diagonal of covariance matrix
+1.26439 187.171 889.139 380.988 5.87923 252.851 144.377 1219.25 0.379288 0.154145 
+
+# definition for class # 403
+# class name, prior probability
+''	0.00171368
+# class type is GaussDiag
+# mean vector
+5.03065 64.8741 25.6989 126.989 82.5596 23.528 -24.706 158.763 7.17626 8.56638 
+
+# diagonal of covariance matrix
+2.19036 219.331 1355.92 472.394 15.5123 343.883 1027.21 947.21 0.763597 0.233442 
+
+# definition for class # 404
+# class name, prior probability
+''	0.000568815
+# class type is GaussDiag
+# mean vector
+5.13663 29.5113 -58.8039 53.1701 -47.3329 4.10722 -41.2999 56.99 6.0548 8.2501 
+
+# diagonal of covariance matrix
+1.10883 14.7841 56.9113 11.3403 178.687 17.1516 250.928 18.5695 1.01359 0.323453 
+
+# definition for class # 405
+# class name, prior probability
+''	0.000721011
+# class type is GaussDiag
+# mean vector
+4.71474 34.5993 -45.6711 51.0713 -43.6557 14.4758 -26.0926 42.4181 5.85858 8.72561 
+
+# diagonal of covariance matrix
+0.810929 6.13836 93.2007 8.99239 109.64 10.4222 217.771 15.6849 1.10624 0.134133 
+
+# definition for class # 406
+# class name, prior probability
+''	0.000530252
+# class type is GaussDiag
+# mean vector
+4.86832 37.1066 -45.5796 66.1469 -44.7617 6.28607 -31.9553 65.835 3.94669 7.06154 
+
+# diagonal of covariance matrix
+1.89276 15.3301 103.28 18.2682 108.23 16.585 185.529 23.8828 2.60524 1.53455 
+
+# definition for class # 407
+# class name, prior probability
+''	0.00143023
+# class type is GaussDiag
+# mean vector
+4.86532 47.9953 -31.9633 67.943 -32.471 26.3382 -22.0294 45.7722 5.06176 8.63862 
+
+# diagonal of covariance matrix
+1.21546 9.88111 215.667 14.0884 123.984 12.8602 278.416 21.5057 2.21919 0.207142 
+
+# definition for class # 408
+# class name, prior probability
+''	0.000991266
+# class type is GaussDiag
+# mean vector
+5.23204 53.2954 -50.5363 78.6218 -41.831 25.523 -36.124 59.924 6.17003 8.72439 
+
+# diagonal of covariance matrix
+1.45546 21.5508 128.332 23.122 150.577 28.3113 266.107 40.0948 0.932227 0.133721 
+
+# definition for class # 409
+# class name, prior probability
+''	0.00220975
+# class type is GaussDiag
+# mean vector
+3.17808 71.9193 67.5835 92.0882 -20.1411 30.7705 85.5775 128.931 8.58721 9.4193 
+
+# diagonal of covariance matrix
+0.727805 119.225 201.5 145.343 738.046 508.456 3.45167 1233 0.453328 0.0968863 
+
+# definition for class # 410
+# class name, prior probability
+''	0.00125638
+# class type is GaussDiag
+# mean vector
+5.6617 54.8254 55.0697 84.3495 -29.2111 22.3136 62.4648 73.7834 6.50205 8.46692 
+
+# diagonal of covariance matrix
+1.77085 42.5254 199.829 61.1012 256.102 62.8002 220.048 108.34 1.06154 0.261569 
+
+# definition for class # 411
+# class name, prior probability
+''	0.000931493
+# class type is GaussDiag
+# mean vector
+8.31637 36.0552 -20.5699 91.7106 -23.4366 -16.5005 -35.3221 113.931 6.86232 7.99599 
+
+# diagonal of covariance matrix
+3.70629 49.5126 845.649 80.6558 284.599 48.3245 304.809 97.8269 0.505264 0.273442 
+
+# definition for class # 412
+# class name, prior probability
+''	0.000879409
+# class type is GaussDiag
+# mean vector
+6.46827 52.3042 -45.0466 95.373 -29.638 11.8318 -38.6463 89.0724 6.1832 8.16373 
+
+# diagonal of covariance matrix
+2.95728 37.8108 315.054 24.771 255.049 31.8455 171.643 31.3272 1.22044 0.391721 
+
+# definition for class # 413
+# class name, prior probability
+''	0.00121697
+# class type is GaussDiag
+# mean vector
+6.31407 51.9678 2.56004 94.5375 -33.8829 -7.45131 75.9751 140.162 7.24369 8.35822 
+
+# diagonal of covariance matrix
+3.45871 120.648 1516.43 186.162 539.619 330.886 82.7645 581.712 0.876056 0.318355 
+
+# definition for class # 414
+# class name, prior probability
+''	0.00435723
+# class type is GaussDiag
+# mean vector
+3.87117 111.732 72.2207 146.959 -17.7914 34.3855 87.1161 199.016 8.52627 9.327 
+
+# diagonal of covariance matrix
+1.32084 379.96 130.83 507.854 989.546 1338.79 1.47552 2504.12 0.563919 0.131781 
+
+# definition for class # 415
+# class name, prior probability
+''	0.0021523
+# class type is GaussDiag
+# mean vector
+6.81393 75.0391 -11.2806 142.428 -21.004 6.89581 -13.7764 140.798 5.33656 7.60347 
+
+# diagonal of covariance matrix
+4.80676 100.423 1130.85 144.866 482.595 133.705 817.531 213.121 2.17503 0.868844 
+
+# definition for class # 416
+# class name, prior probability
+''	0.00231972
+# class type is GaussDiag
+# mean vector
+5.8874 83.234 -46.1268 135.415 -30.5883 28.4947 -33.139 116.341 5.85894 8.2666 
+
+# diagonal of covariance matrix
+2.57092 92.8711 307.388 123.58 420.716 90.7151 660.477 160.37 2.14842 0.423028 
+
+# definition for class # 417
+# class name, prior probability
+''	0.00687238
+# class type is GaussDiag
+# mean vector
+4.20466 123.066 -74.053 217.618 -87.3799 77.4833 -14.4618 243.874 8.38354 9.25745 
+
+# diagonal of covariance matrix
+1.71044 880.661 97.4529 1935.91 1.38357 1209.34 1307.46 4324.87 0.727256 0.158318 
+
+# definition for class # 418
+# class name, prior probability
+''	0.00166935
+# class type is GaussDiag
+# mean vector
+7.05587 48.8564 -47.8906 115.052 -32.9116 -14.6841 -39.3732 139.01 5.9624 7.75436 
+
+# diagonal of covariance matrix
+3.9376 87.5824 356.531 123.037 434.677 102.25 508.651 139.722 1.68889 0.660006 
+
+# definition for class # 419
+# class name, prior probability
+''	0.0113428
+# class type is GaussDiag
+# mean vector
+6.62223 253.156 -16.1432 424.565 -11.3818 102.649 -18.5307 375.944 7.70708 8.79553 
+
+# diagonal of covariance matrix
+3.54076 3269.93 3157.62 4550.56 2655.74 3798.38 2657.1 9360.11 1.16612 0.27535 
+
+# definition for class # 420
+# class name, prior probability
+''	0.0119142
+# class type is GaussDiag
+# mean vector
+7.3105 135.093 -8.77865 248.182 -16.6891 18.4707 -19.2045 247.089 6.49957 8.08869 
+
+# diagonal of covariance matrix
+4.48139 828.681 2177.61 1168.29 1141.44 1175.51 1526.96 1374.72 1.55779 0.499692 
+
+# definition for class # 421
+# class name, prior probability
+''	0.00769967
+# class type is GaussDiag
+# mean vector
+5.52797 150.49 -6.30371 219.622 -15.7949 78.4174 -9.89073 152.21 5.72706 8.52904 
+
+# diagonal of covariance matrix
+2.36885 293.458 1882.22 423.48 1173.85 406.092 1281.89 711.314 2.57569 0.333971 
+
+# definition for class # 422
+# class name, prior probability
+''	0.00555584
+# class type is GaussDiag
+# mean vector
+5.90293 188.099 66.8488 346.591 84.136 89.8333 -12.7618 348.968 8.04533 8.9976 
+
+# diagonal of covariance matrix
+2.62192 1463.87 294.678 3932.68 57.8032 3071.08 2184.96 10486.3 0.843764 0.201503 
+
+# definition for class # 423
+# class name, prior probability
+''	0.00365847
+# class type is GaussDiag
+# mean vector
+3.24839 73.5177 76.0596 130.354 86.9601 45.7164 -12.1047 178.909 8.91089 9.50938 
+
+# diagonal of covariance matrix
+0.515962 350.858 73.1071 950.734 1.65148 490.761 1326.31 3585.07 0.24225 0.0486859 
+
+# definition for class # 424
+# class name, prior probability
+''	0.000637248
+# class type is GaussDiag
+# mean vector
+2.83074 12.2702 41.0716 19.0034 -29.0546 5.69721 65.5016 21.9098 5.11002 8.75882 
+
+# diagonal of covariance matrix
+0.270301 3.93319 32.2532 5.79877 80.2502 6.0908 8.93014 9.3107 1.8911 0.330776 
+
+# definition for class # 425
+# class name, prior probability
+''	0.000814828
+# class type is GaussDiag
+# mean vector
+3.20432 7.45507 72.4548 22.4832 -20.6689 -10.6351 82.879 62.1976 8.06176 9.11909 
+
+# diagonal of covariance matrix
+0.436234 40.6509 50.1614 46.7367 366.279 77.9826 3.18173 166.688 0.672026 0.192095 
+
+# definition for class # 426
+# class name, prior probability
+''	0.00509545
+# class type is GaussDiag
+# mean vector
+5.70366 31.1812 -75.5166 176.683 -87.7158 -51.7992 -19.6699 347.286 8.36445 8.8499 
+
+# diagonal of covariance matrix
+2.97006 1354.97 84.4126 3574.11 1.19845 1526.02 1839.05 6188.4 0.499968 0.26657 
+
+# definition for class # 427
+# class name, prior probability
+''	0.00734702
+# class type is GaussDiag
+# mean vector
+8.16199 143.207 -60.1884 301.586 -34.9413 -11.8201 -36.0986 350.163 7.09116 8.11279 
+
+# diagonal of covariance matrix
+4.15802 1687.56 268.216 2016.88 1601.78 2499.88 1767.13 2676.87 0.763748 0.359443 
+
+# definition for class # 428
+# class name, prior probability
+''	0.000475588
+# class type is GaussDiag
+# mean vector
+0.258207 21.6896 56.8366 70.1624 79.5164 -27.0759 -39.1814 109.78 1.18381 1.18319 
+
+# diagonal of covariance matrix
+0.00315705 233.598 630.131 1105.07 23.3718 529.616 789.238 2913.05 0.00169395 0.00164139 
+
+# definition for class # 429
+# class name, prior probability
+''	0.00117614
+# class type is GaussDiag
+# mean vector
+2 16.2224 -38.5889 18.9767 -37.7381 13.4681 -38.7746 11.2068 4.41882 9.38047 
+
+# diagonal of covariance matrix
+0 1.2977 15.7467 1.74886 43.6359 2.23929 37.0303 3.57661 0.71433 0.0644831 
+
+# definition for class # 430
+# class name, prior probability
+''	0.000692155
+# class type is GaussDiag
+# mean vector
+3.59184 15.3379 -29.6653 22.1139 -25.2834 8.32713 -27.0138 17.333 3.83416 8.92455 
+
+# diagonal of covariance matrix
+0.439384 2.64482 32.8629 3.78536 68.6387 4.4481 61.2136 5.64512 1.62182 0.111512 
+
+# definition for class # 431
+# class name, prior probability
+''	0.00039131
+# class type is GaussDiag
+# mean vector
+3.07202 19.0756 15.4886 27.7596 -9.56293 9.25593 46.7307 41.6495 7.59964 9.21252 
+
+# diagonal of covariance matrix
+0.877092 18.0125 428.968 33.2767 789.966 26.5048 398.592 201.489 0.981275 0.132786 
+
+# definition for class # 432
+# class name, prior probability
+''	0.000584474
+# class type is GaussDiag
+# mean vector
+2.94942 18.1035 48.5667 25.498 -27.8464 10.8435 69.5087 25.3737 5.89312 8.98667 
+
+# diagonal of covariance matrix
+0.198652 3.18729 67.2957 5.44205 161.021 6.9645 10.9808 14.1644 1.53394 0.209169 
+
+# definition for class # 433
+# class name, prior probability
+''	0.000545113
+# class type is GaussDiag
+# mean vector
+2.8232 11.8655 -23.1103 27.1418 -33.3598 -3.43097 -4.35321 33.5291 1.48527 6.78855 
+
+# diagonal of covariance matrix
+0.676692 4.04691 76.12 5.46558 100.794 8.16805 194.977 11.1495 0.683173 2.46289 
+
+# definition for class # 434
+# class name, prior probability
+''	0.000916137
+# class type is GaussDiag
+# mean vector
+4.63352 10.5466 -29.5594 25.6959 -25.2594 -4.13964 -31.2859 33.7778 4.34657 8.21324 
+
+# diagonal of covariance matrix
+1.54729 3.25922 107.374 4.02678 117.792 7.24728 100.373 10.4502 2.58373 0.530497 
+
+# definition for class # 435
+# class name, prior probability
+''	0.000517803
+# class type is GaussDiag
+# mean vector
+2.98575 12.6958 45.0763 18.6588 66.567 6.42686 -25.4433 20.9027 5.80777 9.08846 
+
+# diagonal of covariance matrix
+0.119597 3.25167 27.537 6.28316 5.86406 4.35887 52.1124 7.59812 1.19261 0.149695 
+
+# definition for class # 436
+# class name, prior probability
+''	0.0058612
+# class type is GaussDiag
+# mean vector
+7.72509 28.4511 -8.34096 263.073 -12.6754 -135.35 -10.7516 451.184 8.10164 8.66685 
+
+# diagonal of covariance matrix
+5.46188 3503.16 3536.3 7941.1 3578.63 3144.88 1616.91 11064 0.673035 0.289811 
+
+# definition for class # 437
+# class name, prior probability
+''	0.00819998
+# class type is GaussDiag
+# mean vector
+5.68775 151.218 -66.1822 321.358 -87.3552 36.1915 5.75574 429.485 8.81742 9.24373 
+
+# diagonal of covariance matrix
+3.1212 2819.12 707.767 5392.03 3.80891 6937.85 3729.58 13973.6 0.292504 0.128162 
+
+# definition for class # 438
+# class name, prior probability
+''	0.00324493
+# class type is GaussDiag
+# mean vector
+7.26472 55.6634 -51.0864 161.697 -30.0763 -42.0431 -34.7332 216.494 6.29565 7.83766 
+
+# diagonal of covariance matrix
+4.03694 512.186 312.35 615.978 806.126 471.468 696.105 766.148 1.44029 0.56999 
+
+# definition for class # 439
+# class name, prior probability
+''	0.00381258
+# class type is GaussDiag
+# mean vector
+5.96398 60.0295 61.8211 170.298 86.3991 -9.4482 -11.7081 257.236 7.68315 8.55998 
+
+# diagonal of covariance matrix
+2.66304 534.819 356.321 1351.39 2.67549 797.727 1775.28 2354.85 0.741708 0.309738 
+
+# definition for class # 440
+# class name, prior probability
+''	0.000933322
+# class type is GaussDiag
+# mean vector
+4.0455 32.4398 9.08933 75.9276 81.8105 0.378502 -59.2719 158.546 8.53741 9.13234 
+
+# diagonal of covariance matrix
+1.19303 185.479 1737.25 453.93 18.6822 254.871 658.022 1743.06 0.369839 0.135558 
+
+# definition for class # 441
+# class name, prior probability
+''	0.000295589
+# class type is GaussDiag
+# mean vector
+3.19658 13.6693 -8.34148 21.1081 -45.8687 5.87748 41.8119 23.9644 4.969 8.60085 
+
+# diagonal of covariance matrix
+1.07768 4.30222 110.733 6.41508 120.442 9.77783 128.475 21.9396 2.26924 0.343674 
+
+# definition for class # 442
+# class name, prior probability
+''	0.0004357
+# class type is GaussDiag
+# mean vector
+2.42446 18.5008 2.91781 31.9825 -28.5535 5.01224 32.1611 30.7995 1.39892 7.2015 
+
+# diagonal of covariance matrix
+0.426904 6.39941 85.8016 10.7197 89.8027 14.2547 133.464 23.6898 0.522993 2.02319 
+
+# definition for class # 443
+# class name, prior probability
+''	0.000558257
+# class type is GaussDiag
+# mean vector
+3.43438 13.4476 58.1779 25.3318 68.5262 2.26197 20.4998 33.1429 4.95315 7.81375 
+
+# diagonal of covariance matrix
+0.622033 9.00604 40.802 20.301 32.4002 12.5321 700.028 35.9383 1.77301 0.881313 
+
+# definition for class # 444
+# class name, prior probability
+''	0.000475111
+# class type is GaussDiag
+# mean vector
+2.96478 12.2617 21.3555 21.1548 39.3254 3.4428 -5.33264 20.9835 2.44027 7.9251 
+
+# diagonal of covariance matrix
+0.520479 4.90773 60.8897 8.46544 100.343 7.14633 87.1879 12.9997 1.22255 0.773399 
+
+# definition for class # 445
+# class name, prior probability
+''	0.000751056
+# class type is GaussDiag
+# mean vector
+2 20.432 11.3574 24.2316 18.2391 16.6324 3.39395 9.63391 1.74599 9.30126 
+
+# diagonal of covariance matrix
+0 7.82039 52.0815 10.5866 146.391 10.2682 140.531 12.0548 0.987419 0.136865 
+
+# definition for class # 446
+# class name, prior probability
+''	0.000375705
+# class type is GaussDiag
+# mean vector
+2 6.23014 -10.8785 10.7922 -0.451444 1.66809 -20.5644 10.5383 0.80007 8.96369 
+
+# diagonal of covariance matrix
+0 4.08645 4.15123 7.00341 5.24981 6.77863 13.4235 11.9762 0.164482 0.276871 
+
+# definition for class # 447
+# class name, prior probability
+''	0.000255087
+# class type is GaussDiag
+# mean vector
+2.14825 6.58814 -6.95399 13.8967 -0.463877 -0.705355 -12.8806 15.6549 0.539624 8.08735 
+
+# diagonal of covariance matrix
+0.0600116 3.42681 11.8165 7.56574 46.6176 5.8451 33.2432 13.3051 0.216777 0.798073 
+
+# definition for class # 448
+# class name, prior probability
+''	0.000156025
+# class type is GaussDiag
+# mean vector
+2 11.8928 -9.26301 15.0414 -10.0593 8.74412 -8.41958 7.6726 1.07921 9.21176 
+
+# diagonal of covariance matrix
+0 0.979297 3.79065 1.31228 7.67747 1.99367 15.6605 3.36101 0.226616 0.143384 
+
+# definition for class # 449
+# class name, prior probability
+''	0.000639479
+# class type is GaussDiag
+# mean vector
+2 17.4736 -8.67604 19.8877 -10.905 15.0596 -6.22566 6.18086 1.47031 9.55409 
+
+# diagonal of covariance matrix
+0 1.71427 11.1658 2.17543 44.598 2.62344 48.6217 3.07807 0.596209 0.036375 
+
+# definition for class # 450
+# class name, prior probability
+''	0.000502121
+# class type is GaussDiag
+# mean vector
+2.00317 12.9543 -12.1353 19.7685 -2.10741 6.1408 -21.2058 15.2408 0.681184 8.3406 
+
+# diagonal of covariance matrix
+0.000779904 3.3231 16.7565 7.04843 47.9162 5.03747 52.2901 11.725 0.126633 0.608287 
+
+# definition for class # 451
+# class name, prior probability
+''	0.000233653
+# class type is GaussDiag
+# mean vector
+1.59479 17.0439 -15.304 18.9115 -27.2626 15.164 -1.2685 6.03289 4.84953 9.68173 
+
+# diagonal of covariance matrix
+0.243405 3.30849 10.7006 4.18415 17.7335 4.51812 47.544 8.89884 2.61556 0.0511017 
+
+# definition for class # 452
+# class name, prior probability
+''	0.000291444
+# class type is GaussDiag
+# mean vector
+2 13.0621 -11.1585 17.3196 -21.507 8.80467 0.0895058 10.2238 1.42406 9.07896 
+
+# diagonal of covariance matrix
+0 1.7045 9.46788 3.08147 22.812 2.42938 19.3609 4.43893 0.331283 0.147075 
+
+# definition for class # 453
+# class name, prior probability
+''	0.000375547
+# class type is GaussDiag
+# mean vector
+2 20.0408 -6.3778 23.8506 -0.779702 16.2311 -11.7045 8.75035 0.698769 9.37013 
+
+# diagonal of covariance matrix
+0 2.50834 13.0714 5.34789 18.916 4.98238 54.9807 11.8116 0.319073 0.106077 
+
+# definition for class # 454
+# class name, prior probability
+''	0.000520145
+# class type is GaussDiag
+# mean vector
+3.18837 18.1974 62.9454 29.3112 -8.04226 5.58999 77.5883 43.988 6.97169 8.93191 
+
+# diagonal of covariance matrix
+0.455097 10.0417 57.0064 17.1756 850.73 30.4153 9.56507 117.786 1.39793 0.258389 
+
+# definition for class # 455
+# class name, prior probability
+''	0.000652898
+# class type is GaussDiag
+# mean vector
+2.83279 18.0557 35.2729 29.2757 -12.1179 6.60205 57.2932 28.5441 2.70637 7.70759 
+
+# diagonal of covariance matrix
+0.644901 6.6897 96.2825 10.4334 315.14 12.6338 64.1691 19.7872 1.23216 1.23546 
+
+# definition for class # 456
+# class name, prior probability
+''	0.000237219
+# class type is GaussDiag
+# mean vector
+2.04935 19.9553 -51.4051 25.9594 1.62969 13.2273 -69.5509 21.5848 5.8852 9.2793 
+
+# diagonal of covariance matrix
+0.622804 8.95001 84.3657 13.9175 253.407 13.0186 37.3318 49.6073 2.54992 0.125994 
+
+# definition for class # 457
+# class name, prior probability
+''	0.000995878
+# class type is GaussDiag
+# mean vector
+2.90713 16.4136 -64.8448 26.8328 -23.1815 -0.543438 -80.816 62.393 8.28233 9.37611 
+
+# diagonal of covariance matrix
+0.408884 51.5407 131.292 66.4279 463.048 98.7817 13.1535 315.213 0.533014 0.0906597 
+
+# definition for class # 458
+# class name, prior probability
+''	0.000639803
+# class type is GaussDiag
+# mean vector
+2 24.0885 0 29.2437 0 18.9333 0 10.3313 0.00977217 9.3873 
+
+# diagonal of covariance matrix
+0 33.6412 0 49.4269 0 37.9502 0 40.2172 0.0045302 0.160304 
+
+# definition for class # 459
+# class name, prior probability
+''	0.00110105
+# class type is GaussDiag
+# mean vector
+2.09005 75.971 15.0551 83.9942 -16.9518 67.7997 41.3964 22.0202 2.98031 9.39906 
+
+# diagonal of covariance matrix
+0.226761 59.5675 267.758 75.3644 530.34 76.4509 249.328 87.1828 4.15885 0.10186 
+
+# definition for class # 460
+# class name, prior probability
+''	0.00144543
+# class type is GaussDiag
+# mean vector
+1.80896 108.81 15.2303 115.203 -6.0906 102.327 31.915 17.7602 4.26568 9.68123 
+
+# diagonal of covariance matrix
+0.612054 123.184 515.277 143.468 1129.76 145.784 629.743 129.965 7.10467 0.0678926 
+
+# definition for class # 461
+# class name, prior probability
+''	0.00138324
+# class type is GaussDiag
+# mean vector
+2.88262 67.7028 -4.57208 83.1561 -11.6563 52.109 2.13763 33.2763 1.653 8.88044 
+
+# diagonal of covariance matrix
+0.880281 20.6914 202.708 35.4939 379.176 38.2421 368.832 65.248 2.17141 0.137893 
+
+# definition for class # 462
+# class name, prior probability
+''	0.00110566
+# class type is GaussDiag
+# mean vector
+2.67988 86.0535 33.9069 97.5434 47.2886 74.943 0.813984 30.9073 4.38138 9.38726 
+
+# diagonal of covariance matrix
+0.972784 61.4756 447.612 115.624 467.368 93.6367 1158.42 204.509 5.64861 0.130339 
+
+# definition for class # 463
+# class name, prior probability
+''	0.000821481
+# class type is GaussDiag
+# mean vector
+2.63096 66.746 37.3457 75.8489 63.1123 58.0899 -16.8152 28.7709 5.09927 9.38742 
+
+# diagonal of covariance matrix
+0.5639 24.8415 426.179 37.7244 109.777 41.4534 784.969 91.4563 3.88935 0.0892515 
+
+# definition for class # 464
+# class name, prior probability
+''	0.00103447
+# class type is GaussDiag
+# mean vector
+2 23.9702 -51.1082 29.0027 -49.9609 18.9376 -50.7256 18.8651 4.3481 9.11314 
+
+# diagonal of covariance matrix
+0 7.73763 19.1919 10.7295 68.3684 11.4553 44.2134 14.576 1.13473 0.178478 
+
+# definition for class # 465
+# class name, prior probability
+''	0.000461499
+# class type is GaussDiag
+# mean vector
+3.09354 22.6338 39.519 32.6655 -41.3104 11.7501 70.056 33.5868 5.54301 8.61837 
+
+# diagonal of covariance matrix
+0.466611 8.67806 229.039 13.0151 112.331 15.5332 18.0166 20.0369 1.89924 0.310496 
+
+# definition for class # 466
+# class name, prior probability
+''	0.000427313
+# class type is GaussDiag
+# mean vector
+4.10539 27.0956 58.3634 42.7364 -37.3311 9.57172 76.2458 49.1665 6.50116 8.50531 
+
+# diagonal of covariance matrix
+0.943372 14.9375 101.464 23.9401 206.209 31.2812 14.6786 57.6253 0.921615 0.270101 
+
+# definition for class # 467
+# class name, prior probability
+''	0.000760293
+# class type is GaussDiag
+# mean vector
+5.03393 14.5013 -36.1653 33.2002 -34.7445 -4.68657 -30.7283 42.6144 4.68447 7.99994 
+
+# diagonal of covariance matrix
+2.26445 4.93831 115.231 8.03678 86.1797 6.47886 119.942 9.40304 2.40794 0.659754 
+
+# definition for class # 468
+# class name, prior probability
+''	0.000822665
+# class type is GaussDiag
+# mean vector
+5.45326 19.5799 -40.2399 35.1258 -33.0587 3.33109 -24.1172 36.0306 5.54349 8.21238 
+
+# diagonal of covariance matrix
+1.50166 4.59948 118.571 5.55814 180.202 4.85794 189.234 8.87575 1.03632 0.352412 
+
+# definition for class # 469
+# class name, prior probability
+''	0.000689561
+# class type is GaussDiag
+# mean vector
+5.03101 20.2034 -48.4821 39.9547 -39.1463 1.06009 -43.7862 45.4175 5.15731 8.09947 
+
+# diagonal of covariance matrix
+1.41414 5.68665 76.6458 9.18196 124.907 9.86261 97.0385 15.7707 1.64565 0.540285 
+
+# definition for class # 470
+# class name, prior probability
+''	0.000538111
+# class type is GaussDiag
+# mean vector
+4.52734 28.9899 -52.665 46.437 -38.8428 12.0324 -52.0119 42.4701 5.18498 8.44701 
+
+# diagonal of covariance matrix
+0.839293 8.80367 54.5477 15.6951 73.8669 14.7433 112.122 27.3305 1.61078 0.269022 
+
+# definition for class # 471
+# class name, prior probability
+''	0.00102794
+# class type is GaussDiag
+# mean vector
+2.84588 27.031 -69.6175 46.5801 -82.8921 14.7555 -24.2367 81.7311 8.76283 9.40596 
+
+# diagonal of covariance matrix
+0.363647 33.2439 117.303 105.154 8.32008 46.0572 465.832 500.447 0.250916 0.0685202 
+
+# definition for class # 472
+# class name, prior probability
+''	0.00078025
+# class type is GaussDiag
+# mean vector
+3.31396 62.9173 -67.1321 86.6292 -81.8345 46.9638 -24.5794 79.6668 7.86166 9.32209 
+
+# diagonal of covariance matrix
+0.804869 50.7234 115.761 129.821 10.3342 86.8915 584.903 479.771 0.877407 0.101635 
+
+# definition for class # 473
+# class name, prior probability
+''	0.000732984
+# class type is GaussDiag
+# mean vector
+3.29455 57.863 13.5288 82.4217 73.7111 41.713 -37.6947 92.31 8.1045 9.33698 
+
+# diagonal of covariance matrix
+0.90134 94.5732 880.102 227.673 85.8745 119.316 660.92 892.744 0.833883 0.0883122 
+
+# definition for class # 474
+# class name, prior probability
+''	0.000987278
+# class type is GaussDiag
+# mean vector
+3.00974 51.5537 65.4185 64.871 -17.8164 31.9513 82.1132 70.1755 8.01978 9.29162 
+
+# diagonal of covariance matrix
+0.395105 34.2561 134.949 53.2131 816.796 89.5844 6.02292 357.979 0.744427 0.117591 
+
+# definition for class # 475
+# class name, prior probability
+''	0.000969872
+# class type is GaussDiag
+# mean vector
+6.60604 17.2014 35.5125 59.5685 -2.8279 -26.8942 -4.41316 90.7865 6.36407 7.80316 
+
+# diagonal of covariance matrix
+3.40064 51.1428 520.872 74.1139 978.318 53.348 760.523 99.5714 1.13571 0.753095 
+
+# definition for class # 476
+# class name, prior probability
+''	0.00085764
+# class type is GaussDiag
+# mean vector
+5.55101 27.5329 -12.8418 65.512 -29.4273 -9.92197 -8.43742 78.9239 4.53679 7.37273 
+
+# diagonal of covariance matrix
+2.84569 24.7184 573.19 24.4179 260.994 21.8905 347.438 34.0088 2.83424 1.14136 
+
+# definition for class # 477
+# class name, prior probability
+''	0.00105776
+# class type is GaussDiag
+# mean vector
+7.57348 28.8405 -36.6924 69.6286 -32.6695 -9.70347 -38.7799 84.8082 6.41289 7.99305 
+
+# diagonal of covariance matrix
+3.5683 24.5345 349.778 33.9079 113.084 25.9187 126.029 47.4997 0.695037 0.323849 
+
+# definition for class # 478
+# class name, prior probability
+''	0.00075019
+# class type is GaussDiag
+# mean vector
+5.83931 37.3785 -54.0484 70.8033 -26.8894 5.71364 -57.1046 75.3578 6.11114 8.02742 
+
+# diagonal of covariance matrix
+2.06556 25.1976 147.141 42.1729 437.54 30.2307 170.325 52.4315 1.25457 0.554426 
+
+# definition for class # 479
+# class name, prior probability
+''	0.000506905
+# class type is GaussDiag
+# mean vector
+6.1129 41.9116 -61.0905 79.3619 -44.814 2.81416 -30.1234 82.9101 6.54029 8.03901 
+
+# diagonal of covariance matrix
+2.22446 31.8579 86.7408 28.1886 262.546 18.6043 192.081 33.6051 0.939208 0.405517 
+
+# definition for class # 480
+# class name, prior probability
+''	0.00124752
+# class type is GaussDiag
+# mean vector
+5.97217 73.7563 51.655 114.3 -25.1418 23.3666 74.8395 115.127 6.72836 8.23978 
+
+# diagonal of covariance matrix
+2.31079 88.668 588.151 195.511 382.43 154.42 89.4088 459.774 1.12147 0.353614 
+
+# definition for class # 481
+# class name, prior probability
+''	0.00162838
+# class type is GaussDiag
+# mean vector
+5.99164 49.3917 50.429 115.982 -0.502525 -11.8693 14.3973 135.697 6.47245 7.69955 
+
+# diagonal of covariance matrix
+3.67295 173.46 401.996 210.775 1054.39 136.278 1512.69 226.522 2.38349 1.40783 
+
+# definition for class # 482
+# class name, prior probability
+''	0.00210323
+# class type is GaussDiag
+# mean vector
+5.90405 68.6776 60.6304 124.438 -11.3317 -14.3577 84.9 190.112 7.34671 8.4828 
+
+# diagonal of covariance matrix
+2.78999 249.227 339.175 416.782 1376.65 637.99 5.59969 1175.73 0.98614 0.378418 
+
+# definition for class # 483
+# class name, prior probability
+''	0.0112792
+# class type is GaussDiag
+# mean vector
+9.19153 166.426 5.99213 375.044 -1.3036 -47.7534 -4.42075 471.407 7.54973 8.19197 
+
+# diagonal of covariance matrix
+4.92287 2369.79 3418.61 3414.99 3161.24 3045.33 3445.69 6073.43 0.777982 0.405123 
+
+# definition for class # 484
+# class name, prior probability
+''	0.0027901
+# class type is GaussDiag
+# mean vector
+5.93713 -32.5184 -17.846 88.5599 -19.3787 -119.4 -16.5813 231.95 7.22481 8.58424 
+
+# diagonal of covariance matrix
+2.95099 836.824 2469.25 1805.3 2010.96 698.84 1091.08 2391 1.22942 0.320121 
+
+# definition for class # 485
+# class name, prior probability
+''	0.00214344
+# class type is GaussDiag
+# mean vector
+6.98686 25.6437 -49.1175 122.386 -34.2709 -74.8268 -19.7772 209.043 7.40712 8.43013 
+
+# diagonal of covariance matrix
+4.99798 851.571 478.821 485.967 686.915 403.651 832.772 785.826 0.74927 0.31531 
+
+# definition for class # 486
+# class name, prior probability
+''	0.00124604
+# class type is GaussDiag
+# mean vector
+7.08251 15.1381 -12.1645 91.849 -19.1377 -60.2929 -20.2997 159.041 5.28929 7.4202 
+
+# diagonal of covariance matrix
+5.83305 129.694 1462.97 210.591 1040.6 182.207 822.092 318.961 2.08841 0.890635 
+
+# definition for class # 487
+# class name, prior probability
+''	0.00578666
+# class type is GaussDiag
+# mean vector
+6.07106 38.5728 75.2726 214.256 87.8401 -69.5155 -15.0338 413.461 8.55767 8.94457 
+
+# diagonal of covariance matrix
+3.82563 2620.61 116.016 6480.57 1.58662 2367.6 2113.11 9696 0.54119 0.303575 
+
+# definition for class # 488
+# class name, prior probability
+''	0.00190392
+# class type is GaussDiag
+# mean vector
+3.47909 -21.584 72.7527 45.1509 87.0812 -53.6663 -11.3486 202.226 8.83901 9.28252 
+
+# diagonal of covariance matrix
+1.12033 241.236 183.544 1148.41 2.00471 306.088 1042.25 4009.85 0.379398 0.140115 
+
+# definition for class # 489
+# class name, prior probability
+''	0.00150609
+# class type is GaussDiag
+# mean vector
+6.9324 6.86871 -20.5882 38.5557 -25.1845 -25.972 -31.207 69.0097 5.86451 7.69155 
+
+# diagonal of covariance matrix
+3.57103 21.4107 709.626 23.1981 290.788 29.4042 208.533 34.1715 1.48182 0.786059 
+
+# definition for class # 490
+# class name, prior probability
+''	0.00100117
+# class type is GaussDiag
+# mean vector
+5.42061 -3.90288 -43.5685 21.8231 -25.0963 -26.2257 -40.1758 53.311 6.13447 8.44349 
+
+# diagonal of covariance matrix
+1.28499 17.5618 232.346 19.5933 245.43 19.9346 115.755 23.5068 1.11567 0.216175 
+
+# definition for class # 491
+# class name, prior probability
+''	0.000291366
+# class type is GaussDiag
+# mean vector
+4.74676 6.81742 -35.9069 31.3345 5.54183 -16.8007 -54.6453 57.38 5.09117 8.35138 
+
+# diagonal of covariance matrix
+1.83767 18.3691 208.765 40.6692 498.441 24.0065 185.091 48.4856 3.48439 0.356847 
+
+# definition for class # 492
+# class name, prior probability
+''	0.000283405
+# class type is GaussDiag
+# mean vector
+2.05483 5.97135 -46.0133 12.6178 7.34289 -1.23314 -66.7713 24.4216 5.63838 9.18596 
+
+# diagonal of covariance matrix
+0.526853 9.49578 137.546 17.9521 554.681 18.3717 60.1934 90.4443 4.32177 0.191335 
+
+# definition for class # 493
+# class name, prior probability
+''	0.000902877
+# class type is GaussDiag
+# mean vector
+1.65667 11.9028 -86.8203 18.7423 -86.8315 4.53901 -86.5009 151.863 9.77047 9.90973 
+
+# diagonal of covariance matrix
+0.421325 1454.83 2.50588 1574.61 2.87079 1611.6 4.37438 8742.23 0.0278184 0.00505599 
+
+# definition for class # 494
+# class name, prior probability
+''	0.00324487
+# class type is GaussDiag
+# mean vector
+3.05184 145.02 -86.5108 201.322 -87.3811 92.174 -87.2729 321.88 9.64518 9.79414 
+
+# diagonal of covariance matrix
+1.86907 5699.3 6.0909 8222.05 3.50302 9087.85 3.27007 27505.3 0.0561127 0.025327 
+
+# definition for class # 495
+# class name, prior probability
+''	0.000835651
+# class type is GaussDiag
+# mean vector
+2.96781 73.3868 53.0266 85.0005 -19.1178 59.5979 74.4971 44.8192 6.18796 9.35629 
+
+# diagonal of covariance matrix
+0.444535 56.777 267.89 75.164 666.4 84.9004 35.1523 185.859 3.10305 0.0900414 
+
+# definition for class # 496
+# class name, prior probability
+''	0.00117704
+# class type is GaussDiag
+# mean vector
+1.95393 116.642 86.2091 127.695 85.6832 105.301 86.2424 177.503 9.65799 9.877 
+
+# diagonal of covariance matrix
+0.547458 995.444 9.67118 1140.59 17.7799 1390.1 11.2979 9589.68 0.104022 0.0117755 
+
+# definition for class # 497
+# class name, prior probability
+''	0.000784361
+# class type is GaussDiag
+# mean vector
+1.72234 51.3079 85.4106 57.2471 85.3438 45.2024 85.222 103.718 9.54438 9.77825 
+
+# diagonal of covariance matrix
+0.474315 184.08 5.63966 247.679 6.54518 231.543 7.61056 2730.98 0.112205 0.0357319 
+
+# definition for class # 498
+# class name, prior probability
+''	0.00118325
+# class type is GaussDiag
+# mean vector
+2 21.0727 -42.5264 24.692 -42.8768 17.4534 -41.5286 13.7046 4.23539 9.26661 
+
+# diagonal of covariance matrix
+0 3.0653 10.6951 4.58916 26.92 4.70983 35.3351 6.79493 0.828369 0.115938 
+
+# definition for class # 499
+# class name, prior probability
+''	0.000382851
+# class type is GaussDiag
+# mean vector
+2.10166 34.2258 -56.8975 40.0623 -52.3086 28.314 -59.2982 23.4963 4.90198 9.1842 
+
+# diagonal of covariance matrix
+0.0504255 12.5946 23.4946 16.132 124.3 18.8544 38.3536 26.7069 1.84609 0.127459 
+
+# definition for class # 500
+# class name, prior probability
+''	0.00171038
+# class type is GaussDiag
+# mean vector
+1.99994 48.159 -46.0364 54.1119 -44.9846 42.2061 -45.8721 19.22 3.58916 9.26651 
+
+# diagonal of covariance matrix
+1.96947e-05 21.8208 30.5897 30.3022 70.1859 27.3951 59.3903 29.8606 1.23143 0.120692 
+
+# definition for class # 501
+# class name, prior probability
+''	0.000501707
+# class type is GaussDiag
+# mean vector
+2.71216 37.7754 -10.2145 46.3586 -46.2766 27.0607 55.0205 49.0412 7.61744 9.26447 
+
+# diagonal of covariance matrix
+0.344687 40.5093 492.933 55.9803 374.966 49.3054 313.535 243.921 1.14372 0.117295 
+
+# definition for class # 502
+# class name, prior probability
+''	0.000783013
+# class type is GaussDiag
+# mean vector
+5.12428 20.02 67.0902 44.2206 -30.2082 -10.355 81.6646 79.7136 7.31533 8.34678 
+
+# diagonal of covariance matrix
+2.60786 46.7266 85.5348 58.0685 359.845 114.823 7.07395 137.692 0.626846 0.382569 
+
+# definition for class # 503
+# class name, prior probability
+''	0.000656388
+# class type is GaussDiag
+# mean vector
+5.33348 16.9845 -23.1887 39.052 -19.798 -4.07799 -34.0895 47.6057 5.9364 8.48919 
+
+# diagonal of covariance matrix
+1.59369 7.87774 393.701 12.6114 228.68 11.8388 174.406 19.3871 1.00576 0.254047 
+
+# definition for class # 504
+# class name, prior probability
+''	0.000658468
+# class type is GaussDiag
+# mean vector
+4.28662 20.0448 -62.2525 36.8937 -35.6883 0.955515 -73.2298 53.2219 6.02072 8.22407 
+
+# diagonal of covariance matrix
+1.08559 18.071 94.3659 31.445 363.625 32.1963 38.6767 110.709 1.80093 0.604378 
+
+# definition for class # 505
+# class name, prior probability
+''	0.00098609
+# class type is GaussDiag
+# mean vector
+7.09631 19.0556 -36.0003 49.1961 -32.0256 -10.3352 -39.277 64.8658 5.89546 7.8401 
+
+# diagonal of covariance matrix
+3.15328 13.7551 228.138 20.814 147.151 17.6376 84.4672 30.2584 0.970651 0.578532 
+
+# definition for class # 506
+# class name, prior probability
+''	0.000787853
+# class type is GaussDiag
+# mean vector
+5.00078 39.1544 -4.02078 60.0554 -28.6398 15.8721 -5.36402 47.7586 6.19083 8.75427 
+
+# diagonal of covariance matrix
+1.3496 12.7131 318.513 20.149 130.561 20.0065 262.834 33.3663 0.806718 0.0932616 
+
+# definition for class # 507
+# class name, prior probability
+''	0.000505358
+# class type is GaussDiag
+# mean vector
+5.16777 31.3064 -30.6084 55.9092 -43.1207 5.96317 -3.72401 54.2267 4.79237 7.77944 
+
+# diagonal of covariance matrix
+1.58455 11.5913 200.506 11.6016 84.9951 7.9714 147.089 14.5251 1.73729 0.607513 
+
+# definition for class # 508
+# class name, prior probability
+''	0.000614973
+# class type is GaussDiag
+# mean vector
+4.15724 38.9927 -26.7393 61.8831 -36.501 15.6812 -4.72012 49.6591 3.07572 8.03012 
+
+# diagonal of covariance matrix
+1.70936 7.82941 172.646 15.7227 117.007 10.777 168.006 24.094 2.57845 0.417672 
+
+# definition for class # 509
+# class name, prior probability
+''	0.000682754
+# class type is GaussDiag
+# mean vector
+4.24993 39.5136 18.7004 61.044 -36.3329 0.854443 79.8008 112.848 8.15874 9.06976 
+
+# diagonal of covariance matrix
+1.456 67.0355 1076.07 101.5 533.99 334.284 26.2527 528.028 0.511461 0.121144 
+
+# definition for class # 510
+# class name, prior probability
+''	0.0010619
+# class type is GaussDiag
+# mean vector
+6.49465 39.4103 -55.3253 85.0979 -36.3862 -6.63565 -54.3765 104.546 6.25449 8.03561 
+
+# diagonal of covariance matrix
+3.61462 46.3082 173.241 100.448 324.144 57.1361 321.546 88.6344 1.91776 0.495871 
+
+# definition for class # 511
+# class name, prior probability
+''	0.00143437
+# class type is GaussDiag
+# mean vector
+3.26522 40.7625 -72.2593 60.0452 -21.749 2.83726 -85.4235 114.402 8.48381 9.3697 
+
+# diagonal of covariance matrix
+0.737638 85.0785 86.6233 114.414 852.321 328.625 2.57568 786.482 0.562766 0.118117 
+
+# definition for class # 512
+# class name, prior probability
+''	0.000616821
+# class type is GaussDiag
+# mean vector
+6.59452 37.0168 18.9555 65.631 -30.7822 8.22378 44.676 64.7696 5.65978 7.67193 
+
+# diagonal of covariance matrix
+2.5788 18.8065 712.269 26.4222 193.816 22.104 283.035 33.1788 0.908891 0.463992 
+
+# definition for class # 513
+# class name, prior probability
+''	0.00146338
+# class type is GaussDiag
+# mean vector
+5.82062 52.9215 -2.15355 87.1482 -27.445 18.4149 -9.31669 72.6646 6.42836 8.5123 
+
+# diagonal of covariance matrix
+2.23758 31.9348 712.005 34.8715 200.325 35.5165 417.773 52.7365 0.920489 0.174254 
+
+# definition for class # 514
+# class name, prior probability
+''	0.00141798
+# class type is GaussDiag
+# mean vector
+5.58413 67.0217 22.5555 110.723 -21.6073 20.9961 -2.1725 95.5023 7.21842 8.74976 
+
+# diagonal of covariance matrix
+1.94269 95.3019 786.31 122.717 419.671 98.9318 792.194 120.072 0.663816 0.142501 
+
+# definition for class # 515
+# class name, prior probability
+''	0.000515588
+# class type is GaussDiag
+# mean vector
+4.92006 53.1382 74.5983 83.465 74.3636 23.5674 58.485 84.7409 6.97871 8.53771 
+
+# diagonal of covariance matrix
+1.72731 84.5819 43.1239 163.814 89.4448 153.635 276.524 379.49 1.0519 0.360807 
+
+# definition for class # 516
+# class name, prior probability
+''	0.000643832
+# class type is GaussDiag
+# mean vector
+4.49656 22.643 78.2276 53.814 82.159 -5.45568 71.0188 110.726 8.18128 8.70817 
+
+# diagonal of covariance matrix
+1.70245 114.557 30.2225 214.804 13.699 170.844 150.03 397.654 0.456054 0.296472 
+
+# definition for class # 517
+# class name, prior probability
+''	0.000401689
+# class type is GaussDiag
+# mean vector
+2.31068 18.4125 9.09656 31.0407 19.7436 5.77351 -2.0466 26.941 0.782091 7.54993 
+
+# diagonal of covariance matrix
+0.159258 10.0948 65.0666 15.131 132.503 22.7407 130.129 35.4145 0.264139 1.39856 
+
+# definition for class # 518
+# class name, prior probability
+''	0.000507553
+# class type is GaussDiag
+# mean vector
+2.76414 13.0994 14.0662 20.7838 48.1558 5.38998 -32.5548 21.0239 3.27082 8.30222 
+
+# diagonal of covariance matrix
+0.51222 3.45273 70.326 5.02265 44.7786 6.41842 77.8151 9.81169 1.39094 0.344937 
+
+# definition for class # 519
+# class name, prior probability
+''	0.000308305
+# class type is GaussDiag
+# mean vector
+2.49747 10.1399 -4.0579 19.5842 20.1005 0.717385 -27.3078 22.0164 1.59219 7.59037 
+
+# diagonal of covariance matrix
+0.337234 4.03642 34.3447 7.2052 102.541 7.83615 60.601 15.2842 0.571851 1.24618 
+
+# definition for class # 520
+# class name, prior probability
+''	0.000204708
+# class type is GaussDiag
+# mean vector
+1.99908 14.4774 -15.7478 17.0897 -20.7779 11.8651 -10.3289 7.28711 2.18856 9.42691 
+
+# diagonal of covariance matrix
+0.000230094 0.726907 3.03281 1.72612 14.2099 1.5164 16.7778 3.91823 0.607905 0.0913575 
+
+# definition for class # 521
+# class name, prior probability
+''	0.000472341
+# class type is GaussDiag
+# mean vector
+2 12.2513 -12.8933 14.0858 -14.7364 10.4169 -10.8468 5.46402 2.3103 9.5945 
+
+# diagonal of covariance matrix
+0 0.825647 8.58482 1.16922 28.0985 1.2592 35.9009 1.71859 0.860133 0.0197839 
+
+# definition for class # 522
+# class name, prior probability
+''	0.000481886
+# class type is GaussDiag
+# mean vector
+2.76817 13.6738 -18.2947 19.7823 -15.718 7.51542 -16.3672 14.613 2.10762 8.81119 
+
+# diagonal of covariance matrix
+0.371614 2.00618 22.8079 3.82956 77.7354 3.05436 88.3417 5.77224 0.939028 0.150038 
+
+# definition for class # 523
+# class name, prior probability
+''	0.000276155
+# class type is GaussDiag
+# mean vector
+1.9539 16.3654 4.52969 19.2042 -11.2582 13.5138 19.6465 8.59291 3.05117 9.48967 
+
+# diagonal of covariance matrix
+0.102925 2.58467 17.3232 4.33871 62.3799 3.51822 56.819 8.4801 3.24066 0.058465 
+
+# definition for class # 524
+# class name, prior probability
+''	0.000722368
+# class type is GaussDiag
+# mean vector
+3.32879 10.8937 21.8316 21.1909 -19.8312 0.641991 46.213 25.4272 3.154 7.71354 
+
+# diagonal of covariance matrix
+0.945757 3.60731 110.555 7.07571 191.555 6.76059 102.048 14.8354 1.92808 1.1606 
+
+# definition for class # 525
+# class name, prior probability
+''	0.000536939
+# class type is GaussDiag
+# mean vector
+4.01237 17.9507 53.0503 32.5125 22.5624 3.21417 58.2171 37.872 4.60378 7.8136 
+
+# diagonal of covariance matrix
+1.09399 12.2943 97.3355 19.0673 845.398 24.2385 146.34 46.3615 2.33241 0.902756 
+
+# definition for class # 526
+# class name, prior probability
+''	0.000586351
+# class type is GaussDiag
+# mean vector
+4.21798 17.5923 13.1923 32.5047 34.4997 2.61188 -17.8098 34.4074 3.82498 7.47852 
+
+# diagonal of covariance matrix
+1.01375 5.34499 272.25 11.1845 344.561 8.54668 261.966 19.1009 2.41643 1.51274 
+
+# definition for class # 527
+# class name, prior probability
+''	0.000889902
+# class type is GaussDiag
+# mean vector
+3.37656 12.1868 37.528 23.3572 59.9548 1.49652 -13.0507 28.2664 3.85397 7.84931 
+
+# diagonal of covariance matrix
+0.775843 7.1589 92.8992 10.4682 52.1617 10.3955 287.646 18.5027 1.78191 0.904734 
+
+# definition for class # 528
+# class name, prior probability
+''	0.000741306
+# class type is GaussDiag
+# mean vector
+2 8.87961 0 14.5679 0 3.19135 0 11.3908 0.00186377 8.86797 
+
+# diagonal of covariance matrix
+0 17.8358 0 35.4263 0 20.889 0 41.2817 0.00038895 0.740998 
+
+# definition for class # 529
+# class name, prior probability
+''	0.000350009
+# class type is GaussDiag
+# mean vector
+2.09072 6.43747 9.87866 14.8404 -10.5318 -1.97407 27.2471 19.035 0.963388 7.69078 
+
+# diagonal of covariance matrix
+0.0336898 4.12128 36.9601 7.68753 94.5032 8.43325 102.127 17.5188 0.232954 1.6463 
+
+# definition for class # 530
+# class name, prior probability
+''	0.000291587
+# class type is GaussDiag
+# mean vector
+2.46968 5.63458 20.8106 19.7379 -3.40173 -8.50712 35.3337 31.566 1.29051 7.29188 
+
+# diagonal of covariance matrix
+0.45341 11.1987 161.431 24.2143 296.98 14.5425 355.92 33.9176 0.638673 2.34238 
+
+# definition for class # 531
+# class name, prior probability
+''	0.000262161
+# class type is GaussDiag
+# mean vector
+2.00614 2.62366 27.192 9.6957 27.1901 -4.44903 24.9707 17.3975 1.63084 8.48871 
+
+# diagonal of covariance matrix
+0.00152246 8.78261 41.1112 15.4854 146.823 13.3688 183.398 24.374 0.451151 0.706996 
+
+# definition for class # 532
+# class name, prior probability
+''	0.000483544
+# class type is GaussDiag
+# mean vector
+3.84458 0.525373 17.3797 14.3501 17.0148 -12.9649 -0.359717 31.288 4.1721 8.53949 
+
+# diagonal of covariance matrix
+0.428507 10.999 275.423 18.0966 611.646 25.0134 434.593 45.8612 2.74098 0.322017 
+
+# definition for class # 533
+# class name, prior probability
+''	0.000207089
+# class type is GaussDiag
+# mean vector
+2.29559 1.3652 -0.616445 5.79474 28.674 -2.93931 -28.1857 14.3176 4.40001 9.18815 
+
+# diagonal of covariance matrix
+0.465507 4.67878 39.3659 5.84098 72.1907 9.30175 78.6254 22.2843 3.08381 0.155491 
+
+# definition for class # 534
+# class name, prior probability
+''	0.000260512
+# class type is GaussDiag
+# mean vector
+2.65678 1.57307 -18.2558 11.2657 1.71923 -7.93333 -31.5117 21.7522 1.67677 8.37522 
+
+# diagonal of covariance matrix
+0.54451 4.73434 41.9207 8.582 55.7227 10.6221 60.9628 19.5688 1.34763 0.444684 
+
+# definition for class # 535
+# class name, prior probability
+''	0.000685366
+# class type is GaussDiag
+# mean vector
+2 3.33828 -39.9477 6.24856 -39.3551 0.427989 -39.9344 11.6928 4.4158 9.31777 
+
+# diagonal of covariance matrix
+0 3.29529 11.2313 3.6265 35.0763 4.89162 30.6238 4.85044 0.706209 0.0762623 
+
+# definition for class # 536
+# class name, prior probability
+''	0.000609863
+# class type is GaussDiag
+# mean vector
+3.33712 8.86493 -33.9518 16.8733 -22.4529 1.24694 -36.1646 19.727 3.32059 8.49739 
+
+# diagonal of covariance matrix
+0.73583 1.89031 24.1552 3.91273 91.0713 3.39914 54.8516 7.0675 1.57398 0.304767 
+
+# definition for class # 537
+# class name, prior probability
+''	0.000367634
+# class type is GaussDiag
+# mean vector
+2.05951 9.35545 -7.37584 14.6015 -39.7412 4.08932 30.0968 15.7988 3.06198 8.70947 
+
+# diagonal of covariance matrix
+0.0263388 4.57566 22.6503 7.52221 26.8871 5.32166 48.6486 7.1699 0.972879 0.257838 
+
+# definition for class # 538
+# class name, prior probability
+''	0.000384834
+# class type is GaussDiag
+# mean vector
+2.19019 23.7675 31.9917 29.3061 26.4224 18.2142 35.7469 16.4528 3.36164 9.21293 
+
+# diagonal of covariance matrix
+0.181347 12.579 54.6911 22.1114 156.786 15.2029 132.409 28.5784 3.15618 0.15222 
+
+# definition for class # 539
+# class name, prior probability
+''	0.000562334
+# class type is GaussDiag
+# mean vector
+2.68614 9.41123 20.8481 14.1115 47.7581 4.72012 -20.0783 15.1292 4.40875 8.92972 
+
+# diagonal of covariance matrix
+0.32761 1.34066 25.1107 3.16656 26.3239 3.51627 91.7109 9.4173 2.37792 0.210998 
+
+# definition for class # 540
+# class name, prior probability
+''	0.000457515
+# class type is GaussDiag
+# mean vector
+0.82829 26.2804 -13.1443 30.224 50.0241 22.3159 -58.9016 11.8325 7.32004 9.69728 
+
+# diagonal of covariance matrix
+0.0712847 28.4286 1125.08 35.2309 303.109 31.6525 233.962 31.6239 0.86351 0.0364645 
+
+# definition for class # 541
+# class name, prior probability
+''	0.00757615
+# class type is GaussDiag
+# mean vector
+0 93.8769 0 93.8769 0 93.8769 0 -134.472 0 10.0074 
+
+# diagonal of covariance matrix
+0 8.90801 0 8.90801 0 8.90801 0 522.381 0 -4.59908e-05 
+
+# definition for class # 542
+# class name, prior probability
+''	0.000650124
+# class type is GaussDiag
+# mean vector
+1.35886 -148.82 -1.16882 -144.434 0.237296 -153.2 -1.70082 11.0268 4.71547 9.89784 
+
+# diagonal of covariance matrix
+0.38199 2331.6 416.313 2223.02 992.9 2478.66 896.483 86.8467 7.88074 0.0128601 
+
+# definition for class # 543
+# class name, prior probability
+''	0.000234295
+# class type is GaussDiag
+# mean vector
+3.22082 14.1212 -49.571 27.424 -78.9739 4.50241 44.6011 51.2336 7.4645 8.6944 
+
+# diagonal of covariance matrix
+0.543619 8.14972 219.346 21.9871 8.28347 10.3537 232.572 156.898 0.71144 0.217407 
+
+# definition for class # 544
+# class name, prior probability
+''	0.00029342
+# class type is GaussDiag
+# mean vector
+2.20093 21.0265 -27.0363 28.2112 -64.0238 13.7039 46.6133 28.9948 6.45712 9.15702 
+
+# diagonal of covariance matrix
+0.791417 7.79035 465.308 16.3162 86.6826 10.8111 245.51 106.426 1.8311 0.206191 
+
+# definition for class # 545
+# class name, prior probability
+''	0.00027967
+# class type is GaussDiag
+# mean vector
+3.64918 19.6413 -37.997 39.9735 -74.3917 2.97558 37.6549 55.5947 5.48551 7.44528 
+
+# diagonal of covariance matrix
+1.03689 29.3963 373.418 64.6595 20.6651 38.7323 555.859 103.649 1.79678 1.1176 
+
+# definition for class # 546
+# class name, prior probability
+''	0.00035373
+# class type is GaussDiag
+# mean vector
+6.23415 22.6853 -43.9149 44.842 -39.5235 0.488462 -8.11081 48.0155 5.42112 7.59453 
+
+# diagonal of covariance matrix
+1.75108 9.10815 106.181 15.2151 59.3131 7.05461 90.8408 17.5219 0.778457 0.435514 
+
+# definition for class # 547
+# class name, prior probability
+''	0.00063151
+# class type is GaussDiag
+# mean vector
+5.3841 47.6703 -18.1053 72.6398 -39.5044 17.3792 56.5308 78.095 7.09271 8.59631 
+
+# diagonal of covariance matrix
+2.03287 42.5623 717.678 74.6695 452.423 93.5644 265.529 221.021 0.768165 0.21746 
+
+# definition for class # 548
+# class name, prior probability
+''	0.000475608
+# class type is GaussDiag
+# mean vector
+5.75791 32.2668 40.0769 67.8933 -25.8345 -0.322492 8.27815 72.2647 6.85689 8.24481 
+
+# diagonal of covariance matrix
+1.97807 31.5936 229.292 32.7896 211.69 21.4946 573.071 36.5026 0.644049 0.320707 
+
+# definition for class # 549
+# class name, prior probability
+''	0.000379329
+# class type is GaussDiag
+# mean vector
+5.43028 31.0613 6.87103 58.7651 -42.4275 4.46081 28.9359 60.5695 5.12078 7.35364 
+
+# diagonal of covariance matrix
+1.49306 12.9456 420.873 19.2931 92.5571 18.1009 360.124 32.3057 1.35131 1.11228 
+
+# definition for class # 550
+# class name, prior probability
+''	0.00226906
+# class type is GaussDiag
+# mean vector
+5.95338 99.8898 5.87332 155.587 -37.2153 15.9448 80.9422 197.437 7.44708 8.58633 
+
+# diagonal of covariance matrix
+2.51056 378.427 1778.59 492.284 765.141 994.953 31.1201 1295.64 0.839596 0.283529 
+
+# definition for class # 551
+# class name, prior probability
+''	0.00353345
+# class type is GaussDiag
+# mean vector
+5.08505 53.4558 -67.6169 139.282 -86.1296 3.39435 -21.0648 210.234 7.74046 8.67935 
+
+# diagonal of covariance matrix
+2.12736 353.178 180.075 902.025 2.85167 475.886 1261.12 1757.77 0.92838 0.348784 
+
+# definition for class # 552
+# class name, prior probability
+''	0.000711499
+# class type is GaussDiag
+# mean vector
+5.40779 45.2556 -43.0278 84.4702 -41.8389 4.7719 -24.2628 85.2707 4.18728 6.89228 
+
+# diagonal of covariance matrix
+2.1494 26.5906 250.568 32.6554 209.036 32.2891 420.337 51.1981 2.12729 1.37237 
+
+# definition for class # 553
+# class name, prior probability
+''	0.000762862
+# class type is GaussDiag
+# mean vector
+6.78792 36.7414 -15.478 74.6086 -24.5617 3.42778 -34.6961 76.1145 6.43427 8.20469 
+
+# diagonal of covariance matrix
+2.38864 21.3494 581.785 24.3171 252.763 20.8056 168.791 26.2026 0.524572 0.203364 
+
+# definition for class # 554
+# class name, prior probability
+''	0.00111375
+# class type is GaussDiag
+# mean vector
+5.32013 54.4471 -32.7164 83.997 -23.4426 24.9086 -31.3957 63.3508 5.18584 8.44195 
+
+# diagonal of covariance matrix
+2.11052 19.5831 279.907 20.7241 272.257 21.8976 216.83 27.1263 2.92336 0.29328 
+
+# definition for class # 555
+# class name, prior probability
+''	0.000733896
+# class type is GaussDiag
+# mean vector
+4.64124 61.565 -60.8999 89.7084 -41.4572 32.1169 -57.2135 69.9711 5.26054 8.27751 
+
+# diagonal of covariance matrix
+1.34129 39.7206 90.4823 52.874 402.591 64.2546 273.415 90.2552 2.55002 0.509831 
+
+# definition for class # 556
+# class name, prior probability
+''	0.00168177
+# class type is GaussDiag
+# mean vector
+3.99219 81.4463 -46.6811 102.63 -39.7108 59.0935 -38.8025 51.1395 4.35856 8.90133 
+
+# diagonal of covariance matrix
+1.23732 34.9006 123.935 57.584 261.872 79.5185 327.836 141.931 3.34135 0.16222 
+
+# definition for class # 557
+# class name, prior probability
+''	0.00472974
+# class type is GaussDiag
+# mean vector
+6.85247 124.974 49.8747 213.596 -14.9724 -2.51772 85.0971 283.372 7.42441 8.37089 
+
+# diagonal of covariance matrix
+3.31616 726.297 957.634 950.754 1725.98 1628.69 9.55512 2437.3 0.719445 0.33541 
+
+# definition for class # 558
+# class name, prior probability
+''	0.00538498
+# class type is GaussDiag
+# mean vector
+6.05322 85.5956 30.2566 174.115 3.46182 0.734449 -4.65458 189.913 6.98572 8.33597 
+
+# diagonal of covariance matrix
+3.81903 500.934 1441.98 586.966 1670.53 560.897 1491.31 604.856 2.04722 0.764705 
+
+# definition for class # 559
+# class name, prior probability
+''	0.00296188
+# class type is GaussDiag
+# mean vector
+4.7497 66.3375 -67.8066 103.247 -20.6041 -1.77877 -85.5385 164.647 7.81298 8.918 
+
+# diagonal of covariance matrix
+1.96125 218.115 160.035 255.356 1130.75 730.692 3.74567 1271.46 1.01534 0.280967 
+
+# definition for class # 560
+# class name, prior probability
+''	0.00149919
+# class type is GaussDiag
+# mean vector
+5.43475 71.2289 57.6934 123.734 26.6398 19.7956 0.0362158 114.08 6.95048 8.49873 
+
+# diagonal of covariance matrix
+2.61369 124.464 263.941 176.497 1268.17 166.925 1391.08 278.253 1.65933 0.44059 
+
+# definition for class # 561
+# class name, prior probability
+''	0.000733282
+# class type is GaussDiag
+# mean vector
+6.30139 45.6845 -45.9405 93.1157 1.67467 1.53723 -23.0851 95.4554 6.47083 7.618 
+
+# diagonal of covariance matrix
+2.87669 82.7364 327.381 44.7965 582.75 34.5086 433.424 63.9769 1.09286 0.717776 
+
+# definition for class # 562
+# class name, prior probability
+''	0.00287492
+# class type is GaussDiag
+# mean vector
+5.73684 71.3268 -50.3229 147.076 -22.7611 0.407987 -36.2979 162.104 7.22771 8.5337 
+
+# diagonal of covariance matrix
+2.83257 360.948 402.396 388.348 740.952 238.072 750.042 336.892 1.24881 0.384464 
+
+# definition for class # 563
+# class name, prior probability
+''	0.00339996
+# class type is GaussDiag
+# mean vector
+5.24023 103.151 -29.2272 149.52 -22.6545 53.5573 -24.3255 101.633 5.06078 8.44956 
+
+# diagonal of covariance matrix
+2.50539 106.471 606.191 109.768 603.964 136.785 452.12 144.133 3.49501 0.413633 
+
+# definition for class # 564
+# class name, prior probability
+''	0.00184796
+# class type is GaussDiag
+# mean vector
+4.53983 95.0719 55.3967 144.513 81.4447 60.9279 -4.78569 124.27 6.89368 8.88643 
+
+# diagonal of covariance matrix
+1.71964 162.615 499.106 438.192 23.2007 223.742 1261.48 1083.47 1.63558 0.212265 
+
+# definition for class # 565
+# class name, prior probability
+''	0.00116548
+# class type is GaussDiag
+# mean vector
+4.4315 37.6134 75.903 72.2932 83.9621 8.60634 -22.582 93.229 7.70082 8.63708 
+
+# diagonal of covariance matrix
+0.941407 68.9722 32.4646 116.664 3.82597 71.5599 534.243 224.974 0.450672 0.222347 
+
+# definition for class # 566
+# class name, prior probability
+''	0.0010883
+# class type is GaussDiag
+# mean vector
+2.65393 28.1905 60.5116 39.2924 -16.0528 10.2084 82.3281 77.7945 8.6748 9.47318 
+
+# diagonal of covariance matrix
+0.254696 52.5537 326.456 64.7173 791.958 115.58 11.2136 478.605 0.337545 0.0631641 
+
+# definition for class # 567
+# class name, prior probability
+''	0.0005208
+# class type is GaussDiag
+# mean vector
+3.83398 20.0062 39.152 46.67 53.1142 -3.22771 23.1862 90.4148 8.14564 9.00277 
+
+# diagonal of covariance matrix
+1.7991 82.6039 590.391 162.491 556.742 172.148 1675.68 559.513 0.806745 0.285922 
+
+# definition for class # 568
+# class name, prior probability
+''	0.00049574
+# class type is GaussDiag
+# mean vector
+2.40054 16.7389 -14.6019 28.3703 -2.10001 5.05577 -23.6727 25.2085 0.813323 7.4398 
+
+# diagonal of covariance matrix
+0.255887 2.95125 24.3655 7.49703 71.6399 7.16099 66.1872 17.0315 0.231891 1.17418 
+
+# definition for class # 569
+# class name, prior probability
+''	0.000449721
+# class type is GaussDiag
+# mean vector
+2.52719 17.3864 -1.92717 26.8448 34.9265 8.00425 -36.3082 23.9472 2.39891 8.07572 
+
+# diagonal of covariance matrix
+0.368091 6.21208 121.996 10.0127 133.64 10.3943 168.324 18.9316 0.991101 0.705051 
+
+# definition for class # 570
+# class name, prior probability
+''	0.000560491
+# class type is GaussDiag
+# mean vector
+2.75176 14.3721 28.2283 19.5574 57.2718 9.20614 -27.2417 17.7206 5.11563 9.13195 
+
+# diagonal of covariance matrix
+0.289227 2.71773 44.2831 5.32509 17.3307 4.17559 65.7108 8.94234 1.88173 0.15048 
+
+# definition for class # 571
+# class name, prior probability
+''	0.000297253
+# class type is GaussDiag
+# mean vector
+2 15.0774 -12.6474 17.4739 -6.74845 12.681 -18.1225 6.52485 1.724 9.53474 
+
+# diagonal of covariance matrix
+0 0.574999 6.32229 1.44182 28.4294 1.36224 27.17 3.94783 0.635814 0.0406171 
+
+# definition for class # 572
+# class name, prior probability
+''	0.000583686
+# class type is GaussDiag
+# mean vector
+2 18.3118 -25.2835 21.7038 -27.9871 14.9198 -22.2166 10.064 2.68694 9.27864 
+
+# diagonal of covariance matrix
+0 1.76796 4.9237 2.80512 14.5382 3.41458 24.3227 5.8839 0.566444 0.156141 
+
+# definition for class # 573
+# class name, prior probability
+''	0.000778402
+# class type is GaussDiag
+# mean vector
+2 24.9834 -8.14688 27.4257 -7.72246 22.5412 -8.30975 6.2604 1.49899 9.60371 
+
+# diagonal of covariance matrix
+0 3.05672 19.4339 4.13301 73.1896 3.7063 65.3511 3.9258 0.930349 0.031052 
+
+# definition for class # 574
+# class name, prior probability
+''	0.000548904
+# class type is GaussDiag
+# mean vector
+2.51519 14.8603 24.4884 19.3517 -29.6723 10.3672 55.5058 16.7554 5.18796 9.22939 
+
+# diagonal of covariance matrix
+0.18997 2.37648 44.2563 3.7387 51.9925 3.47016 20.4263 6.70558 1.98477 0.0900544 
+
+# definition for class # 575
+# class name, prior probability
+''	0.000480443
+# class type is GaussDiag
+# mean vector
+2.49107 15.0944 17.7591 23.0422 -38.7928 7.03105 55.8998 23.5464 3.59314 8.38486 
+
+# diagonal of covariance matrix
+0.32888 3.75011 85.0404 6.685 77.5786 6.03023 33.2824 9.41901 2.00975 0.450621 
+
+# definition for class # 576
+# class name, prior probability
+''	0.000609269
+# class type is GaussDiag
+# mean vector
+3.50351 21.7747 -25.7946 32.9016 -24.3096 10.1714 -20.7154 25.8025 2.76532 8.1507 
+
+# diagonal of covariance matrix
+0.896617 1.78545 52.0976 3.39472 83.7323 3.4096 83.7722 6.70297 2.06101 0.660999 
+
+# definition for class # 577
+# class name, prior probability
+''	0.000642998
+# class type is GaussDiag
+# mean vector
+3.89215 18.0798 -12.8524 30.7702 -15.304 5.12972 -7.41446 27.5666 2.69073 8.0081 
+
+# diagonal of covariance matrix
+0.73477 2.12685 95.2908 4.4797 130.208 3.35037 140.37 7.99449 1.6002 0.415841 
 
 # definition for class # 578
 # class name, prior probability
-''	0.000302359
+''	0.000549029
 # class type is GaussDiag
 # mean vector
-4.3012 7.23793 -36.8908 28.8209 9.35022 -13.8059 -56.9911 52.3438 4.46821 8.2196 
+2.78841 27.1528 50.2145 35.1603 65.4868 19.1545 4.05875 24.148 4.59049 9.01991 
 
 # diagonal of covariance matrix
-2.13538 12.7297 193.769 24.3647 613.938 24.2721 146.715 67.7664 4.2065 0.355881 
+0.35351 7.56848 59.3644 15.8033 30.1087 10.8592 545.447 23.6281 2.3936 0.180225 
 
 # definition for class # 579
 # class name, prior probability
-''	0.00050219
+''	0.000443869
 # class type is GaussDiag
 # mean vector
-2.76713 7.24038 -53.6007 15.1244 -12.7856 -2.98667 -72.6225 35.5077 6.71202 9.16878 
+1.80943 18.2215 -2.20212 21.2314 26.2757 15.3039 -27.543 10.5027 5.02284 9.53532 
 
 # diagonal of covariance matrix
-0.637732 18.0813 142.485 21.8405 606.46 38.9992 29.8129 123.033 2.90558 0.165472 
+0.370373 2.90892 68.8494 4.5037 104.065 4.51065 142.419 18.7193 2.39418 0.0694665 
 
 # definition for class # 580
 # class name, prior probability
-''	0.00116655
+''	0.00025495
 # class type is GaussDiag
 # mean vector
-1.71704 24.6757 -86.7444 32.8309 -86.7563 16.1014 -86.4643 151.476 9.74958 9.89744 
+1.61076 18.0177 -26.9337 19.1381 -24.8614 16.8968 -28.3283 5.42716 5.81097 9.79982 
 
 # diagonal of covariance matrix
-0.488774 1757.84 2.67885 1927.7 3.07276 1977.02 4.40468 7882.12 0.0354817 0.00718407 
+0.162862 3.43249 13.0108 3.53614 42.4167 4.0562 37.5312 2.35894 1.55123 0.0179222 
 
 # definition for class # 581
 # class name, prior probability
-''	0.00300627
+''	0.000470325
 # class type is GaussDiag
 # mean vector
-3.21685 164.197 -86.755 230.11 -87.5197 102.687 -87.5255 351.303 9.65512 9.79557 
+2 17.4333 -17.2302 19.8712 -14.8197 14.9955 -19.3709 7.14382 2.33242 9.44937 
 
 # diagonal of covariance matrix
-2.23258 6906.44 5.09037 9987.39 3.39214 11697.7 2.53728 30087.2 0.0515599 0.0245034 
+0 0.771054 3.35519 1.23539 27.6245 1.87699 20.2843 3.42544 0.634326 0.110697 
 
 # definition for class # 582
 # class name, prior probability
-''	0.00081712
+''	0.000175984
 # class type is GaussDiag
 # mean vector
-2.99252 75.895 49.4627 87.4803 -21.0837 62.3583 72.659 42.4601 5.86263 9.34951 
+2 19.3008 -18.986 22.3618 -7.00942 16.2398 -29.3782 8.68595 2.20766 9.40287 
 
 # diagonal of covariance matrix
-0.536533 55.3892 317.001 80.2773 527.115 76.4131 46.6605 169.51 3.17967 0.0926527 
+0 1.44612 5.66981 2.40993 26.1694 3.04692 11.1224 5.42486 0.720237 0.0894364 
 
 # definition for class # 583
 # class name, prior probability
-''	0.000491928
+''	0.000641873
 # class type is GaussDiag
 # mean vector
-1.95818 115.372 80.2337 123.153 77.9582 106.894 79.7759 70.8238 9.21478 9.8542 
+2.16984 21.9685 7.70445 25.4784 -22.3087 18.4086 34.8652 12.9516 4.28251 9.44899 
 
 # diagonal of covariance matrix
-0.597471 1263.5 31.4929 1327.94 74.5291 1490.47 48.8857 2058.07 0.307831 0.0137333 
+0.0661342 4.15899 77.7964 6.20816 101.408 5.26645 100.928 9.53405 2.98011 0.053386 
 
 # definition for class # 584
 # class name, prior probability
-''	0.000833598
+''	0.000440113
 # class type is GaussDiag
 # mean vector
-1.65296 52.0568 85.7421 57.4173 85.6949 46.5849 85.5598 109.572 9.60485 9.81257 
+2.24332 16.0483 8.64184 27.7692 -7.11661 4.34409 22.8241 25.2326 0.718305 7.43992 
 
 # diagonal of covariance matrix
-0.405934 229.329 5.20198 290.143 5.82417 268.657 6.97134 3103.28 0.0830539 0.023981 
+0.143876 8.91706 40.9516 14.0955 78.6349 17.1688 79.4354 26.3089 0.192793 1.76239 
 
 # definition for class # 585
 # class name, prior probability
-''	0.000964812
+''	0.00064165
 # class type is GaussDiag
 # mean vector
-2 20.1017 -43.2456 23.5609 -43.7507 16.6426 -42.0193 13.616 4.40497 9.29407 
+3.03736 26.9525 -17.8783 36.6777 -24.6497 16.9615 -5.12152 22.0037 2.25621 8.78696 
 
 # diagonal of covariance matrix
-0 1.69769 14.748 2.82699 24.8061 3.24289 48.6985 6.73157 0.732139 0.0970589 
+0.712615 3.53681 50.3974 7.03642 65.0983 7.2455 92.145 14.3132 2.05365 0.20584 
 
 # definition for class # 586
 # class name, prior probability
-''	0.000563077
+''	0.000321218
 # class type is GaussDiag
 # mean vector
-2.0003 27.0635 -52.6744 32.8463 -50.9562 21.2806 -52.6265 20.8295 4.14887 9.08362 
+1.7885 30.0885 21.0425 33.6708 35.9666 26.5489 1.28389 10.5969 4.54595 9.45286 
 
 # diagonal of covariance matrix
-7.0021e-05 7.08596 16.3274 9.9807 69.2053 11.0801 43.8716 13.5749 1.00028 0.153948 
+0.467867 9.43321 59.3642 11.2873 119.834 16.3329 117.916 28.8267 4.91774 0.196343 
 
 # definition for class # 587
 # class name, prior probability
-''	0.00145846
+''	0.000804655
 # class type is GaussDiag
 # mean vector
-1.9999 51.8308 -43.2235 57.1369 -41.9085 46.5248 -43.6804 17.1684 3.55943 9.32804 
+2.84386 18.817 45.4635 24.6465 65.5383 12.805 -16.4689 20.8443 5.83206 9.29401 
 
 # diagonal of covariance matrix
-2.99386e-05 20.5183 20.1291 26.2245 52.6676 25.933 40.0026 23.2611 1.15086 0.112061 
+0.19794 3.57851 70.0601 6.60507 24.011 6.02496 178.116 14.9472 1.75058 0.0924757 
 
 # definition for class # 588
 # class name, prior probability
-''	0.000430632
+''	0.000490364
 # class type is GaussDiag
 # mean vector
-2.70884 38.1248 -7.45006 45.9429 -44.8997 27.8738 57.1217 45.8545 7.51703 9.25304 
+2 14.9418 -26.3892 17.1717 -27.5048 12.712 -25.1267 7.96819 3.58594 9.53818 
 
 # diagonal of covariance matrix
-0.366347 28.2595 547.259 37.3997 325.787 38.0281 249.431 214.855 0.988352 0.104445 
+0 1.14362 3.01998 1.66274 9.77408 1.98304 10.561 3.15734 0.779836 0.034611 
 
 # definition for class # 589
 # class name, prior probability
-''	0.000804053
+''	0.000313128
 # class type is GaussDiag
 # mean vector
-2.76849 20.2736 64.4545 31.3751 -22.5952 3.65538 82.477 66.3403 8.45021 9.37527 
+2 17.5338 -23.8381 19.851 -19.6154 15.2166 -27.6748 7.7857 3.18029 9.51407 
 
 # diagonal of covariance matrix
-0.461332 30.1602 157.718 43.9932 448.846 75.9786 4.8848 325.014 0.453155 0.107414 
+0 1.37686 3.83193 1.79372 12.5651 2.26207 12.2524 3.10638 0.665456 0.0478984 
 
 # definition for class # 590
 # class name, prior probability
-''	0.000817207
+''	0.000495257
 # class type is GaussDiag
 # mean vector
-6.01562 15.8616 -27.9935 39.3916 -27.0053 -7.2232 -34.5462 51.1627 5.76952 8.14485 
+2 15.1806 -20.478 17.2112 -21.2497 13.15 -19.5127 6.66417 3.0157 9.57021 
 
 # diagonal of covariance matrix
-2.24201 8.39661 355.724 9.95177 170.854 12.6313 134.9 18.618 1.01024 0.465423 
+0 0.910363 3.5315 1.51956 17.9783 1.55049 16.8735 2.83795 0.797553 0.0321713 
 
 # definition for class # 591
 # class name, prior probability
-''	0.000672713
+''	0.000265159
 # class type is GaussDiag
 # mean vector
-3.82444 29.1358 -53.8176 44.2915 -24.9878 4.05437 -79.0015 76.9644 7.68833 8.93618 
+1.93398 26.9658 -24.405 29.8071 -11.0838 24.1109 -34.6623 9.10013 3.69103 9.48962 
 
 # diagonal of covariance matrix
-1.24606 23.3072 331.066 31.7531 451.78 84.4211 27.3629 262.501 0.68198 0.213484 
+0.121361 3.52067 19.157 5.21673 111.38 4.91356 50.2349 8.79193 1.7498 0.102112 
 
 # definition for class # 592
 # class name, prior probability
-''	0.000814992
+''	0.00047051
 # class type is GaussDiag
 # mean vector
-5.44922 21.3425 -43.3914 47.1368 -33.4843 -3.7941 -42.828 56.8543 5.19354 7.9506 
+2.20429 16.032 5.6751 20.3426 -30.8869 11.6417 39.746 15.9731 4.35829 9.16697 
 
 # diagonal of covariance matrix
-1.9871 9.51168 116.046 10.7921 142.732 12.6354 105.433 16.5082 2.30574 0.650051 
+0.0672757 2.40198 39.825 3.6086 67.6293 5.32482 46.4955 12.1421 3.14141 0.127552 
 
 # definition for class # 593
 # class name, prior probability
-''	0.000381894
+''	0.000561311
 # class type is GaussDiag
 # mean vector
-3.95876 34.4258 -27.5449 59.0505 -40.8065 8.36975 -1.40921 54.124 3.55417 8.08331 
+2.67303 32.2982 41.4059 40.3545 -12.065 24.0906 62.8731 25.1041 4.45495 9.05769 
 
 # diagonal of covariance matrix
-1.60732 12.5542 147.603 10.3987 82.3096 23.4529 27.8987 26.9426 4.68968 0.666596 
+0.44222 6.92636 118.871 11.1143 612.632 17.138 52.0634 37.6282 3.19062 0.242154 
 
 # definition for class # 594
 # class name, prior probability
-''	0.000336238
+''	0.000731032
 # class type is GaussDiag
 # mean vector
-5.20287 33.304 -31.4442 55.2757 -49.7325 10.3547 22.8249 54.5483 5.65491 8.1888 
+3.31043 19.7824 -13.1418 27.0867 -13.4196 12.342 -9.99443 16.9286 2.69756 8.92868 
 
 # diagonal of covariance matrix
-1.93355 12.2336 292.742 31.8971 243.009 14.9262 375.465 45.043 2.13639 0.352058 
+0.486353 3.65663 75.7941 5.77667 132.376 4.88804 157.683 7.00349 1.76579 0.118168 
 
 # definition for class # 595
 # class name, prior probability
-''	0.000452199
+''	0.000305935
 # class type is GaussDiag
 # mean vector
-3.85134 32.4326 9.77432 69.3385 -79.8926 4.61579 72.7739 147.196 8.74826 9.21153 
+2.59284 24.9814 0.0959007 36.0994 -1.03694 13.7477 1.68801 23.6486 1.04771 8.50939 
 
 # diagonal of covariance matrix
-1.00428 253.737 1626.38 468.222 40.9921 378.526 190.559 1609.94 0.250554 0.10572 
+0.438851 7.65665 39.9418 20.5433 104.462 15.9738 25.2649 41.4007 1.04742 0.48238 
 
 # definition for class # 596
 # class name, prior probability
-''	0.000769307
+''	0.000481192
 # class type is GaussDiag
 # mean vector
-6.31222 30.009 -58.3724 72.9018 -42.1668 -11.3261 -53.2111 95.27 6.09315 7.89036 
+2.67658 26.2156 30.1686 31.5862 58.1878 20.9153 -24.4772 18.9168 5.35887 9.42569 
 
 # diagonal of covariance matrix
-2.88338 38.6088 125.363 71.0371 298.531 39.8625 208.699 73.7671 1.54452 0.689418 
+0.33303 4.03037 97.9457 7.79199 33.7099 6.92822 132.226 15.8267 2.31421 0.0545765 
 
 # definition for class # 597
 # class name, prior probability
-''	0.00158616
+''	0.000373173
 # class type is GaussDiag
 # mean vector
-3.12614 48.7819 -75.3233 68.7094 -20.9477 8.22394 -86.0944 124.555 8.71652 9.47891 
+2.00482 15.2692 -20.9718 20.1014 -3.949 10.4373 -34.5751 12.6314 1.84708 8.94052 
 
 # diagonal of covariance matrix
-0.422748 171.406 55.2798 194.989 1045.72 448.722 1.65423 969.053 0.333776 0.0647568 
+0.00263649 2.30652 19.0176 4.45471 59.274 4.40177 39.4024 8.58373 0.662536 0.246592 
 
 # definition for class # 598
 # class name, prior probability
-''	0.000807799
+''	0.00069563
 # class type is GaussDiag
 # mean vector
-5.23014 54.3576 28.7084 83.9357 -27.7846 24.3261 40.7129 66.398 5.07892 8.24742 
+2 20.658 -15.2519 23.1235 -19.4379 18.1925 -10.6384 7.02711 2.2814 9.57952 
 
 # diagonal of covariance matrix
-2.15823 25.1411 533.158 46.4586 243.056 34.6809 442.83 67.145 2.57697 0.349757 
+0 1.58299 13.3156 2.22771 31.057 2.62595 57.0454 4.01072 0.656784 0.0265906 
 
 # definition for class # 599
 # class name, prior probability
-''	0.000686105
+''	0.000276382
 # class type is GaussDiag
 # mean vector
-6.25285 36.7497 -6.93336 80.124 -28.3083 -4.04075 -1.1052 87.0835 5.16351 7.17194 
+0.847073 23.3202 -26.1758 25.351 0.366835 21.2916 -44.5826 5.30005 6.43104 9.78397 
 
 # diagonal of covariance matrix
-3.60727 31.8797 685.749 25.7046 237.54 21.7273 221.742 25.3033 1.79877 1.18937 
+0.130848 20.0883 4.2434 19.5328 22.9444 23.5238 5.44178 7.00787 1.19773 0.0281326 
 
 # definition for class # 600
 # class name, prior probability
-''	0.00132218
+''	0.000491008
 # class type is GaussDiag
 # mean vector
-5.63635 69.6823 20.9334 110.783 -18.7259 26.8809 -4.72091 89.1806 7.05156 8.75951 
+2.25432 19.8288 -6.52776 26.0353 -38.119 13.4638 32.5867 19.8103 3.69919 8.8961 
 
 # diagonal of covariance matrix
-2.06256 88.1971 647.073 132.728 399.676 85.6432 668.25 161.27 0.710902 0.139784 
+0.151592 2.91869 74.3973 7.66426 61.6519 5.77507 94.5869 13.022 3.49399 0.230199 
 
 # definition for class # 601
 # class name, prior probability
-''	0.000577856
+''	0.000928791
 # class type is GaussDiag
 # mean vector
-4.68639 51.3398 70.592 77.4998 73.4646 26.2441 48.2879 74.5438 6.94223 8.67935 
+4.02991 2.83729 79.2983 34.3293 -11.593 -32.1312 84.9202 105.599 8.21822 9.03077 
 
 # diagonal of covariance matrix
-1.50085 55.9546 80.4392 132.931 81.0625 91.9721 673.099 282.722 1.00584 0.250687 
+1.37232 140.206 22.7192 162.199 1525.96 254.806 3.49055 553.552 0.47326 0.224385 
 
 # definition for class # 602
 # class name, prior probability
-''	0.000497726
+''	0.00061835
 # class type is GaussDiag
 # mean vector
-4.79608 16.0861 76.8989 50.3369 81.8179 -13.6062 65.5357 110.627 7.9146 8.5074 
+4.77192 -42.2954 19.8603 12.463 -6.06765 -90.9657 7.84713 113.732 6.23988 8.75466 
 
 # diagonal of covariance matrix
-1.95502 106.257 36.6187 208.867 14.1111 172.905 342.352 402.669 0.580111 0.316453 
+1.97698 243.529 1448.18 322.388 1151.71 423.102 1397.17 630.732 3.6476 0.356034 
 
 # definition for class # 603
 # class name, prior probability
-''	0.000534683
+''	0.00100147
 # class type is GaussDiag
 # mean vector
-3.26093 18.1464 8.74129 35.0776 10.8519 1.1177 2.86868 35.9382 1.71649 6.42706 
+7.34269 2.02127 3.75475 48.5089 -24.5476 -44.3753 -25.4491 98.2472 7.27427 8.30496 
 
 # diagonal of covariance matrix
-1.01444 6.37817 175.318 10.512 390.881 10.3985 312.712 18.5857 1.55003 2.9801 
+2.5747 61.1647 1237.16 88.2171 487.595 79.0226 329.192 139.288 0.363184 0.216132 
 
 # definition for class # 604
 # class name, prior probability
-''	0.00047912
+''	0.000638641
 # class type is GaussDiag
 # mean vector
-2.73847 14.8187 14.519 22.7029 50.9824 7.00634 -35.2907 22.2551 3.5548 8.41812 
+6.37265 -15.7621 63.1262 34.9749 68.8354 -54.9543 -36.6027 110.09 7.64663 8.62691 
 
 # diagonal of covariance matrix
-0.494602 5.29813 73.2306 8.3473 40.6351 7.7609 85.5866 12.0205 1.7244 0.342646 
+1.40373 118.556 213.032 183.626 235.817 192.455 195.152 378.693 0.494751 0.156621 
 
 # definition for class # 605
 # class name, prior probability
-''	0.000381249
+''	0.000589854
 # class type is GaussDiag
 # mean vector
-2.03662 15.2213 -6.34461 20.4801 14.8967 9.96792 -26.0522 13.3236 1.63712 8.91088 
+4.86435 -26.3863 -43.8613 7.51084 -32.9142 -55.6138 -35.1019 71.0212 5.70737 8.70311 
 
 # diagonal of covariance matrix
-0.0113997 4.07102 33.1512 6.84349 109.131 4.57857 58.2429 7.6957 0.614648 0.161315 
+1.8776 51.1302 282.666 114.543 364.395 53.2351 412.547 166.999 3.66943 0.231978 
 
 # definition for class # 606
 # class name, prior probability
-''	0.000405341
+''	0.00134013
 # class type is GaussDiag
 # mean vector
-2 14.2728 -16.8097 17.1895 -21.7195 11.3562 -11.3954 8.02772 2.10995 9.33726 
+5.93258 -7.56815 -50.5289 28.47 -32.4221 -39.6054 -39.5428 74.6148 6.56749 8.41698 
 
 # diagonal of covariance matrix
-0 0.768169 6.77898 1.57907 24.8973 1.59471 32.9319 3.9501 0.474111 0.129072 
+1.73469 33.8953 225.08 36.0891 359.747 45.1623 189.237 56.4619 0.904974 0.277752 
 
 # definition for class # 607
 # class name, prior probability
-''	0.00047986
+''	0.00090027
 # class type is GaussDiag
 # mean vector
-2 11.6359 -13.1094 13.812 -14.8002 9.45976 -11.2237 6.11379 2.0404 9.49218 
+3.68175 -58.7752 -49.7413 -35.205 -48.4644 -82.4382 -39.4047 61.4195 5.6265 9.14842 
 
 # diagonal of covariance matrix
-0 0.766843 5.29563 1.31365 26.6101 1.34355 26.8076 2.50187 0.640108 0.0538188 
+0.806217 133.756 256.673 231.468 421.152 248.303 674.82 566.105 4.54419 0.179608 
 
 # definition for class # 608
 # class name, prior probability
-''	0.000416253
+''	0.000536873
 # class type is GaussDiag
 # mean vector
-2.63303 13.4039 -17.5904 19.3227 -15.5965 7.45903 -15.5497 14.0948 1.88614 8.77907 
+4.30635 1.06979 -60.5289 26.7847 -39.5126 -22.5595 -60.7552 60.9882 4.98112 8.30797 
 
 # diagonal of covariance matrix
-0.325054 1.68846 24.3158 3.31824 59.3142 2.35588 87.8839 5.16561 0.713017 0.192733 
+1.14305 23.0632 59.2321 41.1179 403.804 45.0129 129.636 82.4993 2.68544 0.419636 
 
 # definition for class # 609
 # class name, prior probability
-''	0.000394148
+''	0.000804649
 # class type is GaussDiag
 # mean vector
-2.01707 21.2934 4.92689 25.344 -11.4239 17.2417 20.5479 10.7833 2.04801 9.38914 
+4.42982 17.3383 -66.6067 43.1644 -22.853 -26.0306 -83.0252 103.587 7.55788 8.88017 
 
 # diagonal of covariance matrix
-0.00574813 7.08415 22.6091 9.69064 75.5235 10.2738 52.3998 10.5684 2.10106 0.0656499 
+1.63859 107.48 146.828 172.695 785.89 218.603 8.61598 574.934 1.03855 0.252884 
 
 # definition for class # 610
 # class name, prior probability
-''	0.00044581
+''	0.00052943
 # class type is GaussDiag
 # mean vector
-3.0944 12.4238 17.7997 24.9514 -6.95197 0.0369929 33.9786 28.1362 1.98459 7.29967 
+5.93315 0.566945 21.8142 27.9617 64.3671 -22.1965 -42.7136 66.2941 6.46129 8.23142 
 
 # diagonal of covariance matrix
-0.825689 6.33519 68.6067 12.6516 177.866 11.2852 147.635 22.9762 1.37587 1.76981 
+2.04653 26.9931 875.181 58.6073 109.306 32.3973 140.088 126.323 1.46163 0.455628 
 
 # definition for class # 611
 # class name, prior probability
-''	0.000508411
+''	0.000332963
 # class type is GaussDiag
 # mean vector
-3.38806 18.8165 50.3836 29.9858 26.2831 7.43156 56.7372 30.5717 4.13227 8.21759 
+4.06193 9.27918 -23.0509 28.4044 60.8069 -7.66885 -58.0075 67.9528 7.63583 8.83498 
 
 # diagonal of covariance matrix
-0.82015 7.57436 92.0331 12.62 608.009 14.4041 143.01 28.1542 2.19365 0.542009 
+1.29142 27.6788 651.506 73.0551 193.871 56.5057 401.05 229.647 0.665299 0.183228 
 
 # definition for class # 612
 # class name, prior probability
-''	0.000491574
+''	0.000467096
 # class type is GaussDiag
 # mean vector
-2.91978 13.9147 19.7497 23.6295 36.7235 4.21533 -5.55971 22.5496 2.21029 7.91243 
+3.99636 9.64642 -48.8281 25.357 -21.1053 -5.00089 -59.1264 39.7272 4.94287 8.5226 
 
 # diagonal of covariance matrix
-0.592524 3.66912 82.9083 6.65474 157.885 7.56089 94.4556 14.0795 1.36476 0.760366 
+0.978905 7.24959 82.7867 19.7235 186.893 17.9982 111.649 42.5896 2.76753 0.28659 
 
 # definition for class # 613
 # class name, prior probability
-''	0.000684533
+''	0.000505041
 # class type is GaussDiag
 # mean vector
-3.73313 12.5066 38.0469 24.0592 59.2285 1.44376 -12.9289 29.1714 4.36931 7.94152 
+2.49855 13.408 -48.63 20.5035 -19.2165 5.98842 -61.7968 22.3855 4.08345 8.40205 
 
 # diagonal of covariance matrix
-0.738841 5.06195 130.343 8.23085 75.5748 7.47981 234.597 16.4674 1.53213 0.837658 
+0.367889 6.07454 24.673 12.9515 277.417 10.128 26.2659 22.5344 2.16134 0.762255 
 
 # definition for class # 614
 # class name, prior probability
-''	0.000231509
+''	0.000659495
 # class type is GaussDiag
 # mean vector
-2 7.63983 1.30315 10.9495 1.82545 4.33019 0.771717 7.32971 0.552012 9.15274 
+3.3988 15.0437 -42.6731 24.2282 -27.914 6.71324 -46.5391 23.4341 4.10929 8.7486 
 
 # diagonal of covariance matrix
-0 3.2205 4.76014 4.75345 14.8869 4.38995 10.6894 5.86506 0.265775 0.242059 
+0.695559 4.46606 32.0566 6.03914 132.194 8.89351 36.562 13.247 2.14283 0.268996 
 
 # definition for class # 615
 # class name, prior probability
-''	0.000391696
+''	0.00039838
 # class type is GaussDiag
 # mean vector
-2.10354 8.51222 10.3204 18.3068 -8.79999 -1.2858 26.8399 21.7162 0.834704 7.43214 
+4.23734 26.591 -71.0994 45.6572 -77.2174 9.52523 -46.3921 55.4065 6.35287 8.43281 
 
 # diagonal of covariance matrix
-0.0425901 5.5543 30.1543 11.965 121.332 10.6507 82.1418 24.0016 0.190653 1.8325 
+1.24035 27.2507 21.3747 45.93 15.6233 43.669 174.353 101.12 1.21964 0.362013 
 
 # definition for class # 616
 # class name, prior probability
-''	0.000269967
+''	0.00110596
 # class type is GaussDiag
 # mean vector
-2.36741 8.51491 18.5282 13.9772 -2.91908 3.05046 35.3791 14.2037 2.29537 8.4655 
+4.93921 40.6686 -39.2158 59.8607 -32.7662 19.4446 -29.7756 45.1474 5.81846 8.76576 
 
 # diagonal of covariance matrix
-0.23734 2.02051 26.3198 4.12489 48.2302 5.35159 49.8092 12.7269 1.63904 0.61971 
+1.0975 10.7751 163.391 10.7674 131.056 9.90756 170.274 16.5424 1.14163 0.13084 
 
 # definition for class # 617
 # class name, prior probability
-''	0.000211832
+''	0.000642999
 # class type is GaussDiag
 # mean vector
-2.05609 4.81748 30.8966 13.2175 24.8019 -3.5853 33.7407 20.4993 1.63024 8.24262 
+5.39536 26.3527 -60.383 59.7272 -48.8738 -6.63249 -56.5307 79.0768 5.36564 7.56031 
 
 # diagonal of covariance matrix
-0.0170436 7.71478 34.754 15.1287 219.617 14.5239 119.175 28.7317 0.435258 0.698507 
+2.36399 26.6722 107.744 40.5616 301.892 47.3367 218.29 79.94 2.4923 1.22352 
 
 # definition for class # 618
 # class name, prior probability
-''	0.000343776
+''	0.000633974
 # class type is GaussDiag
 # mean vector
-2.87095 3.76192 13.2902 14.0009 21.2833 -6.15855 1.87228 23.0507 2.11191 8.21522 
+5.73511 44.5183 -8.92245 81.6394 66.3084 13.7677 -38.2953 96.5266 7.14632 8.50035 
 
 # diagonal of covariance matrix
-0.436297 7.72316 107.751 10.7308 256.326 18.3389 140.465 25.7483 1.69294 0.458249 
+2.67012 55.971 1163.83 134.939 199.276 92.2494 695.95 457.765 0.618613 0.20285 
 
 # definition for class # 619
 # class name, prior probability
-''	0.000274777
+''	0.000855733
 # class type is GaussDiag
 # mean vector
-1.82773 2.41644 1.99857 5.11128 25.4285 -0.172476 -19.9224 9.88225 5.55657 9.54583 
+4.16815 31.4362 25.5163 52.8686 72.6595 15.8872 -19.4407 67.6919 7.51034 8.92217 
 
 # diagonal of covariance matrix
-0.448363 7.03802 53.9018 6.73372 76.3325 10.3301 151.209 20.9151 1.48173 0.0735381 
+1.83373 27.8055 657.458 81.7912 61.6869 37.8079 598.174 244.077 0.641988 0.146989 
 
 # definition for class # 620
 # class name, prior probability
-''	0.000293828
+''	0.000600762
 # class type is GaussDiag
 # mean vector
-2.19855 2.02661 -18.6315 11.7339 -0.947877 -7.63222 -31.6539 21.7431 0.982394 8.30929 
+4.34712 38.6041 19.6462 51.3553 -36.2883 23.3886 56.2508 39.7088 5.95099 8.90465 
 
 # diagonal of covariance matrix
-0.123908 4.16378 33.8842 8.39759 59.351 9.88092 74.3007 20.2166 0.223142 0.589301 
+1.11045 16.0035 530.914 25.2032 189.899 27.6315 196.377 51.6312 1.40522 0.119318 
 
 # definition for class # 621
 # class name, prior probability
-''	0.000810699
+''	0.000628736
 # class type is GaussDiag
 # mean vector
-2 5.07873 -39.4281 8.04036 -38.4386 2.11711 -39.7577 11.7028 4.3429 9.28478 
+3.3671 47.995 -4.33223 64.4386 -33.7662 31.1556 26.0074 38.5655 3.05604 8.60311 
 
 # diagonal of covariance matrix
-0 3.2347 10.9349 4.5675 41.7741 3.86444 27.1152 4.38248 0.800821 0.0925694 
+1.17964 12.3201 288.234 22.2169 259.644 26.5698 385.005 48.8623 4.01722 0.356597 
 
 # definition for class # 622
 # class name, prior probability
-''	0.000752711
+''	0.000909439
 # class type is GaussDiag
 # mean vector
-3.51164 9.25898 -33.1257 17.6334 -23.544 1.16461 -33.3395 20.3471 3.44967 8.49429 
+5.24401 35.6927 -38.7599 59.7302 -37.178 10.9092 -31.7598 53.9582 5.76913 8.38763 
 
 # diagonal of covariance matrix
-0.596985 2.40119 28.7979 2.9592 88.562 4.84211 56.5278 6.78653 1.62788 0.28723 
+1.41916 13.1011 152.47 11.8832 82.4362 8.78336 132.435 11.9933 1.17584 0.226155 
 
 # definition for class # 623
 # class name, prior probability
-''	0.000563555
+''	0.000724555
 # class type is GaussDiag
 # mean vector
-2.21539 8.89624 -2.91712 15.7054 -34.9725 2.07962 31.067 17.8627 2.30883 8.22034 
+4.5729 41.1071 -58.6094 63.8402 -44.3926 17.6807 -54.7444 56.5312 5.21396 8.13822 
 
 # diagonal of covariance matrix
-0.126297 2.7575 43.5716 4.23837 55.6743 4.83149 76.2315 7.88697 0.543344 0.54401 
+1.22869 19.7762 69.4781 28.7289 309.477 29.0228 156.991 41.9333 2.14032 0.621979 
 
 # definition for class # 624
 # class name, prior probability
-''	0.000335265
+''	0.00612008
 # class type is GaussDiag
 # mean vector
-2.14217 21.0109 30.0979 26.37 25.8959 15.6506 33.0672 16.1115 3.14153 9.18492 
+1.99997 97.6918 -27.4754 105.598 -26.2502 89.7853 -26.1866 19.8473 1.86709 9.50693 
 
 # diagonal of covariance matrix
-0.0625783 7.94407 46.6444 14.1211 149.118 10.5727 137.08 25.1696 2.59569 0.11482 
+1.07965e-05 117.043 175.34 140.963 319.927 125.26 357.062 73.6217 1.11944 0.063975 
 
 # definition for class # 625
 # class name, prior probability
-''	0.000490156
+''	0.000570399
 # class type is GaussDiag
 # mean vector
-2.50009 12.1275 24.6432 16.5262 46.966 7.7302 -10.0009 13.65 4.00026 9.1359 
+2.89128 66.0321 -37.9882 88.2529 -64.3569 46.6317 8.36637 70.3849 5.55215 8.853 
 
 # diagonal of covariance matrix
-0.30061 2.49073 27.8336 4.23272 24.4648 3.83841 114.911 6.61847 2.42762 0.123039 
+0.664481 70.2125 416.346 159.925 214.589 119.525 1161.79 766.316 7.25403 0.529496 
 
 # definition for class # 626
 # class name, prior probability
-''	0.000549591
+''	0.00189406
 # class type is GaussDiag
 # mean vector
-0.687531 18.6964 1.90738 20.7165 43.6768 16.6763 -40.1968 5.72628 7.37265 9.8598 
+5.28956 66.0811 -37.1018 97.6664 -33.8664 31.2821 -21.8607 70.7998 5.63416 8.58348 
 
 # diagonal of covariance matrix
-0.0385891 23.8897 228.975 23.7147 120.287 27.389 290.247 8.89672 0.468433 0.0126409 
+1.61896 30.2183 351.696 29.8951 189.677 37.2901 278.244 46.0288 2.10174 0.209568 
 
 # definition for class # 627
 # class name, prior probability
-''	0.00798783
+''	0.00230726
 # class type is GaussDiag
 # mean vector
-0 94.1361 0 94.1361 0 94.1361 0 -134.812 0 10.0074 
+3.32694 85.3608 -16.0416 103.863 -21.3525 66.1087 -7.46134 40.6329 2.40345 8.8997 
 
 # diagonal of covariance matrix
-0 10.1641 0 10.1641 0 10.1641 0 522.425 0 0.000954711 
+1.07077 34.3934 205.468 51.6779 288.407 70.439 425.407 107.727 3.30259 0.162636 
 
 # definition for class # 628
 # class name, prior probability
-''	0.000710936
+''	0.00342286
 # class type is GaussDiag
 # mean vector
-1.60551 -158.804 -4.1728 -150.767 -4.45426 -166.99 -3.04633 19.0981 3.86882 9.78175 
+5.18724 103.12 36.5851 155.394 -8.54125 46.903 20.4989 119.409 5.92346 8.53311 
 
 # diagonal of covariance matrix
-0.589448 1957.09 515.493 1851.21 1078.5 2209.04 873.873 308.718 8.59463 0.0608737 
+1.91334 176.365 674.531 307.305 909.409 258.469 1505.71 475.093 2.67142 0.42634 
 
 # definition for class # 629
 # class name, prior probability
-''	0.000177705
+''	0.00122183
 # class type is GaussDiag
 # mean vector
-1.94586 2.44841 -61.5511 10.7931 -78.6437 -4.10991 15.8542 32.715 7.87993 9.4831 
+4.06449 87.6635 10.6947 112.818 -36.4961 47.3918 76.8019 120.452 7.59623 9.02494 
 
 # diagonal of covariance matrix
-0.659989 14.5301 93.202 22.134 14.2384 26.1049 789.204 215.599 1.47131 0.0934156 
+1.63082 124.201 1383.18 197.099 525.725 341.117 71.8276 1116.22 1.05888 0.175465 
 
 # definition for class # 630
 # class name, prior probability
-''	0.000188462
+''	0.000627699
 # class type is GaussDiag
 # mean vector
-3.14086 20.2725 -36.5313 31.3552 -72.6645 9.40993 57.9164 45.7836 6.71016 8.53989 
+5.51259 53.4327 -26.4651 101.158 -33.9565 6.20628 -2.83718 98.0081 4.30613 7.41967 
 
 # diagonal of covariance matrix
-0.807998 20.3398 221.454 30.6615 32.9509 23.2112 117.481 101.222 1.49295 0.523279 
+2.21115 55.6069 324.499 60.1595 133.306 72.6641 66.1833 108.092 3.12754 1.3285 
 
 # definition for class # 631
 # class name, prior probability
-''	0.000250924
+''	0.000645216
 # class type is GaussDiag
 # mean vector
-3.9284 18.3752 -32.5116 40.2675 -74.2565 0.21069 41.5499 60.1787 5.63957 7.42855 
+6.89827 63.1757 -33.4048 103.361 -17.6204 22.6892 -15.1297 86.4869 6.05583 8.19686 
 
 # diagonal of covariance matrix
-1.30357 32.312 509.406 69.2383 24.8119 34.9977 530.446 116.094 1.87235 1.06165 
+2.53347 36.4307 471.669 53.0042 806.202 40.3923 919.112 64.796 0.822823 0.17628 
 
 # definition for class # 632
 # class name, prior probability
-''	0.000516115
+''	0.00148555
 # class type is GaussDiag
 # mean vector
-5.58639 27.4501 -31.2739 49.6046 -37.4167 4.93178 -3.74423 48.3489 5.54959 8.15137 
+2.78394 36.0848 67.9632 60.0749 84.4691 21.1503 -13.7558 100.109 8.95979 9.5088 
 
 # diagonal of covariance matrix
-1.54835 7.25803 234.653 8.71376 100.641 6.30345 124.694 9.62386 1.21945 0.276564 
+0.386987 77.3572 247.823 218.276 5.30104 85.7019 969.118 900.589 0.184662 0.045431 
 
 # definition for class # 633
 # class name, prior probability
-''	0.000726897
+''	0.000232943
 # class type is GaussDiag
 # mean vector
-5.17104 50.0035 -24.5339 76.1462 -42.9631 19.2543 52.9157 83.3279 7.2108 8.63007 
+1.61383 18.6435 -14.1321 20.6497 0.613626 16.6474 -26.6012 5.99001 4.04078 9.56791 
 
 # diagonal of covariance matrix
-2.09554 59.8397 677.628 127.026 534.702 104.073 412.239 268.44 0.818458 0.239195 
+0.231633 2.86994 17.0957 4.24486 53.4718 3.33409 53.8061 7.61468 1.9738 0.1311 
 
 # definition for class # 634
 # class name, prior probability
-''	0.000523153
+''	0.000319864
 # class type is GaussDiag
 # mean vector
-5.24251 33.9748 41.8099 69.772 -26.021 0.955875 11.1243 73.4035 7.2796 8.49445 
+3.56353 27.2415 -62.896 48.3789 -82.2732 11.0777 48.379 68.4046 7.71881 8.79612 
 
 # diagonal of covariance matrix
-1.58609 40.733 289.982 40.2673 213.708 25.2457 671.02 45.3557 0.524117 0.273027 
+0.556954 39.6506 143.843 78.3223 5.03078 44.2526 284.122 229.14 0.558771 0.215583 
 
 # definition for class # 635
 # class name, prior probability
-''	0.000505851
+''	0.00119281
 # class type is GaussDiag
 # mean vector
-5.53867 31.7731 9.71097 60.5189 -35.9264 5.54514 23.0319 59.5513 5.07542 7.54091 
+3.28986 42.1931 -15.8115 52.5335 -4.95141 31.7597 -23.5386 23.811 2.85788 8.96517 
 
 # diagonal of covariance matrix
-1.63504 13.6301 315.944 17.6726 116.954 13.2843 251.902 22.6227 0.934614 0.605485 
+0.915823 7.56233 178.635 16.181 383.691 14.7814 198.329 32.5622 2.87412 0.158928 
 
 # definition for class # 636
 # class name, prior probability
-''	0.0021483
+''	0.000435216
 # class type is GaussDiag
 # mean vector
-5.65825 95.1431 -0.481391 144.424 -38.4811 20.0357 80.5055 183.621 7.57895 8.67847 
+4.23308 5.17524 -29.7184 34.5279 -72.0904 -13.4577 -7.19431 91.8863 7.95515 8.8086 
 
 # diagonal of covariance matrix
-2.67252 394.373 1567.12 554.71 671.855 912.081 27.0346 1290.83 0.73212 0.257964 
+1.51173 42.0863 683.467 176.454 117.894 74.1343 1096.37 651.099 0.433196 0.211362 
 
 # definition for class # 637
 # class name, prior probability
-''	0.000821564
+''	0.000487029
 # class type is GaussDiag
 # mean vector
-5.75304 33.1424 -65.3963 80.534 -81.6578 0.697189 -33.2253 113.012 7.25673 8.3083 
+5.10666 42.312 11.3645 70.1277 38.9484 14.0405 -29.0964 62.8244 5.14723 8.01436 
 
 # diagonal of covariance matrix
-2.36973 68.0514 164.024 195.625 12.5641 89.3937 486.649 380.488 0.626762 0.321252 
+1.42302 24.5147 743.726 36.3058 436.572 37.8934 329.3 59.6244 2.55832 0.533522 
 
 # definition for class # 638
 # class name, prior probability
-''	0.00102645
+''	0.00113296
 # class type is GaussDiag
 # mean vector
-5.84727 38.5459 -26.3012 66.3148 -29.9567 9.52064 -25.6858 60.7885 6.02302 8.27742 
+1.57076 62.1795 -22.8366 66.1953 10.046 58.1825 -43.9701 11.9538 4.79767 9.52825 
 
 # diagonal of covariance matrix
-2.24174 15.2337 289.726 12.1977 130.756 11.8464 125.563 16.5582 1.10804 0.233715 
+0.415573 25.7496 205.755 30.7827 534.416 31.3768 220.65 43.8607 3.03726 0.131859 
 
 # definition for class # 639
 # class name, prior probability
-''	0.000604498
+''	0.000641757
 # class type is GaussDiag
 # mean vector
-5.87989 50.0306 3.94201 83.5909 -22.0707 17.0578 -24.1654 70.6584 6.84554 8.66346 
+2.62354 41.8241 36.912 48.4549 61.5453 35.3374 -18.0974 21.9832 5.04554 9.39292 
 
 # diagonal of covariance matrix
-2.27269 33.8188 553.661 27.322 259.718 30.6964 250.981 38.6402 0.581283 0.133765 
+0.313678 10.3847 218.784 15.6227 73.0062 15.1783 267.673 31.7959 3.30173 0.0656652 
 
 # definition for class # 640
 # class name, prior probability
-''	0.000563891
+''	0.000745207
 # class type is GaussDiag
 # mean vector
-5.46917 45.4638 -35.8408 77.7359 -22.1725 14.7036 -38.2356 67.6029 4.35157 7.8544 
+1.71118 44.3484 2.7394 47.4008 18.124 41.3129 -12.9608 9.00475 4.14586 9.6313 
 
 # diagonal of covariance matrix
-2.53238 15.223 199.387 17.1597 235.035 18.0672 128.529 25.8184 2.21944 0.528296 
+0.281613 9.91933 168.017 12.6243 352.476 12.7843 386.912 21.6775 2.96874 0.0574547 
 
 # definition for class # 641
 # class name, prior probability
-''	0.000859398
+''	0.000899958
 # class type is GaussDiag
 # mean vector
-3.36873 70.2654 -49.5726 90.2123 -22.9899 50.5822 -56.0275 50.2631 4.06379 8.515 
+2.06313 48.9571 14.3208 56.2878 -7.26756 41.6167 32.1301 18.5245 1.94242 9.21521 
 
 # diagonal of covariance matrix
-1.17126 50.943 149.167 87.721 745.884 79.861 202.169 153.421 4.48031 0.579369 
+0.0331147 21.0025 151.712 29.4937 492.108 32.4304 190.757 41.7269 1.7068 0.174104 
 
 # definition for class # 642
 # class name, prior probability
-''	0.00146373
+''	0.000709289
 # class type is GaussDiag
 # mean vector
-4.61964 76.276 -46.5995 103.001 -41.3202 46.083 -30.9612 63.4129 5.06593 8.75588 
+2.6181 42.2085 41.5895 49.4845 -20.4115 34.8457 64.8154 24.3243 5.06113 9.34351 
 
 # diagonal of covariance matrix
-1.11093 38.8718 149.977 54.894 174.741 58.4472 381.434 70.3244 2.76306 0.172553 
+0.346533 14.3726 124.333 24.6342 295.182 20.2676 45.0641 49.3094 3.64036 0.124928 
 
 # definition for class # 643
 # class name, prior probability
-''	0.0043245
+''	0.000319426
 # class type is GaussDiag
 # mean vector
-3.71519 123.999 70.894 156.956 -16.1622 51.8119 86.9974 196.82 8.51982 9.35335 
+2.37132 23.2528 -8.13775 33.7115 4.45102 12.7593 -18.5836 22.6955 0.875122 8.38252 
 
 # diagonal of covariance matrix
-1.16676 398.448 180.491 509.817 1100.64 1214.66 1.94298 2584.78 0.630568 0.123652 
+0.223632 4.62527 27.6098 10.4049 122.513 8.92527 56.1578 20.4123 0.445181 0.36526 
 
 # definition for class # 644
 # class name, prior probability
-''	0.0046249
+''	0.000869919
 # class type is GaussDiag
 # mean vector
-6.35671 89.1038 44.5453 177.248 7.22643 4.17818 4.35333 190.114 6.80189 8.20784 
+2.70689 30.3997 -19.0655 39.8842 -6.58384 20.8999 -25.7599 21.6126 1.80003 8.7704 
 
 # diagonal of covariance matrix
-4.08824 417.533 698.046 585.047 1679.38 562.521 1880.25 797.066 1.88429 0.753858 
+0.614566 3.90807 98.0487 7.94047 156.884 9.36216 211.233 19.1725 1.43505 0.254183 
 
 # definition for class # 645
 # class name, prior probability
-''	0.00237812
+''	0.000623445
 # class type is GaussDiag
 # mean vector
-6.08113 68.5516 -39.2265 148.117 -13.3971 -1.7637 -29.8437 159.185 7.26239 8.50364 
+2.49851 33.4254 19.5442 39.6457 50.6531 27.4567 -23.5685 19.8077 4.45134 9.30318 
 
 # diagonal of covariance matrix
-4.38006 388.469 811.502 224.753 582.17 206.889 688.353 282.335 1.21749 0.414103 
+0.349519 6.28272 170.657 10.2486 91.304 11.6847 206.921 24.475 3.53297 0.0994399 
 
 # definition for class # 646
 # class name, prior probability
-''	0.00103688
+''	0.000462249
 # class type is GaussDiag
 # mean vector
-5.00841 52.0762 46.6483 98.2458 13.9511 5.85023 -8.82496 96.6231 6.97142 8.19204 
+2.40076 21.5092 34.5523 26.7309 52.8493 16.3261 1.10863 15.7809 3.90184 9.2042 
 
 # diagonal of covariance matrix
-1.43173 119.02 399.346 81.313 699.909 64.7724 589.392 87.3548 1.44971 0.665672 
+0.249492 4.13635 47.3186 7.64401 46.512 6.24347 170.201 11.7312 2.76304 0.145706 
 
 # definition for class # 647
 # class name, prior probability
-''	0.000848069
+''	0.000501773
 # class type is GaussDiag
 # mean vector
-4.44481 56.0372 -28.4609 90.5008 1.48121 20.8392 -35.5814 74.8205 4.1325 7.94552 
+2 19.7121 -22.3044 24.7268 -37.4097 14.697 -2.56174 13.5456 2.32544 9.24111 
 
 # diagonal of covariance matrix
-1.55857 29.3921 489.457 43.325 606.208 48.6858 367.014 67.5726 4.91024 0.842214 
+0 5.77316 24.0248 7.25931 44.9744 8.6502 80.7577 8.75271 0.808279 0.101591 
 
 # definition for class # 648
 # class name, prior probability
-''	0.00369558
+''	0.00117397
 # class type is GaussDiag
 # mean vector
-6.69437 95.6542 -40.9587 186.234 -27.3341 5.87969 -26.0276 191.976 5.99665 7.96301 
+2 23.7368 -27.5569 26.2896 -26.7503 21.1841 -27.8322 8.80875 3.47013 9.52282 
 
 # diagonal of covariance matrix
-3.78211 312.284 591.555 438.098 558.727 323.3 994.694 461.614 2.29469 0.69447 
+0 1.88137 13.2142 2.86291 42.1495 2.84994 42.9027 4.50022 0.902998 0.0560829 
 
 # definition for class # 649
 # class name, prior probability
-''	0.00116986
+''	0.00210505
 # class type is GaussDiag
 # mean vector
-5.05872 79.9071 -25.8261 130.108 -2.21879 30.0235 -37.081 113.278 6.56564 8.71848 
+2 48.0542 -9.04738 51.6965 -6.73586 44.4119 -10.6868 8.9219 1.36129 9.61421 
 
 # diagonal of covariance matrix
-2.66785 101.046 1015.96 177.808 782.564 155.359 489.359 289.995 3.51777 0.422706 
+0 24.8036 63.2599 28.8519 127.313 27.2132 177.564 14.4429 0.78576 0.032756 
 
 # definition for class # 650
 # class name, prior probability
-''	0.00150371
+''	0.000467493
 # class type is GaussDiag
 # mean vector
-4.38891 87.8292 61.8376 130.871 80.7146 56.0453 -1.33995 109.251 6.74688 8.86902 
+2.67234 23.5785 43.1419 29.4782 -16.9607 17.838 64.3189 20.2583 5.27521 9.28995 
 
 # diagonal of covariance matrix
-1.61057 128.291 244.751 325.38 26.9032 206.434 1277.66 832.318 1.95331 0.276776 
+0.325769 4.0103 48.6566 6.88268 242.054 6.55375 17.1087 14.7802 2.39746 0.0906197 
 
 # definition for class # 651
 # class name, prior probability
-''	0.000742892
+''	0.000153124
 # class type is GaussDiag
 # mean vector
-4.74682 34.1308 74.8255 76.4731 84.855 3.06996 -30.0875 110.921 7.87712 8.65291 
+1.09305 24.3784 23.0458 26.5147 -0.0980983 22.2401 39.8603 6.18972 6.08037 9.79239 
 
 # diagonal of covariance matrix
-1.2409 72.6986 52.0146 170.275 2.51834 77.8236 546.372 235.033 0.350482 0.193249 
+0.480242 61.9977 33.2062 68.9817 1.13439 61.4278 59.9067 23.19 2.9315 0.0515026 
 
 # definition for class # 652
 # class name, prior probability
-''	0.000430285
+''	0.000306209
 # class type is GaussDiag
 # mean vector
-4.38529 21.8432 57.4916 45.1539 9.37363 -1.66257 66.7864 59.5213 5.07949 7.2598 
+2.09662 25.1262 -15.0051 28.5155 -26.9964 21.682 1.21802 10.4242 3.69369 9.48526 
 
 # diagonal of covariance matrix
-3.10723 65.0506 201.726 90.0953 1321.93 100.962 118.237 148.625 3.21818 1.9466 
+0.209315 4.75706 25.1959 8.26729 61.8373 5.96884 73.505 11.3691 3.22125 0.0918381 
 
 # definition for class # 653
 # class name, prior probability
-''	0.000459264
+''	0.000476745
 # class type is GaussDiag
 # mean vector
-4.08432 27.6096 52.0909 46.2023 57.7645 7.47889 65.3794 79.927 7.95697 8.97329 
+2.37256 28.2904 -3.13429 34.4833 28.4468 22.1776 -31.4881 17.5836 3.41302 9.1399 
 
 # diagonal of covariance matrix
-1.78913 75.0069 358.568 124.718 236.252 145.226 201.794 543.794 0.557426 0.176464 
+0.345639 6.50529 99.8142 10.3221 166.448 13.781 117.49 20.3611 3.3265 0.166621 
 
 # definition for class # 654
 # class name, prior probability
-''	0.000510673
+''	0.000426622
 # class type is GaussDiag
 # mean vector
-2.47258 16.4659 -14.3114 27.1216 -3.283 5.74072 -22.3003 23.2189 0.922547 7.66872 
+2.56711 38.103 50.3027 46.2905 55.6142 30.3578 35.4629 27.6862 5.45497 9.25005 
 
 # diagonal of covariance matrix
-0.321729 3.06211 22.8868 5.20277 68.8101 6.83604 56.2956 11.9387 0.324937 0.948741 
+0.797336 21.1613 107.828 46.1796 174.511 32.917 497.153 163.049 4.6692 0.249882 
 
 # definition for class # 655
 # class name, prior probability
-''	0.000424004
+''	0.000317848
 # class type is GaussDiag
 # mean vector
-2.55434 18.3477 0.432937 27.35 29.1595 9.34795 -27.8993 21.8178 2.02001 8.25958 
+2.00159 21.8569 15.0313 28.793 -1.92331 14.9206 29.3576 16.0055 1.01344 8.97067 
 
 # diagonal of covariance matrix
-0.388558 5.35891 79.9315 9.80751 112.147 8.20183 139.181 14.6916 0.90692 0.48114 
+0.000387593 11.041 30.522 17.6142 59.9032 16.0227 60.1914 24.0719 0.317629 0.255882 
 
 # definition for class # 656
 # class name, prior probability
-''	0.000621312
+''	0.000475617
 # class type is GaussDiag
 # mean vector
-2.72421 14.1624 28.2152 19.4497 56.8577 8.91999 -25.6982 17.8308 4.98689 9.07142 
+2.0089 17.8248 -7.4224 23.4349 -23.0939 12.2143 9.39813 13.4913 1.37166 8.99952 
 
 # diagonal of covariance matrix
-0.287778 2.7874 41.2545 4.91017 17.352 5.11948 94.2425 8.83861 2.07723 0.20774 
+0.0021411 3.27148 30.1444 5.11046 50.7797 4.68086 101.164 7.10283 0.346439 0.145538 
 
 # definition for class # 657
 # class name, prior probability
-''	0.000396203
+''	0.000548464
 # class type is GaussDiag
 # mean vector
-2 14.2877 -10.141 16.2961 -5.03101 12.2792 -14.9459 5.59608 1.75293 9.609 
+2.39216 21.9958 -25.7833 29.5695 -28.0815 14.3732 -19.0599 18.2193 1.69791 8.77793 
 
 # diagonal of covariance matrix
-0 0.759634 12.4801 1.36912 42.9223 1.21225 35.4241 2.39649 1.01683 0.0217136 
+0.189751 3.50385 15.7984 5.74868 48.5074 4.8821 76.7702 7.70514 0.247552 0.170545 
 
 # definition for class # 658
 # class name, prior probability
-''	0.000296465
+''	0.00049127
 # class type is GaussDiag
 # mean vector
-1.74131 16.9779 -26.4339 18.1855 -25.8166 15.7684 -26.5403 5.64936 5.30355 9.77594 
+2 22.9243 -20.902 26.9583 -19.9977 18.8903 -21.5706 10.6956 1.91019 9.25734 
 
 # diagonal of covariance matrix
-0.12521 1.59693 12.3969 2.03263 34.5242 1.68255 36.4855 1.60643 1.35466 0.0124978 
+0 3.61548 5.47536 5.7101 20.304 5.02754 24.3822 8.11915 0.337584 0.105845 
 
 # definition for class # 659
 # class name, prior probability
-''	0.000881925
+''	0.000702013
 # class type is GaussDiag
 # mean vector
-2 23.2698 -6.90375 25.9795 -8.86362 20.56 -4.68223 6.73862 1.38053 9.55982 
+2.02738 22.7088 -22.0211 30.0674 -3.93868 15.3545 -35.9034 17.853 1.39596 8.67764 
 
 # diagonal of covariance matrix
-0 3.56338 19.9352 4.64858 84.9872 5.11741 52.0089 5.74911 1.00114 0.0386408 
+0.00951033 6.08143 44.7911 8.48544 178.643 9.93134 63.7056 14.3964 0.266796 0.474565 
 
 # definition for class # 660
 # class name, prior probability
-''	0.000774752
+''	0.00198558
 # class type is GaussDiag
 # mean vector
-2.54544 15.2349 27.0755 19.8633 -25.4331 10.6524 55.6336 16.6189 5.04116 9.24401 
+2 35.8476 -29.3891 39.4152 -27.4929 32.28 -30.2998 11.1128 3.06842 9.44742 
 
 # diagonal of covariance matrix
-0.214545 2.36081 56.4123 4.0013 99.7564 3.59537 25.5029 7.52117 2.1957 0.0885754 
+0 5.01959 22.9768 6.45212 78.9764 8.13168 65.413 10.1237 0.978099 0.0850492 
 
 # definition for class # 661
 # class name, prior probability
-''	0.000334028
+''	0.000631683
 # class type is GaussDiag
 # mean vector
-2.47353 14.279 10.6994 22.0129 -44.0234 6.42407 53.5851 23.431 3.74834 8.47888 
+2.81834 28.0093 -35.102 34.6406 -27.4444 21.5161 -38.5343 18.0301 3.30645 8.82466 
 
 # diagonal of covariance matrix
-0.330369 4.13615 101.42 8.59023 43.6506 5.80643 49.4272 11.2063 1.80185 0.3592 
+0.68486 4.58619 26.3094 7.09892 92.4999 8.02344 61.1376 11.8735 1.70859 0.281874 
 
 # definition for class # 662
 # class name, prior probability
-''	0.000553409
+''	0.000890171
 # class type is GaussDiag
 # mean vector
-2.70917 21.0053 -26.6756 30.8365 -25.3964 10.9942 -22.6303 22.9433 1.75964 8.2297 
+1.91804 50.0051 -32.1153 55.1441 -3.68052 44.9169 -48.2048 14.9749 4.01082 9.18392 
 
 # diagonal of covariance matrix
-0.528247 1.94833 25.4655 3.22827 73.3907 3.69859 90.7135 6.24897 0.714147 0.559039 
+0.393153 13.8797 96.2676 23.8782 473.193 17.182 97.8373 41.3763 2.83002 0.292321 
 
 # definition for class # 663
 # class name, prior probability
-''	0.000645855
+''	0.000534062
 # class type is GaussDiag
 # mean vector
-3.93947 18.0597 -16.9599 28.4381 -24.0118 7.35288 -3.65441 23.6985 3.44957 8.46469 
+0.662916 51.8915 -1.4712 53.5462 38.2254 50.2369 -39.3838 4.69932 7.36605 9.91107 
 
 # diagonal of covariance matrix
-0.613575 2.36124 106.359 4.99243 117.64 3.65166 144.332 7.06911 2.07537 0.209517 
+0.0279374 124.052 319.127 126.675 277.229 123.334 316.686 5.39099 0.434611 0.0048917 
 
 # definition for class # 664
 # class name, prior probability
-''	0.000391753
+''	0.0101183
 # class type is GaussDiag
 # mean vector
-2.83118 25.5091 51.179 32.7582 67.1026 18.1807 -1.93116 22.9816 5.0974 9.16783 
+0 106.603 0 106.603 0 106.603 0 -149.856 0 10.008 
 
 # diagonal of covariance matrix
-0.350719 4.8078 40.7398 11.4103 19.271 7.36612 304.253 20.3791 2.16681 0.133682 
+0 16.8011 0 16.8011 0 16.8011 0 535.48 0 0.000927415 
 
 # definition for class # 665
 # class name, prior probability
-''	0.000434562
+''	0.000830513
 # class type is GaussDiag
 # mean vector
-1.84014 18.8518 -0.0822046 21.5628 22.6965 16.2103 -21.0196 9.53465 4.84822 9.58062 
+0.266547 9.11064 0 10.931 0 7.29334 0 3.63767 8.69986 9.94479 
 
 # diagonal of covariance matrix
-0.309175 4.1036 56.0589 5.68867 109.69 5.21717 159.719 16.1235 2.30036 0.0569225 
+0.0038631 3.59995 0 4.73224 0 5.31889 0 5.68006 0.0845425 0.00225254 
 
 # definition for class # 666
 # class name, prior probability
-''	0.000821495
+''	0.000313951
 # class type is GaussDiag
 # mean vector
-2 16.1239 -25.8885 20.66 -27.9911 11.5878 -23.0984 12.4932 2.24364 8.98374 
+2.74525 7.77064 -14.5705 18.242 -39.3758 -2.54267 18.2362 24.6666 2.17865 7.65767 
 
 # diagonal of covariance matrix
-0 1.61888 13.2096 2.4234 39.4083 3.22489 59.9259 5.39094 0.39504 0.269624 
+0.530193 3.13835 53.0635 6.91341 65.6562 6.37173 117.277 15.3369 0.746935 0.903293 
 
 # definition for class # 667
 # class name, prior probability
-''	0.000446639
+''	0.000478469
 # class type is GaussDiag
 # mean vector
-2 17.1058 -16.4942 19.839 -11.2132 14.3726 -21.2549 7.65243 2.04042 9.39828 
+2.05282 11.6245 -12.0289 20.8221 -22.6669 2.42416 -0.030482 19.8585 0.709253 7.82492 
 
 # diagonal of covariance matrix
-0 0.883586 4.51138 1.43308 38.7282 1.96838 25.1892 3.58301 0.555756 0.107832 
+0.0151101 4.999 6.21556 7.65717 19.8366 8.31495 7.93637 11.803 0.0733982 0.879224 
 
 # definition for class # 668
 # class name, prior probability
-''	0.00031366
+''	0.000424484
 # class type is GaussDiag
 # mean vector
-2 20.1062 -20.0058 23.0443 -10.6471 17.1681 -28.0751 8.5765 2.35024 9.38536 
+2.24819 10.8449 -25.0734 21.508 -0.849323 0.212273 -41.2951 24.7371 1.29443 7.26916 
 
 # diagonal of covariance matrix
-0 1.02475 11.574 1.91912 68.3203 1.84932 26.3218 4.03645 0.614952 0.0866261 
+0.156492 7.34614 49.3096 13.9529 175.353 10.9556 56.7846 21.6669 0.260761 2.43682 
 
 # definition for class # 669
 # class name, prior probability
-''	0.00051811
+''	0.000616119
 # class type is GaussDiag
 # mean vector
-2.21836 15.2801 5.21464 19.8883 -31.3062 10.5896 39.4492 16.2802 4.14232 9.08311 
+4.45375 5.33125 -6.17559 21.0355 -21.6324 -10.3165 -4.67794 34.7786 5.2009 8.57602 
 
 # diagonal of covariance matrix
-0.0807194 2.61057 39.8135 5.28552 55.8817 4.50538 45.0107 10.2751 3.09308 0.136018 
+0.611009 8.02577 294.112 16.2898 191.652 13.2958 424.138 25.4891 1.58874 0.272676 
 
 # definition for class # 670
 # class name, prior probability
-''	0.000679172
+''	0.000420461
 # class type is GaussDiag
 # mean vector
-2.02814 26.8334 8.29669 33.9174 -22.1999 19.7441 35.1691 18.2976 1.99002 8.97432 
+2.77788 8.54056 -45.4861 19.8235 -72.288 -0.0493115 -2.05327 42.4211 6.6194 8.24832 
 
 # diagonal of covariance matrix
-0.00934806 6.14465 76.9219 11.3199 173.473 11.8545 96.3941 22.1458 1.23943 0.211478 
+0.233343 7.41234 235.065 19.8589 28.7748 11.2326 462.597 121.36 1.32054 0.557226 
 
 # definition for class # 671
 # class name, prior probability
-''	0.000622443
+''	0.000251925
 # class type is GaussDiag
 # mean vector
-3.80371 15.4619 -22.6193 27.3543 -20.0737 3.09031 -19.8226 26.8774 2.88851 7.84128 
+3.23331 23.5485 -14.75 37.3175 -43.0334 9.53119 26.2794 33.6701 3.07498 7.92716 
 
 # diagonal of covariance matrix
-0.946292 1.79366 63.6592 2.89329 81.8956 2.81838 86.8096 4.33036 2.20061 0.599729 
+1.07091 6.11713 105.958 13.9142 73.2363 11.3464 111.291 20.8942 2.857 0.773929 
 
 # definition for class # 672
 # class name, prior probability
-''	0.00045865
+''	0.000454468
 # class type is GaussDiag
 # mean vector
-2.08575 29.3798 22.0993 33.7656 37.5682 25.0267 1.38344 13.1541 3.42253 9.3448 
+5.49416 15.1928 -28.7916 39.7834 -32.8723 -9.75283 -9.27671 52.6939 4.82946 7.56853 
 
 # diagonal of covariance matrix
-0.114916 7.09124 67.8819 11.3643 116.81 9.25334 290.237 15.7776 3.16429 0.127313 
+2.186 9.21683 229.324 11.8311 92.312 15.6713 134.207 17.8529 2.52341 1.16175 
 
 # definition for class # 673
 # class name, prior probability
-''	0.000825596
+''	0.000569268
 # class type is GaussDiag
 # mean vector
-2.81693 18.201 43.4988 24.0577 64.1464 12.2155 -14.766 20.232 5.47375 9.20718 
+4.51715 27.4427 -32.0853 44.3245 -39.1618 9.27595 -5.07264 38.797 3.98436 7.99305 
 
 # diagonal of covariance matrix
-0.221285 3.21459 62.1646 6.29807 21.8993 5.47657 271.622 13.2362 1.94456 0.122632 
+1.53326 4.52624 122.773 5.81861 92.6335 5.70484 143.576 7.41275 2.75428 0.461858 
 
 # definition for class # 674
 # class name, prior probability
-''	0.00049777
+''	0.000914132
 # class type is GaussDiag
 # mean vector
-2 12.7297 -26.9282 14.9977 -28.9263 10.4617 -24.7316 8.13158 3.61358 9.48797 
+6.02527 23.241 -33.6607 47.6573 -31.244 -0.479626 -26.8994 52.1196 5.21351 7.51481 
 
 # diagonal of covariance matrix
-0 1.67173 2.31197 2.23701 8.30705 2.25982 10.278 2.4736 0.75294 0.0420184 
+2.05142 8.49393 171.887 7.87185 98.5825 8.59945 166.951 8.81754 1.37801 0.816725 
 
 # definition for class # 675
 # class name, prior probability
-''	0.000142223
+''	0.000494186
 # class type is GaussDiag
 # mean vector
-1.99279 17.2255 -24.4529 19.898 -16.7369 14.5519 -31.1305 8.69451 3.13153 9.3833 
+4.38713 29.9531 -43.6957 50.9537 -40.9797 7.21499 -31.8214 49.0591 3.67415 6.9884 
 
 # diagonal of covariance matrix
-0.00928773 1.08714 4.03768 1.79155 25.2602 1.84221 15.7948 3.77479 0.71292 0.0747877 
+1.47729 8.86581 83.3056 9.69076 114.214 8.92902 97.1584 11.7646 2.40262 1.37976 
 
 # definition for class # 676
 # class name, prior probability
-''	0.000785714
+''	0.000561089
 # class type is GaussDiag
 # mean vector
-2 15.9419 -21.8226 17.8817 -22.2016 14.002 -21.1966 6.70597 3.24184 9.5941 
+4.62442 24.4619 -47.4145 48.2295 -23.1536 2.60351 -53.8237 53.1448 4.8138 8.10952 
 
 # diagonal of covariance matrix
-0 1.29877 7.77316 1.71478 26.442 1.782 23.9972 2.39837 0.645574 0.0222476 
+1.59714 10.5473 120.415 16.6553 310.159 19.8117 96.2196 32.5009 2.88083 0.658385 
 
 # definition for class # 677
 # class name, prior probability
-''	0.000176826
+''	0.000483552
 # class type is GaussDiag
 # mean vector
-1.95796 26.6831 -24.4814 29.1776 -13.8768 24.1911 -33.1332 8.23177 3.3523 9.56537 
+4.76723 35.7613 -16.019 59.7932 -15.1826 10.7502 -25.601 52.0144 4.62037 8.13979 
 
 # diagonal of covariance matrix
-0.0165926 2.84415 10.1151 3.39158 56.7354 4.30672 25.971 4.51817 1.09649 0.0556072 
+1.62942 11.7095 272.193 9.78322 153.634 12.1222 141.291 14.3222 4.05658 0.565926 
 
 # definition for class # 678
 # class name, prior probability
-''	0.000670918
+''	0.000461637
 # class type is GaussDiag
 # mean vector
-2.06974 42.6928 7.4922 47.9343 -29.1188 37.353 40.2767 16.8501 4.15071 9.43649 
+4.28947 37.8437 33.0849 57.2597 -38.6394 13.7748 74.1371 63.4997 5.73108 7.81456 
 
 # diagonal of covariance matrix
-0.269626 12.7849 129.114 19.0333 154.356 19.2634 125.338 36.6992 3.76381 0.102755 
+1.56025 23.1144 492.339 42.6765 385.347 45.2889 32.2903 132.448 1.70532 0.868961 
 
 # definition for class # 679
 # class name, prior probability
-''	0.000565931
+''	0.000896255
 # class type is GaussDiag
 # mean vector
-2.53437 34.4819 43.8737 41.5817 -5.69138 27.2614 62.7665 23.2341 4.82132 9.2381 
+5.88721 37.3208 65.1083 66.162 -20.9979 5.37162 69.1966 72.4032 6.76362 8.12584 
 
 # diagonal of covariance matrix
-0.41036 9.30866 103.758 18.0323 601.46 16.2399 70.3562 41.1916 4.22817 0.210903 
+1.68606 28.5579 65.6496 42.5796 498.323 36.7182 97.7302 70.2071 0.630152 0.373917 
 
 # definition for class # 680
 # class name, prior probability
-''	0.000623814
+''	0.000895924
 # class type is GaussDiag
 # mean vector
-3.4772 21.2817 -16.7543 28.4616 -16.1801 13.8878 -13.5799 16.8074 2.96664 9.01194 
+4.72949 27.8566 -28.3888 77.8355 -80.4157 -0.801161 7.70916 131.913 7.85852 8.67807 
 
 # diagonal of covariance matrix
-0.31778 5.38921 60.0555 7.89144 95.8304 5.964 115.748 6.80831 1.51955 0.0846374 
+1.76243 143.483 1166.29 375.054 25.8846 218.349 1380.95 897.762 0.495055 0.259002 
 
 # definition for class # 681
 # class name, prior probability
-''	0.000486731
+''	0.00170576
 # class type is GaussDiag
 # mean vector
-2.16794 20.9109 -7.05894 29.429 -12.1209 12.3896 -0.961108 18.2715 0.655713 8.68035 
+3.29173 43.9854 -75.1175 86.7452 -86.1244 21.3008 -21.5097 136.327 8.67748 9.35406 
 
 # diagonal of covariance matrix
-0.0737464 5.31825 19.2934 9.32682 53.4348 9.72482 59.0025 17.2033 0.158386 0.326314 
+0.637914 98.2344 70.1311 333.58 2.00791 157.76 872.343 1353.25 0.404745 0.110563 
 
 # definition for class # 682
 # class name, prior probability
-''	0.000646164
+''	0.00106698
 # class type is GaussDiag
 # mean vector
-2.70418 25.3817 29.3489 31.5879 58.9289 19.3503 -27.2259 20.9306 5.28456 9.33034 
+6.07874 6.62778 52.0903 77.1208 -2.13533 -61.067 -4.64302 147.858 7.76064 8.68111 
 
 # diagonal of covariance matrix
-0.43673 5.43128 103.932 9.46455 36.2944 11.5159 141.223 27.513 2.88962 0.0980274 
+3.64621 285.167 511.181 278.693 1524.63 277.351 1042.43 468.71 0.644263 0.27112 
 
 # definition for class # 683
 # class name, prior probability
-''	0.000281573
+''	0.00122184
 # class type is GaussDiag
 # mean vector
-2.0102 14.8829 -21.015 19.7357 -3.11525 10.0308 -35.2425 12.5791 1.77808 8.90732 
+7.86988 28.8655 39.6531 97.3019 0.451111 -38.5164 -13.7747 142.35 7.05792 8.00759 
 
 # diagonal of covariance matrix
-0.0048659 2.40628 15.2438 4.45013 31.4813 4.04705 32.4962 7.55225 0.615071 0.276951 
+5.12788 130.921 676.332 143.53 1263.59 114.177 993.228 179.075 0.910164 0.455502 
 
 # definition for class # 684
 # class name, prior probability
-''	0.000675598
+''	0.00122846
 # class type is GaussDiag
 # mean vector
-2 20.1184 -16.4417 22.3424 -18.764 17.8943 -13.8479 6.60439 2.43709 9.60304 
+6.41851 32.2599 -42.8059 102.23 -14.2361 -33.047 -34.7529 143.282 6.59908 8.19774 
 
 # diagonal of covariance matrix
-0 1.62198 8.90249 2.25618 26.5843 2.39504 35.2046 3.33293 0.697643 0.0249268 
+3.31574 145.979 495.795 124.526 958.863 125.216 501.866 162.07 1.86934 0.555169 
 
 # definition for class # 685
 # class name, prior probability
-''	0.000406859
+''	0.000442939
 # class type is GaussDiag
 # mean vector
-0.948402 22.667 -27.4074 24.6122 -0.782409 20.7201 -45.2133 5.52752 6.31142 9.77887 
+3.48224 58.4775 -41.783 86.9575 10.2351 27.2596 -56.3997 77.0469 4.76815 7.71053 
 
 # diagonal of covariance matrix
-0.132304 16.9321 22.3974 17.0726 117.161 18.9544 33.5077 5.69412 1.06528 0.0217132 
+1.48751 77.3717 445.201 194.184 1151.62 150.835 326.274 480.796 6.91285 1.85182 
 
 # definition for class # 686
 # class name, prior probability
-''	0.000551064
+''	0.00218507
 # class type is GaussDiag
 # mean vector
-2.23724 21.188 -4.15221 26.555 -33.4434 15.7025 29.7986 17.4792 3.78774 9.0779 
+4.5669 90.1178 -22.783 162.666 83.2567 20.7664 -77.9845 279.144 8.81054 9.27847 
 
 # diagonal of covariance matrix
-0.133127 3.47366 53.9458 7.15096 66.9689 8.4515 101.869 17.9256 3.41923 0.202228 
+1.70363 725.112 1965.92 1908.87 24.012 1380.22 282.269 7323.12 0.40508 0.143894 
 
 # definition for class # 687
 # class name, prior probability
-''	0.000709615
+''	0.00304278
 # class type is GaussDiag
 # mean vector
-3.21737 1.42301 76.5453 19.994 -18.56 -18.7076 83.6942 69.205 8.27313 9.21515 
+3.09103 197.55 80.2851 265.96 85.2829 160.34 17.7075 242.094 9.15381 9.71772 
 
 # diagonal of covariance matrix
-0.453431 53.3236 24.6363 55.723 472.17 120.106 3.43122 260.328 0.476714 0.129813 
+0.886634 1833 58.9626 3562.49 45.8174 2841.09 3051.5 14193.1 0.353669 0.0298132 
 
 # definition for class # 688
 # class name, prior probability
-''	0.00114728
+''	0.000710181
 # class type is GaussDiag
 # mean vector
-4.95836 -6.66872 51.8975 59.6544 -0.84998 -72.8442 12.9653 145.926 7.55968 8.84297 
+1.83826 5.71305 86.6074 15.7914 86.3902 -3.8006 86.5336 135.344 9.62782 9.79417 
 
 # diagonal of covariance matrix
-2.21646 597.955 524.94 497.983 1449.43 634.473 1247.73 710.205 1.54534 0.286683 
+0.69187 331.331 2.37882 519.383 4.08391 447.295 2.62614 4025.8 0.0844868 0.0344242 
 
 # definition for class # 689
 # class name, prior probability
-''	0.000627795
+''	0.000845663
 # class type is GaussDiag
 # mean vector
-4.52476 -17.4172 -7.00931 27.3044 -18.4746 -59.6677 -8.95651 91.3739 4.05854 7.94542 
+2 8.69455 -35.2525 10.9678 -35.3272 6.42127 -34.7813 9.54106 4.46699 9.38574 
 
 # diagonal of covariance matrix
-1.81225 59.8401 1121.23 93.0508 629.759 70.3155 886.74 125.07 5.13365 0.605707 
+0 1.30291 6.37137 1.79735 21.5787 1.7517 23.4313 2.28797 0.6002 0.0597817 
 
 # definition for class # 690
 # class name, prior probability
-''	0.00101403
+''	0.00084324
 # class type is GaussDiag
 # mean vector
-3.40716 -64.066 63.3207 -6.53494 86.2843 -94.1253 -10.1489 187.378 8.40155 9.24661 
+2 13.1137 -34.2155 15.2816 -34.5623 10.9457 -33.4588 9.13354 4.46459 9.47168 
 
 # diagonal of covariance matrix
-1.33656 367.597 547.419 1154.76 3.71926 561.43 1011.24 5066.08 0.957247 0.194912 
+0 1.24688 6.87957 1.61572 21.6273 1.87265 26.0487 2.44395 0.677236 0.0443871 
 
 # definition for class # 691
 # class name, prior probability
-''	0.000979903
+''	0.000395256
 # class type is GaussDiag
 # mean vector
-7.31491 3.93767 -22.6671 43.2004 -32.7003 -34.8916 -34.2409 83.644 6.95947 8.2823 
+2 12.3762 -22.3072 16.0207 -20.6074 8.73158 -23.8025 10.0539 2.1255 9.10589 
 
 # diagonal of covariance matrix
-2.56979 26.2771 971.782 41.2655 218.29 37.6861 150.111 58.6118 0.603681 0.241811 
+0 1.03167 8.08283 1.89614 13.686 1.53442 24.492 3.0961 0.35109 0.171164 
 
 # definition for class # 692
 # class name, prior probability
-''	0.000926428
+''	0.000537264
 # class type is GaussDiag
 # mean vector
-4.00026 -31.0767 -41.9631 -9.70334 -41.2543 -51.7578 -36.0362 50.5679 5.17041 8.95626 
+2.87009 13.6488 53.1657 19.8245 -5.96947 7.88362 68.4038 21.3953 6.04006 9.1535 
 
 # diagonal of covariance matrix
-1.07622 46.6387 234.988 87.9722 323.623 69.4 312.792 113.887 3.74666 0.15791 
+0.214723 5.59923 33.4484 6.99723 286.234 9.42444 13.1202 13.7682 1.55137 0.160046 
 
 # definition for class # 693
 # class name, prior probability
-''	0.000903504
+''	0.000327313
 # class type is GaussDiag
 # mean vector
-3.49546 -60.3471 -44.3626 -42.3004 -47.8867 -78.5305 -33.9558 44.9435 4.74036 9.15002 
+2.49239 10.8101 -7.75391 23.9902 -11.2295 -2.40488 -1.0588 27.4937 0.680937 7.42871 
 
 # diagonal of covariance matrix
-0.91576 71.7678 216.62 154.376 237.664 120.4 476.814 303.892 4.45309 0.140039 
+0.321182 5.32574 25.1862 6.67428 77.1613 10.0052 37.3776 12.2654 0.285898 1.06806 
 
 # definition for class # 694
 # class name, prior probability
-''	0.000984328
+''	0.000476292
 # class type is GaussDiag
 # mean vector
-5.57962 -5.595 -53.9878 31.3395 -34.8669 -38.8592 -44.5396 78.0904 6.18477 8.30656 
+4.25504 13.1116 -15.396 25.9566 -4.39037 0.277503 -19.7565 27.8565 3.50082 8.04885 
 
 # diagonal of covariance matrix
-1.45284 34.501 175.557 37.3757 407.699 43.7125 213.444 46.9894 1.57361 0.409167 
+0.441034 2.94794 180.795 5.57889 107.716 5.72992 163.84 10.1873 1.54066 0.498516 
 
 # definition for class # 695
 # class name, prior probability
-''	0.000873005
+''	0.000696604
 # class type is GaussDiag
 # mean vector
-3.0469 12.7659 -71.5321 27.1644 -20.6142 -11.2569 -83.3684 78.5305 8.50159 9.44386 
+2.95937 12.0727 57.1579 19.5365 72.7786 4.35901 -16.3062 26.5884 6.12301 8.94831 
 
 # diagonal of covariance matrix
-0.531591 72.7578 68.5989 110.638 814.105 206.882 6.16972 673.02 0.475169 0.0815022 
+0.1786 3.95589 26.5743 8.22221 4.98508 5.78223 213.611 12.478 1.56105 0.228245 
 
 # definition for class # 696
 # class name, prior probability
-''	0.000651594
+''	0.000293877
 # class type is GaussDiag
 # mean vector
-5.89004 1.54896 32.3337 24.6644 59.9436 -19.2118 -39.7514 55.1908 6.31195 8.3235 
+2.77197 -10.4157 9.06383 -0.515105 46.6189 -19.1001 -30.2466 28.7455 4.64991 8.94165 
 
 # diagonal of covariance matrix
-1.46433 25.3021 642.722 40.8594 115.065 36.0947 121.236 79.7452 1.09318 0.317156 
+0.655182 17.6412 321.567 24.3289 271.888 36.4822 282.653 91.4772 5.36924 0.321188 
 
 # definition for class # 697
 # class name, prior probability
-''	0.00029109
+''	0.000368281
 # class type is GaussDiag
 # mean vector
-3.70647 16.5978 -35.3343 32.1902 58.082 -0.622513 -69.5201 64.0725 7.495 8.78532 
+2 3.79439 -26.2615 6.87587 -29.4984 0.712918 -22.5716 9.60896 2.94339 9.24468 
 
 # diagonal of covariance matrix
-1.07488 50.2501 449.657 74.931 169.341 94.3009 178.136 252.884 0.964584 0.290649 
+0 0.975705 3.88265 1.99501 14.8864 1.45606 22.7099 3.47259 0.466646 0.134782 
 
 # definition for class # 698
 # class name, prior probability
-''	0.000758086
+''	0.000288687
 # class type is GaussDiag
 # mean vector
-4.10162 7.52839 -46.008 19.7964 -31.268 -3.35212 -46.4922 29.3778 4.68238 8.60016 
+2 7.63376 -26.7394 11.0649 -12.6758 4.20261 -37.6241 10.5276 2.80914 9.15082 
 
 # diagonal of covariance matrix
-0.773512 4.39654 49.6739 8.63254 170.062 5.89269 85.1754 12.6329 1.74652 0.238557 
+0 1.24101 9.04341 2.78598 71.1551 1.84037 27.5271 5.23365 0.599512 0.154399 
 
 # definition for class # 699
 # class name, prior probability
-''	0.000517936
+''	0.00028765
 # class type is GaussDiag
 # mean vector
-1.44052 15.5365 -45.8188 18.3482 -23.5883 12.6113 -55.4053 11.7789 6.71565 9.63131 
+2 9.01885 -25.1742 11.3167 -23.9455 6.72101 -26.2681 7.86555 3.27428 9.39085 
 
 # diagonal of covariance matrix
-0.393242 14.8542 70.5373 18.1496 571.542 17.2041 109.043 29.6275 1.70785 0.0602612 
+0 0.65554 1.45854 1.12729 9.19905 1.17541 7.66091 2.39741 0.55509 0.0713298 
 
 # definition for class # 700
 # class name, prior probability
-''	0.000889907
+''	0.000238868
 # class type is GaussDiag
 # mean vector
-3.4414 18.8686 -40.2803 27.3555 -31.4256 10.6246 -40.849 22.3043 4.06801 8.79435 
+2 8.20377 -19.6781 11.5575 -20.2439 4.85002 -19.0485 9.01962 1.9566 8.98441 
 
 # diagonal of covariance matrix
-0.772764 2.60388 34.4275 5.44158 104.362 4.84087 82.4893 10.1612 1.9774 0.202609 
+0 1.35696 2.11736 2.1942 7.37251 1.98831 6.15566 3.12405 0.278517 0.240369 
 
 # definition for class # 701
 # class name, prior probability
-''	0.000483649
+''	0.000434593
 # class type is GaussDiag
 # mean vector
-4.29058 22.0675 -71.7255 41.3256 -77.7972 5.15824 -46.8818 57.14 6.59411 8.44271 
+1.89941 10.3565 -1.16394 12.8042 17.8927 7.95087 -18.7867 9.1873 4.98188 9.53553 
 
 # diagonal of covariance matrix
-1.27233 22.8715 21.5822 45.9649 16.1651 37.0076 204.917 128.44 0.990614 0.321248 
+0.307722 2.57191 52.0886 3.91446 137.391 3.19937 147.193 14.4414 2.72397 0.0611666 
 
 # definition for class # 702
 # class name, prior probability
-''	0.000842898
+''	0.0011899
 # class type is GaussDiag
 # mean vector
-5.33114 38.6663 -41.933 58.7944 -37.3478 15.8372 -27.1991 47.9477 6.11582 8.70735 
+0.394338 14.9337 6.32922e-06 16.3707 -1.83959e-05 13.4993 1.42738e-05 2.92466 6.62941 9.94312 
 
 # diagonal of covariance matrix
-1.50955 11.8371 141.854 15.6186 79.4617 10.6171 201.296 17.948 0.675948 0.0953588 
+0.0681825 7.50761 1.84898e-08 9.29517 8.57649e-08 8.93386 8.58996e-08 6.44606 10.4596 0.00436855 
 
 # definition for class # 703
 # class name, prior probability
-''	0.000480717
+''	0.00412653
 # class type is GaussDiag
 # mean vector
-6.01576 44.1502 -18.1551 81.5365 63.9941 12.5057 -37.2158 94.8674 7.09816 8.45411 
+0 42.0579 0 42.0579 0 42.0579 0 -62.8197 0 10.0083 
 
 # diagonal of covariance matrix
-2.52053 66.0099 880.242 130.53 227.595 102.728 692.714 369.596 0.574125 0.217618 
+0 8.31321 0 8.31321 0 8.31321 0 200.205 0 -6.37783e-05 
 
 # definition for class # 704
 # class name, prior probability
-''	0.000753976
+''	0.00154091
 # class type is GaussDiag
 # mean vector
-4.06955 28.7082 22.0195 50.5409 71.1917 13.1233 -17.8465 69.584 7.49829 8.87981 
+0.24982 0.36098 0 1.947 0 -1.22504 0 3.17204 8.75636 9.94859 
 
 # diagonal of covariance matrix
-1.58416 25.4592 536.542 65.8874 83.181 44.053 677.157 252.237 0.744345 0.189866 
+2.23651e-05 15.4144 0 16.5518 0 16.4533 0 4.35266 0.000162824 0.00145241 
 
 # definition for class # 705
 # class name, prior probability
-''	0.000448615
+''	0.000268014
 # class type is GaussDiag
 # mean vector
-4.36447 44.3589 15.3341 58.426 -37.808 27.9664 49.8088 40.4577 5.49966 8.84976 
+1.32835 2.48633 -17.7053 5.51488 -44.587 -0.542985 19.0586 8.74041 5.17364 9.4012 
 
 # diagonal of covariance matrix
-1.0636 12.8081 553.923 20.4726 116.655 29.6126 256.114 48.4546 1.85424 0.146642 
+0.0623264 3.17849 41.7244 3.6758 42.3993 4.47311 153.988 5.66443 0.514651 0.0686367 
 
 # definition for class # 706
 # class name, prior probability
-''	0.00036347
+''	0.00022544
 # class type is GaussDiag
 # mean vector
-2.79172 44.6613 -6.37356 63.1243 -37.6803 26.3607 27.7751 41.6626 1.83413 8.23356 
+1.3817 2.85036 -36.5347 6.41307 -55.5696 -0.709948 0.0304356 10.8087 5.43306 9.33668 
 
 # diagonal of covariance matrix
-0.8309 28.4982 171.458 47.813 124.555 40.4515 248.534 62.2677 1.67482 0.508999 
+0.094115 3.66655 29.0958 4.36433 31.5993 5.37677 303.684 7.41601 0.666656 0.0869937 
 
 # definition for class # 707
 # class name, prior probability
-''	0.00122849
+''	0.000470824
 # class type is GaussDiag
 # mean vector
-5.05792 33.0886 -41.5715 54.588 -38.0748 9.76554 -31.0611 50.004 5.35658 8.16668 
+2.32153 11.051 -19.6638 21.9971 -32.7749 0.0951607 -0.0488567 24.4037 1.18221 7.36539 
 
 # diagonal of covariance matrix
-1.36104 7.93456 151.16 9.01021 100.59 8.01022 153.008 9.35009 1.91105 0.468729 
+0.146398 2.78841 17.054 4.18957 46.016 5.31515 42.5794 7.85946 0.13024 1.28503 
 
 # definition for class # 708
 # class name, prior probability
-''	0.00059473
+''	0.000804399
 # class type is GaussDiag
 # mean vector
-4.21992 42.6847 -49.0276 60.0951 -39.7163 25.3129 -45.7966 42.1294 4.804 8.72921 
+3.12435 11.4469 -33.8614 21.5224 -31.0032 1.20857 -27.2439 24.0824 2.3815 7.56543 
 
 # diagonal of covariance matrix
-1.04557 11.0765 59.6146 14.9588 118.055 19.5511 90.0415 34.6639 2.69278 0.195692 
+0.673137 1.29447 25.5255 2.41331 67.7916 3.0973 76.1149 6.02802 0.876018 0.893166 
 
 # definition for class # 709
 # class name, prior probability
-''	0.000778362
+''	0.0004785
 # class type is GaussDiag
 # mean vector
-5.85319 50.0861 -27.2472 77.388 -31.7751 21.9266 -16.9406 59.0787 5.28818 8.2995 
+2.76754 7.49201 -27.1305 17.7881 -24.4863 -2.75705 -22.466 23.4461 1.63957 7.61701 
 
 # diagonal of covariance matrix
-2.11327 13.5424 227.292 17.3974 146.243 11.3192 201.376 19.957 1.24435 0.233893 
+0.510602 1.32218 41.3068 2.86954 84.5302 2.2106 110.183 5.04935 0.43 1.06555 
 
 # definition for class # 710
 # class name, prior probability
-''	0.00129491
+''	0.000446832
 # class type is GaussDiag
 # mean vector
-4.3076 58.7251 -26.4595 80.3698 -32.8213 35.5309 -13.5925 48.8536 4.06482 8.65553 
+2.66177 10.3468 -20.3918 18.8765 -8.2497 1.78001 -27.9996 19.488 1.51272 7.89852 
 
 # diagonal of covariance matrix
-1.51998 14.5924 309.485 18.2055 202.602 18.8552 395.16 24.8357 4.06704 0.247504 
+0.47118 2.12274 22.4085 3.11576 59.0095 3.91977 48.9876 5.51382 0.673268 0.673184 
 
 # definition for class # 711
 # class name, prior probability
-''	0.000921961
+''	0.000367794
 # class type is GaussDiag
 # mean vector
-3.22258 81.5141 -47.4935 110.01 -78.0664 63.8059 -1.30815 95.3291 7.57016 9.27776 
+2.53802 17.2308 16.0768 24.2169 -20.7099 10.2665 42.6437 18.0902 2.62163 8.78135 
 
 # diagonal of covariance matrix
-0.786778 115.211 480.047 334.099 60.5173 145.548 1398.6 1312.56 1.35728 0.132678 
+0.430825 3.70751 33.4605 6.3898 69.148 6.90697 32.6249 12.8927 1.18936 0.257587 
 
 # definition for class # 712
 # class name, prior probability
-''	0.00115434
+''	0.000249468
 # class type is GaussDiag
 # mean vector
-4.92585 58.275 -18.6376 90.3592 -31.5032 25.4825 -5.88281 68.2508 4.52927 8.37816 
+2.58217 1.50097 -61.1232 50.1497 -80.9456 -44.2066 27.5824 145.384 5.26532 5.79824 
 
 # diagonal of covariance matrix
-2.1505 18.944 351.562 24.2553 162.788 26.7142 259.132 38.248 3.80851 0.265822 
+6.2807 393.425 1167.6 1020.7 93.4295 424.666 1519.33 2424.19 5.07711 5.74141 
 
 # definition for class # 713
 # class name, prior probability
-''	0.00131361
+''	0.000709831
 # class type is GaussDiag
 # mean vector
-5.13307 78.6546 51.2889 116.343 -8.53572 37.6502 40.9512 87.9506 6.0784 8.6086 
+4.40891 26.1478 -70.9902 57.4182 -82.0976 2.67775 -12.0156 78.6737 6.88791 8.01883 
 
 # diagonal of covariance matrix
-1.78029 63.8322 318.589 112.605 940.491 131.492 897.829 258.522 2.28995 0.350313 
+1.08181 25.4745 74.0021 73.6 6.98337 26.316 429.839 156.069 0.8196 0.547459 
 
 # definition for class # 714
 # class name, prior probability
-''	0.00178684
+''	0.000726033
 # class type is GaussDiag
 # mean vector
-5.34993 99.2898 37.7952 144.364 -23.5278 46.1699 62.4429 117.793 5.95814 8.42784 
+4.71866 27.4755 -15.0449 52.6234 4.09825 3.04555 -25.9738 52.7356 3.95839 6.89994 
 
 # diagonal of covariance matrix
-2.14035 158.935 999.863 325.735 471.303 300.461 358.974 622.508 2.16507 0.416209 
+1.86535 13.5469 415.96 15.9175 412.126 15.3429 212.452 26.3864 3.57325 1.95313 
 
 # definition for class # 715
 # class name, prior probability
-''	0.000554968
+''	0.000366635
 # class type is GaussDiag
 # mean vector
-5.51157 51.21 -30.7737 97.6432 -32.9399 4.97083 -5.937 95.8415 4.06551 7.06388 
+5.92169 22.1805 12.3608 55.3432 -29.6113 -9.61998 27.7459 70.1435 5.04396 7.60729 
 
 # diagonal of covariance matrix
-1.9996 48.976 332.209 45.3964 247.193 42.3067 116.53 50.5372 2.69623 1.75819 
+3.51129 19.8584 487.649 31.7098 233.041 34.024 498.195 44.8594 3.29677 0.921143 
 
 # definition for class # 716
 # class name, prior probability
-''	0.00108424
+''	0.000744032
 # class type is GaussDiag
 # mean vector
-4.55968 41.2662 -27.7827 108.742 -10.7536 -4.04109 -13.4024 126.057 8.23477 8.89329 
+5.47152 30.503 20.668 60.2379 -8.31985 2.63256 0.359155 59.7608 5.20731 7.23622 
 
 # diagonal of covariance matrix
-1.73462 305.641 966.142 344.178 370.966 320.072 396.723 313.933 0.576466 0.290902 
+1.50457 16.809 322.264 14.5054 335.116 11.3883 342.394 18.1067 1.26532 1.24692 
 
 # definition for class # 717
 # class name, prior probability
-''	0.000719172
+''	0.00151071
 # class type is GaussDiag
 # mean vector
-4.10043 34.2332 76.8942 64.9844 83.6053 7.47957 -9.01052 82.7629 7.42995 8.44434 
+0 20.0175 0 49.848 0 -9.81297 0 59.661 0.779184 0.779184 
 
 # diagonal of covariance matrix
-0.779475 42.4881 18.5401 73.7285 3.6039 42.8803 526.271 91.4523 0.68224 0.378326 
+0 42.6447 0 130.877 0 36.7766 0 164.735 3.76707 3.76707 
 
 # definition for class # 718
 # class name, prior probability
-''	0.000249711
+''	0.000517185
 # class type is GaussDiag
 # mean vector
-1.4913 18.1225 -14.3599 19.8486 -1.20268 16.4029 -25.7485 5.22927 4.47118 9.67393 
+0.0291293 33.5397 0 77.276 0 -10.1114 0 87.3874 2.79483 2.79796 
 
 # diagonal of covariance matrix
-0.237405 6.52601 13.2003 7.98107 49.4034 6.80385 38.8007 6.28493 1.99375 0.0771777 
+0.0136294 24.7885 0 80.42 0 28.0596 0 123.093 13.1322 13.1765 
 
 # definition for class # 719
 # class name, prior probability
-''	0.000295528
+''	0.000489064
 # class type is GaussDiag
 # mean vector
-1.55148 30.1517 -43.2913 34.0465 -60.5362 26.3683 -3.21719 14.1895 6.34965 9.66641 
+4.63186 25.3919 -18.4183 63.0963 -2.48931 -1.52937 -11.2073 66.7177 5.94553 7.56097 
 
 # diagonal of covariance matrix
-0.40806 18.6 96.7531 24.7458 67.1884 20.4048 987.762 36.0971 2.18055 0.0413079 
+1.27228 38.1964 607.412 21.9271 129.049 15.2444 389.331 24.2588 3.53737 1.57284 
 
 # definition for class # 720
 # class name, prior probability
-''	0.000344467
+''	0.000610088
 # class type is GaussDiag
 # mean vector
-3.69291 23.6742 -62.4171 42.9637 -81.3956 7.94012 49.5291 62.5285 7.51227 8.61232 
+6.27857 23.8045 -5.93494 62.107 -4.87579 -11.4425 -34.998 77.4603 5.79934 7.99498 
 
 # diagonal of covariance matrix
-0.499616 47.6833 115.326 89.7705 5.5064 40.8965 247.988 132.897 0.588397 0.259943 
+3.61466 43.2997 588.688 36.6502 215.422 34.2172 187.63 44.1427 1.92626 0.611999 
 
 # definition for class # 721
 # class name, prior probability
-''	0.000947619
+''	0.000731074
 # class type is GaussDiag
 # mean vector
-3.09616 39.7242 -17.4907 50.7718 -2.19439 28.6297 -26.503 25.0981 2.41749 8.85244 
+5.33833 26.3079 50.2595 56.9656 46.4351 -1.27437 8.79969 65.184 4.96087 6.80462 
 
 # diagonal of covariance matrix
-0.852894 7.75789 104.708 15.4042 250.734 19.5232 186.467 39.6474 2.55683 0.231207 
+2.17053 30.1144 239.973 69.8905 512.801 30.5846 897.294 107.876 1.80127 1.56845 
 
 # definition for class # 722
 # class name, prior probability
-''	0.0010442
+''	0.000661349
 # class type is GaussDiag
 # mean vector
-3.07634 21.5753 -22.0518 38.0432 -30.4778 8.13577 -18.1588 65.6604 8.50488 9.37486 
+3.8005 15.4181 67.0277 34.0563 81.4357 0.752196 -22.0433 56.9821 7.08829 8.26699 
 
 # diagonal of covariance matrix
-0.589431 104.007 470.989 188.985 885.654 141.975 493.541 556.542 0.372614 0.0805003 
+0.7782 9.21014 52.0171 24.1783 2.33645 17.3381 319.546 74.3701 0.606139 0.461277 
 
 # definition for class # 723
 # class name, prior probability
-''	0.000463671
+''	0.000689792
 # class type is GaussDiag
 # mean vector
-5.10578 39.8779 12.1617 66.6215 39.5288 12.6849 -28.3921 60.8143 5.15511 8.00657 
+5.33228 20.8573 0.817574 57.5337 73.6854 -5.67864 -38.3856 97.2275 7.33856 8.37746 
 
 # diagonal of covariance matrix
-1.13881 21.0731 609.363 33.5361 469.254 30.7363 331.549 68.2902 2.28754 0.480442 
+1.76479 51.796 1198.42 127.474 75.5404 75.3391 556.226 372.413 0.581937 0.304775 
 
 # definition for class # 724
 # class name, prior probability
-''	0.00126527
+''	0.000384359
 # class type is GaussDiag
 # mean vector
-1.62824 65.4132 2.70218 69.7946 34.2743 61.0985 -28.7724 13.4402 5.18391 9.61771 
+2.57267 12.8922 45.5644 19.3717 63.7786 6.4591 -1.90582 19.864 4.45869 8.87377 
 
 # diagonal of covariance matrix
-0.620364 17.1734 624.963 24.3433 504.692 24.0535 694.899 69.421 4.05898 0.0822567 
+0.311499 3.40317 22.8554 7.31122 11.8806 5.69413 98.4459 11.4805 2.48668 0.283607 
 
 # definition for class # 725
 # class name, prior probability
-''	0.000577192
+''	0.000334041
 # class type is GaussDiag
 # mean vector
-2.67021 40.4869 41.0916 47.2611 63.1778 33.8795 -12.7605 21.9524 5.01375 9.37676 
+2.55397 7.38665 35.1321 11.1325 57.6976 3.59483 -12.345 15.237 5.83787 9.29501 
 
 # diagonal of covariance matrix
-0.313169 11.9209 104.72 19.5382 39.2157 15.0293 363.71 29.2771 2.88131 0.0694797 
+0.202896 1.7988 20.3456 2.50045 13.2567 2.6136 111.636 11.9638 1.79537 0.0647932 
 
 # definition for class # 726
 # class name, prior probability
-''	0.000680876
+''	8.55474e-05
 # class type is GaussDiag
 # mean vector
-1.64368 48.7321 -9.70729 51.8569 12.1155 45.6459 -28.0974 9.2169 4.53522 9.62817 
+1.94369 7.79826 -5.59872 9.75897 -10.9314 5.83766 -0.15389 5.0967 2.26149 9.53773 
 
 # diagonal of covariance matrix
-0.371736 17.7024 100.863 22.1519 391.421 19.5917 223.336 25.8978 1.88398 0.0613417 
+0.0352294 1.93974 2.72603 2.1905 9.91849 2.86512 6.61958 2.95625 1.30092 0.0366005 
 
 # definition for class # 727
 # class name, prior probability
-''	0.000806929
+''	0.000562857
 # class type is GaussDiag
 # mean vector
-2.02976 48.5635 16.7675 55.3579 6.77174 41.7698 23.0421 16.5511 1.6379 9.17064 
+3.19205 16.1795 -66.1257 26.3949 -75.3802 7.06081 -38.0869 37.1153 6.58874 8.78114 
 
 # diagonal of covariance matrix
-0.0174648 22.2066 130.828 27.523 421.734 36.324 388.754 43.5381 1.1875 0.248364 
+0.557817 13.2827 23.8619 19.8583 9.18482 23.3473 208.388 63.7646 1.3148 0.310771 
 
 # definition for class # 728
 # class name, prior probability
-''	0.000586
+''	0.000429159
 # class type is GaussDiag
 # mean vector
-2.63647 43.6136 37.7372 50.9419 -22.9891 36.1804 62.8508 23.596 4.64953 9.30725 
+3.63078 28.1612 -68.2776 44.565 -78.912 13.6256 -17.609 49.8351 7.24926 8.91616 
 
 # diagonal of covariance matrix
-0.308896 18.8638 97.4237 25.5734 230.909 26.4686 33.3977 34.5887 3.09597 0.117795 
+0.498137 18.4087 63.619 36.3008 12.766 25.289 259.63 68.183 0.571232 0.133895 
 
 # definition for class # 729
 # class name, prior probability
-''	0.000281535
+''	0.000960226
 # class type is GaussDiag
 # mean vector
-2.39356 23.1374 -8.70541 32.7563 2.93371 13.4814 -18.6064 20.9654 0.929648 8.54221 
+3.38531 27.4241 75.2073 45.1493 83.1227 10.7517 -17.4681 61.2275 7.97641 9.002 
 
 # diagonal of covariance matrix
-0.285781 3.84273 21.6113 7.99465 70.6521 9.07087 51.1539 19.054 0.589435 0.344755 
+0.389977 21.4188 22.4119 49.3608 1.47618 23.4529 415.115 87.6332 0.386392 0.135895 
 
 # definition for class # 730
 # class name, prior probability
-''	0.000794219
+''	0.000402381
 # class type is GaussDiag
 # mean vector
-3.24523 26.4429 -21.8316 39.0943 -17.4156 13.3891 -18.5106 28.3858 2.10712 8.09495 
+1.92588 14.8134 -16.045 18.3188 -40.4737 11.2094 18.9449 13.1547 4.94478 9.36639 
 
 # diagonal of covariance matrix
-0.805083 2.77305 83.3522 6.90573 209.909 6.80201 197.297 16.6194 1.42806 0.645389 
+0.219147 2.83813 37.187 4.40058 42.2896 4.18735 113.486 16.3949 2.18985 0.0888333 
 
 # definition for class # 731
 # class name, prior probability
-''	0.000749855
+''	0.000380405
 # class type is GaussDiag
 # mean vector
-2.49049 20.908 11.2767 26.1425 43.8037 15.7904 -27.9329 16.9781 4.3089 9.21487 
+2.12276 13.2055 -0.934052 16.6269 -25.4395 9.7438 24.8682 11.7732 4.00895 9.29498 
 
 # diagonal of covariance matrix
-0.33136 4.09452 83.44 7.2157 69.1858 6.78428 122.433 14.9921 3.04408 0.124361 
+0.21269 1.40978 16.0486 3.1142 51.0268 2.98766 50.4236 10.3088 3.32982 0.104643 
 
 # definition for class # 732
 # class name, prior probability
-''	0.00057963
+''	0.00072693
 # class type is GaussDiag
 # mean vector
-2.43715 20.1954 31.8396 25.1313 50.6506 15.2894 -1.18872 15.3508 4.29284 9.29552 
+4.00945 15.132 17.2595 29.7447 -4.25186 1.09023 7.62537 30.7932 4.40211 8.49478 
 
 # diagonal of covariance matrix
-0.37089 4.8658 49.6099 8.28475 45.5368 7.81625 176.811 16.5189 3.21152 0.107113 
+0.00441016 13.9876 216.999 20.3559 249.82 21.9019 319.099 32.1669 2.00663 0.301124 
 
 # definition for class # 733
 # class name, prior probability
-''	0.000277323
+''	0.00015214
 # class type is GaussDiag
 # mean vector
-1.71924 19.1576 -31.822 22.0593 -45.4078 16.2445 -10.1705 10.0981 5.0023 9.58408 
+2.00323 15.6949 -2.7728 19.0498 13.7852 12.352 -18.5511 9.30031 2.31468 9.31165 
 
 # diagonal of covariance matrix
-0.187754 5.82633 34.9503 8.05532 54.8017 5.88925 243.797 8.98139 1.4463 0.0377223 
+0.019559 2.57211 11.5454 4.12311 38.4583 3.78009 47.7317 7.54533 1.73215 0.100268 
 
 # definition for class # 734
 # class name, prior probability
-''	0.000772793
+''	0.000680305
 # class type is GaussDiag
 # mean vector
-2 22.7304 -23.1768 24.7935 -23.1163 20.6672 -22.8713 7.15267 3.32931 9.63845 
+2.77374 13.7011 -24.0402 24.6897 -21.8105 2.57288 -20.663 24.7148 1.49865 7.44477 
 
 # diagonal of covariance matrix
-0 2.2539 8.14694 3.06532 31.5876 2.52384 33.6876 2.37791 0.853495 0.0188934 
+0.534916 1.03785 29.7758 2.56377 70.0271 2.67628 76.8854 6.58062 0.569698 1.22121 
 
 # definition for class # 735
 # class name, prior probability
-''	0.00189004
+''	0.000477743
 # class type is GaussDiag
 # mean vector
-2 48.1007 -9.79402 51.9186 -8.77193 44.283 -10.0604 9.35953 1.41359 9.60212 
+2.05411 14.4914 -33.2056 20.5125 -1.83893 8.49671 -51.1359 16.9422 2.80521 8.63559 
 
 # diagonal of covariance matrix
-0 14.8326 69.5232 16.8695 167.19 19.8358 171.105 15.6392 0.871313 0.0375811 
+0.0624918 8.06733 27.1881 11.6333 141.312 10.1237 27.6198 12.6769 0.838986 0.39319 
 
 # definition for class # 736
 # class name, prior probability
-''	0.000458821
+''	0.000631775
 # class type is GaussDiag
 # mean vector
-2.55803 18.4646 32.8873 26.264 -8.55563 10.6187 54.4188 21.0176 2.94635 8.63859 
+2.71757 16.5788 -28.5386 25.7047 -15.5229 7.43491 -34.4737 21.6548 1.89842 8.00063 
 
 # diagonal of covariance matrix
-0.363423 4.04956 54.4556 7.22437 161.817 8.39121 47.0136 16.5185 1.53812 0.278464 
+0.489003 2.14737 32.3883 3.42038 128.414 3.30941 62.9539 5.20861 0.659462 0.716413 
 
 # definition for class # 737
 # class name, prior probability
-''	0.000241452
+''	0.000533347
 # class type is GaussDiag
 # mean vector
-1.50345 28.376 21.3744 30.9453 0.797433 25.8183 36.3637 7.99706 5.27028 9.71439 
+2.00043 19.6471 -35.6941 24.7484 -28.3121 14.5461 -41.2767 15.2176 2.8246 8.8606 
 
 # diagonal of covariance matrix
-0.576808 32.0017 45.8451 41.8434 66.8123 29.6684 89.4914 26.0087 4.18825 0.0762339 
+0.000109529 3.84145 8.14123 5.69081 45.1101 4.98599 33.7741 6.65163 0.373545 0.281759 
 
 # definition for class # 738
 # class name, prior probability
-''	0.000440148
+''	0.000857071
 # class type is GaussDiag
 # mean vector
-2.06199 23.0959 -15.8857 30.8511 -29.1379 15.3368 -0.0215644 17.8105 1.20873 8.74414 
+1.3455 37.2005 -23.6171 39.8597 3.6926 34.5526 -42.3296 8.07158 5.26384 9.62423 
 
 # diagonal of covariance matrix
-0.0190173 4.48045 16.8745 9.24569 39.3189 7.29859 56.8675 16.1111 0.202172 0.317515 
+0.25505 13.6728 107.002 15.1943 338.245 15.7778 112.665 13.071 2.07349 0.0697917 
 
 # definition for class # 739
 # class name, prior probability
-''	0.00059873
+''	0.000384284
 # class type is GaussDiag
 # mean vector
-2.79606 27.94 0.279605 36.2692 25.2573 19.6487 -23.8656 20.5829 2.67475 8.92062 
+1.03415 44.4243 -35.3724 49.3442 30.8839 39.4162 -66.7544 15.6698 6.87569 9.54671 
 
 # diagonal of covariance matrix
-0.652118 5.58738 127.829 11.0852 237.193 10.6765 208.476 21.6783 1.94599 0.173832 
+0.211164 29.7014 618.343 37.77 1017.09 34.0433 71.7802 53.9554 1.44929 0.0878274 
 
 # definition for class # 740
 # class name, prior probability
-''	0.000392153
+''	0.00561053
 # class type is GaussDiag
 # mean vector
-2.60109 29.422 43.0285 37.8627 49.4018 21.1254 27.7959 23.7165 3.60413 8.87412 
+0 63.9517 0 63.9517 0 63.9517 0 -91.0584 0 10.0065 
 
 # diagonal of covariance matrix
-0.425331 11.0179 82.5082 22.6458 159.182 16.2904 430.958 38.1217 3.01875 0.326695 
+0 4.61011 0 4.61011 0 4.61011 0 307.127 0 0.000947095 
 
 # definition for class # 741
 # class name, prior probability
-''	0.000383332
+''	0.00078557
 # class type is GaussDiag
 # mean vector
-2.05398 15.685 14.9807 20.2061 0.851183 11.1502 27.2782 12.3435 2.22331 9.08942 
+0.529404 -6.58975 8.38001e-08 -5.0136 -1.62271e-05 -8.14739 1.61433e-05 3.22964 5.83129 9.93964 
 
 # diagonal of covariance matrix
-0.019666 2.60976 33.2896 5.4885 143.344 5.77104 84.9778 13.723 2.29178 0.220238 
+0.144081 15.4523 4.39574e-10 18.5765 7.33719e-08 17.9131 7.2935e-08 10.8242 11.3894 0.00415434 
 
 # definition for class # 742
 # class name, prior probability
-''	0.000493931
+''	0.000600854
 # class type is GaussDiag
 # mean vector
-2.06496 17.3398 -8.00778 23.7199 -24.5554 10.9486 10.1931 15.1305 1.33672 8.88137 
+1.16788 -50.4497 -22.1396 -46.9559 -44.2806 -53.9152 13.9538 10.5978 6.02902 9.7595 
 
 # diagonal of covariance matrix
-0.0260003 2.53935 30.1752 4.60535 45.4613 5.11516 97.6447 10.661 0.24325 0.177472 
+0.186596 65.0978 457.051 70.1736 507.698 68.6614 965.961 34.1146 2.13322 0.0255649 
 
 # definition for class # 743
 # class name, prior probability
-''	0.000469731
+''	0.000654663
 # class type is GaussDiag
 # mean vector
-2.45249 18.7597 -25.6351 26.1522 -36.8539 11.2613 -5.9909 18.1745 2.08663 8.75795 
+1.50533 -28.7123 -32.2201 -25.3016 -48.3862 -32.1307 -4.31924 10.5952 4.98078 9.52257 
 
 # diagonal of covariance matrix
-0.238573 2.04763 28.6346 3.62039 56.7101 3.85511 109.608 6.69657 0.509355 0.185016 
+0.165661 23.7468 93.3751 24.5651 100.506 26.8382 500.148 11.8017 1.09533 0.0413705 
 
 # definition for class # 744
 # class name, prior probability
-''	0.000623515
+''	0.000520164
 # class type is GaussDiag
 # mean vector
-2 20.9236 -23.3653 26.8747 -23.1375 14.9723 -23.0046 14.853 1.5777 9.002 
+2.01612 -4.78247 -25.9285 3.23495 -36.2958 -12.7974 -11.1695 19.6341 1.69335 8.90685 
 
 # diagonal of covariance matrix
-0 3.657 13.6298 4.80347 53.9702 5.94525 53.7564 7.53338 0.251043 0.158598 
+0.00704068 8.72338 64.913 12.9749 105.625 14.1965 304.641 22.3351 0.374346 0.301723 
 
 # definition for class # 745
 # class name, prior probability
-''	0.0006122
+''	0.000821043
 # class type is GaussDiag
 # mean vector
-2.08383 23.7475 -23.1019 31.23 -2.62131 16.2775 -38.0849 18.3215 1.55453 8.70518 
+3.99139 -2.61794 -34.0824 8.2759 -27.0379 -12.3763 -33.3543 25.2446 4.75409 8.79378 
 
 # diagonal of covariance matrix
-0.0424318 5.55726 39.3882 8.86818 170.968 9.039 56.4404 15.6366 0.333656 0.43344 
+0.416207 5.18639 92.6999 11.6448 169.76 8.79121 122.381 19.6121 2.12233 0.262121 
 
 # definition for class # 746
 # class name, prior probability
-''	0.00168618
+''	0.000510176
 # class type is GaussDiag
 # mean vector
-2 33.9829 -28.7946 37.3769 -27.5955 30.5889 -29.2326 10.6824 3.12133 9.47383 
+3.63566 3.73281 -22.808 10.9154 -24.5762 -3.20283 -16.6425 17.1295 3.89329 8.69696 
 
 # diagonal of covariance matrix
-0 4.2325 16.5661 6.90729 54.4204 6.00526 55.4463 10.1253 0.913899 0.0786418 
+0.402475 3.11933 53.4981 5.53605 84.6094 6.17778 136.031 11.0843 1.90949 0.18348 
 
 # definition for class # 747
 # class name, prior probability
-''	0.000547657
+''	0.00017751
 # class type is GaussDiag
 # mean vector
-2.2063 28.5934 -37.0037 33.4856 -17.2177 23.7073 -48.0349 15.2461 3.77082 9.01597 
+1.47121 4.00896 -26.8138 7.29687 -0.327687 0.726943 -44.6398 9.60872 5.25087 9.50174 
 
 # diagonal of covariance matrix
-0.30306 5.23165 49.4661 9.49465 242.475 6.99394 85.1784 17.4124 1.85492 0.292778 
+0.643491 8.94704 9.17206 13.9489 22.7108 12.4593 15.6381 32.1155 3.03356 0.172834 
 
 # definition for class # 748
 # class name, prior probability
-''	0.000924397
+''	0.000294626
 # class type is GaussDiag
 # mean vector
-1.75894 52.4404 -32.3863 56.9454 -3.81047 47.967 -48.7362 13.1368 4.42242 9.29716 
+2.91302 8.10747 10.9165 17.663 8.29598 -1.28825 10.227 21.1574 1.84617 8.1541 
 
 # diagonal of covariance matrix
-0.48267 25.5645 71.7376 32.3612 358.024 30.6971 83.503 38.3205 3.1374 0.278913 
+0.460485 2.67854 70.095 6.15141 177.69 6.45764 171.844 13.9644 1.2118 0.413944 
 
 # definition for class # 749
 # class name, prior probability
-''	0.000965554
+''	0.000546287
 # class type is GaussDiag
 # mean vector
-0.674447 41.7798 -0.455485 43.5941 35.5617 39.9604 -33.5236 5.06451 7.34737 9.88917 
+3.70425 12.3343 39.8946 24.136 -32.598 0.285973 65.4627 32.7156 4.91414 8.04954 
 
 # diagonal of covariance matrix
-0.0384563 55.5582 516.523 56.2543 410.885 57.8265 713.658 7.91474 0.614552 0.00802488 
+0.816231 8.05004 168.391 11.7855 158.98 15.7842 44.0549 23.7696 1.67953 0.702512 
 
 # definition for class # 750
 # class name, prior probability
-''	0.00618709
+''	0.000695792
 # class type is GaussDiag
 # mean vector
-0 85.3283 0 85.3283 0 85.3283 0 -120.115 0 10.0058 
+2.82457 -9.4987 -67.6342 11.1117 -82.3983 -22.6709 -19.1357 85.3338 8.5138 9.31358 
 
 # diagonal of covariance matrix
-0 4.54125 0 4.54125 0 4.54125 0 486.487 0 0.000961332 
+0.525605 44.4987 143.345 122.786 12.3602 72.9553 835.415 896.663 0.45391 0.118137 
 
 # definition for class # 751
 # class name, prior probability
-''	0.000717944
+''	0.00057356
 # class type is GaussDiag
 # mean vector
-0.729435 9.76304 -1.69336e-06 14.0562 -2.52705e-05 5.43562 1.53041e-05 8.77622 6.88816 9.82164 
+3.75906 11.4617 -63.073 39.6275 -82.2095 -6.91661 -1.61784 79.79 6.93612 8.07423 
 
 # diagonal of covariance matrix
-0.145154 37.5701 4.53505e-08 55.0552 1.37641e-07 44.2029 1.11215e-07 48.842 3.96495 0.0194869 
+0.835269 23.8244 141.756 103.571 6.54802 36.3083 674.7 302.156 0.851937 0.544806 
 
 # definition for class # 752
 # class name, prior probability
-''	0.000276689
+''	0.000878153
 # class type is GaussDiag
 # mean vector
-2.10034 6.88543 -18.013 11.4729 -39.1976 2.24278 11.1743 13.4925 3.21858 8.7128 
+5.77586 7.74791 -41.5282 48.1951 -20.9075 -28.7171 -38.6994 82.8724 5.85685 8.11111 
 
 # diagonal of covariance matrix
-0.102083 2.98785 20.3208 4.32455 24.118 5.18704 71.306 6.62044 1.95934 0.342319 
+2.26684 33.6876 354.289 39.8823 543.528 34.6441 302.656 45.0653 2.23871 0.745104 
 
 # definition for class # 753
 # class name, prior probability
-''	0.000677995
+''	0.000380396
 # class type is GaussDiag
 # mean vector
-2.13189 13.0344 -14.0938 23.3902 -25.4504 2.65739 -0.0152945 22.4884 0.802092 7.58203 
+6.47584 31.7066 -26.1958 64.6969 37.1473 1.04187 -28.1716 72.2014 6.16797 7.55489 
 
 # diagonal of covariance matrix
-0.053725 4.74441 11.7428 7.92157 33.3232 6.88108 20.4733 10.9209 0.0920644 1.18993 
+2.4518 30.9014 532.12 55.3914 369.048 26.3374 433.171 91.4576 0.795742 0.690534 
 
 # definition for class # 754
 # class name, prior probability
-''	0.000451643
+''	0.00057538
 # class type is GaussDiag
 # mean vector
-2.06447 14.8404 -23.7745 24.1825 1.77268 5.50991 -41.8064 22.1067 1.30285 7.87621 
+4.73117 39.5629 -29.6286 68.7593 -1.74346 11.7605 -32.5043 60.1206 5.159 7.98404 
 
 # diagonal of covariance matrix
-0.0243734 6.44553 29.4302 11.1686 115.58 10.7444 43.8949 18.7468 0.235502 1.10751 
+1.30443 34.2069 342.786 19.2788 89.621 23.7416 247.481 27.9535 4.31832 0.968709 
 
 # definition for class # 755
 # class name, prior probability
-''	0.000508506
+''	0.000633433
 # class type is GaussDiag
 # mean vector
-2.6226 7.19974 -44.7253 17.2194 -72.6826 0.0240069 -1.43912 44.6534 7.43119 8.69643 
+5.70899 20.9403 15.1882 50.1851 -7.47532 -6.71138 -15.8121 60.1162 5.92592 7.92199 
 
 # diagonal of covariance matrix
-0.145279 10.3216 240.418 25.1282 33.9893 14.0356 495.908 160.354 1.13242 0.521503 
+2.03023 13.0738 378.656 15.4052 452.177 23.3218 367.916 30.1127 1.54677 0.842675 
 
 # definition for class # 756
 # class name, prior probability
-''	0.000359232
+''	0.000557543
 # class type is GaussDiag
 # mean vector
-4.31218 23.5973 -11.109 36.4652 -40.7723 9.90072 27.7479 33.4547 4.726 8.2713 
+6.90358 22.8752 44.2366 59.168 56.0121 -9.63557 -40.5119 79.8485 6.42126 7.94742 
 
 # diagonal of covariance matrix
-1.1118 6.00048 204.121 12.1793 58.9394 9.45875 107.91 23.063 2.48013 0.435295 
+3.18478 32.9152 477.383 84.4479 438.154 49.6098 146.756 146.116 0.837119 0.497013 
 
 # definition for class # 757
 # class name, prior probability
-''	0.000584507
+''	0.00053001
 # class type is GaussDiag
 # mean vector
-2.46977 21.5454 -17.6953 36.9996 -28.6455 5.97917 -0.15855 33.3352 0.948308 7.51298 
+3.06401 13.7606 69.7763 27.5906 79.3553 2.18157 42.7315 59.3369 7.7708 8.68778 
 
 # diagonal of covariance matrix
-0.405876 3.94279 59.7624 9.2396 112.012 7.76093 112.958 18.6344 0.267912 1.22663 
+0.392064 18.2279 61.4482 46.9559 10.7559 26.8363 318.539 200.663 0.684362 0.336474 
 
 # definition for class # 758
 # class name, prior probability
-''	0.000344816
+''	0.000359986
 # class type is GaussDiag
 # mean vector
-4.74375 17.9363 -23.4917 43.4082 -36.0931 -6.7323 -1.47351 53.1541 3.87403 7.37193 
+2.45723 9.65574 41.8726 14.1653 40.4852 5.17353 41.0171 17.5241 5.52739 9.14508 
 
 # diagonal of covariance matrix
-1.83113 9.22213 186.511 10.2782 130.368 15.3993 25.9958 20.752 3.25369 1.13165 
+0.63539 7.5477 37.6154 11.1463 116.219 12.3993 84.9174 37.1329 2.96396 0.207518 
 
 # definition for class # 759
 # class name, prior probability
-''	0.000523434
+''	0.000217393
 # class type is GaussDiag
 # mean vector
-6.56904 22.6055 -37.9739 44.9379 -31.2832 -0.521639 -18.0748 48.8044 5.77975 7.68184 
+2.10503 4.55883 -66.8784 15.7635 -81.98 -2.66684 6.48643 53.6452 8.74131 9.53797 
 
 # diagonal of covariance matrix
-2.22372 8.5654 219.033 8.5351 102.521 7.98033 99.4376 12.5503 0.761592 0.571238 
+0.602248 26.1806 68.0391 38.899 8.08896 40.0503 776.62 629.612 0.467692 0.068039 
 
 # definition for class # 760
 # class name, prior probability
-''	0.00056092
+''	0.00046121
 # class type is GaussDiag
 # mean vector
-5.27151 22.0785 -48.5596 40.5127 -40.2355 3.00903 -36.4215 43.5796 6.09506 8.52229 
+3.47773 11.225 38.9775 29.3066 74.4873 -1.37961 -3.86736 57.1994 6.75794 8.27299 
 
 # diagonal of covariance matrix
-1.38258 7.0508 71.8951 10.4712 145.205 10.5124 94.7943 15.0083 0.775945 0.187967 
+0.822892 17.9904 196.644 60.4242 26.6723 28.7309 388.919 138.789 0.954143 0.364731 
 
 # definition for class # 761
 # class name, prior probability
-''	0.00052705
+''	0.000475998
 # class type is GaussDiag
 # mean vector
-4.87124 27.9919 -46.1564 52.1588 -18.7167 6.51508 -50.7299 52.3944 5.24073 8.27986 
+3.301 -9.85846 -15.4456 3.46654 -14.3555 -22.9398 -15.6277 29.1491 2.8811 8.63212 
 
 # diagonal of covariance matrix
-1.54382 11.1136 145.987 15.7699 347.836 16.7024 115.607 24.2567 2.32875 0.381028 
+1.0622 8.62576 170.843 17.7379 246.737 15.3596 322.912 29.471 4.69036 0.395099 
 
 # definition for class # 762
 # class name, prior probability
-''	0.00112562
+''	0.000272557
 # class type is GaussDiag
 # mean vector
-4.91042 38.328 -16.4257 56.396 -25.8803 18.1337 -16.8482 41.7827 5.79193 8.8094 
+2.22671 3.96654 -18.6223 11.7948 -10.7938 -3.8449 -23.6981 17.7402 1.04081 8.06319 
 
 # diagonal of covariance matrix
-1.05168 10.1944 286.746 15.6611 160.197 17.7429 229.439 27.706 1.09295 0.114184 
+0.104992 1.86666 24.223 4.1507 85.5329 4.18764 81.3441 10.0663 0.177595 0.838065 
 
 # definition for class # 763
 # class name, prior probability
-''	0.000693613
+''	0.00035008
 # class type is GaussDiag
 # mean vector
-6.04969 28.3089 47.8537 51.7842 -35.7922 3.60569 61.694 57.2423 6.02981 7.793 
+4.38924 -6.68609 -10.1751 18.5913 -39.0384 -33.2811 37.351 62.1027 5.28956 8.25155 
 
 # diagonal of covariance matrix
-1.64915 14.0831 225.453 22.0168 114.849 20.2555 123.1 33.8495 0.844092 0.497747 
+1.99287 46.5486 1002.93 84.4206 296.773 87.7083 524.163 155.865 5.23256 0.783832 
 
 # definition for class # 764
 # class name, prior probability
-''	0.00073184
+''	0.000550258
 # class type is GaussDiag
 # mean vector
-6.15253 41.949 59.5761 72.3962 -30.7641 8.19386 65.3785 74.644 6.63263 8.11205 
+3.71593 10.9766 20.8155 22.6106 -29.4297 -6.82231 72.7987 58.3414 7.60022 8.99835 
 
 # diagonal of covariance matrix
-1.79097 28.9213 119.528 28.88 192.55 42.1747 120.122 55.4434 0.78562 0.421049 
+1.30706 24.6373 614.105 41.6038 290.623 72.4541 52.6493 221.121 0.784946 0.185893 
 
 # definition for class # 765
 # class name, prior probability
-''	0.000678519
+''	0.000588564
 # class type is GaussDiag
 # mean vector
-4.68954 21.6872 -22.1657 63.566 -77.0554 -2.68397 -0.393699 112.658 7.8436 8.66784 
+4.43637 -11.4115 39.7441 28.9585 -11.3859 -47.8811 -0.13907 80.8244 7.33243 8.77879 
 
 # diagonal of covariance matrix
-1.55281 105.953 1016.24 288.053 38.276 159.537 1138.51 843.475 0.481444 0.242746 
+0.763322 124.312 633.837 102.21 495.572 121.94 519.807 143.676 0.938371 0.191038 
 
 # definition for class # 766
 # class name, prior probability
-''	0.00104165
+''	0.000511823
 # class type is GaussDiag
 # mean vector
-3.25408 38.1498 -74.0124 76.6642 -85.8488 16.8409 -18.0746 121.062 8.61202 9.30184 
+4.74573 1.49975 60.5788 32.431 62.3739 -47.8503 1.59848 91.6713 7.47656 8.64045 
 
 # diagonal of covariance matrix
-0.616065 73.3328 91.6553 188.231 1.96354 119.427 723.099 751.093 0.447214 0.125977 
+1.44735 198.139 190.729 134.76 245.876 139.818 56.1555 294.622 2.20705 0.33643 
 
 # definition for class # 767
 # class name, prior probability
-''	0.00173743
+''	0.000893166
 # class type is GaussDiag
 # mean vector
-5.82455 56.8522 56.2111 126.668 22.015 -6.59097 -7.90091 143.548 7.25439 8.37742 
+3.30706 -66.8027 65.7631 -10.9052 86.4874 -96.8355 -10.5811 193.422 8.55805 9.31861 
 
 # diagonal of covariance matrix
-3.25892 300.067 300.862 248.518 1394.16 247.762 1299.7 307.97 1.33063 0.59753 
+1.28035 323.32 520.175 1040.98 3.61053 540.295 996.44 5846.43 0.877978 0.178402 
 
 # definition for class # 768
 # class name, prior probability
-''	0.00638792
+''	0.0163197
 # class type is GaussDiag
 # mean vector
-2.59817 110.664 0.132602 160.183 2.07437e-07 57.9991 7.07996e-08 103.024 5.46117 9.24844 
+0 263.857 0 263.857 0 263.857 0 -359.802 0 10.0081 
 
 # diagonal of covariance matrix
-3.76441 3413.78 7.83704 4205.01 3.30834e-09 8760.2 2.40051e-08 10873.5 13.4252 0.600658 
+0 1816.39 0 1816.39 0 1816.39 0 3896.52 0 0.0019418 
 
 # definition for class # 769
 # class name, prior probability
-''	0.000407343
+''	0.000745731
 # class type is GaussDiag
 # mean vector
-5.91148 46.0101 -41.2949 93.8059 17.4182 1.92527 -24.2328 95.8849 6.08822 7.28014 
+1.84241 -13.987 -3.13984e-05 -6.02838 -1.19166e-07 -21.8796 1.01884e-07 15.9306 0.740229 9.40585 
 
 # diagonal of covariance matrix
-2.4798 116.631 413.341 57.7829 425.278 47.1679 378.606 73.6153 1.69958 1.15996 
+0.172966 107.395 1.03023e-06 117.715 5.32503e-10 139.822 4.7737e-10 84.675 4.67563 0.191674 
 
 # definition for class # 770
 # class name, prior probability
-''	0.00061947
+''	0.000241158
 # class type is GaussDiag
 # mean vector
-6.23977 48.9054 -57.5537 108.47 -7.58693 -7.04531 -52.5497 128.552 6.90836 8.17109 
+1.95799 -16.1034 -36.792 -6.99711 -63.8355 -24.6443 28.0355 29.6512 5.8766 9.27014 
 
 # diagonal of covariance matrix
-2.95358 129.592 237.662 146.759 1189.3 113.603 346.629 143.883 1.12676 0.45399 
+0.428235 42.5475 408.829 47.7733 166.769 59.3964 529.491 138.486 4.77418 0.145612 
 
 # definition for class # 771
 # class name, prior probability
-''	0.00402173
+''	0.000368255
 # class type is GaussDiag
 # mean vector
-5.27454 146.801 -17.875 261.357 85.6601 33.1902 -86.0023 406.577 8.94697 9.2827 
+2.44428 -1.70424 -28.4364 5.63099 -51.9647 -8.84085 12.8805 20.7086 3.93137 8.78097 
 
 # diagonal of covariance matrix
-2.78703 2280.47 3016.3 5920.02 10.1666 3962.87 14.2752 13033.1 0.337728 0.160888 
+0.603476 6.7226 187.772 11.5379 121.8 12.2759 399.799 30.3289 2.08993 0.233875 
 
 # definition for class # 772
 # class name, prior probability
-''	0.00292473
+''	0.000439952
 # class type is GaussDiag
 # mean vector
-2.92094 155.948 86.7585 202.065 87.2609 110.215 87.4253 307.981 9.6592 9.81192 
+2.91039 2.51201 -36.8031 11.2508 -38.145 -6.14232 -29.7533 22.3239 2.97702 8.30667 
 
 # diagonal of covariance matrix
-1.54601 6155.82 6.61261 7120.23 4.365 9163.75 3.27693 19017.7 0.0679676 0.0234231 
+0.791381 3.3442 25.7118 6.8725 71.5789 5.8108 93.3051 11.2655 1.75395 0.799031 
 
 # definition for class # 773
 # class name, prior probability
-''	0.0006431
+''	0.000322686
 # class type is GaussDiag
 # mean vector
-2.05892 3.4336 86.4758 16.6076 85.8097 -8.76147 86.4518 139.839 9.56788 9.7537 
+2.56075 2.38717 -21.8178 14.2218 -33.0796 -9.39912 -0.885899 26.3027 1.46582 7.88384 
 
 # diagonal of covariance matrix
-0.893479 308.18 2.69599 592.081 11.4359 416.298 2.93548 3593.05 0.11298 0.0497294 
+0.44129 3.22258 51.6846 9.2014 80.96 9.60434 53.9231 25.238 0.599262 0.829864 
 
 # definition for class # 774
 # class name, prior probability
-''	0.000897428
+''	0.000702482
 # class type is GaussDiag
 # mean vector
-2 9.7827 -36.8321 12.3206 -36.4804 7.24482 -36.6781 10.3476 4.41136 9.3645 
+5.76816 -2.31765 -0.532351 24.477 -9.34734 -29.5393 -23.6901 57.5965 6.11939 8.1971 
 
 # diagonal of covariance matrix
-0 1.39789 6.5964 1.96582 26.5303 2.31128 26.0469 3.25218 0.710005 0.0614403 
+1.69053 18.4174 595.648 24.1475 420.185 25.4057 275.685 40.4132 1.23307 0.40506 
 
 # definition for class # 775
 # class name, prior probability
-''	0.000770622
+''	0.000274033
 # class type is GaussDiag
 # mean vector
-2 13.1596 -33.1201 15.316 -33.6209 11.0031 -32.2394 8.90288 4.35408 9.47658 
+2.5242 8.61195 24.4418 15.4911 62.1502 2.27059 -37.8814 25.3519 5.58656 8.88754 
 
 # diagonal of covariance matrix
-0 1.25091 6.0291 1.70814 18.3351 1.76078 26.4411 2.29914 0.691286 0.0440368 
+0.284894 3.45262 102.511 9.04277 24.4627 6.80972 71.7894 28.9122 2.60055 0.296738 
 
 # definition for class # 776
 # class name, prior probability
-''	0.000534665
+''	0.000377826
 # class type is GaussDiag
 # mean vector
-2 11.525 -23.6778 15.4546 -20.7107 7.59531 -26.2759 10.8308 2.16361 9.05953 
+2 5.65136 -34.9231 10.0407 -28.696 1.26197 -39.7578 13.6575 3.05023 8.95328 
 
 # diagonal of covariance matrix
-0 1.38038 6.15682 2.57533 20.2569 2.26046 24.2079 4.74477 0.383222 0.189012 
+0 1.61303 9.37712 2.51034 47.7716 2.83103 29.3073 4.79569 0.417197 0.253573 
 
 # definition for class # 777
 # class name, prior probability
-''	0.000565964
+''	0.000230547
 # class type is GaussDiag
 # mean vector
-2.8308 14.1007 52.7606 20.194 -5.85579 8.42543 68.0922 21.0669 5.98765 9.1502 
+2.38925 4.13429 -36.9108 10.2972 -16.5272 -1.84992 -47.0839 17.142 2.99296 8.6524 
 
 # diagonal of covariance matrix
-0.240031 6.22025 33.0589 7.53435 268.71 10.067 13.5419 13.6297 1.72535 0.165445 
+0.258694 5.27954 15.1027 7.52666 127.976 9.0734 44.4365 12.4468 0.828591 0.429268 
 
 # definition for class # 778
 # class name, prior probability
-''	0.000431224
+''	0.000241212
 # class type is GaussDiag
 # mean vector
-2.25904 10.1051 -7.8576 21.9904 -9.89808 -1.8068 -3.15433 25.0241 0.530835 7.52707 
+1.66024 10.299 -25.2302 11.5628 -28.5405 9.03222 -20.7386 5.52028 5.40291 9.74033 
 
 # diagonal of covariance matrix
-0.131878 3.38196 32.5932 5.53031 91.068 6.45829 114.684 11.1515 0.122138 1.19411 
+0.111443 1.3916 17.911 1.73265 63.0607 1.7728 86.7305 2.32791 0.999462 0.0120795 
 
 # definition for class # 779
 # class name, prior probability
-''	0.000371906
+''	0.00073654
 # class type is GaussDiag
 # mean vector
-4.26899 11.8104 -16.0402 25.9106 -1.704 -1.8568 -23.0156 30.2087 3.84108 8.31859 
+2 9.00616 -30.4676 13.4096 -32.7205 4.60271 -27.3839 12.8004 2.60412 8.77257 
 
 # diagonal of covariance matrix
-0.366223 3.90245 174.549 9.29175 66.4783 9.33329 189.962 17.9954 1.6697 0.296756 
+0 1.67409 14.3974 2.66264 36.0987 2.17356 61.835 3.85676 0.305399 0.38222 
 
 # definition for class # 780
 # class name, prior probability
-''	0.000706458
+''	0.000551417
 # class type is GaussDiag
 # mean vector
-2.97882 11.314 57.1388 18.7747 72.6906 3.60764 -15.8563 26.364 6.07566 8.91224 
+2.00003 15.0987 -39.9327 20.9242 -44.6025 9.27309 -33.1254 17.4305 2.95196 8.65745 
 
 # diagonal of covariance matrix
-0.197741 5.1634 23.8673 7.51864 4.38713 8.24473 222.995 10.9565 1.41185 0.252679 
+2.00093e-05 3.29427 13.8794 5.80488 38.3169 5.07919 83.9578 8.92667 0.476082 0.386365 
 
 # definition for class # 781
 # class name, prior probability
-''	0.000343245
+''	0.000422842
 # class type is GaussDiag
 # mean vector
-3.05529 -10.1547 15.8765 3.02955 36.6679 -22.6017 -14.5213 31.2431 3.21694 8.61487 
+2.02209 13.9444 -28.3191 19.897 -25.1728 7.99324 -30.6425 15.5595 1.92601 8.63348 
 
 # diagonal of covariance matrix
-0.753803 21.7501 359.95 38.4864 466.345 40.0441 519.325 79.5087 3.7756 0.343008 
+0.00672228 2.5487 9.86664 3.09742 33.6591 4.35551 39.8912 5.03996 0.254906 0.477523 
 
 # definition for class # 782
 # class name, prior probability
-''	0.000298927
+''	0.000768014
 # class type is GaussDiag
 # mean vector
-2 -7.12175 -8.68494 -3.80896 -12.8821 -10.4345 -4.03203 8.12228 1.49356 9.56907 
+1.1037 12.6102 -28.76 14.6161 -6.63343 10.6008 -43.0129 6.76156 6.34056 9.7514 
 
 # diagonal of covariance matrix
-0 3.86128 24.7788 7.09813 87.0835 5.28222 68.4878 10.1223 0.772649 0.0280035 
+0.137806 7.91486 153.434 9.38861 661.122 9.11405 145.38 7.8743 1.5655 0.0305974 
 
 # definition for class # 783
 # class name, prior probability
-''	0.000295924
+''	0.000343985
 # class type is GaussDiag
 # mean vector
-2.04482 4.96766 -12.2148 10.6061 -5.16719 -0.667714 -18.6264 12.7939 0.793264 8.48989 
+2.5706 16.3988 53.9732 21.4137 45.8631 11.4778 57.1927 21.2578 6.5676 9.27042 
 
 # diagonal of covariance matrix
-0.0142809 2.35485 7.71866 4.64867 29.8331 3.40513 41.7122 6.86215 0.166355 0.436569 
+0.895205 18.5334 39.4836 23.0894 110.096 27.9781 52.935 51.399 2.25163 0.22281 
 
 # definition for class # 784
 # class name, prior probability
-''	0.000640518
+''	0.000180326
 # class type is GaussDiag
 # mean vector
-2 2.00277 -28.9913 4.5455 -29.3818 -0.540097 -28.1492 8.94536 3.57615 9.36526 
+1.83341 10.5641 -13.9131 16.2189 -62.514 5.23395 50.9193 22.2909 6.84402 9.27604 
 
 # diagonal of covariance matrix
-0 0.943102 10.3856 1.63433 34.1379 1.53203 32.9945 3.01953 0.687352 0.0859794 
+1.05063 7.02679 252.593 11.7443 47.4597 12.533 122.905 129.792 1.3136 0.269384 
 
 # definition for class # 785
 # class name, prior probability
-''	0.000300671
+''	0.000131005
 # class type is GaussDiag
 # mean vector
-2 7.69509 -26.2451 11.489 -21.1488 3.90121 -30.6772 10.9249 2.43866 8.9199 
+1.94423 9.82916 -41.9396 17.2942 -67.0332 2.67999 27.9721 23.4866 5.0597 8.84877 
 
 # diagonal of covariance matrix
-0 0.85559 6.46868 2.24688 26.5153 1.42626 19.1584 5.02856 0.332178 0.336781 
+0.315599 12.5246 64.5497 14.5716 17.0096 21.9238 136.067 36.7836 1.89174 0.323765 
 
 # definition for class # 786
 # class name, prior probability
-''	0.000410504
+''	0.000341586
 # class type is GaussDiag
 # mean vector
-2 8.38908 -25.8015 10.155 -25.5893 6.62314 -25.9032 6.87742 3.85928 9.50646 
+4.78398 17.5147 5.94972 37.7353 60.5878 1.08429 -11.6345 56.2717 6.43151 8.0333 
 
 # diagonal of covariance matrix
-0 1.59473 1.84559 2.04598 8.18676 1.81982 8.55921 1.53169 0.683359 0.0393133 
+1.56314 21.7693 437.466 56.3772 157.099 15.0959 200.417 109.156 0.68398 0.480085 
 
 # definition for class # 787
 # class name, prior probability
-''	0.000260996
+''	0.000461767
 # class type is GaussDiag
 # mean vector
-2 8.22846 -19.7173 11.0704 -20.2178 5.38653 -19.1525 8.02002 2.19896 9.18501 
+2.42144 17.916 -14.535 32.8665 -25.0284 2.91963 0.0634739 31.5398 0.765575 7.16148 
 
 # diagonal of covariance matrix
-0 1.08754 1.62303 1.74924 6.00653 1.5704 6.92474 2.28029 0.344624 0.158694 
+0.388559 8.88991 29.9008 14.4532 67.9402 13.3759 0.637166 20.5511 0.203245 1.6115 
 
 # definition for class # 788
 # class name, prior probability
-''	0.000434609
+''	0.000407031
 # class type is GaussDiag
 # mean vector
-1.92615 14.2104 -15.7657 18.0565 19.602 10.4938 -40.1427 13.1795 4.91678 9.29247 
+3.76831 17.5696 -62.5406 33.7424 -76.0842 3.49054 -6.95551 43.9075 5.75063 7.74677 
 
 # diagonal of covariance matrix
-0.358606 3.22254 63.2977 5.49885 135.552 4.32715 72.8337 18.7458 1.78177 0.0984036 
+0.628441 12.0882 47.6534 25.1204 12.0048 15.1361 374.71 50.6814 1.05746 0.712254 
 
 # definition for class # 789
 # class name, prior probability
-''	0.000723258
+''	0.000307956
 # class type is GaussDiag
 # mean vector
-0.290094 14.1472 0 15.3816 -1.1204e-05 12.9149 1.1204e-05 2.48155 7.69051 9.96369 
+3.58017 21.3032 -38.6743 38.488 -55.0015 3.52711 5.64118 41.4009 3.30656 7.37439 
 
 # diagonal of covariance matrix
-0.0107516 3.33774 0 4.00637 5.86458e-08 4.05239 5.86458e-08 2.74783 6.98177 0.00088634 
+1.00289 5.84866 131.978 12.104 73.475 12.1246 314.955 25.3957 2.44246 1.27598 
 
 # definition for class # 790
 # class name, prior probability
-''	0.00415965
+''	0.000978056
 # class type is GaussDiag
 # mean vector
-0 42.0768 0 42.0768 0 42.0768 0 -62.8256 0 10.0083 
+5.18169 30.1427 -21.5889 49.4409 -30.15 9.23215 -15.8823 43.5656 5.40464 8.38219 
 
 # diagonal of covariance matrix
-0 8.45287 0 8.45287 0 8.45287 0 199.784 0 -0.00106602 
+1.47309 6.78167 141.066 7.72734 93.4474 9.02081 144.39 14.3084 1.50166 0.306192 
 
 # definition for class # 791
 # class name, prior probability
-''	0.00244904
+''	0.000343585
 # class type is GaussDiag
 # mean vector
-0.249384 1.18954 0 2.81888 0 -0.439796 0 3.25868 8.75625 9.94937 
+4.62435 25.6377 -36.849 44.925 -42.3623 5.08063 -21.6246 44.451 4.59073 7.73647 
 
 # diagonal of covariance matrix
-7.66199e-05 41.3165 0 43.4338 0 41.3773 0 4.3561 0.000280438 0.00184632 
+0.677486 5.60137 58.5213 5.70437 39.6354 4.8945 117.189 7.80853 1.2596 0.63343 
 
 # definition for class # 792
 # class name, prior probability
-''	0.000521097
+''	0.000808187
 # class type is GaussDiag
 # mean vector
-1.16606 -1.53098 -31.5199 0.87222 -47.1312 -3.93398 -6.59029 7.46704 6.04637 9.5988 
+3.01721 44.1032 -63.6135 60.8389 -79.1799 32.2803 -22.9582 62.4726 7.76317 9.30679 
 
 # diagonal of covariance matrix
-0.0697841 10.0718 72.7058 11.1081 59.2603 11.3479 396.623 6.36881 1.03511 0.0522467 
+0.535374 22.3778 161.473 68.3786 21.0532 40.8121 792.151 381.255 1.24129 0.120754 
 
 # definition for class # 793
 # class name, prior probability
-''	0.000340953
+''	0.000211761
 # class type is GaussDiag
 # mean vector
-2.01819 8.40813 -36.1736 11.7315 -47.7966 5.07509 -17.0639 11.975 5.1667 9.27544 
+4.87795 33.9527 -47.6403 61.4459 -62.489 5.60907 30.3282 68.5896 5.43816 7.5704 
 
 # diagonal of covariance matrix
-0.470039 3.93906 29.3207 5.55091 41.5751 5.32036 197.289 12.4764 2.07811 0.147014 
+1.7159 22.454 235.822 43.7612 224.045 49.9663 444.19 110.177 2.41912 0.789437 
 
 # definition for class # 794
 # class name, prior probability
-''	0.000475043
+''	0.000703682
 # class type is GaussDiag
 # mean vector
-2.28871 6.66435 -22.256 14.5039 -29.545 -1.1945 -10.7935 18.289 1.42915 7.95384 
+4.75081 41.4233 -69.8257 74.6423 -81.3336 15.5475 -26.0897 84.0783 7.24946 8.64948 
 
 # diagonal of covariance matrix
-0.132666 1.35743 11.3134 2.80393 31.889 2.7146 70.1624 5.80848 0.15929 0.600127 
+1.2667 36.32 86.0509 91.3264 9.77502 48.0313 525.677 206.661 0.634626 0.181895 
 
 # definition for class # 795
 # class name, prior probability
-''	0.000624419
+''	0.0010882
 # class type is GaussDiag
 # mean vector
-3.35072 11.1562 -32.5632 22.1751 -30.5227 0.020291 -24.6519 25.6554 2.48125 7.42684 
+5.81396 59.7504 -64.8238 104.749 -46.6742 14.5764 -37.9428 104.172 7.0086 8.46683 
 
 # diagonal of covariance matrix
-0.674776 1.66919 33.9779 2.93494 57.6797 3.19152 56.6698 5.79448 1.12515 0.932449 
+1.96727 53.3902 86.4248 121.647 517.429 67.9766 707.564 182.695 0.873623 0.241883 
 
 # definition for class # 796
 # class name, prior probability
-''	0.000660725
+''	0.00189606
 # class type is GaussDiag
 # mean vector
-3.56506 13.6684 -23.8879 22.9453 -29.5289 4.08718 -10.3356 21.6769 3.02509 8.19655 
+2.87006 74.1707 -71.1724 89.3301 -19.8861 45.1986 -84.6021 105.73 8.55431 9.45747 
 
 # diagonal of covariance matrix
-0.512948 1.37681 32.9652 2.50823 65.8871 2.48756 89.5924 4.39799 1.51223 0.472866 
+0.483296 105.377 110.23 138.893 1011.44 247.926 6.14514 1153.26 0.567383 0.0865579 
 
 # definition for class # 797
 # class name, prior probability
-''	0.000420453
+''	0.00348255
 # class type is GaussDiag
 # mean vector
-3.13413 9.74303 -16.9119 19.3887 -5.96235 0.0408884 -23.7343 21.5711 2.0379 7.82564 
+3.61065 158.948 51.3811 190.351 -23.3227 99.579 84.6448 177.025 7.9816 9.31967 
 
 # diagonal of covariance matrix
-0.632829 1.97667 33.1567 3.30628 68.1544 4.0934 55.4669 7.16765 1.76749 0.854462 
+1.21261 495.335 1036.96 675.898 1008.28 1254.42 13.5078 5078.05 1.51866 0.137858 
 
 # definition for class # 798
 # class name, prior probability
-''	0.000714809
+''	0.00507069
 # class type is GaussDiag
 # mean vector
-2.75571 12.0685 19.4555 20.7636 -25.5438 3.40537 48.4313 22.1606 2.69862 7.89503 
+6.31379 195.998 43.9789 284.152 -25.045 53.9654 85.6708 315.64 7.50457 8.58391 
 
 # diagonal of covariance matrix
-0.611433 5.95232 64.4245 7.95195 80.9392 8.36925 54.4892 10.4978 1.00093 0.799896 
+3.63426 1027.78 1194.7 1674.64 954.248 3340.9 8.41424 5935.38 0.808928 0.295594 
 
 # definition for class # 799
 # class name, prior probability
-''	0.000262874
+''	0.00394469
 # class type is GaussDiag
 # mean vector
-2.96311 -3.55052 -49.9005 49.5734 -82.5053 -46.1921 25.5089 157.119 5.76155 6.57819 
+6.71462 39.8358 45.0064 154.25 1.38043 -69.8455 -0.909748 237.138 7.23537 8.26531 
 
 # diagonal of covariance matrix
-5.19418 515.117 1582.09 1197.55 36.4452 524.65 1758.38 2745.12 4.43673 4.19652 
+4.29568 865.189 796.384 854.938 1707.81 604.886 1276.96 1062.37 1.24891 0.593747 
 
 # definition for class # 800
 # class name, prior probability
-''	0.000859257
+''	0.0016297
 # class type is GaussDiag
 # mean vector
-4.39549 22.585 -68.9799 54.1056 -81.7981 -0.392288 -9.14484 78.7322 6.62333 7.78849 
+6.8119 59.35 -14.4562 117.724 -8.00726 2.64107 -28.2518 120.329 5.94064 7.78907 
 
 # diagonal of covariance matrix
-1.15207 39.5898 84.3836 101.964 7.93015 34.4875 549.445 183.171 0.720697 0.513634 
+3.62651 76.4872 1119.13 68.2616 790.467 71.387 412.516 90.6311 1.468 0.627583 
 
 # definition for class # 801
 # class name, prior probability
-''	0.000664676
+''	0.00251761
 # class type is GaussDiag
 # mean vector
-6.21249 27.6265 5.0615 67.0786 -6.25056 -7.99961 -31.2644 79.1167 6.28023 8.04739 
+7.83864 43.2864 -7.49045 129.729 -11.0699 -35.0776 -25.4841 171.36 6.29217 7.68381 
 
 # diagonal of covariance matrix
-2.55927 34.0136 640.113 34.3518 364.699 26.2022 243.537 37.3065 1.10591 0.505919 
+6.37253 228.867 1667.47 160.686 1003.11 147.642 658.411 189.05 1.7498 0.83696 
 
 # definition for class # 802
 # class name, prior probability
-''	0.000821692
+''	0.00694359
 # class type is GaussDiag
 # mean vector
-5.39063 33.428 14.3287 67.5573 -13.7422 0.217615 9.71798 70.1239 4.23581 6.58788 
+10.126 201.504 -3.27302 531.906 0.752741 -106.859 -11.1621 701.815 8.07035 8.38432 
 
 # diagonal of covariance matrix
-2.57971 23.3188 437.941 25.5213 422.799 27.6671 482.598 44.8082 2.32561 1.79663 
+14.6931 8194.64 4894.59 10464 3192.28 13957.4 3264.51 25464.7 1.50086 1.05358 
 
 # definition for class # 803
 # class name, prior probability
-''	0.000555793
+''	0.0029373
 # class type is GaussDiag
 # mean vector
-4.95368 28.9921 4.84464 52.3684 -14.3473 5.29021 -4.89243 49.4528 5.20072 7.83999 
+3.16767 111.3 -68.2211 132.55 -15.2311 66.3422 -85.2134 141.552 8.44329 9.43512 
 
 # diagonal of covariance matrix
-1.02355 12.4321 238.58 13.0007 297.527 10.0114 179.681 12.1405 1.97601 0.717248 
+0.770366 221.009 228.402 270.797 1030.41 607.042 7.88598 1926.53 0.662558 0.0903155 
 
 # definition for class # 804
 # class name, prior probability
-''	0.000329321
+''	0.00509059
 # class type is GaussDiag
 # mean vector
-4.46753 22.9654 16.8802 52.0139 28.715 -3.5187 -5.75072 61.0919 3.81038 6.83458 
+5.84179 111.338 -41.2547 181.56 -31.8025 42.0304 -28.1462 151.931 5.93023 8.40491 
 
 # diagonal of covariance matrix
-2.01568 22.0744 349.736 43.434 684.039 37.8803 467.345 75.5899 4.3096 2.66712 
+2.74519 219.349 519.96 298.162 680.681 358.935 638.881 600.97 2.28547 0.373682 
 
 # definition for class # 805
 # class name, prior probability
-''	0.00486387
+''	0.00482445
 # class type is GaussDiag
 # mean vector
-0 24.2083 0 75.1438 0 -26.7271 0 101.871 0.720959 0.720959 
+5.25155 112.762 -67.0463 163.866 -25.6664 16.3644 -86.1244 218.856 7.70626 8.79515 
 
 # diagonal of covariance matrix
-0 201.969 0 810.049 0 451.622 0 1715.4 3.52641 3.52641 
+2.40572 469.331 163.193 612.935 750.406 1236.69 3.33804 1834.24 0.90335 0.280341 
 
 # definition for class # 806
 # class name, prior probability
-''	0.000410191
+''	0.0119211
 # class type is GaussDiag
 # mean vector
-4.89653 24.8113 -32.546 61.1341 -8.94382 -0.961198 -10.2424 64.4254 6.72212 7.95558 
+5.32009 209.46 -15.858 294.653 -19.7486 122.798 -13.9438 185.137 5.89469 8.6966 
 
 # diagonal of covariance matrix
-1.24699 31.6814 425.068 18.8417 212.792 13.4164 278.376 21.568 1.19211 0.650132 
+2.22244 931.109 1803.75 1643.5 1301.36 1413.25 918.26 3055.19 2.67983 0.279845 
 
 # definition for class # 807
 # class name, prior probability
-''	0.000425737
+''	0.0112384
 # class type is GaussDiag
 # mean vector
-4.08943 29.4795 -18.5296 58.8133 -4.61134 1.59157 -24.5528 59.6502 3.23675 6.84361 
+5.35963 182.938 -72.714 272.995 -8.87565 46.2507 -87.5166 351.078 8.49926 9.09686 
 
 # diagonal of covariance matrix
-1.30366 22.0931 289.398 16.9155 123.648 20.2336 281.944 25.1936 4.11815 2.70601 
+3.22956 2392.89 149.515 4620.53 2788.17 4484.75 1.53441 10727.2 0.529982 0.20224 
 
 # definition for class # 808
 # class name, prior probability
-''	0.000724397
+''	0.00550299
 # class type is GaussDiag
 # mean vector
-5.06238 30.4754 58.1621 64.5666 39.0002 0.181336 13.0779 70.4466 5.79146 7.3015 
+0 70.6197 0 70.6197 0 70.6197 0 -98.5608 0 10.0072 
 
 # diagonal of covariance matrix
-1.18701 32.1599 141.02 57.3848 686.685 20.9219 754.976 83.9767 1.36659 1.1887 
+0 3.10836 0 3.10836 0 3.10836 0 312.368 0 -0.00106084 
 
 # definition for class # 809
 # class name, prior probability
-''	0.000682439
+''	0.000614399
 # class type is GaussDiag
 # mean vector
-4.65643 18.8769 56.8783 39.563 72.6776 1.04654 -6.39826 49.5629 5.59375 7.41794 
+0.896281 -100.507 5.12757e-05 -97.7821 -6.61254e-05 -103.251 1.17019e-05 5.61209 3.7539 9.92559 
 
 # diagonal of covariance matrix
-1.03126 11.2537 86.209 26.2189 27.0969 17.0737 578.89 52.789 0.934261 0.922165 
+0.34862 359.742 1.09487e-06 370.362 1.09403e-06 362.731 1.10392e-07 27.4537 14.5128 0.0104723 
 
 # definition for class # 810
 # class name, prior probability
-''	0.000498126
+''	0.000197364
 # class type is GaussDiag
 # mean vector
-5.59541 18.1929 -11.6405 52.535 67.0288 -7.96126 -41.1365 88.8172 7.32099 8.41077 
+1.96184 -21.4614 -21.434 -17.3019 -10.9101 -25.604 -29.7761 11.4983 2.59521 9.5822 
 
 # diagonal of covariance matrix
-1.74109 55.7604 998.209 101.094 122.86 89.2923 485.168 264.465 0.577405 0.298044 
+0.0553639 10.7733 76.0387 12.4272 300.435 14.7862 83.5459 14.1811 1.14998 0.0295423 
 
 # definition for class # 811
 # class name, prior probability
-''	0.000384267
+''	0.00132189
 # class type is GaussDiag
 # mean vector
-2.61859 11.8571 45.7352 19.0078 64.0587 4.78683 -2.45424 20.8323 4.03601 8.56837 
+1.99995 -32.1902 -19.6639 -24.2197 -23.4694 -40.1608 -13.4395 19.5773 1.69322 9.34002 
 
 # diagonal of covariance matrix
-0.292796 4.04219 20.5415 6.02459 10.5529 8.06746 108.653 10.9533 1.90913 0.53804 
+9.89111e-06 20.3609 347.729 32.7601 533.767 32.6201 585.108 56.6774 0.799806 0.0837268 
 
 # definition for class # 812
 # class name, prior probability
-''	0.000366116
+''	0.000888793
 # class type is GaussDiag
 # mean vector
-2.66097 10.0118 35.9022 14.2232 58.2363 5.68948 -13.3956 15.2286 5.29818 9.20711 
+2.34996 -48.5614 -36.5314 -40.7611 -46.7891 -56.4783 -17.7079 21.2363 3.11412 9.1963 
 
 # diagonal of covariance matrix
-0.224759 2.29786 17.4121 3.81559 8.0332 2.89332 124.031 5.69075 1.65489 0.0974194 
+0.462978 40.5403 100.107 51.1527 97.6402 52.5519 569.905 52.6475 1.26196 0.0812719 
 
 # definition for class # 813
 # class name, prior probability
-''	0.000306115
+''	0.00145648
 # class type is GaussDiag
 # mean vector
-2 10.8969 -4.1391 13.6655 -8.61583 8.12833 0.408225 6.5857 1.25675 9.35426 
+3.16754 -39.7705 -68.1974 1.21008 -85.1969 -60.4331 -9.35095 138.496 8.51713 9.25763 
 
 # diagonal of covariance matrix
-0 1.99557 3.87015 2.90412 12.0744 2.68984 11.9917 3.52485 0.43922 0.10271 
+1.05049 211.147 207.274 585.902 6.60855 294.4 1006.96 2883.56 0.583401 0.154179 
 
 # definition for class # 814
 # class name, prior probability
-''	0.000363128
+''	0.00073951
 # class type is GaussDiag
 # mean vector
-2.95819 12.0102 -54.4394 22.2154 -73.0436 4.93794 -28.9647 50.4264 8.22145 9.20145 
+4.35441 -20.5569 -70.9866 4.09183 -80.8884 -38.8243 -36.7349 70.5068 7.30371 8.8015 
 
 # diagonal of covariance matrix
-0.761642 14.7541 87.5317 29.9399 30.6323 21.955 164.856 112.148 0.501165 0.110506 
+1.16781 72.1609 41.432 165.923 8.61695 104.144 303.437 322.691 0.780119 0.170492 
 
 # definition for class # 815
 # class name, prior probability
-''	0.000496981
+''	0.000696854
 # class type is GaussDiag
 # mean vector
-3.68261 24.9463 -71.8397 42.2649 -80.5854 9.085 -18.4965 53.5451 7.37639 8.73401 
+4.48795 -14.1997 -32.1141 5.62574 -27.7762 -30.976 -35.046 41.8013 6.11905 8.91402 
 
 # diagonal of covariance matrix
-0.520483 16.692 40.0481 34.1983 7.13273 21.8628 235.265 71.8017 0.502172 0.200472 
+0.696606 16.1715 271.645 33.6639 211.917 25.9065 127.188 49.4013 1.59133 0.188751 
 
 # definition for class # 816
 # class name, prior probability
-''	0.00102818
+''	0.000634185
 # class type is GaussDiag
 # mean vector
-3.04586 17.0632 74.6859 34.0776 83.849 3.47182 -14.6494 68.9549 8.46852 9.09954 
+4.3931 1.26505 -67.7084 19.2457 -76.4029 -13.4823 -41.9634 52.615 6.80607 8.64173 
 
 # diagonal of covariance matrix
-0.317347 23.7032 28.5265 59.9473 1.67534 23.6357 403.391 200.212 0.289962 0.147272 
+1.29267 32.7999 38.673 49.864 21.0966 52.3256 155.363 104.222 1.07132 0.259898 
 
 # definition for class # 817
 # class name, prior probability
-''	0.000353944
+''	0.000428771
 # class type is GaussDiag
 # mean vector
-2.02517 16.0185 -15.6866 19.9597 -39.9131 11.9831 18.5657 14.0905 4.42373 9.25057 
+4.06428 15.1526 -28.0608 31.1934 18.5519 -0.197109 -49.6934 39.6713 4.33597 8.11841 
 
 # diagonal of covariance matrix
-0.159016 2.79167 32.4246 4.47441 36.2843 5.10132 62.0678 14.4708 2.68752 0.124045 
+1.66023 9.57269 220.541 23.4689 456.455 15.4819 197.266 41.7481 3.18146 0.491219 
 
 # definition for class # 818
 # class name, prior probability
-''	0.000368426
+''	0.00108168
 # class type is GaussDiag
 # mean vector
-2.07324 13.6375 0.308189 16.5936 -20.7678 10.6484 22.1752 10.2082 3.96861 9.39887 
+2.63637 11.8599 0.384567 47.624 -1.75815e-06 -27.0013 9.37935e-06 75.3021 5.18053 8.62475 
 
 # diagonal of covariance matrix
-0.202276 2.4096 17.9561 3.70646 51.5585 3.67057 44.9675 8.25964 3.29643 0.0827322 
+2.78639 492.086 11.0681 741.795 2.30255e-09 652.71 4.09056e-08 783.504 13.2212 1.10158 
 
 # definition for class # 819
 # class name, prior probability
-''	0.000722803
+''	0.000473991
 # class type is GaussDiag
 # mean vector
-2.28773 20.3101 9.55164 31.0837 -4.23828 9.54546 20.8344 23.8165 0.996224 8.06097 
+4.28283 15.2643 -28.2566 42.866 -8.88386 -11.5839 -36.3045 58.073 3.13798 7.35587 
 
 # diagonal of covariance matrix
-0.179152 5.76582 65.0032 10.6786 324.361 9.3112 214.48 17.5234 0.389468 0.702259 
+1.74906 21.6841 141.884 34.086 229.46 30.1953 123.943 41.7966 3.41528 1.74708 
 
 # definition for class # 820
 # class name, prior probability
-''	0.00046525
+''	0.00050134
 # class type is GaussDiag
 # mean vector
-2.83527 11.1042 -5.12781 24.6473 11.3699 -2.50794 -20.3872 29.629 1.44666 6.63917 
+3.59454 32.6549 -39.5836 50.9864 15.6527 13.8483 -62.0068 56.1648 5.82568 8.25762 
 
 # diagonal of covariance matrix
-0.718624 4.13274 118.368 9.66456 282.994 9.36104 182.278 21.4135 0.894125 2.66622 
+1.32508 24.6075 346.639 57.2864 1085.35 63.1926 178.267 155.926 4.19265 1.01672 
 
 # definition for class # 821
 # class name, prior probability
-''	0.000916663
+''	0.000503166
 # class type is GaussDiag
 # mean vector
-2.24414 11.5226 -23.505 20.5857 -22.9518 2.43503 -21.1278 20.7644 1.17576 7.57741 
+3.67498 20.7968 -9.82767 33.1328 52.3933 10.3711 -44.7821 42.4882 6.75036 8.9073 
 
 # diagonal of covariance matrix
-0.114976 1.93469 17.341 3.87799 61.2999 3.43306 68.8181 6.79468 0.142188 1.10635 
+1.17422 11.7741 434.566 25.8575 255.792 21.5773 311.594 123.043 1.37855 0.177706 
 
 # definition for class # 822
 # class name, prior probability
-''	0.000699352
+''	0.000515196
 # class type is GaussDiag
 # mean vector
-2.52416 14.7316 -37.2634 24.7877 -22.6789 4.8064 -42.847 24.6303 2.03519 7.59711 
+4.26224 22.6142 57.2253 40.9897 77.6594 7.42982 -35.5755 52.4809 6.96531 8.60219 
 
 # diagonal of covariance matrix
-0.322547 4.20597 27.4789 7.6669 154.858 6.42562 66.0647 11.8053 0.344161 1.29272 
+1.00071 11.6529 119.405 27.3245 12.9273 20.003 176.614 81.7448 0.566956 0.193921 
 
 # definition for class # 823
 # class name, prior probability
-''	0.000571294
+''	0.000337265
 # class type is GaussDiag
 # mean vector
-3.22481 16.1513 -25.3505 24.7662 -16.3046 7.40377 -28.4357 20.3815 2.57084 8.48771 
+2.94248 15.6857 44.9253 24.5306 72.1004 7.75341 -36.0243 31.9461 6.54774 8.96993 
 
 # diagonal of covariance matrix
-0.705801 1.6875 30.3771 2.52346 90.065 3.34419 54.15 5.46445 1.74242 0.323678 
+0.57827 3.6888 129.607 10.0517 11.9621 6.61073 158.78 46.6366 1.3909 0.176162 
 
 # definition for class # 824
 # class name, prior probability
-''	0.00067685
+''	0.000261509
 # class type is GaussDiag
 # mean vector
-2 20.0763 -36.0023 24.7725 -30.3442 15.3801 -40.3216 14.4545 3.02065 8.97168 
+1.86917 1.43999 25.7398 4.46726 -5.809 -1.60036 46.4075 10.8454 5.34699 9.43019 
 
 # diagonal of covariance matrix
-0 3.47118 7.61443 4.7523 43.3165 5.19552 31.0083 6.47843 0.467104 0.235063 
+0.590334 7.99123 60.5847 9.72869 336.787 9.75015 47.454 19.5203 2.5763 0.167615 
 
 # definition for class # 825
 # class name, prior probability
-''	0.000934559
+''	0.000384976
 # class type is GaussDiag
 # mean vector
-1.37974 36.3332 -25.5544 39.0191 -0.75481 33.654 -41.6583 8.45106 5.32326 9.61788 
+2 9.68654 18.594 14.1505 19.3063 5.22293 17.0592 11.3294 1.75345 8.84522 
 
 # diagonal of covariance matrix
-0.239808 10.6587 128.633 12.5098 486.483 12.6784 173.426 14.6358 2.1201 0.0704809 
+0 7.61995 19.2011 10.6943 92.7338 9.6405 81.3947 10.3107 0.769223 0.354691 
 
 # definition for class # 826
 # class name, prior probability
-''	0.000377466
+''	0.00022549
 # class type is GaussDiag
 # mean vector
-1.21856 44.6004 -33.9501 50.7775 38.3574 38.3683 -67.3828 18.905 6.18404 9.33284 
+1.52184 9.69928 0.00375194 21.8047 -1.78514e-08 -2.60096 1.78514e-08 24.484 4.30083 8.434 
 
 # diagonal of covariance matrix
-0.253122 51.5343 449.451 59.2356 531.91 54.9235 51.7388 45.6769 1.89245 0.150601 
+1.20648 24.812 0.338656 37.2601 9.36408e-11 51.3515 9.36408e-11 76.6388 16.3846 2.49084 
 
 # definition for class # 827
 # class name, prior probability
-''	0.00528514
+''	0.000350574
 # class type is GaussDiag
 # mean vector
-0 63.3543 0 63.3543 0 63.3543 0 -89.8551 0 10.0066 
+2.55136 2.7454 39.8274 7.97838 60.8845 -2.34607 -7.98877 18.1028 5.00716 9.02626 
 
 # diagonal of covariance matrix
-0 4.28244 0 4.28244 0 4.28244 0 294.56 0 -4.59102e-05 
+0.213923 1.96667 33.7482 4.59404 21.9577 3.97716 158.337 18.4796 2.41634 0.204022 
 
 # definition for class # 828
 # class name, prior probability
-''	0.000565287
+''	0.000221272
 # class type is GaussDiag
 # mean vector
-0.705426 -6.47111 -5.47842e-08 -4.59195 -2.14654e-05 -8.33626 2.15202e-05 3.88466 4.5987 9.90914 
+2.02981 9.42275 -3.06497 12.0905 -20.5067 6.74958 15.2859 8.79733 3.16641 9.34777 
 
 # diagonal of covariance matrix
-0.205294 14.8633 1.64184e-11 18.7906 9.82828e-08 20.082 9.82641e-08 18.1614 10.6738 0.0115535 
+0.0106019 2.42647 10.5339 3.86681 26.9882 2.71137 23.7973 4.44579 2.25845 0.060006 
 
 # definition for class # 829
 # class name, prior probability
-''	0.000568695
+''	0.000378635
 # class type is GaussDiag
 # mean vector
-1.16984 -52.79 -22.4934 -49.2999 -46.0617 -56.2728 15.2679 10.5568 5.98791 9.75467 
+3.46596 14.0985 2.77722 31.8847 -76.4054 1.38157 62.7227 77.1924 8.27893 8.94236 
 
 # diagonal of covariance matrix
-0.182754 73.6859 413.579 77.88 384.42 77.6923 908.791 30.111 2.03794 0.0251091 
+0.677221 48.9943 1064.53 109.926 28.6743 65.512 232.933 480.084 0.38243 0.187001 
 
 # definition for class # 830
 # class name, prior probability
-''	0.000591309
+''	0.000302062
 # class type is GaussDiag
 # mean vector
-1.41571 -28.7237 -30.9973 -25.0924 -50.6622 -32.3603 3.37305 10.884 5.12083 9.52763 
+3.87793 -2.57442 -18.899 15.5969 -28.1327 -22.029 -2.04532 40.2332 3.94451 8.4845 
 
 # diagonal of covariance matrix
-0.127665 29.3941 103.457 31.3975 94.1819 32.5011 413.723 15.5205 0.9588 0.0400731 
+1.04566 10.5527 184.282 17.2917 97.8332 18.2422 51.9501 30.9095 5.65454 0.476862 
 
 # definition for class # 831
 # class name, prior probability
-''	0.000430313
+''	0.000435918
 # class type is GaussDiag
 # mean vector
-3.4594 3.65259 -25.9491 10.4986 -30.6104 -3.13135 -15.6836 16.9796 3.71003 8.60164 
+3.38335 5.09744 -15.8741 18.1367 -12.5002 -7.8762 -15.6064 28.1297 2.10904 7.99882 
 
 # diagonal of covariance matrix
-0.430752 2.44129 45.3732 4.66839 51.7915 5.21285 158.574 9.91016 1.90597 0.20869 
+0.863143 2.83791 92.209 4.92112 147.305 6.24476 185.402 10.677 1.80065 0.478177 
 
 # definition for class # 832
 # class name, prior probability
-''	0.00044725
+''	0.000420946
 # class type is GaussDiag
 # mean vector
-3.73379 -0.948262 -27.9443 12.7689 -29.6446 -14.4684 -16.1268 30.6769 3.2898 8.29225 
+2.73526 1.43123 27.6301 11.6676 51.7402 -8.39267 -12.4824 25.416 2.74691 8.30449 
 
 # diagonal of covariance matrix
-1.05821 4.53904 113.359 9.48019 102.822 7.76538 270.526 15.9248 2.96442 0.519692 
+0.399363 7.97518 188.255 13.7131 124.602 12.5875 373.439 24.3119 1.41589 0.426539 
 
 # definition for class # 833
 # class name, prior probability
-''	0.00031424
+''	0.000277121
 # class type is GaussDiag
 # mean vector
-3.70209 4.18978 -28.184 16.011 -23.6108 -7.28193 -27.1115 26.5823 3.26941 8.08635 
+2.73134 -9.47744 52.2986 -0.609153 71.1078 -17.6515 -11.8068 30.3669 5.85133 9.20373 
 
 # diagonal of covariance matrix
-1.11963 2.48774 48.2852 4.8219 47.1511 4.9995 67.5586 8.8993 3.38186 0.898237 
+0.348752 20.3681 78.0261 27.6697 25.3203 30.6885 410.531 79.3615 2.85324 0.188258 
 
 # definition for class # 834
 # class name, prior probability
-''	0.000451613
+''	0.00044761
 # class type is GaussDiag
 # mean vector
-2.20219 7.95352 -24.3179 15.6518 -5.86702 0.302993 -37.4424 18.465 1.47998 8.09738 
+2 -3.12445 -8.17791 -0.0376348 -12.2476 -6.21127 -3.81711 7.50751 1.37414 9.48546 
 
 # diagonal of covariance matrix
-0.11391 3.43893 26.0878 5.21013 117.156 6.88098 36.0165 11.4548 0.289749 0.861541 
+0 4.55021 13.0919 5.74466 53.2323 6.63903 42.1792 7.39909 0.634499 0.0505414 
 
 # definition for class # 835
 # class name, prior probability
-''	0.000964352
+''	0.000495272
 # class type is GaussDiag
 # mean vector
-4.00008 5.08146 3.59365 18.208 -10.7459 -7.77036 -2.61945 28.4381 4.7366 8.7667 
+2 0.923975 -16.8101 3.51858 -15.8891 -1.67063 -17.3952 7.45218 2.26475 9.3683 
 
 # diagonal of covariance matrix
-0.00545953 13.3926 304.235 23.7437 306.296 30.8576 354.923 52.6044 1.66762 0.175875 
+0 0.8239 9.00753 1.9807 37.7455 1.34972 43.246 3.97082 0.643207 0.107945 
 
 # definition for class # 836
 # class name, prior probability
-''	0.000524948
+''	0.000224681
 # class type is GaussDiag
 # mean vector
-3.78293 11.929 35.9714 23.9205 -34.0328 -0.503333 64.0442 33.4207 4.91043 8.05266 
+1.51844 3.89172 -15.6926 5.95516 0.0963847 1.83087 -28.9738 6.1934 4.38548 9.63666 
 
 # diagonal of covariance matrix
-1.00414 8.53796 189.888 13.8217 116.709 16.3947 51.3311 32.0268 1.87268 0.65437 
+0.2722 8.97162 8.5913 9.29967 31.0748 10.9513 25.9309 9.7393 2.57857 0.0600926 
 
 # definition for class # 837
 # class name, prior probability
-''	0.000175996
+''	0.000309735
 # class type is GaussDiag
 # mean vector
-4.24536 -6.95556 -52.6963 24.1253 -77.4033 -30.4403 -4.33082 83.6061 6.95444 8.42898 
+2.3696 -9.34723 22.8194 -1.37728 -18.076 -17.4658 50.2695 22.704 3.46877 9.10543 
 
 # diagonal of covariance matrix
-1.85832 70.9392 299.33 140.324 35.8098 123.348 358.75 325.37 1.43556 0.385701 
+0.384505 20.0623 267.569 20.9599 377.067 39.7799 141.737 44.4864 3.84924 0.179755 
 
 # definition for class # 838
 # class name, prior probability
-''	0.000498597
+''	0.000248357
 # class type is GaussDiag
 # mean vector
-3.77161 16.0806 -45.7838 37.3176 -77.1937 2.7481 -11.3039 69.7213 7.56862 8.66709 
+2.00795 6.18245 -12.3114 11.8755 -34.2141 0.487822 13.8954 14.4467 1.87163 8.23998 
 
 # diagonal of covariance matrix
-1.03596 27.7583 118.504 62.2567 17.6227 41.6585 369.867 183.191 0.558886 0.253142 
+0.00270672 2.48012 19.4904 5.06751 30.6153 2.96863 44.1888 6.88587 0.258521 0.724736 
 
 # definition for class # 839
 # class name, prior probability
-''	0.00110547
+''	0.000270987
 # class type is GaussDiag
 # mean vector
-7.65958 11.6266 -23.7448 46.6511 -28.5737 -24.5387 -30.2258 75.7786 6.00269 7.56272 
+2.05202 4.34792 -11.7439 10.7389 -21.6926 -2.04763 -0.800573 14.3967 1.0114 8.39565 
 
 # diagonal of covariance matrix
-4.07663 19.9422 635.305 24.7045 243.804 23.1031 242.091 41.9835 0.998115 0.700573 
+0.0142736 1.45249 7.72781 3.54703 23.8061 3.48825 22.7334 8.50903 0.15254 0.653765 
 
 # definition for class # 840
 # class name, prior probability
-''	0.000416893
+''	0.000308992
 # class type is GaussDiag
 # mean vector
-6.20442 30.1275 -25.3663 59.1286 38.5514 2.63962 -32.312 66.1835 6.05337 7.68992 
+2.51936 -0.859329 38.9009 5.12489 65.713 -6.38108 -19.9304 25.4509 6.47352 9.30143 
 
 # diagonal of covariance matrix
-2.49627 24.2268 501.311 46.5686 421.28 21.2459 420.165 76.6544 0.863812 0.679032 
+0.265545 5.56048 158.67 8.5347 27.6019 9.45992 226.067 62.5558 1.92265 0.103708 
 
 # definition for class # 841
 # class name, prior probability
-''	0.000399727
+''	0.000542387
 # class type is GaussDiag
 # mean vector
-4.77384 36.2339 -28.2991 66.4124 -0.455664 9.54624 -29.4515 59.6408 6.23228 8.37659 
+1.67172 28.2748 -80.0717 32.215 -79.828 24.0155 -79.8255 48.8498 9.14959 9.71161 
 
 # diagonal of covariance matrix
-0.999552 37.1347 378.771 19.8434 57.4931 13.4703 243.959 23.6654 2.68569 0.395541 
+0.430542 350.466 14.5326 375.564 16.0796 363.017 18.3795 433.967 0.242312 0.0503363 
 
 # definition for class # 842
 # class name, prior probability
-''	0.000738734
+''	0.000700229
 # class type is GaussDiag
 # mean vector
-5.43889 18.575 14.4573 48.1913 -8.71802 -9.05408 -5.52376 60.8847 6.04567 8.13798 
+2.86661 28.9356 -58.9061 36.5782 -24.6392 19.2435 -73.9729 35.9079 6.71342 8.98459 
 
 # diagonal of covariance matrix
-1.93038 16.7904 568.926 21.0687 547.93 25.7396 529.072 28.2632 1.60558 0.66537 
+0.435218 8.73699 110.361 12.6652 480.84 23.0267 24.6102 95.9826 1.75589 0.247549 
 
 # definition for class # 843
 # class name, prior probability
-''	0.000858477
+''	0.000390129
 # class type is GaussDiag
 # mean vector
-6.952 15.9333 36.9066 55.8784 37.8301 -22.4206 -25.698 87.2134 6.38617 7.79174 
+2.17128 36.9988 72.7734 41.9245 71.6967 31.8587 71.3147 34.6483 8.29031 9.61064 
 
 # diagonal of covariance matrix
-3.83099 43.161 625.103 88.5141 910.113 57.0837 605.073 158.582 0.903033 0.671984 
+0.785093 63.109 34.6223 79.2163 59.6729 75.4333 61.9038 226.805 0.797462 0.0654085 
 
 # definition for class # 844
 # class name, prior probability
-''	0.000474037
+''	0.000258342
 # class type is GaussDiag
 # mean vector
-3.14202 11.7664 67.373 24.9887 77.4599 0.480883 47.7481 60.5446 7.83342 8.7643 
+1.46746 -4.26633 73.8678 -1.67477 72.8385 -6.71595 73.3441 30.071 8.99204 9.80469 
 
 # diagonal of covariance matrix
-0.50401 15.2708 86.2784 38.2128 21.4439 27.5412 320.179 215.221 0.646033 0.256137 
+0.399671 91.3664 55.3986 95.4398 69.4828 101.698 73.6027 268.085 0.379422 0.028746 
 
 # definition for class # 845
 # class name, prior probability
-''	0.000498203
+''	0.000292817
 # class type is GaussDiag
 # mean vector
-2.50218 10.6002 43.378 15.1492 41.6885 6.06387 41.2949 17.7797 5.69925 9.16433 
+2.01307 4.63839 -0.186263 7.5786 -24.5028 1.70025 24.7721 9.83987 4.5869 9.27653 
 
 # diagonal of covariance matrix
-0.701554 7.27177 48.9192 12.3187 126.849 10.3374 148.721 34.1663 2.93975 0.210864 
+0.457449 4.48004 17.1513 5.47292 65.3348 6.70841 38.6571 13.8679 1.92615 0.211279 
 
 # definition for class # 846
 # class name, prior probability
-''	0.000417125
+''	0.000276112
 # class type is GaussDiag
 # mean vector
-2.85446 8.00789 -66.861 27.761 -83.2107 -4.13777 -0.517389 78.247 8.11253 8.92696 
+1.63808 6.62139 -20.9964 11.3953 -52.6942 1.84735 29.4705 14.597 4.7837 9.05814 
 
 # diagonal of covariance matrix
-0.347508 18.7196 73.5867 69.8829 2.94935 31.0339 681.394 374.317 0.767358 0.33809 
+0.219784 3.98089 63.8031 5.12314 51.5714 6.48472 123.767 11.4856 1.18992 0.199305 
 
 # definition for class # 847
 # class name, prior probability
-''	0.000481306
+''	0.000310894
 # class type is GaussDiag
 # mean vector
-3.51073 11.8325 37.229 29.0096 74.436 -0.201126 -8.83511 56.932 6.94294 8.31492 
+2.11906 7.10274 -27.0321 14.7314 -43.7588 -0.556709 -1.843 18.9639 1.9233 8.1573 
 
 # diagonal of covariance matrix
-0.831274 14.4629 226.372 47.258 29.8022 22.9315 321.986 137.818 0.713179 0.371496 
+0.0483943 3.44189 13.6625 5.96386 18.7473 4.57616 85.05 7.68251 0.230796 0.819657 
 
 # definition for class # 848
 # class name, prior probability
-''	0.000379212
+''	0.000307277
 # class type is GaussDiag
 # mean vector
-3.73338 -7.41459 -14.3578 6.07868 -12.1909 -20.4894 -18.145 29.1287 3.66737 8.59723 
+3.28072 4.97353 -50.1062 15.8357 -61.6995 -5.8697 -15.7617 29.6379 4.35154 8.28475 
 
 # diagonal of covariance matrix
-0.813973 7.14956 182.986 13.2157 187.791 18.6475 195.387 34.3748 4.3066 0.481337 
+0.544677 9.19531 32.4486 15.3156 61.7217 16.4299 195.247 30.951 1.7897 0.390317 
 
 # definition for class # 849
 # class name, prior probability
-''	0.000349509
+''	0.000509474
 # class type is GaussDiag
 # mean vector
-3.35079 -0.0374587 -18.6711 7.65636 -13.0911 -7.35316 -19.8503 17.9031 3.46853 8.86986 
+3.98833 6.29038 -37.2428 27.2655 -43.2669 -15.9846 -3.52018 48.8039 4.1337 8.20376 
 
 # diagonal of covariance matrix
-0.556906 4.14215 63.053 7.36365 139.017 8.26904 118.627 13.851 2.8873 0.176292 
+1.49552 11.4586 284.354 26.9215 251.685 21.5106 348.973 47.0494 4.91323 0.639123 
 
 # definition for class # 850
 # class name, prior probability
-''	0.000338485
+''	0.00040225
 # class type is GaussDiag
 # mean vector
-3.85058 -11.3526 -4.72353 13.4308 -35.838 -36.9096 37.2213 59.6044 4.78944 8.54465 
+3.86562 13.0946 -41.823 29.8754 -48.0123 -4.21641 -15.1023 39.6055 3.38354 7.06987 
 
 # diagonal of covariance matrix
-1.84733 36.0165 1004.18 83.0806 388.458 65.1914 449.845 183.985 6.96646 0.48686 
+0.97418 5.91045 93.1664 8.08342 120.439 7.80819 320.332 11.6144 1.85186 1.51404 
 
 # definition for class # 851
 # class name, prior probability
-''	0.000452462
+''	0.000490095
 # class type is GaussDiag
 # mean vector
-3.88805 7.1211 12.2481 20.349 -30.9033 -12.6634 70.4245 60.5179 7.57702 8.99844 
+4.59927 19.4394 -52.4965 38.6431 -58.2541 -1.1092 -24.526 47.8683 4.81683 7.37567 
 
 # diagonal of covariance matrix
-1.79107 30.2183 680.07 62.9902 380.626 97.6733 88.6399 269.674 0.972763 0.243081 
+1.09132 8.96775 84.5276 12.6908 112.49 13.0601 157.278 26.8557 1.90155 1.26249 
 
 # definition for class # 852
 # class name, prior probability
-''	0.000510039
+''	0.000819161
 # class type is GaussDiag
 # mean vector
-4.11904 -29.8716 32.3531 0.186469 4.30328 -57.1638 15.0546 66.7801 6.00197 8.96448 
+5.2284 22.404 -28.6302 40.6424 -34.2879 3.95954 -27.1698 41.1276 5.51534 8.25911 
 
 # diagonal of covariance matrix
-1.45501 89.3517 794.587 158.342 1337.7 183.27 1183.87 341.488 3.85487 0.272391 
+1.31403 4.76383 209.792 5.2254 85.26 7.56255 121.259 7.76034 1.00893 0.371799 
 
 # definition for class # 853
 # class name, prior probability
-''	0.000508469
+''	0.000621876
 # class type is GaussDiag
 # mean vector
-4.71157 5.54292 62.6985 37.1258 65.8529 -45.617 0.665347 96.693 7.70294 8.65644 
+4.89091 26.706 11.829 39.9972 -38.9055 12.0213 40.6075 35.7035 5.82201 8.63293 
 
 # diagonal of covariance matrix
-1.52901 183.101 168.048 169.155 263.936 192.829 28.6309 336.002 1.58292 0.338549 
+0.866798 9.82156 421.15 18.7042 58.1022 14.6083 265.931 33.1802 0.7263 0.158223 
 
 # definition for class # 854
 # class name, prior probability
-''	0.000642869
+''	0.000588453
 # class type is GaussDiag
 # mean vector
-2.73884 -16.4623 72.0073 3.7081 83.1666 -32.5389 -1.76611 82.2243 8.39844 9.4164 
+4.45564 10.5441 -15.1148 47.7164 -22.9051 -31.3967 -1.61258 82.1328 3.90932 7.86619 
 
 # diagonal of covariance matrix
-0.541556 70.5557 106.678 154.961 9.14601 100.23 1080.3 768.735 1.0739 0.0981084 
+1.97227 49.389 420.356 57.4749 364.321 73.8471 185.003 92.9536 5.70331 1.14835 
 
 # definition for class # 855
 # class name, prior probability
-''	0.0124651
+''	0.000713977
 # class type is GaussDiag
 # mean vector
-0 169.119 0 169.119 0 169.119 0 -235.752 0 10.0094 
+6.02476 32.7633 -47.4224 58.7141 -33.7079 3.6078 -15.6742 58.7162 6.51284 8.18259 
 
 # diagonal of covariance matrix
-0 296.862 0 296.862 0 296.862 0 1110.3 0 0.000908905 
+1.57767 20.6161 173.526 14.3644 100.987 10.489 139.653 15.3477 0.586718 0.264029 
 
 # definition for class # 856
 # class name, prior probability
-''	0.000135564
+''	0.000354049
 # class type is GaussDiag
 # mean vector
-1.7659 -21.85 -0.026486 -10.1689 -0.117342 -33.5311 0.025262 23.4312 0.063503 8.94617 
+4.97425 37.5803 -61.3898 61.7014 -62.3983 9.53296 -18.793 61.6021 6.20172 8.32939 
 
 # diagonal of covariance matrix
-0.269068 62.8405 0.322139 71.3885 0.775821 85.0953 0.368414 62.0219 0.0359709 0.208044 
+0.994438 17.6311 65.1225 17.4172 142.292 29.7897 209.209 49.5712 1.35907 0.340571 
 
 # definition for class # 857
 # class name, prior probability
-''	0.000265641
+''	0.00079049
 # class type is GaussDiag
 # mean vector
-1.16677 4.33514 -25.6052 8.98777 -61.0896 -0.258149 39.6863 13.6939 6.01803 9.41707 
+6.76569 34.4337 -41.7954 75.3182 -31.2284 -3.72056 -11.6913 82.8398 6.08746 7.45749 
 
 # diagonal of covariance matrix
-0.101118 24.5145 91.6018 23.261 24.7413 31.7344 122.938 19.8521 1.07001 0.116586 
+3.00754 33.9703 300.445 25.3291 347.097 17.2861 177.367 31.318 1.04123 0.742143 
 
 # definition for class # 858
 # class name, prior probability
-''	0.000377874
+''	0.00122956
 # class type is GaussDiag
 # mean vector
-2.52627 -6.94604 -25.3903 1.38311 -48.5657 -15.2767 13.7252 22.961 3.93145 8.92875 
+6.51811 34.6501 -27.3104 66.9798 -26.6307 2.87649 -14.8504 67.1803 5.42366 7.34283 
 
 # diagonal of covariance matrix
-0.67178 18.9195 147.053 28.4892 131.773 30.3264 417.533 46.3515 3.4715 0.18653 
+2.99465 17.7706 400.132 11.077 172.203 11.2088 231.051 12.4678 1.05411 0.868037 
 
 # definition for class # 859
 # class name, prior probability
-''	0.000485652
+''	0.000743016
 # class type is GaussDiag
 # mean vector
-3.19288 4.88928 -37.2276 14.5269 -40.3204 -4.75426 -24.9175 24.0594 3.16945 8.1037 
+3.86673 43.8544 70.7733 68.5519 81.0431 22.2481 1.10902 67.6436 6.91373 8.74147 
 
 # diagonal of covariance matrix
-0.832617 2.44274 35.6558 4.82919 49.3754 4.86261 155.792 9.09922 1.96929 0.708851 
+0.6223 34.8316 65.1001 73.2567 7.4362 47.686 1169.28 125.763 0.943137 0.201996 
 
 # definition for class # 860
 # class name, prior probability
-''	0.000286746
+''	0.000725406
 # class type is GaussDiag
 # mean vector
-2.71152 9.40054 -24.4246 18.5107 -38.9748 0.272296 -0.0852213 21.3649 2.09641 7.74989 
+4.76937 14.6854 66.2401 55.2235 82.8136 -13.6234 -6.52643 100.356 7.06836 8.10551 
 
 # diagonal of covariance matrix
-0.486271 1.34654 26.5749 2.51595 37.405 3.21321 14.4323 6.05102 0.682435 0.809898 
+1.51771 58.409 131.35 137.335 7.04803 107.065 525.656 336.672 0.850789 0.494807 
 
 # definition for class # 861
 # class name, prior probability
-''	0.000888566
+''	0.000251627
 # class type is GaussDiag
 # mean vector
-6.03165 0.793574 -3.81371 27.0474 -9.48438 -25.8511 -29.3575 56.8226 5.96319 8.11607 
+2.00634 -1.52362 9.37764 1.74673 18.4348 -4.78999 -0.390052 8.47049 2.08786 9.39449 
 
 # diagonal of covariance matrix
-1.9034 19.5794 587.147 24.6872 387.528 27.5976 187.127 39.4115 1.29876 0.507508 
+0.00452969 6.99254 28.2799 6.70142 78.7842 11.7348 52.6427 10.2601 1.43844 0.0916511 
 
 # definition for class # 862
 # class name, prior probability
-''	0.000313443
+''	0.000279207
 # class type is GaussDiag
 # mean vector
-2.93682 7.01665 27.0121 15.7761 62.8051 -1.05489 -36.6914 27.7129 5.03083 8.57457 
+2 -3.18506 -8.70017 2.07717 0.0643847 -8.44729 -16.8931 11.7958 0.636706 9.16649 
 
 # diagonal of covariance matrix
-0.655418 5.57152 169.406 11.8406 36.3797 9.64711 105.291 20.7061 2.52515 0.516753 
+0 9.0097 12.9555 18.1091 17.5938 9.76039 47.2161 20.8361 0.199189 0.22977 
 
 # definition for class # 863
 # class name, prior probability
-''	0.000176319
+''	0.000278425
 # class type is GaussDiag
 # mean vector
-2.08827 3.29739 -34.5703 8.40721 -26.1125 -1.7863 -40.5788 15.0548 2.85488 8.80093 
+2 -1.56249 -13.3833 0.741982 -8.04829 -3.86696 -18.1153 6.50815 2.03534 9.56166 
 
 # diagonal of covariance matrix
-0.043359 1.41362 10.2543 2.87392 59.3994 3.37057 34.351 8.024 0.524008 0.327933 
+0 1.15778 13.5073 1.76229 65.27 1.84312 55.226 2.85248 1.10294 0.0261639 
 
 # definition for class # 864
 # class name, prior probability
-''	0.000436663
+''	0.000284916
 # class type is GaussDiag
 # mean vector
-2.04215 8.04236 -36.4743 13.5783 -15.0077 2.51223 -49.2038 16.2254 2.87791 8.61141 
+2 4.81203 -14.8803 7.25526 -9.74985 2.3688 -19.7195 6.76694 1.8935 9.34578 
 
 # diagonal of covariance matrix
-0.0250035 4.19614 26.5054 6.15376 203.35 6.4168 42.8262 9.23535 0.566795 0.411912 
+0 1.19497 2.2997 1.86671 8.39942 1.98614 8.69332 3.29182 0.527348 0.0985855 
 
 # definition for class # 865
 # class name, prior probability
-''	0.000272399
+''	0.000159468
 # class type is GaussDiag
 # mean vector
-1.50354 8.32548 -26.1344 9.52086 -27.6983 7.12735 -23.7547 5.19795 5.80827 9.74615 
+1.43446 -6.58528 0.895 -4.12093 -18.4909 -9.04502 20.1453 6.83977 4.60202 9.68779 
 
 # diagonal of covariance matrix
-0.120357 2.42478 28.7851 2.51382 68.1572 3.17668 71.3182 2.38142 1.1736 0.0202556 
+0.170734 11.5735 26.3262 12.265 114.701 14.6612 60.8479 12.9915 2.00101 0.0643301 
 
 # definition for class # 866
 # class name, prior probability
-''	0.000631021
+''	0.000218707
 # class type is GaussDiag
 # mean vector
-2 11.8115 -30.0584 16.1831 -35.0594 7.43993 -23.638 12.7659 2.67586 8.92261 
+2.01712 8.45509 7.04769 11.3652 -12.0296 5.54265 24.6562 9.06269 2.79079 9.24818 
 
 # diagonal of covariance matrix
-0 1.73747 11.5226 2.95026 32.4285 2.70424 82.2649 5.00881 0.382973 0.266227 
+0.00481702 3.07436 12.1674 3.92523 26.3297 3.80263 31.5628 3.94506 1.79042 0.0840605 
 
 # definition for class # 867
 # class name, prior probability
-''	0.000902472
+''	0.000338189
 # class type is GaussDiag
 # mean vector
-2 11.7276 -41.5529 15.1133 -42.7979 8.34182 -39.3863 13.0486 4.29321 9.1762 
+2.02422 4.93806 -4.42791 14.1279 -25.0884 -4.25424 17.5171 20.9179 1.02991 8.2318 
 
 # diagonal of covariance matrix
-0 1.8794 10.1666 2.35116 31.0896 4.05545 46.8094 5.39604 0.853748 0.134453 
+0.00711336 4.42977 24.7828 9.19641 54.0152 8.50934 71.8882 18.8804 0.188495 0.331865 
 
 # definition for class # 868
 # class name, prior probability
-''	0.000213459
+''	0.000174458
 # class type is GaussDiag
 # mean vector
-2.02044 9.69242 -26.0156 12.7605 -7.99077 6.64542 -38.909 10.1798 3.45928 9.27609 
+2.04702 5.22615 25.6576 9.18516 44.0101 1.28341 -0.560867 11.8448 4.07448 9.05718 
 
 # diagonal of covariance matrix
-0.0352119 2.8767 9.50854 4.22963 50.3796 3.61609 29.7996 7.10167 1.18018 0.111958 
+0.374019 3.97236 8.12665 6.78984 13.231 5.84732 7.61449 14.5217 3.43631 0.329385 
 
 # definition for class # 869
 # class name, prior probability
-''	0.000341703
+''	0.000304638
 # class type is GaussDiag
 # mean vector
-1.12451 10.275 -26.0715 12.7664 2.88488 7.79411 -44.884 7.24759 5.87968 9.66661 
+2 2.6338 -3.12629 5.37744 0.555538 -0.109835 -6.73749 6.30068 0.572991 9.35773 
 
 # diagonal of covariance matrix
-0.195197 6.42836 43.7069 7.433 157.824 8.80865 62.5168 11.8757 1.36846 0.0569533 
+0 2.06658 11.4945 3.33854 12.3206 3.22082 34.7781 5.23103 0.350092 0.124889 
 
 # definition for class # 870
 # class name, prior probability
-''	0.000363808
+''	0.00013155
 # class type is GaussDiag
 # mean vector
-2.28237 18.876 56.4907 22.9055 52.2501 14.9241 55.5858 20.8559 7.18751 9.47744 
+1.8266 3.28697 -8.39956 5.16971 0.869069 1.41594 -17.0632 5.49683 2.90964 9.54354 
 
 # diagonal of covariance matrix
-0.666016 10.9337 58.2408 16.698 166.807 14.4742 105.939 48.1195 1.6015 0.120838 
+0.128202 2.19083 5.03469 2.6322 14.4067 3.17526 15.6852 5.03776 2.57659 0.0769381 
 
 # definition for class # 871
 # class name, prior probability
-''	0.00027464
+''	0.000320438
 # class type is GaussDiag
 # mean vector
-3.14764 9.59808 -9.28302 17.8331 -53.5969 1.16551 46.2617 28.4499 5.83219 8.62836 
+2 3.85313 -14.0881 6.86039 -17.6653 0.845858 -10.2964 7.89436 1.76608 9.07262 
 
 # diagonal of covariance matrix
-1.14327 6.51277 196.611 10.4376 149.473 15.1302 219.376 48.0832 2.20906 0.479309 
+0 1.22389 4.37642 2.17465 12.2922 2.14594 21.8021 4.42498 0.444331 0.321764 
 
 # definition for class # 872
 # class name, prior probability
-''	0.000183221
+''	0.000496684
 # class type is GaussDiag
 # mean vector
-2.03118 13.0629 -37.6258 21.1037 -65.4561 5.13845 31.3601 25.2879 4.48483 8.60463 
+3.59745 -5.68659 -59.7521 4.33785 -70.6148 -13.8931 -39.0064 33.0575 6.45955 8.88512 
 
 # diagonal of covariance matrix
-0.312738 9.40365 85.8291 13.9278 14.8386 15.2421 208.424 36.3661 1.7918 0.626536 
+0.810053 21.4272 38.6965 26.4834 33.2201 34.0458 132.911 56.8117 1.07341 0.151033 
 
 # definition for class # 873
 # class name, prior probability
-''	0.000355761
+''	0.000295278
 # class type is GaussDiag
 # mean vector
-4.36887 17.5563 -2.37407 35.3991 60.2638 3.61937 -20.6748 53.9414 6.7006 8.38357 
+2.10773 3.57915 -52.6241 9.58182 -71.0618 -1.41979 -4.30579 23.7804 7.11354 9.33878 
 
 # diagonal of covariance matrix
-1.32808 18.8474 326.052 38.4736 133.104 27.4244 256.101 125.566 0.84946 0.413362 
+0.616014 7.59269 101.904 11.0607 22.3107 12.8375 964.814 75.8816 1.51126 0.122077 
 
 # definition for class # 874
 # class name, prior probability
-''	0.00049076
+''	0.000636676
 # class type is GaussDiag
 # mean vector
-3.35476 16.2769 -10.6549 31.1159 -18.0666 1.61677 -0.656811 31.0329 1.7489 7.20916 
+4.60459 7.16732 28.6325 30.6667 -16.2305 -16.7959 36.0124 53.6842 5.17028 8.05036 
 
 # diagonal of covariance matrix
-1.29519 2.36556 68.5621 3.71574 140.486 5.30926 26.5488 9.36008 1.57334 1.29482 
+1.70265 24.5021 508.06 59.3635 565.612 34.3657 653.557 94.6464 3.36721 0.999003 
 
 # definition for class # 875
 # class name, prior probability
-''	0.000441408
+''	0.000633967
 # class type is GaussDiag
 # mean vector
-3.82246 18.0475 -60.0472 34.4782 -74.5232 3.69118 -6.12674 43.8157 5.56792 7.76104 
+4.5634 15.9565 45.6017 32.9265 67.5373 0.55355 -18.4701 41.814 5.15501 7.48421 
 
 # diagonal of covariance matrix
-0.6548 12.7857 67.4638 23.7638 19.3724 14.6294 373.93 46.8143 1.17756 0.699956 
+1.10698 7.5091 169.555 17.7357 45.1433 9.87168 382.401 31.7595 1.44997 1.1301 
 
 # definition for class # 876
 # class name, prior probability
-''	0.000296371
+''	0.000397398
 # class type is GaussDiag
 # mean vector
-3.10401 21.5249 -35.4409 39.2881 -54.6818 3.27608 8.64677 42.4059 2.425 6.7264 
+2.65742 12.6884 -52.6111 18.738 -66.6012 7.49723 -25.4656 24.8077 6.42339 9.15149 
 
 # diagonal of covariance matrix
-0.696422 14.6817 150.973 27.895 63.8305 18.2188 461.445 36.1597 1.08659 1.65605 
+0.419219 7.17849 34.9122 12.5023 27.1309 9.26715 257.065 40.1431 1.95566 0.131626 
 
 # definition for class # 877
 # class name, prior probability
-''	0.000678326
+''	0.000750371
 # class type is GaussDiag
 # mean vector
-4.97091 28.6863 -24.4472 46.0539 -30.6304 9.12025 -13.6124 40.0767 5.21266 8.35741 
+4.32125 16.9063 -20.874 34.2178 -27.8841 -0.098481 -7.54719 37.081 3.09581 7.00214 
 
 # diagonal of covariance matrix
-1.13675 7.06719 111.09 6.56823 75.4786 7.30264 98.9096 9.64824 1.59818 0.33109 
+1.227 3.81706 112.316 5.76215 120.14 5.65539 184.865 10.9593 1.78206 1.30763 
 
 # definition for class # 878
 # class name, prior probability
-''	0.000412824
+''	0.00065651
 # class type is GaussDiag
 # mean vector
-4.78827 23.9402 -38.6352 44.9517 -41.8343 2.09741 -28.2232 47.9013 4.4557 7.29725 
+4.13807 26.8699 -8.21482 41.2645 -24.5257 11.0709 -3.37726 32.7269 4.67653 8.49932 
 
 # diagonal of covariance matrix
-0.87097 8.04582 73.7612 8.64477 59.9712 7.10277 96.2279 10.3056 1.36604 1.07074 
+0.196875 7.57445 190.314 9.7811 74.333 10.7492 107.516 14.3001 2.38577 0.319859 
 
 # definition for class # 879
 # class name, prior probability
-''	0.000774487
+''	0.000569767
 # class type is GaussDiag
 # mean vector
-2.87519 40.7255 -60.7788 58.2405 -80.0526 29.6789 -17.4937 72.971 8.47237 9.46409 
+3.71029 22.1406 16.3185 42.0133 -3.02249 2.44973 23.2523 42.3927 2.17319 6.56914 
 
 # diagonal of covariance matrix
-0.453572 33.3937 242.657 90.9939 20.2116 48.2199 912.04 464.683 0.489839 0.0528936 
+1.64375 10.0128 241.156 17.5725 329.586 21.041 487.79 36.8289 1.91745 2.5584 
 
 # definition for class # 880
 # class name, prior probability
-''	0.000299827
+''	0.000198709
 # class type is GaussDiag
 # mean vector
-6.21618 28.2381 -35.3849 62.7766 -44.418 -8.35278 31.7562 84.0547 6.66176 7.98112 
+4.88501 14.6331 -14.7429 38.9461 -3.88985 -6.13515 -2.28302 48.7575 5.26727 7.80713 
 
 # diagonal of covariance matrix
-2.90061 64.6827 473.949 81.3285 416.641 117.506 440.694 105.537 0.948657 0.605219 
+1.20958 10.1324 320.239 29.6914 151.74 26.7018 244.332 57.1361 2.12696 1.09362 
 
 # definition for class # 881
 # class name, prior probability
-''	0.000763552
+''	0.000575917
 # class type is GaussDiag
 # mean vector
-4.24433 39.5933 -72.5207 66.3822 -81.4714 16.9156 -24.4185 72.6809 7.32936 8.79019 
+3.41216 20.4952 0.20746 38.9064 0 2.38528 0 36.633 1.97813 7.7273 
 
 # diagonal of covariance matrix
-0.920763 36.2206 54.4685 101.223 7.84148 54.2775 519.257 182.007 0.562382 0.166871 
+1.05796 47.3968 116.997 81.3121 0 70.5439 0 102.623 3.52543 1.65823 
 
 # definition for class # 882
 # class name, prior probability
-''	0.000858687
+''	0.000795649
 # class type is GaussDiag
 # mean vector
-5.63346 61.0437 -57.8638 98.1059 -43.3855 20.492 -24.3876 85.4732 6.6704 8.53643 
+4.1663 21.8791 -24.9914 41.1217 -15.2962 2.28778 -23.2682 41.6489 2.7202 6.69067 
 
 # diagonal of covariance matrix
-1.73393 41.0167 151.671 40.3117 507.668 50.5569 405.207 57.4624 0.933962 0.212756 
+1.90275 6.13693 177.006 8.54581 257.97 10.105 187.351 14.9592 2.3588 1.90573 
 
 # definition for class # 883
 # class name, prior probability
-''	0.00196565
+''	0.00048054
 # class type is GaussDiag
 # mean vector
-2.82953 85.9288 -68.9009 100.637 -19.8136 57.7667 -83.8788 103.593 8.47124 9.47618 
+3.19381 22.8114 -20.3725 36.249 1.39684 9.13315 -34.2142 30.3076 2.1874 7.68519 
 
 # diagonal of covariance matrix
-0.54477 135.891 146.876 175.294 1044.98 295.178 9.41669 1243.99 0.622194 0.0776133 
+0.984077 5.78005 58.7513 10.9599 175.253 8.73807 107.269 14.9384 2.16263 1.14246 
 
 # definition for class # 884
 # class name, prior probability
-''	0.00174861
+''	0.000527896
 # class type is GaussDiag
 # mean vector
-3.39186 157.123 45.473 182.376 -22.2446 117.754 79.1018 116.536 7.02418 9.32478 
+1.94854 23.6314 -26.4302 29.4184 20.2863 17.8534 -53.3209 17.8406 4.26879 9.03226 
 
 # diagonal of covariance matrix
-1.12869 412.862 992.436 606.294 820.848 652.198 82.2154 2865.66 3.20999 0.150674 
+0.307392 7.28608 107.804 12.2527 311.142 9.30213 66.3118 27.94 2.08873 0.215181 
 
 # definition for class # 885
 # class name, prior probability
-''	0.00633693
+''	0.000592132
 # class type is GaussDiag
 # mean vector
-6.42641 132.622 50.9031 218.386 -18.5263 1.74532 86.303 296.108 7.71212 8.57812 
+2.33371 36.0855 -18.7253 46.4269 36.7804 25.9832 -53.7496 27.8925 3.44607 8.45989 
 
 # diagonal of covariance matrix
-3.36415 805.006 1133.77 1243.05 1592.5 1991.29 3.50186 3356.45 0.832709 0.362053 
+0.410858 24.7767 261.815 38.1628 249.242 33.0793 90.8806 50.5963 1.9942 0.469651 
 
 # definition for class # 886
 # class name, prior probability
-''	0.00235716
+''	0.000421808
 # class type is GaussDiag
 # mean vector
-7.70747 40.3854 44.3815 152.363 5.46761 -62.6818 -6.43049 225.819 6.68661 7.86915 
+4.50213 30.539 60.6743 47.3608 49.5409 13.7317 55.634 48.5099 6.3101 8.52582 
 
 # diagonal of covariance matrix
-4.15361 528.939 579.003 977.214 1690.22 427.411 1359.37 982.977 0.986844 0.490283 
+1.30063 20.3214 108.11 44.7245 430.759 27.2994 264.398 101.2 1.59114 0.339001 
 
 # definition for class # 887
 # class name, prior probability
-''	0.00174098
+''	0.000475184
 # class type is GaussDiag
 # mean vector
-6.76518 57.3576 -7.78938 127.846 -16.502 -15.1226 -17.9823 148.16 5.08895 7.29348 
+2.4279 14.9672 67.6772 19.9511 66.787 9.93606 64.0011 27.7594 7.6583 9.32591 
 
 # diagonal of covariance matrix
-4.53624 138.015 907.209 186.201 507.42 165.757 859.527 221.813 2.31099 1.12385 
+0.690021 17.9939 23.2268 23.2406 54.6364 26.4817 100.56 87.8669 0.765739 0.162511 
 
 # definition for class # 888
 # class name, prior probability
-''	0.00270758
+''	0.000208769
 # class type is GaussDiag
 # mean vector
-8.01498 30.4929 -9.18738 111.133 -16.1666 -44.7521 -24.2547 161.334 6.7037 7.91143 
+1.19133 -2.06771 -25.1235 0.2709 -43.3092 -4.40727 0.79448 6.62902 5.75274 9.62654 
 
 # diagonal of covariance matrix
-6.16099 155.893 1847.21 158.055 671.782 116.489 728.83 183.842 1.46981 0.615978 
+0.115763 4.84967 19.8667 5.73186 29.9231 5.94677 55.2577 5.35389 1.28678 0.0456205 
 
 # definition for class # 889
 # class name, prior probability
-''	0.00151799
+''	0.000271266
 # class type is GaussDiag
 # mean vector
-6.94537 54.422 -54.1502 125.443 -37.7782 -14.3914 -41.5986 149.128 5.966 7.86852 
+2.53093 7.1552 -15.833 15.3579 -26.5877 -1.05843 -0.472236 18.3026 1.45726 7.86157 
 
 # diagonal of covariance matrix
-3.62933 158.816 196.396 171.854 357.298 182.572 333.486 214.538 1.41824 0.606297 
+0.285643 1.49042 12.5231 2.55993 31.0362 3.27515 5.73442 5.44282 0.346354 1.12781 
 
 # definition for class # 890
 # class name, prior probability
-''	0.00283306
+''	0.000359919
 # class type is GaussDiag
 # mean vector
-2.91807 144.846 -72.8208 167.436 -14.5677 95.3016 -85.9382 164.494 8.72547 9.56797 
+3.11396 10.8559 -8.28268 19.0264 -10.0366 2.65137 -3.22587 18.0911 1.92456 8.26686 
 
 # diagonal of covariance matrix
-0.481347 688.938 140.161 819.683 1374.55 1352.71 7.22574 3985.22 0.511281 0.049947 
+0.490353 1.21544 31.5772 2.75013 80.2617 2.84753 64.3353 6.03407 1.05344 0.480907 
 
 # definition for class # 891
 # class name, prior probability
-''	0.00165853
+''	0.000419127
 # class type is GaussDiag
 # mean vector
-5.15097 75.4384 -58.5504 109.578 -25.8749 21.1232 -82.363 133.99 7.09326 8.50502 
+2.57086 5.25022 26.3063 9.82593 54.2685 0.7698 -21.2536 16.6911 5.1065 9.01592 
 
 # diagonal of covariance matrix
-2.13341 99.7377 256.051 185.062 473.55 332.718 14.0168 828.579 0.956263 0.293933 
+0.22185 1.97219 22.8426 4.23711 19.2699 3.80723 83.0365 13.4872 2.66966 0.190399 
 
 # definition for class # 892
 # class name, prior probability
-''	0.00806319
+''	0.000443835
 # class type is GaussDiag
 # mean vector
-4.37265 321.432 -2.68074 423.329 -6.78156 216.501 -4.05868 276.352 7.79006 9.31428 
+2.91496 5.61373 58.4109 13.9644 73.6039 -2.65208 -10.6596 28.6853 5.86156 8.6678 
 
 # diagonal of covariance matrix
-4.08953 5903.46 3630.29 5799.55 2580.18 12357.2 3254.43 22605.8 3.34007 0.296496 
+0.216819 4.64304 30.9367 9.8215 5.51614 9.01077 247.566 21.5215 1.89232 0.55355 
 
 # definition for class # 893
 # class name, prior probability
-''	0.0120913
+''	0.000185787
 # class type is GaussDiag
 # mean vector
-5.44442 206.005 -22.3276 291.902 -23.0299 118.38 -15.6166 187.049 5.85251 8.64467 
+2 5.34521 -32.7478 7.87424 -39.1175 2.81616 -24.9763 9.56082 4.02507 9.33419 
 
 # diagonal of covariance matrix
-2.32179 954.939 1401.82 1781.01 1182.78 1338.68 856.462 2926.57 2.43253 0.274787 
+0 1.15243 5.10166 1.72324 10.5912 1.65667 33.8975 2.45893 0.68081 0.107891 
 
 # definition for class # 894
 # class name, prior probability
-''	0.00321726
+''	0.000329512
 # class type is GaussDiag
 # mean vector
-4.84015 109.939 -62.1333 150.047 -20.8452 33.4346 -85.3513 181.664 7.55469 8.83767 
+1.51698 8.23865 -14.3796 10.0403 -26.6999 6.42146 0.305052 5.83947 5.08557 9.64719 
 
 # diagonal of covariance matrix
-1.97565 217.616 233.403 331.599 809.838 856.427 4.32506 1581.59 0.831561 0.220282 
+0.201132 3.37124 21.3041 4.33436 50.9254 3.83575 67.3645 6.03949 1.32587 0.0401178 
 
 # definition for class # 895
 # class name, prior probability
-''	0.00631956
+''	0.000358664
 # class type is GaussDiag
 # mean vector
-0 70.3616 0 70.3616 0 70.3616 0 -98.755 0 10.0068 
+2.33726 6.20006 21.7266 10.5609 -7.08019 1.86349 42.045 12.4397 2.97835 8.64721 
 
 # diagonal of covariance matrix
-0 4.24464 0 4.24464 0 4.24464 0 315.251 0 0.000963231 
+0.194526 2.46566 18.0888 4.0814 68.7159 4.68746 24.6681 6.17887 1.80443 0.594957 
 
 # definition for class # 896
 # class name, prior probability
-''	0.000554889
+''	0.000248928
 # class type is GaussDiag
 # mean vector
-0.88888 -104.156 5.27075e-05 -101.463 -7.30973e-05 -106.862 1.69089e-05 5.54481 3.80989 9.9295 
+2.64344 9.8078 31.5362 16.2773 38.9637 3.52442 19.8956 17.3456 3.04898 8.46233 
 
 # diagonal of covariance matrix
-0.338302 341.826 1.16693e-06 349.66 1.20888e-06 346.611 7.83837e-08 25.0997 14.2654 0.00913858 
+0.399325 3.85405 32.5681 5.45051 67.4701 7.19486 133.129 14.0562 1.34302 0.342977 
 
 # definition for class # 897
 # class name, prior probability
-''	0.000204301
+''	0.00030412
 # class type is GaussDiag
 # mean vector
-1.54618 -18.4661 -16.8646 -16.0938 -6.89347 -20.8107 -22.5492 7.19789 4.83898 9.74491 
+1.50424 2.36633 -26.6038 3.52023 -26.5099 1.2124 -25.8788 5.15329 5.7881 9.74941 
 
 # diagonal of covariance matrix
-0.413298 6.40212 133.888 7.79662 536.898 9.08179 371.471 16.0069 3.09197 0.0283269 
+0.138262 3.00936 39.7207 3.13758 69.7683 3.55111 97.2138 2.1975 1.3882 0.0178171 
 
 # definition for class # 898
 # class name, prior probability
-''	0.00101839
+''	0.00050134
 # class type is GaussDiag
 # mean vector
-2 -29.1623 -9.37771 -21.4336 -8.91235 -36.8909 -9.09117 18.1394 1.28001 9.42524 
+2 7.05509 -23.9187 9.28436 -27.3367 4.82581 -20.117 7.61309 3.30779 9.40124 
 
 # diagonal of covariance matrix
-1.00797e-05 23.1243 346.969 34.8168 480.701 34.7514 576.515 52.9682 0.637654 0.0603576 
+0 0.902004 4.06183 1.59066 13.2298 1.13466 19.7903 2.33156 0.525824 0.0639832 
 
 # definition for class # 899
 # class name, prior probability
-''	0.00113893
+''	0.000222837
 # class type is GaussDiag
 # mean vector
-2.75563 -45.967 -38.3494 -37.4522 -46.3412 -54.7024 -22.983 23.1379 3.73419 9.20118 
+1.89131 7.34648 -27.2583 8.55287 -26.0059 6.1405 -28.056 5.90617 5.06451 9.65547 
 
 # diagonal of covariance matrix
-0.843582 26.605 112.954 40.7626 113.483 35.5072 561.282 53.9346 1.97352 0.0753771 
+0.0547264 0.418933 8.73409 0.686413 36.2462 0.541759 21.3849 1.29206 0.687739 0.020399 
 
 # definition for class # 900
 # class name, prior probability
-''	0.000931673
+''	0.00107412
 # class type is GaussDiag
 # mean vector
-2.84899 -46.8699 -68.9351 -14.9056 -84.2826 -64.7109 -8.29584 121.486 8.66802 9.40955 
+2 11.0739 -41.4089 14.1726 -41.6073 7.97517 -40.469 12.4508 4.44479 9.23999 
 
 # diagonal of covariance matrix
-0.863547 223.543 204.272 395.716 11.9528 312.06 1107.89 2817.65 0.556726 0.116571 
+0 2.44874 10.2429 3.08443 34.6226 3.68257 34.7598 4.07157 0.742343 0.102981 
 
 # definition for class # 901
 # class name, prior probability
-''	0.000808791
+''	0.000169856
 # class type is GaussDiag
 # mean vector
-4.12414 -20.8961 -70.9034 2.72165 -81.2427 -37.9977 -35.6666 70.5756 7.4681 8.88005 
+1.84284 20.0605 -35.2366 22.6413 -43.7547 17.4596 -22.7602 10.2612 5.37879 9.5935 
 
 # diagonal of covariance matrix
-1.21427 75.927 45.2981 142.805 8.51419 109.705 318.714 291.674 0.755781 0.165921 
+0.246001 5.63839 20.862 7.03254 40.9762 6.59735 137.935 11.1948 1.72862 0.0480545 
 
 # definition for class # 902
 # class name, prior probability
-''	0.000781992
+''	0.000359201
 # class type is GaussDiag
 # mean vector
-4.62145 -12.389 -29.4813 7.75699 -25.9751 -29.2528 -31.3627 41.8513 6.43796 8.90233 
+2.23305 11.1241 23.7701 16.5719 -1.62635 5.63068 42.0686 15.529 2.88345 8.71922 
 
 # diagonal of covariance matrix
-0.827301 20.8547 356.163 31.8216 205.755 26.0467 192.771 39.4587 1.16987 0.183018 
+0.154517 2.25041 25.5874 5.67015 118.308 4.98404 53.9029 13.2551 2.77732 0.327406 
 
 # definition for class # 903
 # class name, prior probability
-''	0.00047027
+''	0.000491239
 # class type is GaussDiag
 # mean vector
-3.0549 14.5265 -73.9573 29.9129 -82.6936 2.40922 -24.8483 60.6289 8.30145 9.1009 
+2.25021 10.3835 -20.1161 19.0287 -23.2161 1.71455 -14.2031 19.5526 1.0926 7.57726 
 
 # diagonal of covariance matrix
-0.380237 19.5278 26.008 40.1344 2.59774 32.1941 244.376 132.797 0.430328 0.171123 
+0.113505 1.21093 15.3895 2.02058 45.1487 2.49963 51.8399 4.2348 0.136635 1.13894 
 
 # definition for class # 904
 # class name, prior probability
-''	0.000452473
+''	0.000345244
 # class type is GaussDiag
 # mean vector
-4.4844 17.5428 -26.5082 33.6298 18.1311 2.90227 -45.0564 38.7248 5.17492 8.46052 
+2.51777 12.2293 -37.6735 17.9415 -30.1847 6.63611 -40.8263 16.4198 3.18159 8.82034 
 
 # diagonal of covariance matrix
-1.38416 12.0331 203.922 28.4166 413.558 22.7803 205.451 59.5299 2.5054 0.3183 
+0.362354 1.77321 11.5574 3.02559 59.6089 3.44764 35.6231 6.67118 0.682384 0.151098 
 
 # definition for class # 905
 # class name, prior probability
-''	0.00118408
+''	0.000726755
 # class type is GaussDiag
 # mean vector
-3.43904 4.93386 2.47918 39.8899 -1.58782e-07 -34.7297 2.05084e-06 75.2269 4.56726 8.45872 
+3.80608 16.6921 -29.5774 27.0997 -31.7207 5.57478 -17.7289 24.9408 3.45863 8.19827 
 
 # diagonal of covariance matrix
-2.5656 603.319 109.102 954.796 2.08202e-10 585.408 5.80283e-09 723.794 10.0817 0.914452 
+0.583854 1.38378 56.1084 1.89619 65.2372 2.85743 116.162 3.98851 1.75618 0.406166 
 
 # definition for class # 906
 # class name, prior probability
-''	0.00058151
+''	0.000740157
 # class type is GaussDiag
 # mean vector
-4.65129 9.92172 -23.1391 38.6049 -12.1959 -20.4317 -32.5706 62.5344 3.19389 7.15664 
+2.12795 19.3571 -15.3647 28.7041 -27.6674 9.98083 0.411298 20.9683 1.03879 8.36416 
 
 # diagonal of covariance matrix
-1.9135 21.2375 284.711 26.5918 282.237 46.4436 160.896 60.5287 2.24217 1.61431 
+0.0475087 4.4647 31.289 7.17568 63.3459 7.23303 90.9773 11.1064 0.170025 0.366133 
 
 # definition for class # 907
 # class name, prior probability
-''	0.000516658
+''	0.00037604
 # class type is GaussDiag
 # mean vector
-3.09434 41.2364 -35.6793 57.8353 15.9926 24.6805 -56.8155 47.578 4.82138 8.18838 
+3.33057 17.1492 -33.6748 24.4179 -41.6934 9.31217 -13.5805 19.7575 3.80056 8.7588 
 
 # diagonal of covariance matrix
-0.986659 29.3993 323.398 51.7479 753.917 67.264 181.69 177.634 6.33569 1.23893 
+0.621004 1.94792 43.8878 3.59013 31.8103 3.00369 220.405 5.30121 1.89564 0.160333 
 
 # definition for class # 908
 # class name, prior probability
-''	0.000615814
+''	0.000277445
 # class type is GaussDiag
 # mean vector
-5.50546 12.3509 13.0139 35.2107 32.2616 -9.39861 -37.2905 51.2529 5.17959 7.91049 
+2.35991 26.836 -35.7799 34.9305 -43.2805 18.6307 -22.7649 21.1799 2.44618 8.88942 
 
 # diagonal of covariance matrix
-1.67521 13.6373 496.513 35.8866 643.069 20.4611 177.759 63.5802 1.49225 0.777846 
+0.308025 5.21205 10.6788 7.7302 20.3884 11.8921 66.8763 16.6749 0.895283 0.231723 
 
 # definition for class # 909
 # class name, prior probability
-''	0.000526163
+''	0.00138704
 # class type is GaussDiag
 # mean vector
-4.10893 22.9556 57.1771 39.875 76.9598 8.3439 -33.4844 49.0367 6.87979 8.65513 
+4.30097 30.4569 -35.6108 42.4676 -33.7755 17.3474 -27.1688 29.9112 5.18259 8.86963 
 
 # diagonal of covariance matrix
-0.894093 13.5125 104.019 27.4443 11.789 20.3381 200.985 67.202 0.64199 0.18742 
+0.475356 4.74127 105.911 8.00277 150.156 10.0167 178.738 16.2263 1.42256 0.157867 
 
 # definition for class # 910
 # class name, prior probability
-''	0.000307254
+''	0.00104062
 # class type is GaussDiag
 # mean vector
-3.10259 14.8502 42.0316 24.4816 71.2988 6.24377 -38.5747 32.5818 6.31281 8.85277 
+3.78051 48.7427 -43.0115 59.1269 -42.4291 37.4525 -32.2753 28.0426 4.7105 9.08846 
 
 # diagonal of covariance matrix
-0.665833 6.09657 162.615 12.0763 18.2313 10.943 108.873 32.4564 1.37083 0.171067 
+0.519547 13.379 73.9908 21.9002 147.572 27.0503 273.785 44.6215 1.63049 0.0724974 
 
 # definition for class # 911
 # class name, prior probability
-''	0.000328841
+''	0.000444783
 # class type is GaussDiag
 # mean vector
-1.92826 0.459667 22.8749 4.09377 -9.89345 -3.16913 45.2169 11.6583 4.35738 9.31062 
+5.60772 24.657 -2.52858 48.8588 -29.7382 0.287793 -20.3209 53.7076 6.67265 8.49973 
 
 # diagonal of covariance matrix
-0.437664 5.81393 62.6169 7.07335 249.901 9.28101 54.7224 17.553 3.73824 0.197649 
+2.06798 15.0194 262.248 21.4378 123.6 25.21 242.035 25.864 0.580046 0.245988 
 
 # definition for class # 912
 # class name, prior probability
-''	0.000495798
+''	0.00105247
 # class type is GaussDiag
 # mean vector
-2 6.41901 17.762 11.8159 16.4327 1.02208 18.0721 12.9089 1.32349 8.60412 
+3.22549 49.7321 -27.2732 62.2067 -20.111 37.0166 -29.1977 28.8697 2.7515 8.8137 
 
 # diagonal of covariance matrix
-0 9.9954 21.8994 13.6245 119.584 13.419 107.76 14.6783 0.363384 0.589713 
+1.00231 9.65809 69.8716 19.8371 216.739 23.8612 162.764 47.9155 3.09085 0.288193 
 
 # definition for class # 913
 # class name, prior probability
-''	0.000211296
+''	0.000784796
 # class type is GaussDiag
 # mean vector
-2.92519 5.30361 -4.24623 12.1485 -9.30188 -1.45589 -0.122243 14.7741 1.68049 8.53032 
+2.49523 61.1748 -59.3107 69.9496 -56.5464 52.1504 -56.5319 31.435 5.03732 9.16658 
 
 # diagonal of covariance matrix
-0.438424 2.59742 16.5702 4.82294 31.18 5.22095 30.1003 10.05 0.912483 0.327036 
+0.428728 40.1131 42.1208 65.5034 187.105 43.4859 184.624 94.0506 2.83091 0.201311 
 
 # definition for class # 914
 # class name, prior probability
-''	0.000437705
+''	0.00251148
 # class type is GaussDiag
 # mean vector
-2.52814 3.11004 38.7704 8.27555 60.9691 -1.90628 -10.667 18.4752 5.25124 9.04652 
+3.04356 162.252 -64.9573 196.883 -45.3968 127.558 -46.3232 125.616 8.22265 9.55437 
 
 # diagonal of covariance matrix
-0.233148 2.59745 31.4359 5.08347 15.4587 5.65555 148.72 21.0529 2.92378 0.245769 
+0.672152 713.688 226.059 1207.19 1621.05 1205.86 1428.67 2872.02 1.09934 0.0604151 
 
 # definition for class # 915
 # class name, prior probability
-''	0.000292804
+''	0.00603778
 # class type is GaussDiag
 # mean vector
-2 2.14901 -13.4289 3.84002 -14.4889 0.457993 -12.2504 5.16582 2.39843 9.55136 
+1.91723 142.29 -19.2229 151.048 -16.459 133.53 -19.1631 21.3213 2.16325 9.5922 
 
 # diagonal of covariance matrix
-0 1.19089 4.74165 1.57045 18.4768 1.66717 16.4277 1.93171 0.823813 0.0233172 
+0.139849 193.459 425.832 222.701 695.672 213.239 720.186 119.081 3.76898 0.0594925 
 
 # definition for class # 916
 # class name, prior probability
-''	0.000519191
+''	0.00810183
 # class type is GaussDiag
 # mean vector
-2 8.88857 -3.5062 12.7896 -23.43 4.98756 17.3486 10.9202 2.31113 8.9175 
+2.60973 133.878 0.0840962 222.09 7.8325e-07 47.0485 -8.31717e-07 175.842 4.98058 8.11206 
 
 # diagonal of covariance matrix
-0 2.70383 19.3854 4.58512 43.8461 3.86835 43.274 6.59223 0.950848 0.280008 
+5.49821 5318.78 16.7543 12456.7 2.70474e-09 15841.9 1.48276e-08 34886.4 13.6334 8.91149 
 
 # definition for class # 917
 # class name, prior probability
-''	0.000312644
+''	0.000618653
 # class type is GaussDiag
 # mean vector
-3.32224 9.63431 -3.70003 25.2811 -75.3377 -1.16327 58.4698 69.8187 8.24101 8.95222 
+6.24562 41.7884 63.3565 103.477 82.4023 -4.2345 -42.8787 141.675 7.06816 8.16844 
 
 # diagonal of covariance matrix
-0.683421 33.6441 1021.01 64.0341 40.4608 57.1594 284.583 368.679 0.394854 0.192157 
+2.75703 124.13 228.174 304.809 15.3613 130.319 318.457 598.595 0.88411 0.454188 
 
 # definition for class # 918
 # class name, prior probability
-''	0.000442882
+''	0.000928009
 # class type is GaussDiag
 # mean vector
-3.5243 0.805377 13.2204 20.7105 -12.2754 -19.4473 29.8151 44.6481 2.8702 7.97978 
+7.30297 13.3105 61.6141 67.2841 77.5687 -32.8242 -36.7488 124.439 7.21443 8.06257 
 
 # diagonal of covariance matrix
-1.40201 23.4953 324.49 44.8991 457.313 36.1615 415.39 67.247 4.18455 0.983112 
+3.49123 102.148 283.903 183.129 61.0163 118.592 325.056 333.135 0.894894 0.511266 
 
 # definition for class # 919
 # class name, prior probability
-''	0.000279814
+''	0.00033043
 # class type is GaussDiag
 # mean vector
-2.58768 -4.15433 -11.5954 9.6049 -19.468 -17.8434 0.250356 29.0984 1.0042 8.34702 
+1.04825 8.47438 -27.1518 10.5502 -45.547 6.39976 -0.3082 6.24039 6.46904 9.74202 
 
 # diagonal of covariance matrix
-0.506062 20.054 41.9117 27.7319 103.606 31.1621 43.5442 38.743 0.587022 0.385656 
+0.110992 6.49929 39.3167 7.46327 23.0008 7.49958 232.326 5.46224 1.10512 0.0283518 
 
 # definition for class # 920
 # class name, prior probability
-''	0.00040405
+''	0.000343039
 # class type is GaussDiag
 # mean vector
-3.87436 7.80514 -22.4254 18.7928 -27.4603 -2.94741 -10.0032 24.416 3.44329 8.27261 
+3.65686 8.68598 -39.3766 17.2081 -46.5525 -0.804633 -13.239 22.6809 4.20097 8.27764 
 
 # diagonal of covariance matrix
-0.259434 2.29728 94.5405 5.43965 56.7519 2.95107 137.019 8.00895 1.45955 0.251031 
+0.257274 3.38415 32.4334 4.31331 38.8345 4.5306 133.49 6.51475 1.28905 0.321673 
 
 # definition for class # 921
 # class name, prior probability
-''	0.000421458
+''	0.000502466
 # class type is GaussDiag
 # mean vector
-3.2829 5.9542 -17.7057 13.1669 -14.5269 -1.1122 -15.5902 16.381 2.69134 8.28559 
+3.25255 14.0306 -22.7409 22.557 -29.5866 5.36812 -8.48465 19.9885 2.67233 8.33655 
 
 # diagonal of covariance matrix
-0.540967 1.53751 27.4032 3.18175 66.4282 4.37428 91.8237 8.12782 2.05056 0.976293 
+0.662519 1.03025 35.5935 1.94682 51.7601 1.73538 95.8787 3.57182 1.47714 0.375938 
 
 # definition for class # 922
 # class name, prior probability
-''	0.000617639
+''	0.00049299
 # class type is GaussDiag
 # mean vector
-2.83042 8.47453 20.7031 16.0101 45.0307 0.98634 -15.4495 19.1118 2.85907 8.06102 
+2.87663 20.3859 22.9064 29.1774 58.2325 11.8926 -34.67 25.502 4.23005 8.76598 
 
 # diagonal of covariance matrix
-0.448412 3.32844 54.2397 5.77472 56.9062 5.31502 198.704 11.1982 1.15957 0.72426 
+0.54011 5.42406 159.616 10.8803 41.9058 9.02107 146.401 18.1079 2.64068 0.248897 
 
 # definition for class # 923
 # class name, prior probability
-''	0.000269952
+''	0.000636049
 # class type is GaussDiag
 # mean vector
-2.77547 -1.98417 58.6271 5.83886 72.9722 -9.86771 -6.58001 28.5574 6.09647 9.16246 
+0.566837 19.9239 0 21.8201 45 18.0277 -45 5.05941 7.69571 9.88891 
 
 # diagonal of covariance matrix
-0.207686 24.5484 34.7833 33.1482 11.6184 28.9643 111.822 32.9289 2.08945 0.135119 
+0.0151018 305.334 0 312.456 1.68626e-05 302.967 1.68626e-05 10.2717 0.170245 0.0155536 
 
 # definition for class # 924
 # class name, prior probability
-''	0.000349064
+''	0.000612634
 # class type is GaussDiag
 # mean vector
-2 -2.46 -6.25095 1.01525 -6.62309 -5.93524 -5.69833 7.95927 0.823232 9.38296 
+2 13.8488 -29.827 17.6824 -34.1563 10.0153 -24.4564 11.6763 2.87875 9.10821 
 
 # diagonal of covariance matrix
-0 2.01632 13.8779 4.23286 55.043 2.97883 60.0872 7.23162 0.321322 0.0872503 
+0 2.02776 8.49808 2.90573 27.4371 2.56777 52.7085 3.41503 0.370228 0.122714 
 
 # definition for class # 925
 # class name, prior probability
-''	0.00034537
+''	0.000457545
 # class type is GaussDiag
 # mean vector
-2 1.65757 -18.3175 4.602 -16.2541 -1.28687 -20.1651 8.219 2.15374 9.22335 
+2.47851 13.3597 57.3745 20.2738 -28.8958 5.62618 76.5142 34.1777 7.85357 9.37603 
 
 # diagonal of covariance matrix
-0 0.926562 4.94824 2.19349 25.5842 1.71637 16.0328 4.53644 0.572424 0.193405 
+0.592448 12.1344 126.737 19.1041 196.873 18.8452 13.4277 149.225 0.758938 0.0959576 
 
 # definition for class # 926
 # class name, prior probability
-''	0.0002493
+''	0.000935555
 # class type is GaussDiag
 # mean vector
-1.43816 3.66912 -14.8106 5.62587 0.535153 1.72144 -27.8127 5.85977 4.64513 9.6732 
+4.92103 16.9861 24.6859 30.6175 -34.2346 3.30202 43.741 33.5552 5.40212 8.10338 
 
 # diagonal of covariance matrix
-0.271836 13.1342 8.63711 13.1947 29.7753 15.5966 28.6168 10.7057 2.46287 0.0494093 
+0.907362 8.52443 284.636 12.7667 85.7221 14.8462 204.075 25.1886 1.0056 0.457824 
 
 # definition for class # 927
 # class name, prior probability
-''	0.000393578
+''	0.000387366
 # class type is GaussDiag
 # mean vector
-2.22565 -10.3987 19.0218 -1.77956 -12.0362 -19.1005 40.8009 22.2653 2.51999 9.07349 
+3.0575 14.9275 -9.85027 26.4404 -31.8698 3.58467 16.502 26.2438 2.0607 7.39418 
 
 # diagonal of covariance matrix
-0.237782 18.756 208.368 22.3402 381.167 38.9469 246.177 48.4534 3.5354 0.181371 
+0.808295 1.97876 65.1432 5.3243 81.5759 4.64564 95.888 10.776 0.871406 1.2137 
 
 # definition for class # 928
 # class name, prior probability
-''	0.000312757
+''	0.000738501
 # class type is GaussDiag
 # mean vector
-2.13199 2.40854 -6.49108 7.0798 -32.2148 -2.27466 22.9055 13.6801 3.01847 8.89749 
+5.77189 5.6035 -24.8857 28.0785 -22.3748 -16.8611 -31.6054 48.9444 5.41594 7.98996 
 
 # diagonal of covariance matrix
-0.0915688 3.65432 39.4722 5.29243 77.0265 5.64412 77.3661 8.86887 1.56264 0.213777 
+2.18348 8.45009 314.882 10.5448 207.205 13.7404 138.509 21.4156 1.7861 0.672238 
 
 # definition for class # 929
 # class name, prior probability
-''	0.000328709
+''	0.000741507
 # class type is GaussDiag
 # mean vector
-2.09879 4.69517 -12.7956 12.0832 -23.7261 -2.69761 -0.356697 16.4891 1.00771 8.21778 
+3.44309 18.1829 -74.2747 35.4681 -82.3598 3.71711 -25.8302 59.5225 7.6971 8.72163 
 
 # diagonal of covariance matrix
-0.0350208 2.33577 7.42163 4.69826 21.8091 6.0568 18.6261 12.2076 0.151611 0.711886 
+0.527531 17.5141 21.2894 35.0538 2.5731 22.1936 433.871 142.532 0.493048 0.266067 
 
 # definition for class # 930
 # class name, prior probability
-''	0.000424408
+''	0.000518632
 # class type is GaussDiag
 # mean vector
-2.52772 -2.1893 29.9762 4.64055 59.2492 -8.5619 -20.7738 23.2775 5.23911 9.1134 
+3.66006 17.2907 -46.0662 35.2373 -74.2479 5.50041 -17.3164 64.2902 7.78309 8.90484 
 
 # diagonal of covariance matrix
-0.456012 6.11737 191.958 14.3908 61.3425 11.6895 240.589 48.366 3.50263 0.244234 
+1.01086 19.9807 115.015 57.7926 31.0793 33.942 285.107 265.31 0.587406 0.184722 
 
 # definition for class # 931
 # class name, prior probability
-''	0.000347639
+''	0.000359908
 # class type is GaussDiag
 # mean vector
-1.04511 -8.96589 9.34482 -7.42616 16.0068 -10.5026 0.679014 4.32903 5.85249 9.88972 
+4.35477 19.147 -25.4891 47.4524 -35.3142 -9.23632 -3.53654 60.1882 3.4362 7.48636 
 
 # diagonal of covariance matrix
-0.132145 22.9528 219.099 23.5899 332.798 24.1814 583.884 5.1266 2.28306 0.00955709 
+1.64408 11.3104 185.913 13.6996 162.727 17.5384 187.63 18.3503 3.82033 1.37671 
 
 # definition for class # 932
 # class name, prior probability
-''	0.000497948
+''	0.000362463
 # class type is GaussDiag
 # mean vector
-1.62574 24.1599 -79.2888 27.5771 -79.0865 20.5928 -79.0629 43.6663 9.10742 9.71632 
+5.19528 22.1126 -49.9679 51.1266 -49.0431 -6.84995 -23.145 64.5484 4.79797 7.18247 
 
 # diagonal of covariance matrix
-0.379629 384.945 14.5555 400.264 16.5154 395.053 17.7788 299.844 0.266001 0.0518287 
+1.71786 17.0979 158.919 23.2107 240.544 18.5703 156.535 25.6842 2.88899 1.69063 
 
 # definition for class # 933
 # class name, prior probability
-''	0.000538543
+''	0.000680488
 # class type is GaussDiag
 # mean vector
-2.71246 29.7837 -59.4754 36.9624 -18.0358 20.2357 -75.5492 37.4848 7.22124 9.16264 
+3.84037 32.4985 -31.7684 53.6364 -45.8322 12.1518 -24.4632 75.4958 8.04319 9.11917 
 
 # diagonal of covariance matrix
-0.25557 16.8661 83.5471 21.5711 445.692 31.0544 18.8181 130.09 1.3717 0.164139 
+1.30056 48.6974 330.209 87.6669 548.819 130.52 632.902 328.825 0.542194 0.142132 
 
 # definition for class # 934
 # class name, prior probability
-''	0.000374235
+''	0.000861707
 # class type is GaussDiag
 # mean vector
-2.30115 31.4117 73.4149 36.9476 71.0294 25.6077 72.9649 38.2781 8.24304 9.5154 
+5.29038 41.2209 -6.13763 77.9058 -27.8925 5.69 2.40452 75.4643 4.58483 7.45081 
 
 # diagonal of covariance matrix
-0.772898 38.3652 32.0624 57.3948 84.7339 48.7057 42.8238 237.267 0.773893 0.0901638 
+2.05328 19.5673 346.736 22.8666 276.178 22.6504 363.703 27.3491 2.51124 0.973926 
 
 # definition for class # 935
 # class name, prior probability
-''	0.0002567
+''	0.00080418
 # class type is GaussDiag
 # mean vector
-1.40594 -2.95756 72.9618 -0.635227 72.021 -5.24992 72.4378 28.7245 9.00589 9.8081 
+6.47623 39.6141 38.1596 77.6928 -24.8983 1.84772 39.9907 81.8187 5.53928 7.05977 
 
 # diagonal of covariance matrix
-0.373233 77.661 70.0856 81.6009 82.8453 84.7343 85.6956 266.573 0.344346 0.0292792 
+2.89674 31.9729 373.315 33.1383 390.435 30.9733 531.514 47.7098 1.38298 1.12025 
 
 # definition for class # 936
 # class name, prior probability
-''	0.000401748
+''	0.00117807
 # class type is GaussDiag
 # mean vector
-2.23645 0.808157 6.08356 11.438 -22.6984 -9.80525 32.6295 24.8663 1.46213 8.38174 
+7.383 38.2417 6.93976 88.7602 -22.089 -7.00858 0.340151 98.9647 5.85542 7.22759 
 
 # diagonal of covariance matrix
-0.143871 8.70069 140.27 19.6582 212.05 13.8071 147.826 33.4461 0.457256 0.430144 
+3.61842 50.2924 1026.67 57.417 333.326 41.9462 532.424 68.6871 0.76496 0.60374 
 
 # definition for class # 937
 # class name, prior probability
-''	0.000393787
+''	0.000927373
 # class type is GaussDiag
 # mean vector
-2.27936 11.3576 -15.4603 22.7289 -41.8974 -0.00284978 20.7636 26.9289 1.61887 7.43227 
+5.22264 26.0061 -17.4268 77.7756 -23.3643 -29.2237 -5.40113 110.676 4.62724 7.71296 
 
 # diagonal of covariance matrix
-0.193288 7.96291 29.3321 10.6021 47.648 15.2131 68.275 20.6893 0.31874 1.40606 
+1.95043 88.0276 791.727 112.557 411.283 98.0774 393.753 117.622 3.94275 1.13635 
 
 # definition for class # 938
 # class name, prior probability
-''	0.000263033
+''	0.000740139
 # class type is GaussDiag
 # mean vector
-2.0601 1.65091 -22.2671 10.2739 -38.291 -6.98467 -0.461878 20.166 1.46454 8.36962 
+6.21115 47.9999 -58.4598 100.105 -27.4558 -2.98872 -17.1379 107.71 7.31596 8.18316 
 
 # diagonal of covariance matrix
-0.0356378 5.96477 18.7553 10.535 32.0693 10.4895 21.9496 18.6384 0.223613 0.859055 
+2.17211 133.1 162.512 103.488 393.009 47.5408 233.54 98.5558 0.568229 0.356401 
 
 # definition for class # 939
 # class name, prior probability
-''	0.000326965
+''	0.000454469
 # class type is GaussDiag
 # mean vector
-2.91988 6.96682 -49.0392 17.4686 -62.7952 -3.25394 -10.2208 28.3186 3.83325 8.21979 
+5.48817 47.8328 -56.9316 94.4482 -68.2387 5.51884 -0.274115 108.378 5.96273 7.62446 
 
 # diagonal of covariance matrix
-0.498132 6.52032 34.0968 10.731 41.5329 13.2771 294.691 27.1299 1.43909 0.508944 
+2.25379 67.3831 229.053 135.948 224.649 111.948 1071.88 216.11 1.87255 0.924907 
 
 # definition for class # 940
 # class name, prior probability
-''	0.000528123
+''	0.00122449
 # class type is GaussDiag
 # mean vector
-3.90678 6.26297 -36.6733 24.7647 -43.0132 -12.7407 -6.97653 43.4954 4.04302 8.12884 
+6.60571 58.4291 -37.4506 107.483 -28.3659 9.0202 -30.9458 102.909 5.46459 7.76657 
 
 # diagonal of covariance matrix
-1.25317 8.6763 222.809 18.0166 268.235 15.8796 368.956 35.1002 4.23339 0.761057 
+3.5841 55.2704 348.993 41.2027 231.326 42.522 164.057 42.5383 1.99176 0.71219 
 
 # definition for class # 941
 # class name, prior probability
-''	0.000387623
+''	0.000786306
 # class type is GaussDiag
 # mean vector
-4.39704 16.526 -52.4252 35.8496 -57.8811 -3.11222 -27.2665 47.5208 4.42176 7.28768 
+6.48214 40.0944 34.0494 88.3862 -2.00358 -4.70032 -30.1695 100.44 7.37204 8.43932 
 
 # diagonal of covariance matrix
-1.38704 7.78435 70.7185 13.516 128.358 14.401 169.396 27.2734 2.08674 1.40422 
+2.77256 85.2791 560.638 108.929 1017.41 75.0234 399.171 113.006 0.481429 0.20728 
 
 # definition for class # 942
 # class name, prior probability
-''	0.000352466
+''	0.0011358
 # class type is GaussDiag
 # mean vector
-5.01016 19.4235 -46.0977 35.2322 -48.1609 0.816759 -14.5674 39.6818 5.29492 7.95584 
+5.95114 48.9303 67.8609 91.4753 -7.48329 4.7565 62.6758 99.5342 6.93082 8.03337 
 
 # diagonal of covariance matrix
-0.968698 6.48766 63.382 7.18204 86.2976 6.91366 125.566 10.6846 1.31093 0.529509 
+2.38754 72.8056 68.8083 105.339 965.93 70.7955 278.905 151.443 0.978536 0.522966 
 
 # definition for class # 943
 # class name, prior probability
-''	0.000607133
+''	0.000817596
 # class type is GaussDiag
 # mean vector
-5.05495 20.9827 -24.794 40.6799 -37.0706 1.70697 -7.52733 42.6086 4.06142 7.06576 
+5.46764 38.7602 66.7173 91.6486 81.8082 -0.0283057 1.03866 122.442 7.11463 8.15042 
 
 # diagonal of covariance matrix
-1.29518 5.50429 175.352 6.33552 77.5007 4.85333 236.611 8.02745 1.11507 1.01144 
+2.43331 116.357 162.192 200.025 19.5792 116.803 904.838 383.154 0.756939 0.407647 
 
 # definition for class # 944
 # class name, prior probability
-''	0.00026907
+''	0.000723407
 # class type is GaussDiag
 # mean vector
-4.79964 22.3214 9.13822 41.7862 -41.7254 2.47443 46.3398 46.4188 4.15636 6.91794 
+5.83301 10.3274 18.7997 33.341 27.3736 -12.346 -32.9238 51.7653 5.57136 8.04006 
 
 # diagonal of covariance matrix
-1.25375 11.1801 288.35 18.9534 89.1712 15.654 145.133 28.8851 1.37177 1.2824 
+1.95239 12.0088 475.88 30.4577 803.886 24.1733 174.933 57.4936 1.45695 0.652334 
 
 # definition for class # 945
 # class name, prior probability
-''	0.000902015
+''	0.000418452
 # class type is GaussDiag
 # mean vector
-5.24903 11.7625 -3.9986 53.5481 -24.1193 -32.2107 5.02214 90.2501 4.85616 7.69583 
+3.23306 12.3307 -13.4371 30.426 -1.43887 -5.8357 -22.0298 38.4962 1.70463 6.80357 
 
 # diagonal of covariance matrix
-3.18628 42.8666 1259.45 61.3205 406.478 63.5707 923.889 100.559 4.91551 1.2927 
+1.11842 8.64184 139.021 13.5036 148.115 12.3446 244.719 18.9226 1.82644 3.16844 
 
 # definition for class # 946
 # class name, prior probability
-''	0.000506463
+''	0.000309824
 # class type is GaussDiag
 # mean vector
-5.73053 29.4093 -55.1066 55.6976 -37.2516 1.23209 -24.8344 58.9523 6.4876 8.06917 
+2.81185 0.0435482 64.5066 11.1532 79.3881 -9.30284 -12.0026 49.7068 7.80877 9.3025 
 
 # diagonal of covariance matrix
-1.39913 15.4371 83.8119 13.7972 110.028 9.17715 141.832 16.0362 0.591247 0.373992 
+0.202399 26.4589 63.7586 30.2491 5.64955 43.4952 302.945 204.074 1.43681 0.091592 
 
 # definition for class # 947
 # class name, prior probability
-''	0.000671671
+''	0.000471946
 # class type is GaussDiag
 # mean vector
-5.745 37.1777 -51.1897 62.4233 -41.4756 7.18161 -16.0621 60.0162 6.53553 8.43375 
+5.02846 4.46522 35.2098 20.0946 56.0267 -10.062 -36.5652 38.6945 5.70431 8.37072 
 
 # diagonal of covariance matrix
-1.46918 16.5886 138.854 12.3815 195.754 11.8007 196.385 17.1956 0.693849 0.175254 
+1.03129 9.21871 254.52 18.36 182.539 17.8052 108.086 34.8657 1.38035 0.383247 
 
 # definition for class # 948
 # class name, prior probability
-''	0.000610092
+''	0.000270952
 # class type is GaussDiag
 # mean vector
-6.9013 31.7784 -44.2794 77.4016 -26.1547 -8.80179 -15.6682 90.2757 6.55989 7.77248 
+2.25285 -1.05372 2.78882 13.4998 -22.9231 -15.5811 29.026 32.3504 1.05745 8.37504 
 
 # diagonal of covariance matrix
-2.66555 45.5832 306.795 39.4217 503.972 18.2213 181.722 39.5674 0.757446 0.491362 
+0.176577 18.925 121.452 38.0004 226.28 30.0673 109.705 61.2417 0.378139 0.3096 
 
 # definition for class # 949
 # class name, prior probability
-''	0.00096257
+''	0.000156143
 # class type is GaussDiag
 # mean vector
-6.85268 34.3752 -28.6495 68.6013 -27.5233 0.472532 -12.4067 71.0959 5.24065 7.01445 
+2.00183 -11.1382 15.7896 -4.99084 1.05964 -17.2825 28.2298 14.9945 1.68909 9.25894 
 
 # diagonal of covariance matrix
-3.28547 20.0057 368.876 17.5313 180.52 16.0694 182.72 24.3326 0.887784 0.788383 
+0.0366865 22.3855 44.8355 30.9059 138.531 33.1512 87.4846 40.976 1.34067 0.172933 
 
 # definition for class # 950
 # class name, prior probability
-''	0.000867389
+''	0.000280532
 # class type is GaussDiag
 # mean vector
-5.89532 41.2705 67.0397 91.3174 79.797 0.854741 -1.39534 114.835 6.71048 7.86468 
+2.94082 -3.00683 -9.61247 8.07604 -13.1982 -13.849 -2.72056 23.6031 1.74999 8.48109 
 
 # diagonal of covariance matrix
-2.6243 91.7757 123.808 187.943 22.9594 87.5229 1540.25 327.123 0.840755 0.486803 
+0.714328 4.59617 82.7604 12.5681 133.361 8.85921 114.916 23.5656 1.93689 0.430319 
 
 # definition for class # 951
 # class name, prior probability
-''	0.000766821
+''	0.000351541
 # class type is GaussDiag
 # mean vector
-4.35474 18.2322 65.2542 50.7029 82.2049 -3.74481 -7.30734 81.8811 6.89843 7.93315 
+2.19693 -1.10113 21.4176 3.38429 44.5792 -5.48111 -8.98594 15.056 4.06329 9.24007 
 
 # diagonal of covariance matrix
-1.13664 27.2529 132.009 86.3559 6.83409 30.9684 652.84 136.375 0.690566 0.507133 
+0.0864189 5.20643 77.8813 6.25658 65.225 9.10643 233.77 16.9729 3.46067 0.0860984 
 
 # definition for class # 952
 # class name, prior probability
-''	0.000389239
+''	0.000176733
 # class type is GaussDiag
 # mean vector
-2.02532 -1.55286 18.5743 3.31669 31.2851 -6.41294 2.55855 12.9334 2.24718 9.12316 
+1.4301 -4.35349 4.55252 -1.98547 18.3895 -6.70638 -9.68739 6.46682 4.52931 9.73549 
 
 # diagonal of covariance matrix
-0.00764891 5.40833 62.6583 7.90167 138.273 8.9133 272.628 12.9422 1.33978 0.153748 
+0.176304 13.5449 48.1007 13.8154 123.956 17.2742 138.415 12.4975 1.99895 0.0600392 
 
 # definition for class # 953
 # class name, prior probability
-''	0.000167844
+''	0.000316656
 # class type is GaussDiag
 # mean vector
-1.99615 -1.03369 7.65341 2.32035 11.6044 -4.38812 3.48741 8.0991 1.5597 9.39682 
+2.01788 4.99855 -37.1317 10.3089 -43.71 -0.310382 -28.589 15.7829 2.8991 8.77107 
 
 # diagonal of covariance matrix
-0.00368518 6.46783 13.6956 10.0422 49.1109 7.7755 40.5692 9.47917 1.41264 0.0806667 
+0.00456027 3.2287 9.31697 4.74258 14.7763 4.62548 53.41 6.83508 0.302749 0.304633 
 
 # definition for class # 954
 # class name, prior probability
-''	0.000289888
+''	0.000267026
 # class type is GaussDiag
 # mean vector
-2 -3.65853 -5.6668 2.38587 5.56051 -9.70294 -16.2597 14.0774 1.10192 9.02981 
+2.37057 6.10677 -44.1104 10.3337 -54.8244 2.02715 -24.7519 15.5531 5.28211 9.08252 
 
 # diagonal of covariance matrix
-0 8.97676 45.7572 17.7464 174.196 10.014 142.575 18.9098 0.713732 0.265534 
+0.450838 3.54456 33.1826 4.93165 43.7449 6.06906 252.257 14.1641 1.85411 0.207338 
 
 # definition for class # 955
 # class name, prior probability
-''	0.000292483
+''	0.000234435
 # class type is GaussDiag
 # mean vector
-2 -1.70611 -13.3669 0.766898 -8.30103 -4.17912 -17.8924 6.78743 1.88605 9.54132 
+2.16917 5.01719 -23.5398 9.62686 -39.2965 0.362654 -1.018 12.6059 2.81194 8.74931 
 
 # diagonal of covariance matrix
-0 1.68867 7.91698 2.51632 55.7609 2.35455 46.807 3.2447 0.846906 0.0289088 
+0.132022 2.88301 11.8468 3.84357 21.075 4.27841 43.4998 4.68229 0.798483 0.396984 
 
 # definition for class # 956
 # class name, prior probability
-''	0.000267354
+''	0.000463525
 # class type is GaussDiag
 # mean vector
-2 4.86734 -14.4681 7.27767 -9.33261 2.45701 -19.2953 6.70259 1.89767 9.3813 
+3.04715 7.1428 -16.505 13.5487 -13.1359 0.787535 -14.9424 14.734 2.25028 8.35325 
 
 # diagonal of covariance matrix
-0 1.0497 2.01405 1.50272 11.1481 1.96253 11.4694 3.31118 0.513679 0.0863112 
+0.391788 1.14542 33.394 2.46872 81.4422 2.33571 111.945 5.03725 1.02072 0.727524 
 
 # definition for class # 957
 # class name, prior probability
-''	0.000249881
+''	1.34034e-05
 # class type is GaussDiag
 # mean vector
-1.16669 -5.57498 -0.627183 -3.12294 -29.564 -8.02274 28.3138 6.85388 5.63758 9.75199 
+2.86676 16.6228 -1.86517 27.6278 0.0060174 5.24034 -0.322555 22.6113 1.71527 7.81848 
 
 # diagonal of covariance matrix
-0.219195 9.4449 25.9464 11.4626 194.92 12.3115 208.829 16.3303 2.51019 0.0490827 
+0.519698 3.10149 12.7214 7.49368 0.00619734 6.31093 1.70365 15.8842 5.01703 1.96917 
 
 # definition for class # 958
 # class name, prior probability
-''	0.000321565
+''	0.00031781
 # class type is GaussDiag
 # mean vector
-2.05833 6.02957 3.65274 8.90778 -14.9883 3.1407 21.9743 9.30256 3.20372 9.19627 
+2.10404 10.9077 3.10766 19.946 6.57819 1.88355 -0.862676 19.0006 0.434378 7.59413 
 
 # diagonal of covariance matrix
-0.0275772 3.59429 14.9732 4.52626 37.0168 4.9838 34.4521 5.53938 2.49308 0.147021 
+0.0351863 2.50611 30.2779 5.01114 95.8474 4.93448 69.589 9.87919 0.109793 1.44439 
 
 # definition for class # 959
 # class name, prior probability
-''	0.000538206
+''	0.000508316
 # class type is GaussDiag
 # mean vector
-2 4.46922 -1.70123 12.4531 -18.4216 -3.5145 15.3306 17.9372 0.868803 8.31806 
+2.3912 14.0049 29.5175 18.5346 48.9247 9.50092 -2.91972 13.9772 3.956 9.18977 
 
 # diagonal of covariance matrix
-0 6.70967 25.4473 13.2983 64.7967 10.194 77.4677 22.1718 0.179385 0.434279 
+0.262792 3.57278 29.1532 6.51365 34.2341 4.47142 113.408 7.16989 2.93316 0.122536 
 
 # definition for class # 960
 # class name, prior probability
-''	0.000284496
+''	0.000164441
 # class type is GaussDiag
 # mean vector
-2.39812 2.47602 26.7544 6.60797 48.314 -1.59257 -6.60992 14.1629 4.84163 9.16637 
+1.12765 17.0837 25.9409 19.3156 42.2578 14.8432 2.45224 6.68185 6.63594 9.7599 
 
 # diagonal of covariance matrix
-0.443991 2.74522 25.9902 5.55824 28.4474 4.46559 124.822 17.0043 3.21382 0.150651 
+0.475156 15.6852 9.81264 17.3175 26.9383 19.7134 91.1921 18.0699 3.0897 0.0430484 
 
 # definition for class # 961
 # class name, prior probability
-''	0.000200002
+''	0.000384416
 # class type is GaussDiag
 # mean vector
-2 3.58435 -4.37089 6.87478 0.0110046 0.293919 -8.67821 7.22878 0.23239 9.14523 
+2.15753 4.8693 10.7625 8.96065 -22.2456 0.755086 38.4436 12.6842 3.26655 8.87273 
 
 # diagonal of covariance matrix
-0 3.13724 3.23722 5.6748 0.577121 5.89672 12.1354 10.5817 0.11448 0.281664 
+0.0588239 2.42892 18.7166 3.93554 57.9693 4.96213 26.8596 9.07006 1.38495 0.241561 
 
 # definition for class # 962
 # class name, prior probability
-''	0.000130046
+''	0.000857513
 # class type is GaussDiag
 # mean vector
-1.87557 2.88636 -8.76157 5.09731 0.773883 0.680392 -17.6279 5.95188 2.19409 9.49009 
+2 0.917599 8.04394 5.50149 -5.78102 -3.6663 20.4886 11.4307 1.52237 9.07373 
 
 # diagonal of covariance matrix
-0.0740174 1.61238 4.54919 2.03503 5.38648 2.74237 14.8312 3.83443 2.36973 0.0876819 
+0 4.90446 63.877 6.25131 234.594 9.90585 163.236 14.3931 0.77336 0.172916 
 
 # definition for class # 963
 # class name, prior probability
-''	0.000225506
+''	0.0002582
 # class type is GaussDiag
 # mean vector
-2 5.83224 -17.9572 7.6425 -17.3797 4.02199 -18.474 5.8631 2.83181 9.39623 
+2.20105 6.44862 -21.851 13.8965 -28.9176 -1.00541 -12.1525 17.4702 1.36341 8.12029 
 
 # diagonal of covariance matrix
-0 0.759274 1.75799 0.961194 6.69502 1.5019 6.94429 2.22656 0.643552 0.118863 
+0.0733388 1.7558 5.28582 2.8643 18.0773 3.27869 27.9187 5.57212 0.119213 0.502598 
 
 # definition for class # 964
 # class name, prior probability
-''	0.000416248
+''	0.000214168
 # class type is GaussDiag
 # mean vector
-2.33593 -14.1519 -59.5917 -3.7656 -76.3157 -21.778 -12.4353 45.3487 7.98177 9.38708 
+2.02524 5.53784 0.194885 8.864 14.9261 2.22629 -14.2937 9.5207 2.61484 9.07295 
 
 # diagonal of covariance matrix
-0.526331 41.8077 182.109 60.3705 38.3848 58.4087 1053.56 430.895 1.34735 0.111626 
+0.00711309 3.29533 9.48095 6.8724 36.4255 4.16691 40.3202 9.67426 2.72718 0.194673 
 
 # definition for class # 965
 # class name, prior probability
-''	0.000227052
+''	0.000232318
 # class type is GaussDiag
 # mean vector
-1.90274 16.434 -53.1704 22.6523 -73.9587 11.7173 8.55078 27.5462 7.85 9.57398 
+2.4001 5.95305 18.1989 10.5523 40.498 1.36925 -11.0841 13.0836 3.19097 8.58483 
 
 # diagonal of covariance matrix
-0.58939 13.7076 112.759 22.2953 28.2001 16.2589 608.602 179.765 1.26991 0.0578995 
+0.19095 3.0116 12.104 6.77795 17.6318 4.59143 44.5757 9.15641 2.08661 0.524085 
 
 # definition for class # 966
 # class name, prior probability
-''	0.00056428
+''	0.000250514
 # class type is GaussDiag
 # mean vector
-4.77099 1.29584 38.8659 31.7985 -19.3635 -29.2528 24.1219 66.9926 6.64523 8.53683 
+2.00351 5.58319 1.38828 8.62492 -7.69791 2.54155 10.436 7.72688 1.46395 9.10843 
 
 # diagonal of covariance matrix
-1.23216 68.0728 448.932 93.0654 381.541 120.344 694.494 197.962 1.32382 0.400932 
+0.00176784 1.56469 10.2745 2.55756 54.6532 2.66948 37.5059 4.46302 0.94426 0.236107 
 
 # definition for class # 967
 # class name, prior probability
-''	0.000456016
+''	0.000553179
 # class type is GaussDiag
 # mean vector
-4.40173 15.1842 40.3214 31.3054 65.5231 0.217817 -22.1622 39.8821 4.82216 7.50064 
+1.02272 4.41174 6.6984e-06 6.66285 -2.50484e-05 2.18626 1.37595e-05 4.62778 3.28089 9.78023 
 
 # diagonal of covariance matrix
-1.20977 7.89804 157.715 13.7609 40.223 11.068 315.063 23.9682 1.85398 1.2939 
+0.452754 7.73825 8.07617e-08 11.7602 1.4433e-07 11.0064 7.19875e-08 14.7387 10.513 0.0549088 
 
 # definition for class # 968
 # class name, prior probability
-''	0.000282612
+''	0.000300496
 # class type is GaussDiag
 # mean vector
-2.75619 13.9226 -52.7336 20.2899 -66.9311 8.31716 -23.3507 24.45 6.12744 9.06975 
+2.14525 5.48983 9.23137 11.7251 20.5073 -0.728315 -3.11612 14.36 1.30629 8.24256 
 
 # diagonal of covariance matrix
-0.439156 4.66521 36.0176 10.9779 23.5076 6.38675 211.79 28.0885 1.81618 0.148337 
+0.0684519 4.10997 13.9391 7.94904 51.5187 7.62224 72.0806 15.8064 0.597326 0.662295 
 
 # definition for class # 969
 # class name, prior probability
-''	0.000901531
+''	5.57661e-05
 # class type is GaussDiag
 # mean vector
-4.37584 17.0398 -23.4079 35.3423 -23.2936 -1.10608 -15.8238 39.2823 3.18538 6.921 
+2 1.39343 -0.554012 8.79294 -1.10656 -6.00609 0.000316982 14.8426 0.0294675 9.07622 
 
 # diagonal of covariance matrix
-1.82292 3.5172 140.328 5.05182 177.172 5.27717 217.712 9.58104 2.66225 1.86616 
+0 3.09235 1.23781 8.83491 4.93123 3.06968 0.00217063 11.4692 0.00216256 0.374138 
 
 # definition for class # 970
 # class name, prior probability
-''	0.000834995
+''	0.000154106
 # class type is GaussDiag
 # mean vector
-4.1997 24.1079 -13.0639 38.6613 -25.2455 8.32465 -5.67656 33.0198 4.46095 8.35476 
+2.0651 9.34718 -16.318 13.2026 2.51673 5.53119 -31.0244 11.0703 2.91633 9.07259 
 
 # diagonal of covariance matrix
-0.209321 4.44012 223.88 7.5138 144.405 5.3564 128.631 10.603 2.12463 0.268685 
+0.114392 1.73192 12.5828 3.34738 34.238 4.01324 30.4156 10.9405 2.45982 0.319515 
 
 # definition for class # 971
 # class name, prior probability
-''	0.000596423
+''	0.000696387
 # class type is GaussDiag
 # mean vector
-4.72994 22.0518 37.2391 44.5507 11.1611 1.41879 23.2325 46.9952 4.46798 6.93372 
+2 10.0614 -29.4346 12.3596 -29.4793 7.76325 -29.0967 8.55127 3.80588 9.4051 
 
 # diagonal of covariance matrix
-1.09047 12.0841 264.629 18.855 713.959 14.7622 556.661 25.451 2.60006 1.98482 
+0 0.920219 3.53628 1.61829 16.7079 1.18765 20.49 2.21289 0.602276 0.0472915 
 
 # definition for class # 972
 # class name, prior probability
-''	0.000281442
+''	0.000277731
 # class type is GaussDiag
 # mean vector
-5.07132 14.5996 -27.7971 38.1335 -17.5414 -8.76408 -6.87521 50.8593 5.84978 8.29793 
+2.02681 9.75434 -30.788 13.5218 -46.3239 5.96222 -5.9197 12.2897 4.2474 9.13314 
 
 # diagonal of covariance matrix
-1.34591 10.0807 252.001 27.6562 289.897 34.7609 188.55 59.3517 1.79217 0.517363 
+0.205962 2.13345 26.225 3.28092 33.6265 3.42563 133.129 6.14032 1.33559 0.124258 
 
 # definition for class # 973
 # class name, prior probability
-''	0.000949693
+''	0.000208161
 # class type is GaussDiag
 # mean vector
-3.05558 21.4967 -0.109975 39.1081 0 4.41269 0 34.8519 2.01465 7.90043 
+2.02749 10.636 -24.1296 14.8807 -11.9906 6.39827 -33.709 11.8784 2.35067 8.90849 
 
 # diagonal of covariance matrix
-1.31463 92.0039 66.2573 174.126 0 92.8412 0 156.375 5.82936 1.51471 
+0.010165 0.718512 7.91038 2.33078 43.6755 1.99234 32.7733 6.27063 0.97546 0.314603 
 
 # definition for class # 974
 # class name, prior probability
-''	0.000793201
+''	0.000413491
 # class type is GaussDiag
 # mean vector
-4.26162 24.0344 -26.2052 46.069 -11.2657 2.29755 -27.6787 46.9036 2.79973 6.63804 
+2.11841 12.1301 -13.2899 16.6621 17.7256 7.67815 -36.4755 14.6031 3.58413 8.94519 
 
 # diagonal of covariance matrix
-2.30139 11.9555 207.421 13.2372 313.022 15.5445 256.69 18.0525 2.54771 1.88362 
+0.0584189 3.52566 35.1956 5.40844 68.4171 5.85341 41.998 9.32847 3.21301 0.203669 
 
 # definition for class # 975
 # class name, prior probability
-''	0.000711431
+''	0.00647657
 # class type is GaussDiag
 # mean vector
-3.38015 20.4779 -22.6956 34.368 -5.26601 6.16091 -30.8631 31.179 2.12621 7.30688 
+0 85.2106 0 85.2106 0 85.2106 0 -119.9 0 10.0058 
 
 # diagonal of covariance matrix
-1.13559 3.78761 118.511 6.42053 221.459 7.29888 149.999 11.3399 1.66702 1.5651 
+0 4.89356 0 4.89356 0 4.89356 0 490.188 0 0.000959223 
 
 # definition for class # 976
 # class name, prior probability
-''	0.00058075
+''	0.00375223
 # class type is GaussDiag
 # mean vector
-1.84208 24.1139 -25.4802 29.4033 23.3719 18.8565 -53.2642 16.8515 4.93941 9.23549 
+0 32.0661 0 110.338 0 -46.2055 0 156.543 0.280616 0.280616 
 
 # diagonal of covariance matrix
-0.441531 7.08188 155.128 10.711 315.812 9.85339 98.6853 28.7759 2.05013 0.124924 
+0 478.725 0 2354.43 0 663.031 0 4120.19 1.01478 1.01478 
 
 # definition for class # 977
 # class name, prior probability
-''	0.000447913
+''	0.000817841
 # class type is GaussDiag
 # mean vector
-2.57915 32.6979 -14.9539 43.6237 42.5561 22.1957 -53.0618 29.8887 3.92844 8.45524 
+4.25018 49.1397 -5.44543 114.653 -0.753919 5.0707 -10.972 114.672 6.79687 8.42986 
 
 # diagonal of covariance matrix
-0.647316 16.8574 285.521 27.0029 191.328 26.8049 107.326 46.4617 2.51456 0.431009 
+1.36447 284.2 925.747 209.59 132.587 151.088 393.591 123.733 5.47695 1.23586 
 
 # definition for class # 978
 # class name, prior probability
-''	0.00030712
+''	0.00461671
 # class type is GaussDiag
 # mean vector
-2.05178 50.7868 61.7165 55.1544 59.8404 46.3443 60.0079 22.8279 7.33693 9.66469 
+7.99679 73.5036 6.0443 228.714 -13.0075 -78.6235 -10.483 320.773 6.65557 7.5904 
 
 # diagonal of covariance matrix
-0.837429 88.8109 107.094 96.2421 191.527 104.536 148.972 132.683 2.35777 0.0703709 
+8.61975 1545.07 2515.54 1601.1 1515.61 1097.6 1334.62 1955.67 2.17019 1.46214 
 
 # definition for class # 979
 # class name, prior probability
-''	0.000400935
+''	0.0046756
 # class type is GaussDiag
 # mean vector
-2.65078 13.2706 69.1336 19.1903 67.103 7.35161 66.6168 30.3689 7.56775 9.19955 
+6.92886 109.174 48.5146 277.492 53.2823 -23.0676 -18.1397 350.959 8.01374 8.68312 
 
 # diagonal of covariance matrix
-0.774206 12.1972 22.6457 23.2264 64.558 18.5042 71.3519 90.7999 0.752157 0.191482 
+3.9494 1144.04 1170.05 2459.19 1408.67 2177.98 2008.74 4839.75 0.711979 0.334833 
 
 # definition for class # 980
 # class name, prior probability
-''	0.000167443
+''	0.00146968
 # class type is GaussDiag
 # mean vector
-1.4727 -3.76847 -15.7243 -1.47394 -28.1907 -6.0631 -0.961785 6.41242 4.60166 9.582 
+6.43154 39.7696 -37.1091 176.685 62.5132 -49.1809 -41.4158 286.232 7.97417 8.66179 
 
 # diagonal of covariance matrix
-0.233115 4.88963 19.5494 6.05512 52.5344 6.42162 82.8909 8.40568 2.26523 0.0920833 
+2.99049 960.919 839.905 2100.91 928.86 982.829 1114.52 2809.04 0.621412 0.2717 
 
 # definition for class # 981
 # class name, prior probability
-''	0.000371263
+''	0.000587461
 # class type is GaussDiag
 # mean vector
-2.89953 7.5687 -12.8295 17.0663 -25.7776 -1.7778 2.85101 20.9747 1.85534 7.42581 
+1.20821 33.8696 -26.3277 35.7726 -38.8143 31.9675 -6.92552 6.44394 6.30817 9.84294 
 
 # diagonal of covariance matrix
-0.608686 1.51018 35.9129 3.03442 57.5474 3.4168 74.9274 6.32492 1.02263 1.47084 
-
-# definition for class # 982
-# class name, prior probability
-''	0.000598561
-# class type is GaussDiag
-# mean vector
-2.539 7.33781 24.7402 11.4394 53.3659 3.3006 -22.2756 15.8277 5.37988 9.10823 
-
-# diagonal of covariance matrix
-0.208639 1.93274 32.7815 3.29816 21.0109 2.87844 102.083 12.3999 2.14199 0.124754 
-
-# definition for class # 983
-# class name, prior probability
-''	0.000672541
-# class type is GaussDiag
-# mean vector
-2.0743 13.2515 57.4439 19.6636 76.0127 7.78653 -17.978 41.2821 8.72751 9.57748 
-
-# diagonal of covariance matrix
-0.441869 26.0747 174.338 36.9728 28.2188 26.7718 514.61 358.648 0.340566 0.0395689 
-
-# definition for class # 984
-# class name, prior probability
-''	0.000257698
-# class type is GaussDiag
-# mean vector
-2 5.05008 -33.7097 8.63128 -40.9182 1.46875 -24.6072 11.7783 3.41242 9.00967 
-
-# diagonal of covariance matrix
-0 1.8155 5.73601 2.8947 14.9608 2.7458 36.0346 4.77763 0.51299 0.213143 
-
-# definition for class # 985
-# class name, prior probability
-''	0.000168646
-# class type is GaussDiag
-# mean vector
-1.52114 7.86348 -15.4162 9.95417 -28.5844 5.76361 0.0476637 6.28773 4.93183 9.60251 
-
-# diagonal of covariance matrix
-0.233943 3.29218 8.65582 4.4945 21.4361 3.8717 4.13821 6.24855 1.89135 0.0598877 
-
-# definition for class # 986
-# class name, prior probability
-''	0.000413049
-# class type is GaussDiag
-# mean vector
-2.2335 5.27789 18.0784 8.81673 -13.0965 1.73742 41.2398 11.4911 3.61358 8.98864 
-
-# diagonal of covariance matrix
-0.112738 2.34977 21.7465 3.32468 65.1937 4.40452 25.569 5.82961 2.03374 0.21765 
-
-# definition for class # 987
-# class name, prior probability
-''	0.00016408
-# class type is GaussDiag
-# mean vector
-1.37394 11.9412 25.9025 14.5428 42.4742 9.34074 2.08645 8.47614 6.2751 9.66713 
-
-# diagonal of covariance matrix
-0.598459 10.5607 9.42748 14.374 25.0322 12.5572 63.5674 25.7296 3.50602 0.0640681 
+0.192389 29.1603 117.338 31.1913 189.32 30.2089 375.426 9.67214 1.82689 0.011632 
 
 # definition of classifier stage #0
-# classifier type is GaussDiag for 988 classes
+# classifier type is GaussDiag for 982 classes
 # # of used features, # of parameters
 10	21
 # parameters for class #0
-1000 0.000135354 1000 0.000135354 1000 0.000135354 1000 6.68036e-05 
-1000 1000 -0.292096 -0.126154 -0 -0.126154 -0 -0.126154 
--0 0.0832556 -0 -20017.2 100299 
+1.13651 0.0501182 0.0110428 0.0246213 0.01384 0.0279637 0.00365587 0.0127934 
+0.818299 1.10752 -6.62574 -0.0953119 0.0757992 -1.18394 0.0249284 1.24846 
+0.0420958 -1.22244 -1.7387 -17.431 184.223 
 
 # parameters for class #1
-47.7742 0.09407 1000 0.0900653 1000 0.0930196 1000 0.816997 
-0.0759092 1000 -33.3204 -1.13134 -0.0258824 -1.14112 0.025889 -1.05876 
--6.55538e-06 -1.08168 -0.380146 -19959.2 99605.7 
+1.02499 0.0286364 0.00190191 0.00884229 0.00766461 0.0154357 0.00137928 0.00170634 
+0.804759 2.45219 -7.10624 0.225971 -0.0736259 -0.362815 -1.10775 0.612156 
+0.0537198 -0.285976 -12.3716 -43.1143 367.075 
 
 # parameters for class #2
-3.10678 0.133383 0.0162262 0.100362 0.0266198 0.109063 0.0020705 0.0567103 
-0.896359 9.63407 -9.73309 -1.39033 1.4198 -1.89361 3.31349 -0.249136 
--0.000159048 -1.57902 -10.7279 -180.023 1076.98 
+0.823468 0.0284071 0.00853113 0.0246826 0.00381468 0.0258202 0.00127429 0.0144183 
+0.883471 2.61437 -8.53981 0.221815 -0.975632 -0.931505 -0.433597 1.39962 
+0.0344976 -1.58434 -11.8231 -43.4974 404.675 
 
 # parameters for class #3
-2.36524 0.105213 0.0360509 0.0719143 0.0354612 0.0873938 0.0144985 0.0406209 
-0.605242 2.26726 -12.9948 -1.9544 4.11819 -2.31574 4.74963 -0.567953 
-1.14044 -2.02285 -6.80103 -39.4049 599.689 
+22.5133 0.158048 0.0451839 0.114397 0.0321392 0.125082 0.0087536 0.113729 
+1.24483 8.24351 -92.3094 4.10291 3.6299 1.94066 2.76422 4.37386 
+0.624566 -3.37509 -8.95598 -150.586 1072.52 
 
 # parameters for class #4
-1.60872 0.0566833 0.051399 0.0358611 0.00921725 0.0376694 0.0076397 0.0184116 
-0.59733 1.20741 -9.55064 -1.35314 6.628 -1.81074 1.15964 0.0443324 
-0.897711 -1.46014 -5.30902 -19.6419 486.501 
+1.14524 0.05978 0.00765892 0.0314192 0.00489027 0.0297076 0.00162147 0.0152359 
+0.256477 2.47514 -6.74022 1.08293 0.697537 -0.480534 0.481497 1.53936 
+0.0871254 -1.26332 -1.6096 -42.2526 323.831 
 
 # parameters for class #5
-1.76625 0.121135 0.0315395 0.0544146 0.0345318 0.0763601 0.00661092 0.0270144 
-0.51095 2.04971 -10.2745 -5.32444 3.80542 -3.35473 4.75933 -2.09033 
-0.519257 -1.61676 -5.43163 -35.4549 661.189 
+0.847454 0.15047 0.00823391 0.0880636 0.00857166 0.0965315 0.0121888 0.0501851 
+0.960902 4.38727 -8.72071 -1.25772 0.640457 -3.60601 0.493911 2.08014 
+0.947854 -3.64412 -10.4405 -74.5221 562.876 
 
 # parameters for class #6
-6.39533 0.0749181 0.039976 0.0540232 0.00906539 0.0471112 0.0234945 0.0241415 
-0.511464 5.09732 -29.2586 -4.61785 4.95783 -4.00084 1.02118 -2.30278 
-3.05114 -1.33372 -5.83108 -92.6849 984.265 
+1.79071 0.157756 0.0107596 0.117471 0.00604292 0.124263 0.0196222 0.0941816 
+0.555809 2.47263 -15.1484 -1.55352 0.710151 -3.94325 0.189732 1.36036 
+1.53677 -4.99488 -5.0267 -41.8233 409.904 
 
 # parameters for class #7
-1.55777 0.0382231 0.0240143 0.0245734 0.0268772 0.0209824 0.00430205 0.0102749 
-0.361894 2.22513 -8.72245 -3.2182 3.09004 -2.63882 3.81442 -1.30553 
-0.401138 -0.787436 -3.75715 -38.7083 654.728 
+223.58 0.184562 0.00741825 0.106274 0.00760299 0.12566 0.00534172 0.0631086 
+0.791772 4.77388 -1786.29 -4.03489 0.192736 -4.28801 0.2898 -0.401901 
+0.148271 -2.6574 -7.14387 -83.2899 4081.37 
 
 # parameters for class #8
-1.05115 0.0355672 0.00153859 0.0208599 0.00263252 0.0224261 0.0348176 0.00667765 
-0.570477 1.2319 -8.10427 -2.64402 -0.0639292 -2.25882 0.244835 -0.683781 
--5.18147 -0.847818 -7.01194 -19.8738 509.331 
+3.49142 0.186489 0.0155918 0.110074 0.00541668 0.104012 0.00667728 0.0550437 
+0.716955 1.44484 -17.1091 -5.7316 -0.867218 -5.25114 -0.284996 -1.4391 
+-0.364148 -2.31787 -3.06481 -23.7933 319.539 
 
 # parameters for class #9
-0.709868 0.0357748 0.00492747 0.023576 0.00594717 0.0418746 0.00361995 0.0200994 
-0.278865 1.13838 -6.57149 -1.63027 0.219765 -2.73735 0.392404 1.12 
-0.0617837 -3.01675 -2.07058 -17.8817 367.263 
+1.07344 0.204707 0.00485638 0.0962033 0.00372976 0.129837 0.0037272 0.0421416 
+0.46801 0.994431 -8.34429 -4.11227 -0.0487453 -4.05278 -0.239019 0.162368 
+0.145932 -2.32874 -3.97821 -15.8052 233.128 
 
 # parameters for class #10
-0.725118 0.0511756 0.0155775 0.0430296 0.00473089 0.0248715 0.00659934 0.0184506 
-0.809159 2.25861 -7.27224 -3.06369 1.89128 -4.79606 0.499008 -0.20176 
-0.700507 -2.36215 -9.45747 -36.7781 586.688 
+2.03735 0.329683 0.01209 0.181271 0.0138585 0.187997 0.00728631 0.092962 
+0.43769 2.66493 -16.5052 -4.67841 0.768922 -7.28407 0.970249 2.10233 
+0.290925 -5.50527 -3.61252 -44.1678 471.15 
 
 # parameters for class #11
-0.64472 0.0293014 0.0086793 0.0228219 0.00461467 0.0217921 0.00338677 0.0167678 
-0.561017 0.95024 -6.19178 -2.48402 1.03431 -3.45433 0.522493 -0.323991 
-0.316725 -2.67126 -4.85089 -13.4117 467.121 
+5.3995 0.396667 0.0380264 0.208705 0.134548 0.224545 0.00687583 0.0849728 
+0.526688 4.21796 -30.2316 -5.7035 -3.614 -5.49732 -18.101 -0.52455 
+0.214674 -3.60681 -5.94575 -75.431 1220.55 
 
 # parameters for class #12
-0.684274 0.0429192 0.00675576 0.0367918 0.0042296 0.0343069 0.00321848 0.0232086 
-0.556002 4.04024 -7.00462 -5.14592 0.698459 -6.50368 0.317497 -2.04939 
-0.265897 -3.06037 -6.43601 -69.4139 985.089 
+32.8507 0.312115 0.0562452 0.190401 0.022575 0.165621 0.031974 0.102286 
+0.222628 4.22626 -138.792 -3.50698 0.905118 -3.56636 -0.717741 -0.640207 
+1.77561 -2.55709 -1.64493 -76.3425 603.505 
 
 # parameters for class #13
-1.24829 0.0256272 0.00873701 0.0108551 0.0564147 0.0138921 0.00150162 0.00279527 
-0.515746 5.00544 -8.4147 -3.01994 1.13355 -1.72324 8.94347 -1.20534 
-0.0774766 -0.368171 -7.2881 -91.3163 1093.92 
+1000 1.03667 0.233814 0.68596 0.0369256 0.625546 0.0844878 0.375986 
+1.34696 23.7431 -4000 -9.44979 10.5993 -9.039 1.36106 -3.16144 
+4.47394 -5.2673 -8.82576 -450.701 6435.97 
 
 # parameters for class #14
-0.893519 0.00896469 0.00580817 0.00553154 0.00171281 0.00593895 0.00261154 0.00314648 
-0.232333 7.13604 -6.07899 -1.84658 0.560802 -1.33296 0.128761 -1.00581 
-0.232554 -0.292926 -2.13212 -130.865 917.382 
+11.3862 1.17675 0.195369 0.946235 0.0812931 0.702165 0.121677 0.451622 
+0.768509 19.702 -43.2795 -10.3745 8.82528 -12.0869 5.37076 -3.42548 
+2.51147 -6.43921 -6.32678 -375.144 2150.37 
 
 # parameters for class #15
-1.63926 0.000307332 0.00187199 0.000316742 0.0011375 0.00028184 0.00110292 0.00214798 
-0.10445 10.2806 -5.02586 -0.166288 0.038295 -0.17722 0.01496 -0.147287 
-0.0247749 -0.093655 -0.847442 -200.136 1115.68 
+1000 1.35357 0.353022 0.852091 0.0400445 0.927956 0.0463813 0.565113 
+1.2886 36.9233 -4000 -24.7893 15.2328 -18.5655 1.46951 -13.7707 
+2.26313 -7.09907 -8.75975 -706.858 7906.76 
 
 # parameters for class #16
-0.323743 0.000816696 0.00119351 0.000444059 0.000860715 0.00030849 0.140146 0.000143749 
-1.04254 3.58412 -3.61316 -0.332714 -0.138421 -0.255292 0.0441387 -0.0395866 
--24.2426 -0.0950604 -16.8305 -63.9423 1569.43 
+1000 0.877915 0.154381 0.726511 0.0337382 0.467709 0.0432991 0.395628 
+1.27268 17.1044 -4000 -22.3668 5.39337 -22.0136 0.621769 -9.66007 
+2.15129 -5.60254 -5.78612 -322.924 6005.29 
 
 # parameters for class #17
-0.391691 0.00786348 0.000880392 0.00761739 0.00205155 0.00611327 0.00223614 0.00543502 
-0.314267 1.94282 -4.32038 -1.52626 0.00540793 -2.30521 0.0620529 -0.488002 
-0.055946 -1.24918 -3.25492 -32.0058 542.135 
+5.83246 0.323758 0.0467433 0.235929 0.0258922 0.178756 0.0571246 0.147645 
+0.569319 3.66886 -27.2077 -5.79265 -1.30276 -6.55341 1.62822 -1.42829 
+-5.47598 -4.66428 -4.36458 -64.4878 632.153 
 
 # parameters for class #18
-0.42047 0.000521739 0.00109858 0.000221588 0.15353 0.000196768 0.000269801 8.35083e-05 
-3.56099 8.88452 -4.5568 -0.145561 0.138944 -0.132802 26.7248 -0.0129343 
--0.00409451 -0.0691253 -63.1352 -164.872 2335.63 
+5.1184 0.482074 0.0551416 0.334333 0.0183369 0.261802 0.0281496 0.195181 
+2.13907 2.423 -24.0821 -9.33656 0.315331 -10.8343 0.611125 -1.66006 
+-0.659106 -5.84006 -5.76282 -40.6489 421.756 
 
 # parameters for class #19
-0.218839 0.000370137 0.000814965 0.000257145 0.000369111 0.0002004 0.000277252 0.000124865 
-1.2801 3.13844 -3.53859 -0.148026 -0.077239 -0.201182 -0.00155404 6.8001e-05 
--0.0117863 -0.112306 -20.0936 -53.6646 479.305 
+1.84331 0.337147 0.0379112 0.306022 0.0471421 0.152141 0.0200401 0.119019 
+1.23468 0.883494 -10.1594 -7.31783 0.846179 -13.6506 0.189784 0.21326 
+0.700058 -5.79449 -2.63286 -13.3862 373.87 
 
 # parameters for class #20
-0.0879248 0.000106507 0.000216986 9.09934e-05 0.000273265 8.14729e-05 0.000278543 6.04564e-05 
-0.705278 1.15177 -1.6897 -0.044593 0.0013936 -0.0919598 0.00246171 0.0136746 
-0.003136 -0.0801626 -11.4065 -19.5102 275.35 
+4.89994 0.282855 0.062778 0.14823 0.0157988 0.169753 0.014782 0.0657908 
+0.292587 4.47715 -20.0516 -8.64115 -1.80121 -5.66492 -0.839935 -3.89601 
+-0.014153 -1.44442 -1.92846 -82.6463 614.901 
 
 # parameters for class #21
-0.213734 0.000533099 0.000370711 0.000370783 0.000437727 0.000463214 0.000469655 0.000304593 
-1.51382 2.74674 -3.89968 -0.127042 0.0123609 -0.232883 0.0155473 0.059234 
-0.0142817 -0.248063 -21.3083 -42.945 430.523 
+3.29499 0.530356 0.0235202 0.258254 0.014311 0.207413 0.0128395 0.082208 
+0.324403 3.08192 -15.9123 -8.81212 -0.0897757 -6.88723 -0.993395 -1.40839 
+0.773375 -2.64603 -2.59733 -54.3366 434.682 
 
 # parameters for class #22
-0.0964415 0.000637925 0.000359685 0.000602071 0.000662631 0.000747031 0.000660033 0.000474915 
-0.303396 0.421915 -1.41402 -0.101344 -0.0061857 -0.275479 0.00633008 0.11244 
-0.0107661 -0.301698 -4.11153 -6.46052 206.582 
+1000 0.131693 0.0675898 0.0905707 0.0410939 0.0899694 0.0178413 0.0697844 
+4.39123 2.58953 -4000 -2.79137 -1.02415 -2.8722 0.0463254 -0.96085 
+-0.543086 -1.64866 -5.82703 -45.5561 4288.64 
 
 # parameters for class #23
-0.269918 0.000731402 0.00110533 0.000254756 0.414557 0.000437668 0.000399913 0.000150051 
-1.72114 3.66844 -3.76469 -0.146645 -0.127252 -0.138518 -72.2654 0.0137859 
-0.0119284 -0.118589 -27.5722 -63.382 3665.51 
+1.46729 0.226488 0.0200992 0.174586 0.0129553 0.157926 0.0155313 0.0436683 
+0.688791 11.0582 -5.14621 -4.04369 -0.0937261 -4.12044 0.92801 -1.89711 
+-1.23032 -0.993184 -8.6519 -210.781 1167.5 
 
 # parameters for class #24
-0.204539 0.000248656 0.00330919 9.57286e-05 0.134833 0.00035648 0.000693514 6.07417e-05 
-1.89707 3.53636 -2.89598 -0.00401392 -0.46091 -0.0443522 -23.4118 0.0932431 
-0.0154315 -0.0578828 -31.5902 -61.9341 1538.64 
+27.808 0.361555 0.168645 0.152184 0.0506975 0.149198 0.119311 0.0636606 
+11.562 0.891974 -116.359 -5.23417 1.65708 -4.52141 0.949218 0.1133 
+0.0287178 -2.03186 -10.3391 -14.0037 283.438 
 
 # parameters for class #25
-0.332412 0.000899807 0.0136942 0.000394951 0.00127883 0.000550385 0.000500957 0.000180674 
-2.19946 4.64228 -4.52847 -0.148664 2.00933 -0.186259 0.168033 0.0449787 
-0.0305442 -0.123813 -35.5794 -81.0968 710.087 
+13.0774 0.201703 0.0495618 0.129743 0.0282318 0.156546 0.0192689 0.111559 
+3.30443 2.7855 -57.0566 -5.2981 -0.453392 -5.0665 -1.5661 -2.11507 
+0.781299 -3.44709 -10.0127 -47.3638 451.661 
 
 # parameters for class #26
-0.684893 0.00266697 0.0128636 0.00197057 0.000495645 0.000759755 0.526218 0.000434006 
-2.13923 8.44597 -5.80392 -0.420439 1.93447 -0.481232 0.0189388 0.00464778 
-91.4576 -0.184011 -36.8499 -157.376 5071.89 
+30.9137 0.132113 0.125637 0.0950981 0.0589721 0.104446 0.0731001 0.0962722 
+0.946319 1.93906 -127.355 -1.93596 -4.6319 -2.30514 -3.92848 -0.53274 
+-0.0379936 -2.34388 -4.06469 -33.2519 453.052 
 
 # parameters for class #27
-0.430293 0.0201988 0.00819575 0.00868818 0.00313174 0.0161032 0.00402704 0.00888727 
-0.662409 2.16378 -4.80028 -2.16859 0.989253 -1.65839 0.253823 -0.377395 
-0.476239 -1.76695 -8.13981 -35.0996 509.638 
+1000 1.29233 0.418428 0.593667 0.117986 0.771623 0.126176 0.324322 
+1.12632 6.33399 -4000 -17.2856 8.96215 -10.3124 2.57306 -7.23725 
+2.64573 -3.574 -4.10762 -118.419 4778.75 
 
 # parameters for class #28
-0.530068 0.00170434 0.00205588 0.000705708 0.305457 0.00120662 0.000720819 0.000332276 
-1.05339 5.3911 -4.96318 -0.43127 -0.253746 -0.309494 -52.8485 -0.186042 
-0.0155482 -0.151416 -16.7005 -97.8545 2961.53 
+1000 0.525553 0.185317 0.2735 0.0307517 0.311028 0.0467523 0.162927 
+2.68513 3.00002 -4000 -8.11971 6.64173 -6.52198 0.414239 -2.19378 
+2.58695 -3.47054 -8.27016 -53.1552 4453.64 
 
 # parameters for class #29
-0.502813 0.0146409 0.00422322 0.00679126 0.106717 0.00980858 0.00141606 0.00302103 
-1.28153 4.84055 -5.21408 -1.7247 -0.534161 -1.38691 -17.5227 -0.504877 
-0.0624805 -0.633425 -18.2909 -83.5734 1388.84 
+1000 0.191222 0.0550563 0.146619 0.0171026 0.170454 0.020855 0.207614 
+1.09461 7.78928 -4000 -3.78036 -0.655054 -3.79894 -0.466186 -2.32285 
+0.0892194 -3.20671 -3.57094 -143.868 4763.11 
 
 # parameters for class #30
-0.550115 0.0112643 0.0100294 0.0079698 0.00166247 0.00364956 0.447847 0.00151167 
-1.64742 4.67204 -4.79846 -1.11194 -1.45299 -1.26542 0.0725902 0.0340062 
--76.9415 -0.410257 -27.0662 -85.0365 4022.44 
+0.689043 0.0308791 0.00986639 0.0247848 0.00412625 0.0142304 0.0563349 0.0105392 
+1.3049 2.81772 -6.66351 -0.348364 -1.18048 -1.20656 0.245028 0.447922 
+-8.56885 -1.12133 -17.0758 -45.9744 719.727 
 
 # parameters for class #31
-0.263935 0.00360359 0.000455846 0.00151023 0.000375878 0.00329781 1000 0.000920743 
-0.273241 0.357849 -2.62547 -0.182095 -0.00523603 -0.28841 -0.000854664 0.269689 
--0 -0.273358 -2.83528 -5.05216 129.138 
+0.996861 0.0265407 0.00174955 0.0162338 0.00136926 0.0196048 0.00126483 0.0107748 
+0.14501 3.00208 -7.41031 0.613132 -0.0725213 -0.384455 -0.0151501 1.34836 
+-0.00907201 -1.08665 -1.26626 -52.1038 354.862 
 
 # parameters for class #32
-0.189161 0.0073798 0.00298528 0.00428067 0.00145445 0.00529045 0.00363982 0.00267201 
-1.10907 2.54052 -2.93648 -0.127861 0.315429 -0.710091 0.111575 0.611325 
-0.268045 -0.810938 -15.7425 -41.3942 418.973 
+1000 0.227559 1000 0.227559 1000 0.227559 1000 0.00347883 
+1000 1000 -0 -22.9041 -0 -22.9041 -0 -22.9041 
+-0 0.506729 -0 -20011.8 101853 
 
 # parameters for class #33
-0.210984 0.0162099 0.00323515 0.0124432 0.00237792 0.0149649 0.00387781 0.0087749 
-1.2774 2.37542 -3.46186 -0.934285 0.316994 -2.17257 0.148415 0.780993 
-0.330561 -2.12454 -17.6574 -38.0777 545.62 
+10.9282 0.0498501 338.341 0.0417096 1000 0.0512292 1000 0.145183 
+0.532673 32.9267 -39.6601 -2.77502 4.70946 -2.57708 2.10522 -2.53857 
+0.0040574 -1.84103 -1.3468 -634.715 3215.92 
 
 # parameters for class #34
-0.263393 0.0100456 0.000864585 0.0103084 0.00107692 0.00947122 0.00172343 0.00949101 
-0.47557 0.801185 -3.50281 -0.452744 0.0250519 -1.72855 0.0185786 0.71682 
-0.098228 -2.40794 -4.99624 -11.9951 374.602 
+3.67362 0.162556 0.0210736 0.12785 0.0316676 0.123366 0.00263248 0.0736825 
+0.63083 10.6535 -11.9288 -4.79489 1.65488 -4.83822 3.77304 -2.6208 
+-0.0263098 -2.02157 -6.8153 -201.134 1268.28 
 
 # parameters for class #35
-0.335476 0.0123592 0.00280035 0.00731786 0.000730461 0.00909119 0.00249122 0.00524746 
-2.12894 3.94373 -4.796 -0.805018 -0.243802 -1.29651 -0.00906138 0.350709 
-0.163602 -1.21889 -31.5734 -65.5893 615.331 
+16.4328 0.269933 0.042188 0.156889 0.0328192 0.143001 0.00472774 0.073386 
+1.67376 3.32607 -70.2263 -10.9278 3.32451 -8.62667 3.5074 -3.70887 
+0.120781 -2.97756 -9.25669 -58.4019 821.124 
 
 # parameters for class #36
-0.557863 0.0216825 0.0109472 0.00981302 0.069461 0.0161156 0.00459319 0.005715 
-1.28394 1.90902 -6.99325 -0.706295 -1.44373 -1.04925 -11.1063 0.475693 
-0.373508 -1.03268 -18.0788 -30.863 841.785 
+2.26079 0.131916 0.0209327 0.0614503 0.0166707 0.0849222 0.0108945 0.0379127 
+1.19168 2.18099 -11.3604 -8.2039 1.02241 -5.25482 1.27878 -3.27542 
+0.018229 -2.02528 -3.88479 -37.079 550.21 
 
 # parameters for class #37
-0.46059 0.0980268 0.00443359 0.0941167 0.00725084 0.0704295 0.00850045 0.0628954 
-0.598455 1.54015 -5.51633 -1.44274 0.322922 -5.95302 0.457531 2.37983 
-0.630385 -6.73907 -6.6278 -24.549 501.994 
+1.17951 0.206775 0.0398487 0.11421 0.0100199 0.132491 0.0091728 0.0804114 
+0.476677 3.59713 -7.58494 -11.1399 3.72779 -8.30462 0.808904 -4.64183 
+0.82575 -4.14059 -3.74519 -62.9498 850.49 
 
 # parameters for class #38
-0.582653 0.156905 0.0136746 0.0873867 0.00449159 0.117845 0.0113469 0.0614321 
-0.436051 1.9812 -5.64822 -2.487 1.29913 -4.57845 0.318955 2.13132 
-1.01955 -5.16243 -4.30472 -32.6476 448.607 
+224.068 0.335619 0.0655204 0.218961 0.0182536 0.188989 0.0192354 0.113121 
+1.30756 11.3436 -900.459 -27.0936 5.10223 -19.5167 1.38457 -13.6684 
+1.49544 -3.18153 -9.35951 -211.594 3341.39 
 
 # parameters for class #39
-1.69801 0.0846952 0.0381024 0.0548248 0.00651742 0.0511333 0.0550042 0.0353514 
-0.623601 2.39821 -10.5998 -3.25294 4.65523 -2.98512 0.494525 -1.04958 
-7.77169 -2.09031 -7.11439 -41.249 788.785 
+4.85471 0.103074 0.00850294 0.0642838 0.00780728 0.0616687 0.0128289 0.0336178 
+0.288256 8.52385 -21.0521 -8.17569 -0.16996 -5.82914 0.487281 -4.17275 
+-1.15727 -1.23828 -2.33638 -159.122 1222.05 
 
 # parameters for class #40
-0.983774 0.307241 0.0295454 0.168875 0.0092561 0.172856 0.0141812 0.0913425 
-0.476589 2.05822 -7.44379 -9.936 2.84251 -9.48532 0.775589 -1.54938 
-1.27068 -5.56588 -4.03395 -34.4689 619.775 
+0.56085 0.0489854 0.012428 0.0333421 0.00303311 0.0410938 0.00772315 0.0235437 
+0.586412 0.951501 -5.94687 -2.53787 -1.42735 -3.31334 0.106237 -0.181845 
+-0.956909 -2.60114 -6.59872 -14.0419 392.867 
 
 # parameters for class #41
-1.32293 0.0922064 0.0426977 0.0650499 0.00760598 0.0533004 0.0204373 0.0349385 
-0.531594 2.20461 -9.01425 -4.86201 4.4582 -4.8463 0.493329 -1.68746 
-2.40588 -2.08921 -4.56215 -37.6081 620.919 
+0.605285 0.0257585 0.00491729 0.0171332 0.00411985 0.0221639 0.00839543 0.0222089 
+1.16345 2.82812 -6.74042 -1.16521 0.244285 -1.36435 0.33512 -0.152953 
+-0.756437 -2.19726 -14.9225 -46.9574 431.989 
 
 # parameters for class #42
-0.965308 0.262228 0.014509 0.171154 0.00970194 0.132557 0.00894301 0.095523 
-0.420796 4.07135 -7.939 -14.5916 1.32831 -14.0531 0.878404 -3.62419 
-0.654794 -6.47153 -3.8602 -69.809 1051.46 
+0.786371 0.097539 0.00236424 0.038492 0.00183846 0.0401903 0.00243154 0.0182118 
+0.365467 1.2962 -5.16682 -7.17438 -0.0492924 -4.33206 0.0569861 -1.37649 
+-0.1512 -1.60419 -1.76169 -20.5901 446.89 
 
 # parameters for class #43
-1.48783 0.153417 0.0280193 0.0817749 0.00489416 0.0933366 0.0115973 0.0458531 
-0.452436 2.90595 -8.19385 -11.3546 2.24602 -7.34304 0.285362 -5.47072 
-1.03514 -1.97388 -3.07313 -50.9815 829.605 
+1.83528 0.0652548 0.00153576 0.0536658 0.00151623 0.052404 0.00257709 0.0373291 
+0.507707 3.84955 -16.3137 -4.45084 -0.0574185 -5.92312 -0.0545508 -1.35116 
+0.0661988 -3.4424 -6.21073 -66.5352 719.52 
 
 # parameters for class #44
-2.44887 0.166859 0.0137399 0.0840311 0.0121094 0.0780724 0.00848554 0.046305 
-0.862738 10.9824 -21.0146 -11.3656 1.06297 -7.7271 0.932396 -3.19102 
-0.482992 -2.83917 -9.29409 -197.453 1488.9 
+3.25094 0.0558055 0.020034 0.0255087 0.107478 0.0387503 0.00176644 0.0136178 
+0.741126 6.07979 -20.9238 -3.49626 -2.60036 -2.26418 -16.6991 -1.47773 
+0.0372322 -1.17473 -10.2698 -110.313 1489.56 
 
 # parameters for class #45
-0.985122 0.0548561 0.0112874 0.0316514 0.00246151 0.0330186 0.0261767 0.0135108 
-1.12848 5.6685 -9.40152 -4.39068 -1.41704 -3.80711 0.128 -1.10992 
--3.9336 -1.58389 -15.2211 -97.9279 993.45 
+1000 0.382122 0.132332 0.25464 0.0680467 0.305694 0.0353411 0.23802 
+2.35595 16.8085 -4000 -10.8404 0.989355 -8.62752 0.0566247 -6.98706 
+0.494274 -3.03738 -2.94618 -317.254 5721.89 
 
 # parameters for class #46
-0.320415 0.0706354 0.00219273 0.0552051 0.00450149 0.061311 0.00764467 0.0473293 
-0.966059 1.51928 -4.62389 -2.9595 0.123937 -5.81566 0.242691 1.17645 
-0.560906 -6.35555 -11.3463 -23.6143 607.159 
+5.67631 0.396303 0.032469 0.187226 0.0109228 0.246436 0.0126713 0.113771 
+2.14236 4.35181 -26.8467 -12.5831 0.162997 -8.80416 0.0734548 -4.06086 
+0.030969 -3.74907 -3.73084 -75.7129 646.924 
 
 # parameters for class #47
-0.320096 0.0808032 0.00631246 0.0724098 0.0066118 0.0765939 0.0082162 0.048469 
-0.817573 2.1996 -4.33734 -4.64887 0.486619 -9.16616 0.412181 0.47497 
-0.585268 -6.92166 -9.36431 -34.2462 850.379 
+3.0025 0.297234 0.0255792 0.157983 0.00685544 0.182992 0.0253419 0.0905621 
+0.367278 8.20671 -15.379 -8.4751 -1.72554 -6.00922 0.0962563 -3.52528 
+-2.73002 -2.82277 -3.42578 -151.492 1021.95 
 
 # parameters for class #48
-0.32668 0.0397262 0.00145362 0.0273633 0.00418229 0.0304889 0.00648784 0.0145323 
-0.950611 1.05679 -4.447 -2.58327 -0.0659826 -3.35374 0.266466 -0.1544 
--0.745195 -1.99181 -10.556 -15.0484 388.691 
+3.59353 0.334452 0.0315807 0.249861 0.00680767 0.171249 0.0649401 0.116234 
+0.447075 4.97864 -19.128 -4.97932 -2.42601 -6.18281 0.227567 -0.938796 
+-7.87215 -3.81379 -4.58539 -90.2293 856.315 
 
 # parameters for class #49
-0.37713 0.0855002 0.0101131 0.0688144 0.00541917 0.0696013 0.00754699 0.0389019 
-0.509514 1.13394 -4.4077 -6.07758 1.05635 -8.9344 0.339223 -1.06693 
-0.769618 -5.01815 -5.46501 -17.5724 757.69 
+0.459031 0.0411832 0.00379467 0.0165398 0.00349784 0.0373922 0.00154626 0.0134149 
+0.461823 0.225451 -2.8225 -0.878931 -0.228874 -0.93459 -0.355881 0.468386 
+0.0264906 -1.09059 -2.39846 -2.58045 122.988 
 
 # parameters for class #50
-0.896603 0.038856 0.0184623 0.0251653 0.00224056 0.0219905 0.00872937 0.0129326 
-0.788368 2.51617 -8.19167 -3.70312 2.35895 -3.51222 0.172034 -1.0482 
-1.16155 -1.54793 -9.27082 -42.1195 656.843 
+1.69944 0.0871752 0.026694 0.0392335 0.0173591 0.0546327 0.00354092 0.0181438 
+0.26137 1.19689 -8.77644 -1.10616 -2.84386 -1.08464 -2.02185 0.0999194 
+-0.28596 -0.908662 -2.67144 -20.5808 314.372 
 
 # parameters for class #51
-0.313072 0.0489451 0.00290964 0.02489 0.0101725 0.0249635 0.00834346 0.0229215 
-1.73342 5.04065 -4.37795 -3.19356 0.179332 -3.56718 0.65557 0.159898 
-0.711309 -3.76784 -23.4121 -83.9283 853.963 
+3.79305 0.164002 0.0251074 0.134462 0.00967957 0.121084 0.0127572 0.0527386 
+0.322276 9.87895 -16.8822 -2.21305 -1.34834 -2.6526 -0.624509 -0.886753 
+-0.493483 -1.27754 -3.14684 -184.696 990.026 
 
 # parameters for class #52
-0.861019 0.0367746 0.00445665 0.0170263 0.0863356 0.0230889 0.00252748 0.00765347 
-1.32148 6.35938 -7.64142 -3.20682 -0.520858 -2.35914 -13.7372 -1.04163 
-0.156279 -1.04099 -18.2023 -110.787 1371.26 
+1.84446 0.0171785 0.00288653 0.0126637 0.00072177 0.0162757 0.00379304 0.0127871 
+0.208548 16.7466 -7.7403 1.00459 -0.235474 0.5991 -0.014704 1.13849 
+-0.409496 -0.516504 -2.40407 -323.349 1690.8 
 
 # parameters for class #53
-3.85585 0.0324095 0.012409 0.0195825 0.0802219 0.0252397 0.0020431 0.00684765 
-0.650177 15.3683 -22.2843 -2.92423 -1.56742 -2.20457 -12.4797 -1.76359 
-0.0702068 -0.585623 -9.4092 -289.715 2182.26 
+3.08347 0.0205615 0.00654574 0.0229311 0.00593178 0.0138204 0.00176669 0.0188135 
+0.279295 12.9123 -12.6322 0.698146 -0.415656 0.507507 -0.547129 0.628207 
+-0.0297809 -0.655796 -2.28107 -244.983 1268.91 
 
 # parameters for class #54
-1.79571 0.0570666 1000 0.0450087 1000 0.035279 1000 0.0326591 
-0.0641312 33.6041 -3.18439 -5.90685 -0.00295536 -4.92263 0.0247402 -3.4431 
--0.0231678 -0.388832 -0.628001 -662.379 3648.67 
+11.7328 0.00306191 0.00606398 0.00308558 0.00104833 0.00303081 0.00106849 0.44491 
+0.87005 1000 -20.0166 0.418042 -0.0236533 0.41319 -0.0152287 0.421735 
+0.00839243 -3.4461 -11.5509 -19938.2 99525.3 
 
 # parameters for class #55
-2.14602 0.0906169 0.00636119 0.0514335 0.00832788 0.0581871 0.00416422 0.0373966 
-0.261246 7.50667 -10.6056 -6.6073 -0.164032 -4.44835 -0.726476 -3.47356 
-0.204173 -1.49207 -2.07569 -138.827 1005.6 
+25.0782 0.0196869 0.00180564 0.0184778 0.00234021 0.0198754 0.00185361 0.0996164 
+1.6339 104.61 -38.9332 -0.0870613 -0.0095723 -0.154498 -0.171162 -0.00960071 
+0.121451 -1.14009 -23.2162 -2064.88 10338.8 
 
 # parameters for class #56
-0.837005 0.0131124 0.0390581 0.00961551 0.00062901 0.00566536 0.614736 0.00269568 
-2.24016 5.4041 -6.4698 -0.541501 -6.11782 -0.885421 0.00704051 0.14473 
--105.015 -0.565068 -37.397 -98.3458 5444.24 
+1000 0.0162934 1000 0.0162934 1000 0.0162934 1000 0.00139253 
+1000 1000 -0 -4.11913 -0 -4.11913 -0 -4.11913 
+-0 0.496341 -0 -20016 100981 
 
 # parameters for class #57
-0.440681 0.00856721 0.0135613 0.00597661 0.000815361 0.00683351 0.0340241 0.00295207 
-1.46561 3.95232 -4.68827 0.0351396 -1.9946 -0.425555 0.0299609 0.57189 
--5.47529 -0.584527 -21.707 -67.4582 776.018 
+27.9372 0.029477 1000 0.029057 1000 0.0251852 1000 0.0816314 
+0.156286 411.133 -19.3608 -1.63943 0.00277352 -1.72115 -0.00293176 -1.3083 
+0.000250354 -0.599419 -2.37881 -8185.23 40822.1 
 
 # parameters for class #58
-0.59402 0.00231197 0.00169468 0.00249488 0.000924022 0.00254246 0.00189331 0.0017141 
-0.669869 5.25827 -6.90746 0.169697 0.164231 -0.22473 0.0510711 0.502222 
-0.128081 -0.533195 -9.14277 -90.9945 587.917 
+8.35837 0.0915008 0.101027 0.0771851 0.079541 0.0902515 0.0190747 0.153097 
+0.661624 58.5619 -16.9753 -3.28063 5.12383 -3.0615 7.00242 -2.89169 
+-0.049094 -1.65718 -8.52841 -1149.1 6010.16 
 
 # parameters for class #59
-0.519374 0.0157553 0.00329656 0.00841567 0.00159285 0.01246 0.00594879 0.00499355 
-1.30145 4.03763 -6.79698 0.456862 0.361401 -0.637217 0.113167 1.45077 
-0.500012 -1.04908 -18.3061 -67.6281 558.189 
+3.12375 0.169215 0.019057 0.0916429 0.0186468 0.102123 0.00371167 0.0224331 
+0.378402 8.28175 -15.1232 -8.25398 1.95605 -5.49749 2.34573 -3.92244 
+0.218934 -1.0004 -4.33312 -153.872 1144.42 
 
 # parameters for class #60
-0.872959 0.00276061 0.00332592 0.00118533 0.00122226 0.00177326 0.000712361 0.000942998 
-1.37384 9.86542 -6.61698 -0.0110829 0.422761 -0.113856 0.0450777 0.199815 
-0.0720257 -0.260877 -23.0541 -185.839 1088.02 
+3.45273 0.0960484 0.0439102 0.0645699 0.0252951 0.0628388 0.010678 0.0448725 
+0.720246 5.05102 -16.4511 -7.16235 4.60355 -5.75045 3.00205 -3.7873 
+0.831204 -2.08222 -5.75021 -90.534 1043.58 
 
 # parameters for class #61
-0.286065 0.007987 0.000849861 0.00567877 0.000802434 0.00664399 0.00154549 0.00357909 
-1.68149 3.07825 -4.21059 -0.0741621 -0.0435907 -0.769796 0.012843 0.730995 
-0.0643402 -0.928804 -24.3542 -50.5041 478.04 
+1.00489 0.0977529 0.0293552 0.0572956 0.0100576 0.0624496 0.0038641 0.0358233 
+0.457919 1.54684 -6.76431 -5.26675 3.46724 -4.60012 1.20904 -1.67987 
+0.353743 -2.67378 -3.94388 -25.6171 540.9 
 
 # parameters for class #62
-0.610528 0.0161716 0.0047683 0.00707195 0.0106171 0.0123402 0.00555317 0.00338191 
-1.0777 2.88052 -7.65091 0.145012 -0.563808 -0.48085 -1.55477 0.88646 
-0.423688 -0.607567 -15.3792 -47.9821 464.01 
+1.29335 0.113552 0.0289793 0.0669039 0.00546281 0.0802769 0.0106562 0.0473804 
+0.451889 3.07093 -7.64407 -8.50333 2.30052 -6.11794 0.315721 -4.72122 
+0.927997 -2.08543 -3.18498 -53.9501 757.233 
 
 # parameters for class #63
-0.688057 0.0658092 0.00601991 0.0445252 0.00323921 0.0634338 0.00648267 0.031119 
-0.740496 3.23341 -7.44332 0.78859 0.583873 -1.84179 0.203196 3.78012 
-0.509949 -3.5057 -8.87327 -53.9335 521.271 
+0.815556 0.124708 0.0141576 0.062994 0.00639945 0.0923022 0.00650849 0.0399568 
+0.328573 3.4905 -6.17301 -10.1788 1.26047 -7.03732 0.523161 -4.69663 
+0.50421 -2.9552 -2.61517 -60.4701 889.166 
 
 # parameters for class #64
-0.827862 0.0790774 0.016124 0.0342014 0.00300338 0.0458185 0.00651874 0.0187238 
-0.381761 2.83735 -7.48894 -0.109329 1.8619 -1.69873 0.2237 1.90482 
-0.721164 -2.07265 -4.07884 -47.788 451.627 
+3.30515 0.0145363 0.00325082 0.0137608 0.00229513 0.0139294 0.00182453 0.031841 
+0.464912 45.6167 -7.8656 -1.73578 0.036253 -1.712 0.133913 -1.59294 
+-0.0779717 -0.494666 -5.57492 -897.433 4639.17 
 
 # parameters for class #65
-0.427915 0.000393975 0.0137797 8.64349e-05 0.511055 0.000435843 0.000645253 4.19681e-05 
-1.89678 4.61786 -3.75999 0.0465771 2.16679 -0.0154241 89.9006 0.111332 
-0.0143123 -0.0319426 -33.5608 -85.5859 4671.79 
+0.818408 0.0551166 0.00384658 0.0324632 0.00503375 0.0247894 0.00917301 0.0152006 
+0.997102 7.61725 -7.73998 -5.23836 -0.369763 -4.25289 0.332313 -1.31661 
+-1.22128 -1.55156 -12.6145 -134.621 1075.15 
 
 # parameters for class #66
-0.33464 0.000949848 0.00100603 0.000444013 0.0286209 0.000743266 0.00090431 0.000353225 
-1.41003 3.20022 -4.17209 -0.10088 0.0603566 -0.150725 -4.66385 0.0392817 
-0.0833347 -0.19501 -22.2661 -55.2801 640.619 
+0.482047 0.0407005 0.00261643 0.0410823 0.00387374 0.0543317 0.00459652 0.0417108 
+1.57801 6.32343 -5.59109 -3.12748 -0.0380343 -5.62385 0.168721 -0.811343 
+0.122322 -5.35251 -21.5365 -107.18 1020.11 
 
 # parameters for class #67
-0.585962 0.0446642 0.00396382 0.0351957 0.00433592 0.0384422 0.00789605 0.0323716 
-0.978846 3.73828 -6.89523 -0.763312 0.338674 -2.8892 0.21553 1.51678 
-0.705975 -4.32248 -12.0987 -62.8969 616.306 
+0.601026 0.0743434 0.00864058 0.043221 0.00731111 0.0636603 0.00386889 0.0342377 
+0.356383 3.02718 -5.42782 -7.12427 0.789195 -6.19265 0.715015 -2.83286 
+0.124297 -3.77959 -2.9867 -49.6904 833.154 
 
 # parameters for class #68
-0.818849 0.0473801 0.0120004 0.0200655 0.0024644 0.0253573 0.02835 0.0112165 
-0.568865 1.92216 -7.26355 -1.60007 1.52089 -1.41484 0.162707 0.220986 
-4.24988 -1.28933 -7.02929 -31.87 503.66 
+0.446317 0.0689912 0.00375833 0.0716056 0.00719824 0.0735224 0.00511945 0.0569632 
+0.853568 3.92845 -5.25219 -5.97345 0.278237 -10.0905 0.458847 -2.15653 
+0.273456 -6.84621 -10.0107 -65.4033 1083.99 
 
 # parameters for class #69
-1.115 0.0459094 0.0289051 0.030833 0.00393801 0.030539 0.0589249 0.0182351 
-0.701923 1.89343 -8.56488 -2.93454 3.87022 -2.77548 0.294122 -1.02247 
-8.94045 -1.60609 -8.52216 -31.4496 844.303 
+0.782911 0.0794186 0.00858133 0.0440065 0.00284754 0.0414272 0.00442861 0.023515 
+0.295137 3.23728 -5.91585 -8.79425 0.781885 -6.42284 0.201458 -3.11362 
+0.380668 -2.00566 -2.39584 -56.315 916.881 
 
 # parameters for class #70
-4.17535 0.0192785 0.0209168 0.0130062 0.00627786 0.0165443 0.00718399 0.0127069 
-0.312253 9.16142 -18.9246 -2.8094 2.31062 -2.12369 0.658566 -2.1188 
-0.780318 -0.73659 -2.68192 -170.23 1234.33 
+0.649915 0.0768005 0.0036306 0.0375327 0.00457239 0.0391235 0.0038176 0.0175599 
+0.231628 3.82298 -5.27507 -8.8301 0.115629 -6.09293 0.261573 -2.57008 
+0.0172113 -1.80679 -1.60453 -65.4883 937.027 
 
 # parameters for class #71
-1000 0.250885 0.0232373 0.14351 0.00749536 0.129112 0.0062995 0.0656395 
-1.05455 22.7231 -4000 -19.571 0.76953 -12.2494 0.268448 -9.12301 
-0.178137 -1.27419 -4.27776 -435.255 6939.19 
+1.22994 0.00730005 0.00325407 0.00524185 0.000977765 0.0036293 0.0438898 0.00129233 
+0.429595 10.3929 -8.02804 -1.53533 -0.375559 -1.28378 0.02502 -0.575566 
+-7.03414 -0.206263 -6.13038 -195.322 1490.79 
 
 # parameters for class #72
-1.54815 0.0933585 0.0146322 0.0696938 0.0112613 0.0301239 0.00581042 0.0128529 
-0.198467 6.28495 -6.13653 -7.80604 0.860556 -6.61644 1.0267 -2.17316 
-0.0319063 -0.419274 -1.75418 -118.96 1016.26 
+0.218907 0.028207 0.00253921 0.0376423 0.00250183 0.0327581 0.00520401 0.0241069 
+0.321646 0.596081 -2.66612 -2.17967 0.134357 -6.24814 0.0589586 0.168703 
+0.329795 -4.30201 -3.15411 -8.78271 601.85 
 
 # parameters for class #73
-23.6924 0.0606751 0.0104544 0.0442179 0.0041337 0.0417244 0.00275195 0.0348308 
-3.16598 5.42994 -99.1335 -6.10366 0.356801 -5.34269 0.180137 -3.3528 
-0.0518618 -1.59254 -6.65249 -97.8671 994.636 
+0.802001 0.0623032 0.00573297 0.0295791 0.00652802 0.0362139 0.00277976 0.0187625 
+0.276761 6.42363 -6.89204 -8.28212 0.398713 -5.14036 0.438534 -3.2541 
+0.146625 -1.75985 -2.41173 -113.54 1198.64 
 
 # parameters for class #74
-1.20534 0.122398 0.0135122 0.0779479 0.00862156 0.0611642 0.00493935 0.0361526 
-0.414773 6.63844 -8.5316 -10.4681 0.863167 -8.28877 0.534078 -3.92312 
-0.258652 -1.83156 -2.93227 -118.839 1150.17 
+0.322833 0.0231298 0.00167208 0.0177363 0.00217338 0.0174601 0.00103557 0.0107958 
+0.474349 1.63828 -3.97931 -2.57693 -0.0739279 -3.55944 0.0793288 -0.418493 
+-0.0431217 -2.0166 -4.76761 -24.5701 520.927 
 
 # parameters for class #75
-1.48621 0.0797229 0.00506893 0.0507052 0.00294458 0.0388844 0.00279967 0.0245457 
-0.29161 5.94725 -10.9936 -8.70028 0.227908 -6.92302 0.120436 -3.12566 
-0.106972 -1.54989 -2.05812 -106.32 1111.8 
+0.478652 0.0202923 0.00202388 0.0124918 0.0024651 0.0105801 0.00547178 0.0059447 
+0.233021 2.05483 -4.45615 -3.23943 0.0261184 -2.97921 0.10449 -0.800919 
+-0.0011608 -1.00318 -1.8316 -34.1502 576.67 
 
 # parameters for class #76
-0.992142 0.0725487 0.0117941 0.0365099 0.00465389 0.0312349 0.00554603 0.0127103 
-0.307589 5.36042 -6.42543 -8.5449 1.06794 -5.23819 0.359167 -2.86589 
-0.494736 -0.852931 -2.32183 -96.0446 1053.34 
+1.00285 0.028325 0.00225866 0.0222926 0.00426903 0.0198221 0.00225873 0.0143908 
+0.229431 1.91745 -8.5637 -3.23752 0.0578064 -4.20685 0.0597777 -0.754504 
+0.0829628 -2.24413 -1.60577 -31.3354 588.473 
 
 # parameters for class #77
-220.078 0.0320292 0.00638444 0.0229907 0.00324044 0.0244591 0.00318168 0.0195566 
-0.774656 14.6132 -881.439 -5.69572 0.367353 -4.39937 0.170496 -4.01864 
-0.182169 -0.694242 -3.37353 -277.572 2891.33 
+0.502966 0.0129371 0.00306578 0.0111346 0.00126069 0.0102139 0.00236774 0.00771576 
+1.68311 8.60355 -5.65672 -1.85914 0.300514 -2.5714 0.0594686 -0.52424 
+0.137536 -1.49496 -24.521 -152.252 1136.44 
 
 # parameters for class #78
-1.79454 0.0196748 0.00879647 0.0161631 0.00138134 0.0079753 0.216121 0.00236201 
-1.45371 9.12677 -10.8404 -2.39284 -1.19903 -2.44275 0.0526687 -0.607314 
--36.088 -0.37658 -23.7715 -170.405 2695.43 
+0.788401 0.0246715 0.00292219 0.0138258 0.00303866 0.0169682 0.00203629 0.00847279 
+0.236557 3.56593 -6.7498 -4.75349 0.179785 -3.53329 0.189163 -2.10445 
+0.0759066 -1.19684 -1.91609 -61.7356 907.612 
 
 # parameters for class #79
-0.414878 0.0540919 0.00153931 0.0554022 0.00564455 0.0631513 0.00210669 0.0487596 
-1.44807 4.1394 -5.66264 -4.23236 0.0137349 -8.40945 0.370411 -0.56807 
-0.058885 -7.3757 -17.3631 -65.0118 1062.14 
+0.671454 0.0131161 0.00511163 0.00568713 0.00204898 0.00744449 0.0022918 0.00292132 
+0.223893 6.78051 -4.84901 -2.97434 0.42852 -1.55419 0.142694 -1.32471 
+0.163247 -0.325311 -1.70814 -122.429 977.964 
 
 # parameters for class #80
-0.372001 0.030046 0.0025262 0.0317256 0.00754207 0.0460006 0.00456666 0.0371443 
-0.821092 2.18363 -4.91135 -3.19498 0.180285 -5.91873 0.496378 -1.23067 
-0.252575 -6.26182 -9.03809 -34.0126 869.895 
+0.872784 0.0115254 0.00185764 0.00690894 0.00139233 0.00757843 0.00131674 0.00461658 
+0.224486 6.53257 -6.24358 -2.4784 -0.0164475 -1.84955 0.0230619 -1.20848 
+-0.0136441 -0.535771 -1.33907 -117.02 915.451 
 
 # parameters for class #81
-0.518032 0.00833543 0.00600841 0.00307222 0.281206 0.00414186 0.000832346 0.000947534 
-1.49145 4.00757 -4.96921 -0.751533 0.80966 -0.689873 48.0808 -0.0436292 
-0.0367937 -0.328311 -23.3815 -70.3373 2633.04 
+0.244069 0.00021658 0.0149028 0.000123037 0.000273658 0.000145252 0.548589 6.61816e-05 
+2.75516 5.45853 -2.92711 -0.088626 -2.33084 -0.0836902 -0.00491414 -0.0109667 
+-96.2151 -0.0589948 -48.4838 -100.269 5095.04 
 
 # parameters for class #82
-0.339792 0.000647438 0.00731848 0.000499187 0.0007678 0.000295582 0.503727 0.000209471 
-1.47945 4.20355 -3.76137 -0.216334 1.04206 -0.240808 0.036631 -0.0219752 
-87.785 -0.12685 -23.9597 -74.8792 4431.68 
+1.7965 0.0272673 0.0212349 0.00827786 0.707737 0.0269208 0.00207033 0.00247218 
+3.27892 6.28518 -11.3837 -0.935464 -3.17264 -0.673697 -120.278 -0.0580735 
+0.0703437 -0.429962 -56.1195 -114.549 6093.04 
 
 # parameters for class #83
-0.364977 0.0177722 0.00125289 0.0239439 0.00295024 0.0268616 0.00247098 0.0216548 
-1.72577 4.37601 -4.75725 -1.68742 -0.0253875 -4.42109 0.119554 -0.279333 
-0.0721036 -3.93371 -23.7416 -72.2526 871.858 
+1.37304 0.205232 0.0196151 0.103306 0.0080825 0.132567 0.00799081 0.0737866 
+0.485713 8.22158 -8.13628 -14.2442 1.03493 -8.96996 0.40892 -6.86303 
+0.360619 -3.08108 -2.45975 -147.749 1303.45 
 
 # parameters for class #84
-2.01818 0.0146074 0.0162936 0.00666853 0.328673 0.00891007 0.00117326 0.00250566 
-1.9999 11.5659 -13.2096 -1.58246 -2.42406 -1.06993 -55.416 -0.603849 
-0.0298976 -0.430085 -33.094 -215.926 3753.44 
+3.98754 0.0862482 0.00885529 0.0535647 0.0585428 0.0703721 0.00560632 0.0205796 
+0.493338 15.1373 -22.8972 -5.33777 -0.849134 -4.12653 -8.17621 -3.32339 
+0.259611 -1.14234 -6.09166 -282.943 1939.49 
 
 # parameters for class #85
-1.56993 0.0570349 0.0186071 0.0329811 0.456731 0.0397404 0.00287754 0.0117728 
-2.51342 6.89299 -11.4931 -3.22449 -2.68012 -3.20028 -75.6203 -0.856357 
-0.135466 -1.49149 -38.6608 -122.279 4154.89 
+1.10194 0.138195 0.00561553 0.0624335 0.00636439 0.0865683 0.00403969 0.0335442 
+0.358498 2.53189 -7.67728 -6.28582 -0.372777 -4.40427 -0.65247 -1.84079 
+0.0368073 -2.01888 -2.61675 -42.6441 454.739 
 
 # parameters for class #86
-19.4755 0.273506 0.0480041 0.156842 0.0100496 0.187879 0.0313061 0.0949141 
-0.924372 6.88731 -78.5702 -10.0899 2.88229 -7.23401 0.105903 -5.20362 
-2.87453 -2.5743 -5.52555 -125.834 1033.58 
+83.7258 0.720444 0.155513 0.609558 0.0439512 0.647808 0.0331186 0.813796 
+1.68173 156.999 -331.025 -29.5868 6.90016 -26.8128 2.00609 -24.7127 
+1.40704 -9.48108 -13.1662 -3053.63 16195.8 
 
 # parameters for class #87
-17.6731 0.0172458 1000 0.0126604 1000 0.0176229 1000 0.0255457 
-0.62462 9.64566 -67.9989 -1.00203 -0.00842782 -0.862549 0.00792394 -0.847345 
--0.0112424 -0.516141 -0.607824 -182.89 983.659 
+1000 0.469169 0.0712388 0.358574 0.0277291 0.363486 0.0159168 0.32667 
+1.41885 49.5535 -4000 -25.5754 2.61693 -21.1445 1.12306 -18.1946 
+0.511257 -4.52199 -7.77398 -957.152 9597.22 
 
 # parameters for class #88
-1.33728 0.0399859 0.0106931 0.0258608 0.0726514 0.0248411 0.00347485 0.0163577 
-1.26941 0.431226 -7.29553 -0.358166 0.0991121 -1.346 0.267683 0.843498 
-0.0536333 -1.45026 -2.06425 -6.45275 139.428 
+1000 0.409786 0.0639865 0.268002 0.0190936 0.200172 0.0147612 0.123622 
+1.06847 12.1102 -4000 -24.1784 3.47978 -17.6641 1.04606 -10.428 
+0.773717 -2.60371 -6.24183 -228.803 5984.58 
 
 # parameters for class #89
-0.657468 0.0280117 0.00130313 0.0101486 0.00804126 0.0179674 0.001039 0.00213519 
-1.01045 3.0237 -5.15247 0.135482 -0.0365055 -0.452454 -1.14856 0.684725 
-0.0485551 -0.347319 -15.4123 -53.1032 424.061 
+3.52706 0.171245 0.00870501 0.0864727 0.00848185 0.108386 0.0255241 0.0509143 
+0.300472 5.94331 -17.7829 -8.20674 -0.308356 -5.3552 0.598881 -3.58506 
+-2.87841 -2.45423 -2.75448 -107.429 888.235 
 
 # parameters for class #90
-0.970768 0.0253825 0.0064357 0.0205348 0.0025878 0.0187897 0.00109942 0.0109022 
-0.621542 2.44913 -9.46761 0.246637 -0.718442 -0.778964 -0.269463 1.07543 
-0.0108335 -1.21671 -8.06127 -40.8226 355.602 
+5.33399 0.0272171 0.00649631 0.0240115 0.00905962 0.0270764 0.00762856 0.0467826 
+0.916045 71.3113 -9.73557 -1.32523 -0.0120667 -1.28081 0.723956 -1.19153 
+-0.62321 -0.679623 -12.7199 -1407.48 7110.63 
 
 # parameters for class #91
-6.39312 0.196393 0.0612253 0.131209 0.0310061 0.13372 0.00982355 0.0953576 
-1.30996 7.2313 -27.3013 4.28468 4.73571 1.64891 2.67359 4.15899 
-0.628002 -2.81513 -9.24865 -131.322 915.783 
+0.62839 0.113381 0.00209513 0.0582219 0.00650146 0.0456381 0.00425984 0.0254815 
+0.565616 1.61648 -6.19838 -5.78175 -0.100217 -5.05619 -0.744673 -0.787365 
+0.282995 -2.23671 -6.01265 -26.0793 447.008 
 
 # parameters for class #92
-1.94757 0.045816 0.0124763 0.0314104 0.0064575 0.0233515 0.00218874 0.0161198 
-0.693389 1.90787 -9.72562 0.529119 1.1431 -0.593469 0.617187 0.986219 
-0.144316 -1.21616 -3.23795 -32.5771 283.39 
+1.40004 0.0733215 0.0339413 0.0373829 0.0297861 0.0396048 0.00502153 0.00896039 
+1.0411 2.2299 -11.1368 -3.10609 -4.89233 -2.65349 -4.44931 -0.541015 
+-0.574489 -0.889392 -14.6513 -37.8065 739.956 
 
 # parameters for class #93
-1.02315 0.15631 0.00836448 0.123372 0.0055029 0.11788 0.0105136 0.076538 
-0.937181 4.68092 -10.0147 -0.555046 0.690219 -4.2434 0.334431 2.84971 
-0.836536 -5.30956 -10.1847 -80.0001 616.312 
+0.405955 0.0328515 0.00119066 0.016676 0.00402578 0.0126667 0.0128748 0.00550597 
+1.62368 3.52403 -4.07005 -1.75133 -0.0153198 -1.52632 0.261191 -0.00446106 
+-1.83485 -0.828694 -23.711 -59.8845 561.497 
 
 # parameters for class #94
-1.033 0.160396 0.011331 0.0856872 0.00712518 0.0941266 0.0143259 0.0460706 
-0.373783 1.64917 -7.91913 -1.31249 0.668839 -2.89486 0.104668 1.43594 
-1.17018 -2.63428 -2.66457 -26.8015 275.464 
+1.71383 0.110829 0.0284453 0.0661562 0.00621367 0.0593562 0.0372709 0.0347591 
+0.569541 2.58459 -10.499 -4.34202 3.35539 -3.61975 0.461424 -1.31081 
+5.11201 -1.97305 -6.29145 -44.5968 676.397 
 
 # parameters for class #95
-0.987808 0.309607 0.00597547 0.155848 0.00673121 0.142083 0.00521065 0.0821905 
-0.37943 2.04098 -7.31575 -3.80704 0.215206 -6.37996 0.349468 2.16027 
-0.0819352 -5.07709 -2.18111 -32.4956 357.941 
+117.615 0.368676 0.10649 0.219258 0.0124072 0.23666 0.0268234 0.135638 
+1.46066 13.4442 -476.212 -14.3256 5.79362 -10.4969 0.311537 -7.06463 
+2.04035 -3.4551 -7.11245 -249.212 2131.51 
 
 # parameters for class #96
-2.86547 0.196536 0.0214031 0.0938938 0.00782581 0.137412 0.0069071 0.0524072 
-1.04867 1.61584 -14.2603 -5.40911 -1.32595 -4.0708 -0.536339 -1.63619 
--0.333285 -2.06255 -4.63468 -26.6063 312.032 
+3.11969 0.179735 0.00919079 0.0973705 0.0124037 0.100808 0.0041139 0.0414347 
+0.356946 8.3838 -13.3663 -9.12136 0.487377 -6.13808 1.28311 -3.86459 
+-0.16544 -1.63097 -3.13601 -154.954 1084.29 
 
 # parameters for class #97
-1.22349 0.194332 0.00451591 0.104981 0.00398613 0.123156 0.00404102 0.0256449 
-0.591714 2.04438 -9.98771 -4.13769 -0.0017959 -4.49652 -0.27026 -0.12817 
-0.182771 -1.49428 -6.12413 -34.2664 322.51 
+28.0084 0.109987 0.0145132 0.0552757 0.0107827 0.0783711 0.00706228 0.039588 
+0.343265 12.1481 -116.645 -7.36024 0.371181 -4.39024 0.848336 -4.25099 
+-0.326778 -1.50075 -2.2587 -224.503 1505.63 
 
 # parameters for class #98
-1.5702 0.752198 0.0269717 0.377979 0.0277707 0.394781 0.0253277 0.196474 
-0.599903 1.41527 -10.9496 -14.295 1.53075 -14.2624 1.92615 -0.0385017 
-0.7451 -8.70451 -3.69376 -22.1633 503.791 
+1.99748 0.0365884 0.00540396 0.0310514 0.004333 0.0294211 0.0022014 0.0264574 
+0.198163 15.3041 -7.02088 -4.12257 -0.236373 -3.75064 -0.333546 -3.07861 
+0.0104591 -0.625687 -1.78709 -294.594 1797.82 
 
 # parameters for class #99
-5.18827 0.377867 0.0292265 0.216515 0.0993467 0.195883 0.00636178 0.0608168 
-0.524019 4.84474 -28.9797 -4.96248 -2.88687 -5.50861 -13.6046 -0.174627 
-0.184451 -2.7102 -6.12582 -86.9704 1102.26 
+3.16731 0.212523 0.0126715 0.129713 0.0165346 0.130263 0.00860385 0.0771746 
+0.315043 7.62595 -15.9816 -8.77361 -0.328544 -6.69001 -1.42691 -4.05461 
+0.432232 -2.55307 -2.6701 -140.568 979.174 
 
 # parameters for class #100
-1.00513 0.146018 0.00674505 0.0789089 0.00568473 0.0733201 0.00985843 0.0424412 
-0.376946 2.50456 -6.74792 -0.632449 -0.0168497 -1.9062 -0.37555 1.08642 
-0.653712 -2.12214 -2.74082 -41.9473 295.2 
+1000 0.212482 0.015501 0.133843 0.00507955 0.104948 0.00572828 0.0615359 
+1.94687 5.83833 -4000 -10.9037 0.100334 -8.28134 0.105369 -4.27742 
+-0.049073 -1.5143 -4.30648 -107.05 4847.04 
 
 # parameters for class #101
-1000 0.704731 0.162415 0.554643 0.0226237 0.472233 0.044844 0.382635 
-2.03088 9.89373 -4000 -6.17684 7.07566 -7.94381 0.639852 -1.51458 
-2.54696 -6.44759 -10.5245 -184.31 5079.95 
+1000 0.351181 0.168969 0.216534 0.0240316 0.232379 0.0345724 0.145522 
+1.53303 19.2281 -4000 -15.9916 4.84422 -11.2625 0.215546 -9.07681 
+1.60267 -2.46027 -5.13117 -364.939 6240.11 
 
 # parameters for class #102
-1000 0.56016 0.297282 0.372347 0.114847 0.403501 0.0723439 0.285063 
-2.23871 6.09713 -4000 -9.28069 14.3795 -8.52646 6.66264 -4.13047 
-2.72689 -5.43957 -12.2747 -111.852 4968.38 
+3.5097 0.0746274 0.0836359 0.0715888 0.189593 0.0672111 0.0247697 0.172157 
+0.401865 26.1686 -9.13287 -4.20745 2.14175 -4.29017 0.112473 -3.55087 
+1.18233 -1.65105 -3.79019 -510.78 2741.91 
 
 # parameters for class #103
-1000 1.04361 0.220428 0.79986 0.0348647 0.842883 0.039205 0.707806 
-1.39138 50.1435 -4000 -18.3043 9.43767 -16.3357 1.34242 -12.353 
-1.81948 -8.06136 -10.3435 -964.821 9043.26 
+147.142 0.10282 0.014884 0.0718701 0.00744489 0.0682761 0.0150758 0.0489223 
+1.28785 4.51505 -595.241 -5.9093 -0.326257 -5.17138 0.370773 -2.93471 
+-1.22022 -1.85704 -5.35363 -80.4727 1259.85 
 
 # parameters for class #104
-1000 0.890073 0.183183 0.61766 0.0378743 0.538576 0.049968 0.367842 
-1.77217 17.8119 -4000 -22.6579 6.35532 -18.8748 0.694062 -10.962 
-2.46757 -5.36064 -7.44768 -335.44 6057.77 
+3.69814 0.49038 0.0176943 0.294973 0.00574253 0.204763 0.0337422 0.08206 
+0.417279 6.21011 -18.677 -19.3598 -1.04085 -14.801 0.250542 -5.89946 
+-3.79623 -2.90379 -3.70401 -113.541 1155.24 
 
 # parameters for class #105
-4.84816 0.389295 0.0380065 0.265657 0.0256438 0.202465 0.048938 0.154633 
-0.535813 3.71891 -23.0471 -7.26017 -1.10065 -7.55449 1.61868 -1.79307 
--4.73824 -4.90106 -4.29318 -65.588 635.531 
+1000 0.11557 0.0332662 0.073925 0.0129662 0.0609643 0.0126153 0.0378348 
+1.97391 5.77224 -4000 -8.40019 0.898867 -6.20571 0.595396 -3.74467 
+0.0692074 -1.00736 -5.57799 -107.334 4894.98 
 
 # parameters for class #106
-72.8806 0.180744 0.105436 0.115694 0.048482 0.140548 0.0416133 0.10739 
-19.0566 0.659533 -299.248 -2.66469 0.0750588 -3.60304 -0.0025831 0.23215 
-0.0574802 -3.63581 -8.1492 -10.2558 444.77 
+1.90552 0.106336 0.0114324 0.0569405 0.00588471 0.0712471 0.011374 0.0394105 
+0.856016 3.16059 -10.0497 -5.86332 -0.0168646 -4.4344 0.238739 -2.31294 
+-0.508557 -2.02387 -2.74471 -53.6078 504.597 
 
 # parameters for class #107
-5.96527 0.483797 0.0108753 0.214485 0.00660988 0.247642 0.00488988 0.111029 
-0.627882 3.72937 -45.8289 -10.9622 0.219124 -8.41287 0.198794 -1.45385 
-0.0720392 -4.21154 -4.63677 -64.1468 598.411 
+2.13004 0.158177 0.0190799 0.0855808 0.00982518 0.091605 0.00458716 0.042762 
+0.367839 4.08841 -12.3176 -5.4215 -1.84828 -4.32306 -1.0734 -1.6725 
+-0.313364 -2.12963 -3.27182 -71.6971 595.069 
 
 # parameters for class #108
-19.6116 0.290805 0.0309906 0.150916 0.0132716 0.215811 0.0111284 0.101724 
-0.448242 5.70781 -81.3737 -9.19498 -0.96697 -5.97067 -0.796627 -5.12168 
-0.0322353 -2.24141 -2.41268 -104.919 797.501 
+3.5687 0.0770431 0.002472 0.0529213 0.0126013 0.0534745 0.00208096 0.00806561 
+1.2918 5.42163 -18.1817 -1.79853 -0.0964796 -2.05109 -1.61047 -0.651329 
+0.0900033 -0.672315 -20.7065 -99.9322 711.323 
 
 # parameters for class #109
-4.90588 0.482419 0.02629 0.269871 0.0125329 0.280419 0.0156036 0.0751477 
-0.343158 7.17174 -22.1872 -8.85585 0.020335 -7.03315 -0.818938 -3.05576 
-0.970202 -2.27081 -3.45893 -131.593 811.822 
+7.23038 0.42672 0.0231748 0.250314 0.0189422 0.319569 0.0107189 0.0647613 
+0.336214 13.2998 -33.6032 -11.2636 -0.467005 -8.43847 -1.53666 -6.15647 
+0.524364 -1.9134 -3.45582 -248.273 1469.02 
 
 # parameters for class #110
-1000 0.10096 0.09744 0.0712906 0.0279628 0.0854472 0.0261097 0.0860846 
-2.50218 3.23326 -4000 -1.84887 -1.48928 -1.95764 0.100514 -0.783192 
--0.863956 -1.83544 -4.67095 -57.6639 4334.47 
+10.0586 0.625966 0.151104 0.491158 0.0694753 0.415937 0.0567573 0.290397 
+0.49323 17.6311 -35.6672 -15.6767 3.07176 -14.1519 -0.00439652 -8.84932 
+2.2351 -3.03337 -2.55838 -338.656 1978.48 
 
 # parameters for class #111
-11.5328 0.310201 0.0533959 0.246777 0.0234021 0.189555 0.0355883 0.173232 
-1.2982 2.48964 -49.7804 -3.82503 -0.766406 -5.33369 1.17932 -0.574138 
--2.55764 -4.60611 -7.14077 -43.1214 416.249 
+7.54793 0.195606 0.0881598 0.190366 0.0193997 0.168828 0.0233152 0.290151 
+0.490242 49.275 -24.3379 -6.15236 1.07296 -6.52401 0.485742 -4.83415 
+-0.0313829 -2.44723 -3.99485 -962.176 4904.75 
 
 # parameters for class #112
-55.1803 0.590498 0.0832542 0.311078 0.025863 0.315344 0.0213525 0.154331 
-7.80603 1.11874 -227.45 -10.9765 1.19308 -10.1878 0.771668 -1.39682 
--0.0412433 -4.74478 -10.2811 -17.8648 518.481 
+14.0546 0.330315 0.0405347 0.195757 0.0131627 0.238444 0.0249052 0.132252 
+0.30408 8.07546 -61.3844 -8.25292 -1.04352 -6.29974 0.459932 -4.23546 
+-1.87055 -3.31854 -2.39883 -148.648 975.793 
 
 # parameters for class #113
-5.46969 0.276145 0.0269012 0.148401 0.0114415 0.159414 0.00711542 0.0812784 
-1.95526 1.65986 -25.4488 -5.30254 -0.175895 -5.10158 -0.535057 -0.647026 
-0.248804 -2.87688 -5.68746 -26.8109 282.209 
+32.1248 0.293304 0.0355689 0.168816 0.0160292 0.109083 0.0171837 0.0567749 
+5.57417 0.747976 -133.906 -7.05061 0.213719 -7.43608 0.832883 -0.437308 
+-0.731093 -2.58848 -11.9774 -11.3286 395.09 
 
 # parameters for class #114
-27.9353 0.347502 0.0636415 0.197452 0.0334981 0.264243 0.0223924 0.153142 
-0.839301 1.94186 -117.273 -4.12588 -2.78713 -4.03137 -2.62983 -0.888262 
-0.0572749 -3.60851 -4.49107 -33.5784 441.635 
+470.497 0.0990035 0.00503204 0.066072 0.00395934 0.0723032 0.00584797 0.0459428 
+0.646554 6.74599 -3767.57 -3.84395 0.0370292 -3.97755 0.0392066 -1.14323 
+0.195763 -2.24733 -5.90554 -119.491 8253.39 
 
 # parameters for class #115
-1000 1.4048 0.474427 0.682841 0.123797 0.720443 0.20422 0.315118 
-1.33682 4.34689 -4000 -18.5893 9.99703 -11.841 2.66388 -6.57379 
-4.20014 -3.51838 -4.57541 -80.5614 4619.07 
+0.757448 0.0110583 0.0393833 0.00898989 0.00376416 0.00665015 0.0432086 0.00337058 
+1.36438 2.64807 -6.81631 -0.197861 -5.97333 -0.544215 -0.446975 0.194245 
+-6.84261 -0.499673 -21.0217 -45.7168 882.603 
 
 # parameters for class #116
-1000 0.503489 0.142466 0.243653 0.0352239 0.357573 0.0421511 0.175686 
-2.51068 3.74425 -4000 -8.28875 5.06702 -6.02022 0.431429 -2.93822 
-2.3531 -3.67398 -7.69876 -66.8638 4502.73 
+1.05029 0.00552476 0.00291833 0.00399502 0.000683044 0.00282974 0.0625904 0.00106538 
+0.658623 6.04737 -6.90426 0.224334 -0.381451 -0.0234143 0.0161693 0.288286 
+-10.3136 -0.192663 -10.209 -112.771 1088.71 
 
 # parameters for class #117
-4.30924 0.345513 0.017067 0.271875 0.00793324 0.266082 0.00603031 0.123246 
-0.354174 15.389 -15.0181 -7.51967 -0.0216876 -7.06593 -0.184765 -4.67162 
-0.121383 -1.63715 -2.85565 -294.696 1579.16 
+0.946459 0.0102339 0.00186627 0.015271 0.00262501 0.0095751 1000 0.00930445 
+0.139129 2.31404 -7.25171 -0.0477402 0.0678924 -0.735902 0.12691 0.751877 
+-1.535 -1.22444 -1.70668 -39.9518 300.658 
 
 # parameters for class #118
-1.14685 0.0466654 0.00809014 0.0382072 0.00405857 0.0218774 0.070975 0.019506 
-0.874626 2.63736 -8.78656 -0.52462 -0.955428 -1.48057 0.207395 0.470311 
--10.9619 -1.82399 -12.0589 -45.4452 813.732 
+0.612455 0.000342887 0.0223298 0.000137789 1.3374 0.000298976 0.000640605 4.96119e-05 
+3.01654 8.01579 -4.51691 0.0301118 3.6212 -0.0200326 236.163 0.0581076 
+0.00980813 -0.0332732 -55.127 -151.593 11620.6 
 
 # parameters for class #119
-1.19088 0.0262409 0.00252072 0.0213474 0.00188237 0.0184367 0.0670482 0.0102109 
-0.17984 2.86741 -9.73985 0.333863 -0.0489447 -0.919806 -0.00221399 1.28649 
-0.0551855 -1.1946 -1.51702 -48.5805 347.374 
+0.380391 0.0202207 0.0028046 0.0148739 0.00226801 0.0226809 0.00399904 0.014686 
+0.463878 2.51322 -4.6169 0.139312 0.252604 -1.32405 0.126628 2.09287 
+0.32042 -2.84556 -5.64361 -41.1446 482.065 
 
 # parameters for class #120
-1000 0.224358 1000 0.224358 1000 0.224358 1000 0.00335636 
-1000 1000 -0 -22.6169 -0 -22.6169 -0 -22.6169 
--0 0.490544 -0 -20012 101835 
+0.175127 0.0109338 0.000608873 0.00388773 0.000572843 0.00847557 0.00193988 0.00310919 
+0.2294 0.223097 -1.57255 -0.315727 0.0107514 -0.447908 -0.0260512 0.433688 
+0.161009 -0.579818 -1.70774 -2.66605 130.935 
 
 # parameters for class #121
-1000 0.108 0.0260335 0.0878444 0.00877426 0.0761921 0.00731063 0.0771783 
-1.2312 5.63329 -4000 -5.04749 -0.499714 -4.8041 -0.270254 -2.95496 
--0.044639 -1.50029 -3.67431 -104.524 4685.37 
+1.26845 0.00118288 0.000702077 0.000332146 0.00146568 0.000783229 0.139169 0.000170179 
+0.141448 0.134117 -2.50748 -0.100594 0.0815322 -0.0688406 -0.199847 0.0290194 
+23.717 -0.0638241 -1.19035 -1.15235 1106.26 
 
 # parameters for class #122
-5.11386 0.217858 0.046834 0.123152 0.0335136 0.158632 0.0076535 0.0834693 
-0.638706 5.09366 -21.588 -6.44768 3.42591 -5.02996 3.65158 -2.90006 
-0.0140607 -2.82751 -4.70149 -91.6397 776.837 
+0.450459 0.0980781 0.00652526 0.0796717 0.0075197 0.0724568 0.0108498 0.0528322 
+0.599446 1.81744 -5.34242 -1.88895 0.534739 -5.39868 0.485851 1.99077 
+0.890369 -5.61773 -6.65862 -29.4092 497.887 
 
 # parameters for class #123
-2.9669 0.260267 0.0146592 0.136426 0.0157018 0.216387 0.00729613 0.0995092 
-0.537922 8.16103 -23.3531 -12.3004 0.983251 -9.12387 1.21307 -5.42443 
-0.235579 -4.99781 -4.84682 -144.421 1168.53 
+0.659273 0.190644 0.0155836 0.0902792 0.00751538 0.0813217 0.00911895 0.0368851 
+0.545874 2.04211 -6.31403 -3.71091 1.5757 -4.73341 0.633205 0.936692 
+0.856222 -2.92786 -5.50601 -33.6757 424.312 
 
 # parameters for class #124
-5.45194 0.111566 0.0397935 0.0852592 0.0151085 0.0752871 0.0102563 0.065676 
-3.02436 7.91072 -25.3464 -6.70554 2.04236 -6.468 1.11452 -3.33198 
-0.155061 -2.50617 -11.2171 -142.984 1052.97 
+1.10359 0.366649 0.0277594 0.294444 0.0111314 0.198349 0.0124243 0.172928 
+0.657363 0.568618 -7.05778 -12.6877 1.84412 -17.6149 0.568129 -1.82003 
+0.8005 -10.081 -3.0153 -8.38476 658.064 
 
 # parameters for class #125
-1.08999 0.22061 0.0369631 0.134031 0.0152606 0.129838 0.0164221 0.0836963 
-0.423326 4.98463 -7.27997 -11.5227 3.14139 -9.36316 1.18531 -4.48014 
-1.31912 -3.9783 -3.44936 -88.2933 963.503 
+4.02741 0.119796 0.00752506 0.0815771 0.0119392 0.0702746 0.00627054 0.0447839 
+0.889095 2.24901 -34.1561 -3.4338 -0.00408721 -4.4234 0.716326 -0.30745 
+-0.182088 -2.56405 -7.96585 -36.5533 413.532 
 
 # parameters for class #126
-458.063 0.51255 0.0971586 0.275148 0.0243631 0.27073 0.0213875 0.140283 
-1.37001 11.6239 -1835.99 -38.4803 7.40791 -22.839 1.83125 -18.1783 
-1.61397 -3.75345 -9.86496 -217.125 4628.53 
+0.62096 0.324692 0.0145058 0.166151 0.0081295 0.257509 0.012501 0.126583 
+0.406615 1.04033 -5.3591 -9.74926 1.22544 -10.1764 0.475875 -0.349794 
+1.0949 -8.96674 -3.36048 -16.6295 569.184 
 
 # parameters for class #127
-0.829386 0.0966854 0.00203474 0.0604583 0.00385415 0.0529045 0.00780575 0.0279348 
-0.585345 4.39178 -7.24151 -6.39276 -0.109662 -5.56293 0.255398 -1.9224 
--0.922201 -2.13044 -6.54139 -76.2087 735.242 
+1.12055 0.329032 0.02213 0.159487 0.00878963 0.165806 0.0147366 0.0826191 
+0.352966 2.99517 -8.53099 -16.4111 1.39893 -11.8582 0.422985 -4.21808 
+0.953023 -4.69944 -2.60406 -51.0878 838.41 
 
 # parameters for class #128
-1.04417 0.0665329 0.0166487 0.0374625 0.00279772 0.0523235 0.00443984 0.0226973 
-0.857665 1.98642 -10.2695 -3.53106 -1.99372 -3.62621 0.0472973 -0.544039 
--0.495507 -2.28559 -10.9129 -32.3571 504.923 
+1.00011 0.142434 0.0190369 0.0791711 0.00307809 0.0707964 0.0110919 0.0350081 
+0.452237 0.920799 -6.2338 -6.53377 1.66917 -5.71536 0.0953039 -1.43326 
+1.19184 -2.26001 -2.78871 -14.5126 406.332 
 
 # parameters for class #129
-0.514684 0.0321138 0.005019 0.0176842 0.0044139 0.0248914 0.0048235 0.0111371 
-0.999504 3.09307 -5.58108 -1.21735 0.238891 -1.26896 0.3405 -0.00378098 
--0.444368 -1.10781 -12.6121 -51.327 398.972 
+1.17335 0.105482 0.00453995 0.0656662 0.00551722 0.0713523 0.00472358 0.0395077 
+0.473411 1.68905 -10.0256 -5.36202 -0.335749 -5.26854 0.184005 -1.44621 
+-0.482988 -2.87347 -4.54363 -27.6202 443.953 
 
 # parameters for class #130
-0.634816 0.0772622 0.00221196 0.0327007 0.00197316 0.0393063 0.0030813 0.0110479 
-0.576909 2.06442 -6.42983 -5.71368 0.0396683 -3.67163 0.0966472 -1.23695 
--0.265292 -1.16781 -6.78793 -33.5007 479.024 
+1.22934 0.188589 0.00566459 0.134381 0.00742587 0.109642 0.00514906 0.0830278 
+1.00611 4.74282 -11.5362 -6.4025 0.238936 -8.38776 0.441578 -0.466342 
+0.178969 -5.43691 -11.1878 -81.0541 730.163 
 
 # parameters for class #131
-16.587 0.0521784 0.00157756 0.0348481 0.00178338 0.0373197 0.00186264 0.0217648 
-0.402594 4.85189 -135.039 -3.73467 -0.0614318 -3.86791 -0.0422215 -1.18761 
-0.0318732 -1.88651 -4.92134 -85.4666 939.125 
+0.89129 0.110387 0.00823938 0.0554297 0.0030261 0.0783909 0.00484537 0.0414688 
+0.385947 1.32365 -5.84467 -7.69581 0.53378 -5.61125 0.108326 -2.99847 
+0.34952 -2.97149 -1.95042 -21.391 518.351 
 
 # parameters for class #132
-2.02909 0.0717056 0.014882 0.0398154 0.0312037 0.0384395 0.00100658 0.0196381 
-0.447003 5.33581 -13.5705 -4.68361 -1.80793 -3.62361 -4.54531 -1.55642 
--0.00433001 -1.51964 -5.31228 -95.5835 935.476 
+0.756581 0.0115817 0.0157066 0.00808963 0.000810679 0.00438367 0.576438 0.00197227 
+1.72994 5.24396 -5.76212 -0.935983 -2.33974 -1.04594 0.0209718 0.00307052 
+-98.8671 -0.463204 -28.9533 -96.367 5030.51 
 
 # parameters for class #133
-1000 0.289611 0.0627439 0.156016 0.0234457 0.168163 0.0200205 0.0894319 
-4.99381 5.83707 -4000 -8.09904 0.123125 -5.65138 -0.00452512 -3.31408 
-0.081802 -1.62403 -4.8522 -106.99 4648.92 
+0.607265 0.000972869 0.00159593 0.000503596 0.00046081 0.000774777 0.0255175 0.000307367 
+1.26987 6.89746 -5.81942 -0.03441 -0.194164 -0.086688 0.0120453 0.117204 
+-4.22234 -0.139539 -20.9521 -127.083 954.966 
 
 # parameters for class #134
-2.71935 0.383206 0.0399217 0.210494 0.0138336 0.17456 0.0159215 0.09686 
-1.15445 3.1697 -13.965 -12.5246 -0.061487 -10.4424 -0.0384216 -2.75904 
-0.00102123 -3.51637 -2.5525 -54.3149 561.053 
+0.37046 0.00273549 0.00360756 0.00208276 0.0325405 0.00184914 0.000945013 0.000456622 
+0.701463 1.58675 -3.58184 0.17566 -0.456277 -0.160451 -5.35996 0.292094 
+0.00112322 -0.153461 -9.79755 -26.3603 479.173 
 
 # parameters for class #135
-1.93982 0.357609 0.0405544 0.137993 0.00880306 0.170804 0.0307258 0.0491163 
-0.269772 4.02214 -9.00718 -8.41482 -2.18325 -4.54618 0.0749142 -2.41675 
--2.8657 -1.42877 -2.22895 -72.9513 584.938 
+0.28467 0.000240491 0.0018513 4.23556e-05 0.00651317 0.000290617 0.000637904 2.69034e-05 
+1.87609 6.57654 -2.66598 0.0464717 -0.259844 -0.00787853 -1.08023 0.103882 
+0.00940954 -0.0234531 -33.4343 -123.609 879.845 
 
 # parameters for class #136
-4.12412 0.229115 0.0332733 0.185623 0.00852437 0.157195 0.0802443 0.14486 
-0.496044 6.70149 -22.2712 -4.17995 -2.60981 -5.14398 0.271962 -1.47294 
--9.73277 -4.66354 -5.30145 -122.752 1083.89 
+0.520951 0.000569247 0.000672431 0.000352864 0.000543311 0.000463815 0.000798048 0.000258308 
+0.124652 4.61632 -3.8334 0.131476 0.0246817 0.0487507 0.02138 0.146517 
+0.0194516 -0.0548274 -1.14844 -84.823 496.553 
 
 # parameters for class #137
-0.818855 0.088027 0.0041403 0.0415125 0.0038777 0.0545353 0.00217737 0.0213155 
-0.43394 0.636104 -5.6781 -1.13752 -0.300958 -1.81325 -0.427143 0.868851 
-0.0163048 -1.56789 -3.00251 -9.40524 172.238 
+0.570141 0.00809546 0.00148949 0.00593057 0.00156656 0.00579338 0.00163516 0.0053469 
+0.205791 2.24812 -4.86228 0.371269 0.0671397 -0.267852 0.0870162 0.780458 
+0.0160412 -1.01647 -1.44467 -35.8751 299.325 
 
 # parameters for class #138
-2.53328 0.136003 0.0157237 0.0594722 0.0112177 0.0652687 0.00206452 0.0234646 
-0.289798 1.2045 -12.9586 -0.928472 -1.59256 -1.42693 -1.37779 0.627944 
--0.0971904 -1.24831 -2.60707 -20.3317 264.892 
+0.896139 0.00114693 0.00203041 0.000655108 0.00074961 0.000723274 0.000797407 0.000431528 
+1.89832 14.6976 -6.50263 -0.0262431 0.249286 -0.0874354 0.0206987 0.0793665 
+0.0840544 -0.146914 -33.3497 -280.209 1586.34 
 
 # parameters for class #139
-3.68251 0.169084 0.023726 0.13003 0.00864718 0.126564 0.0100963 0.0492749 
-0.330704 8.08523 -16.4823 -2.34847 -1.30993 -2.64816 -0.52339 -0.94568 
--0.469275 -1.21895 -3.15413 -150.398 825.843 
+0.630217 0.0094788 0.00224586 0.0102192 0.00180987 0.00797331 0.00329737 0.00493176 
+1.06839 4.83255 -7.47325 0.499 0.230885 -0.56655 0.111672 1.07355 
+0.246623 -1.01017 -15.0403 -82.6901 598.082 
 
 # parameters for class #140
-1.94988 0.0305857 0.00169007 0.0201559 0.000610246 0.0249836 0.000993774 0.0138327 
-0.210787 13.1533 -8.80393 1.85438 -0.111091 0.95142 -0.0160459 1.85371 
--0.0753828 -0.613668 -2.1875 -251.189 1351.49 
+0.410643 0.00774144 0.000581546 0.0056468 0.000879366 0.00436794 0.00194599 0.00312514 
+0.51899 3.6596 -5.15896 0.283666 0.0128907 -0.575795 0.0201486 0.683991 
+0.114882 -0.856045 -6.77481 -61.5151 461.972 
 
 # parameters for class #141
-2.38985 0.0385601 0.00544836 0.0412243 0.00693441 0.0241915 0.00119485 0.0169654 
-0.268624 11.9532 -9.76463 1.0342 -0.403742 0.663888 -0.755915 0.895018 
--0.00962835 -0.612121 -2.79209 -227.366 1197.43 
+1.1501 0.012984 0.00337668 0.00694341 0.0678269 0.00905029 0.00126036 0.00188136 
+0.605137 7.71827 -7.35768 0.651803 -0.406427 0.0640537 -10.9508 0.725855 
+0.0361974 -0.268161 -9.26757 -142.78 1246.56 
 
 # parameters for class #142
-31.7144 0.0166266 0.0117194 0.0156626 0.0134304 0.0169379 0.0192072 0.153854 
-2.94339 127.083 -41.1524 -0.00704315 0.0131082 -0.0602569 -1.16494 0.0506823 
-1.70153 -1.51465 -44.1391 -2516.86 12743 
+0.76506 0.0168539 0.00093764 0.0112581 0.00121369 0.0166093 0.00504635 0.0083233 
+1.15329 3.4386 -9.34145 0.284017 -0.0460278 -0.634003 -0.0899369 1.34977 
+0.400193 -1.30313 -15.4704 -57.7793 475.53 
 
 # parameters for class #143
-11.5363 0.00236788 0.00610704 0.00238168 0.00105599 0.00234956 0.0010881 0.44824 
-0.830428 1000 -19.8618 0.339868 -0.0199044 0.335641 -0.0149618 0.34336 
-0.00943855 -3.45803 -10.9646 -19938.8 99523.7 
+0.792041 0.00685199 0.00100817 0.00261021 0.00745157 0.00432018 0.00190907 0.000686427 
+0.943818 6.72397 -6.38832 0.407736 0.00328659 -0.0421301 -1.08995 0.446828 
+0.134663 -0.150258 -14.6948 -120.995 741.126 
 
 # parameters for class #144
-1000 0.0157718 1000 0.0157718 1000 0.0157718 1000 0.00137787 
-1000 1000 -0 -4.02367 -0 -4.02367 -0 -4.02367 
--0 0.495962 -0 -20015.8 100969 
+0.808191 0.028433 0.00250114 0.0231936 0.00302219 0.0251311 0.00500899 0.0141799 
+0.274813 2.33615 -8.11296 0.834247 0.0777593 -0.952929 0.0545334 2.28175 
+0.306607 -1.97225 -3.01454 -39.1118 385.539 
 
 # parameters for class #145
-35.294 0.0566178 1000 0.04957 1000 0.0520733 1000 0.120345 
-0.126071 470.528 -23.4219 -2.66139 0.00049398 -2.48957 2.53764e-05 -2.27878 
--0.000492388 -0.782961 -1.8678 -9370.8 46756.6 
+1000 0.0129425 0.00415644 0.0109434 0.00283387 0.0109333 0.00196564 0.0161078 
+1.81691 25.4535 -4000 1.44176 0.111994 1.03106 0.0832183 1.40578 
+0.0421245 -0.634963 -4.01901 -483.198 6455.62 
 
 # parameters for class #146
-6.59533 0.0340936 0.0130819 0.0313391 0.00885643 0.0347813 0.00286576 0.174535 
-0.650869 139.812 -14.8905 -1.77687 0.628747 -1.72738 0.632066 -1.70851 
-0.0447387 -1.81082 -8.50298 -2760.17 13789.5 
+0.788262 0.0461387 0.00438005 0.0299534 0.00250072 0.0378138 0.00455995 0.0243541 
+1.10582 7.30435 -8.42459 1.50815 0.403028 -0.814929 0.141255 2.9862 
+0.33224 -2.86815 -14.773 -126.52 845.213 
 
 # parameters for class #147
-3.45008 0.236579 0.0400128 0.131993 0.0237939 0.154798 0.0119922 0.0788195 
-0.613952 5.10386 -16.5528 -8.439 3.63826 -6.27206 2.60129 -3.70909 
-0.687963 -2.99304 -4.8894 -91.4397 838.46 
+1.60659 0.0129709 0.00198736 0.0100923 0.000694124 0.00632323 0.0016356 0.00160645 
+1.23132 14.2606 -8.54134 0.297074 0.209503 -0.0260486 0.00816406 0.336351 
+0.208619 -0.194408 -20.3819 -272.159 1473.87 
 
 # parameters for class #148
-2.71409 0.230626 0.0289295 0.0974228 0.0163854 0.146933 0.00592712 0.0613213 
-0.537959 6.65848 -13.6514 -12.9725 2.3853 -6.75309 1.69835 -6.35427 
-0.242126 -2.37323 -4.02162 -120.861 1097.28 
+1.18805 0.126955 0.00246959 0.085768 0.00200548 0.0757517 0.0207573 0.00691169 
+0.913497 9.03812 -3.49338 -3.63905 0.219435 -3.38171 -0.146273 -1.29518 
+3.00953 -0.296861 -13.3935 -170.919 1088.74 
 
 # parameters for class #149
-3.36765 0.116303 0.0421165 0.0729494 0.0183649 0.0721384 0.00720816 0.0475585 
-0.559849 5.24272 -16.57 -7.97578 4.50327 -6.02084 2.19606 -3.95411 
-0.57191 -2.22404 -4.83808 -93.7912 1027.47 
+1.00849 0.021832 0.00139738 0.0133391 0.000891933 0.00908789 0.0522642 0.00174616 
+2.04505 7.64682 -6.294 -1.36902 0.11613 -1.16692 -0.056328 -0.196562 
+8.4104 -0.272469 -34.3834 -141.91 1264.42 
 
 # parameters for class #150
-1000 0.108892 0.0385457 0.0780552 0.0160017 0.0767271 0.0155542 0.0551938 
-1.08988 10.2401 -4000 -8.79479 3.74347 -7.13628 1.53964 -5.37906 
-1.48221 -2.06617 -8.68331 -189.545 5542.81 
+1000 0.00396115 1000 0.00396115 1000 0.00396115 1000 0.000957185 
+1000 521.125 -0 -1.31588 -0 -1.31588 -0 -1.31588 
+-0 0.444136 -0 -10432.4 52592 
 
 # parameters for class #151
-1.31714 0.0946526 0.0115331 0.0673974 0.00577281 0.0405073 0.00395483 0.0250681 
-0.487792 10.0045 -7.74152 -9.55509 1.1257 -7.90945 0.561947 -3.40417 
-0.335691 -1.26061 -4.34025 -183.68 1516.56 
+1000 0.0410189 1000 0.0410189 1000 0.0410189 1000 0.00782937 
+1000 1000 -0 -2.56244 -0 -2.56244 -0 -2.56244 
+-0 0.713567 -0 -20013.8 100266 
 
 # parameters for class #152
-3.64258 0.0128616 0.00308765 0.0120649 0.00232058 0.0126786 0.00157877 0.0367374 
-0.53751 54.9532 -8.35113 -1.57061 0.0387015 -1.53017 0.133347 -1.48787 
--0.0605687 -0.538996 -6.57987 -1082.61 5550.13 
+1.8852 0.0178165 0.139692 0.0135211 0.0715354 0.0139955 0.0911589 0.00242619 
+4.75684 12.9928 -6.84679 -0.680644 -22.6246 -0.645193 -11.5088 -0.395361 
+-14.6863 -0.261439 -86.7627 -249.101 3629.55 
 
 # parameters for class #153
-0.718812 0.0504996 0.00234639 0.0306783 0.00463817 0.0214857 0.00669148 0.0109622 
-0.874159 6.75937 -6.98935 -5.19799 -0.197833 -4.33064 0.310489 -1.24366 
--0.852766 -1.19404 -11.1159 -119.231 999.941 
+2.52393 0.00125951 0.0741053 0.000903248 0.0503901 0.0011332 0.042086 4.241e-05 
+8.55625 235.711 -9.07856 0.133152 -12.7136 0.077374 -8.6215 0.142258 
+-7.14627 -0.017153 -165.664 -4674.94 25267.9 
 
 # parameters for class #154
-0.447225 0.0493156 0.00208765 0.0499365 0.00987055 0.0500279 0.00378768 0.0341742 
-1.4487 3.7199 -5.5142 -2.89931 -0.00350478 -5.92287 0.61397 -0.0265403 
-0.138075 -4.33885 -19.3243 -61.7822 750.978 
+1.29244 0.0384481 0.0057383 0.0213139 0.00469419 0.0215852 0.00218318 0.0095176 
+0.26599 5.74079 -9.04454 2.11182 0.502914 0.552209 0.455335 1.81328 
+0.138716 -0.722774 -2.58252 -102.872 641.531 
 
 # parameters for class #155
-1.00885 0.0629591 0.0118033 0.0626757 0.00585408 0.0509262 0.00368004 0.0375637 
-0.538645 3.53046 -9.58054 -5.81599 1.25876 -8.6047 0.623291 -2.15664 
-0.167617 -4.11954 -5.45006 -59.2461 947.283 
+1.50222 0.0360339 0.0160955 0.0187961 0.00842119 0.0278608 0.00447821 0.00676431 
+0.253176 6.7821 -7.25725 1.33122 1.96177 0.420991 1.05427 1.41866 
+0.500533 -0.40801 -3.16405 -126.836 804.905 
 
 # parameters for class #156
-0.543687 0.0823326 0.0131746 0.0589442 0.00507225 0.0444637 0.00791628 0.0354748 
-0.29922 1.66668 -4.23656 -7.22537 0.879115 -7.61327 0.266135 -2.02838 
-0.538561 -3.27554 -1.8606 -26.9123 696.117 
+1.27052 0.095205 0.0241293 0.0749903 0.0114881 0.0542299 0.0122908 0.0503435 
+0.382452 10.1313 -8.41738 2.05432 2.0796 0.329215 0.971114 2.07521 
+1.02232 -2.38916 -3.43353 -183.187 1036.16 
 
 # parameters for class #157
-0.68158 0.0936256 0.00907225 0.0520214 0.00759609 0.0682781 0.00618141 0.0333391 
-0.515966 5.71077 -6.80939 -9.82539 0.793878 -7.76753 0.55417 -3.99423 
-0.432973 -3.4001 -5.56579 -99.1685 1234.19 
+0.777545 0.160883 0.0229291 0.0705215 0.00961335 0.0703048 0.0114448 0.0304861 
+0.302093 1.89283 -5.14514 -0.956859 2.28683 -2.31375 0.969679 1.39837 
+0.989906 -2.12652 -2.34921 -32.3763 361.543 
 
 # parameters for class #158
-1.05347 0.0237537 0.0108363 0.0140421 0.00630645 0.0141213 0.0299026 0.00862013 
-0.492261 6.2557 -6.80182 -3.45497 0.423875 -2.57813 0.375193 -1.5011 
-0.0357844 -0.706648 -1.91123 -110.387 855.201 
+0.476402 0.00406986 0.0061476 0.00143175 0.240085 0.0034304 0.00103751 0.000702794 
+1.34714 3.12774 -4.73491 0.0295753 0.836917 -0.197328 41.0624 0.302713 
+0.0372352 -0.248043 -20.9271 -53.6045 2198.76 
 
 # parameters for class #159
-1.8614 0.00771164 0.00150251 0.00593499 0.0011114 0.00379128 0.0580369 0.00095674 
-0.619445 14.3238 -11.2973 -1.57825 -0.155434 -1.40367 0.0387766 -0.574298 
--9.43988 -0.172969 -9.51912 -270.872 1970.07 
+0.535082 0.000324888 0.144675 0.000124658 1.28992 0.000249517 0.00540196 6.80029e-05 
+14.2476 28.2503 -4.55448 -0.0548716 -24.8627 -0.0479997 -227.617 0.00224341 
+-0.869713 -0.0551442 -270.992 -545.795 15151.9 
 
 # parameters for class #160
-0.367812 0.024187 0.00201755 0.0520707 0.00242492 0.0503036 0.00458826 0.0376637 
-0.419532 0.793053 -4.14122 -1.98577 0.081068 -8.47794 0.0390262 -0.273554 
-0.217265 -6.15009 -4.71166 -11.9484 761.749 
+0.375296 0.00791588 0.00055744 0.00545543 0.00126927 0.00538349 0.00201847 0.00275846 
+0.417436 1.92107 -4.13805 -0.0644991 -0.024589 -0.507705 0.0605576 0.454666 
+-0.224835 -0.577964 -5.36274 -32.1665 283.465 
 
 # parameters for class #161
-1.68384 0.0253621 0.0090113 0.0144495 0.00798223 0.0142343 0.00641494 0.00846486 
-0.477058 11.1068 -14.3763 -3.69066 0.605934 -2.58011 0.500315 -1.576 
-0.375539 -0.652617 -4.37063 -200.524 1322.65 
+0.375064 0.0103771 0.00380002 0.0139251 0.00535691 0.0108506 19.9048 0.0137925 
+1.17744 2.31227 -3.51392 -0.245499 0.28441 -0.927125 0.394722 1.05048 
+-0.560264 -2.33923 -18.5141 -39.6688 449.055 
 
 # parameters for class #162
-0.259068 0.0170679 0.00123365 0.0175709 0.00204443 0.0116492 0.00113339 0.0106637 
-0.47856 0.853616 -3.32961 -1.75311 -0.0412989 -3.48893 0.0800906 -0.0986956 
--0.0485039 -2.13146 -4.52896 -11.9269 447.055 
+0.324285 0.0673343 0.00833048 0.0538243 0.00698191 0.0396373 0.00540245 0.0278027 
+0.318518 1.32239 -3.62825 -0.0152569 0.733488 -2.82227 0.518013 2.15452 
+0.353802 -3.27272 -3.21612 -20.7075 341.238 
 
 # parameters for class #163
-0.479464 0.0236506 0.0028382 0.0170269 0.00582806 0.0126252 0.00275993 0.00806389 
-0.260771 2.01021 -4.45801 -3.51225 0.103314 -3.80422 0.39125 -0.883606 
-0.00531873 -1.30144 -2.02842 -33.1296 622.844 
+0.596909 0.068638 0.00918868 0.0456056 0.00282529 0.034748 0.00693376 0.0264614 
+0.637589 2.37527 -6.40528 -1.81893 1.00989 -3.74493 0.23701 0.877449 
+0.676235 -3.31385 -7.29135 -38.9727 492.087 
 
 # parameters for class #164
-1.06584 0.00839379 0.00335465 0.0073621 0.035832 0.0051509 0.0183661 0.00433404 
-0.201535 2.30143 -8.64557 -1.21938 -0.00808833 -1.57556 0.0980693 -0.359994 
-0.073033 -0.638354 -1.39654 -39.5942 401.278 
+2.20856 0.0109777 0.0115875 0.00225457 0.369824 0.00801586 0.000832577 0.000417199 
+3.8944 11.6869 -13.3029 -0.237924 1.72653 -0.230203 63.7602 0.146679 
+0.0206975 -0.121703 -69.6073 -219.264 4238.35 
 
 # parameters for class #165
-0.439224 0.012597 0.00303557 0.0136519 0.00208762 0.0129108 0.00283315 0.0106986 
-1.67496 7.74533 -5.14297 -1.70293 0.292391 -3.07222 0.101037 -0.533852 
-0.155596 -2.07863 -24.3603 -135.668 1097.03 
+1.04789 0.00504286 0.0107998 0.00107416 0.93823 0.00382281 0.000755158 0.000401805 
+2.65272 7.01887 -7.52762 -0.203453 -1.63966 -0.183148 -163.712 0.0994267 
+0.0140965 -0.155004 -46.5881 -130.028 8102.23 
 
 # parameters for class #166
-0.890094 0.0242731 0.00515696 0.0150947 0.00360015 0.0135616 0.0022612 0.00830891 
-0.344551 5.96484 -5.91599 -4.46512 0.219182 -3.4246 0.185987 -1.88243 
-0.0445085 -0.785329 -1.55342 -105.274 1016.25 
+0.535392 0.0286496 0.00691439 0.0147984 0.0232986 0.0156126 0.00412887 0.00535016 
+1.39298 2.15947 -6.59303 -0.427599 -0.855532 -1.17382 -3.58338 0.624553 
+0.296139 -0.85743 -19.7934 -35.2074 518.424 
 
 # parameters for class #167
-0.677345 0.0144853 0.00238132 0.00907207 0.00272619 0.0122931 0.00220429 0.00747608 
-0.278214 3.36 -6.35999 -2.82734 0.147934 -2.41684 0.159211 -1.44528 
-0.0960984 -1.187 -2.54252 -57.8626 719.174 
+1000 0.111155 0.0394155 0.0732665 0.0178261 0.0894313 0.0175016 0.0731557 
+0.8664 6.80175 -4004.56 0.659689 3.63808 -0.328688 1.62468 1.46269 
+1.59834 -2.59062 -6.55739 -124.025 4805.47 
 
 # parameters for class #168
-0.979981 0.00899617 0.00141247 0.00604083 0.0012623 0.00554801 0.00114688 0.00407638 
-0.218968 5.49974 -7.27277 -1.97648 -0.0175876 -1.66007 0.0157813 -0.894868 
--0.00820342 -0.497871 -1.44962 -98.4434 789.17 
+1.26737 0.196757 0.00374862 0.0788305 0.00591154 0.0867706 0.00818851 0.0151149 
+0.323264 4.04853 -7.3017 -1.72101 -0.0870818 -1.88178 0.456959 0.60801 
+-0.859358 -0.758492 -3.34602 -71.5937 437.344 
 
 # parameters for class #169
-0.464993 0.00151362 0.0100931 0.00075653 0.099119 0.000756513 0.0846082 0.000260668 
-2.29982 4.59497 -5.13579 -0.240251 -1.51091 -0.240642 -16.7872 -0.00390347 
--14.2401 -0.139685 -38.4047 -81.7373 2007.19 
+1.71005 0.0301927 0.00402077 0.0200309 0.00145307 0.0165825 0.036565 0.00761631 
+0.346378 4.45773 -10.7738 0.454002 -0.461127 -0.197435 0.0488367 0.689701 
+-5.51754 -0.638828 -4.54821 -81.2131 695.485 
 
 # parameters for class #170
-2.9717 0.0169319 0.00372167 0.0057099 0.149077 0.0123995 0.00109513 0.000888112 
-5.591 19.6836 -16.3983 -1.04033 -0.499642 -0.617441 -25.1177 -0.406764 
-0.031558 -0.177846 -100.12 -373.179 3407.09 
+0.482378 0.119762 0.00706429 0.0762348 0.00507908 0.0788381 0.00910197 0.0440769 
+0.29031 1.35118 -4.07889 -0.0595023 0.365604 -2.77572 0.12093 2.65109 
+0.634575 -3.39833 -2.08473 -21.192 270.37 
 
 # parameters for class #171
-1.3532 0.208988 0.0196331 0.13256 0.00641441 0.122831 0.00953665 0.0849635 
-0.477417 6.75998 -8.13193 -13.351 1.10976 -10.7691 0.291047 -5.72417 
-0.535658 -3.5595 -2.57496 -121.042 1158.63 
+1.08566 0.100581 0.00570055 0.0650751 0.00503349 0.0842171 0.00972582 0.0483312 
+0.977099 4.55813 -10.6636 0.941225 0.467948 -1.83339 0.275801 3.40106 
+0.763316 -3.81803 -11.7053 -78.6892 596.496 
 
 # parameters for class #172
-3.70401 0.1744 0.0073818 0.0911161 0.0359036 0.110832 0.00547226 0.0208207 
-0.37883 11.3702 -20.6634 -10.844 -0.666334 -6.99618 -4.89473 -5.33423 
-0.245178 -1.08287 -4.41743 -212.146 1636.26 
+1.33085 0.0796815 0.00450536 0.0966455 0.0531369 0.0410323 0.00314677 0.00441992 
+1.10128 10.3772 -5.63651 -0.650458 -0.478718 -2.13134 -8.08726 0.148576 
+0.195389 -0.295112 -17.7717 -196.141 1389.33 
 
 # parameters for class #173
-1.20606 0.151028 0.00480762 0.0658881 0.00686954 0.0977268 0.00336057 0.0367729 
-0.396779 2.97386 -8.55506 -6.84517 -0.308714 -4.62976 -0.733484 -2.06076 
-0.0781205 -2.2446 -3.06334 -50.1617 505.885 
+1.71935 0.045738 0.0119162 0.0270732 0.00213766 0.0296684 0.0141416 0.00694461 
+0.472071 2.85717 -11.2378 -0.390026 -1.51122 -0.787916 -0.194151 0.371352 
+-1.95705 -0.54407 -6.36918 -50.4725 448.717 
 
 # parameters for class #174
-50.7116 0.384033 0.0806014 0.2849 0.0297819 0.268526 0.015021 0.19231 
-0.569363 20.0546 -205.248 -15.7945 3.28528 -13.553 1.91633 -9.30237 
-0.158555 -3.90948 -3.65631 -379.306 2523.22 
+4.66775 0.0253307 0.00874132 0.0247667 0.00782247 0.0223966 0.00686564 0.0485644 
+0.633412 39.4914 -8.85802 1.3511 0.0708701 1.19331 0.678395 1.31127 
+-0.541715 -0.738279 -8.44639 -776.244 3969.15 
 
 # parameters for class #175
-262.225 0.376235 0.087654 0.319451 0.029126 0.317256 0.0198604 0.419028 
-1.07155 69.6247 -1047.54 -20.6342 2.95743 -18.7547 1.10657 -16.1724 
-0.569298 -5.16877 -6.08439 -1349.63 8437.58 
+0.933012 0.0413261 0.00880166 0.0195673 0.00591721 0.0174491 0.013059 0.00894634 
+0.249892 3.68044 -6.04523 1.5287 0.395494 -0.104835 0.392241 1.45116 
+0.0801779 -0.850688 -1.22266 -64.084 414.602 
 
 # parameters for class #176
-1000 0.37208 0.0853686 0.269836 0.0222883 0.189666 0.0181437 0.122984 
-1.38508 12.1885 -4000 -20.6083 4.43362 -16.8474 1.19038 -9.16805 
-0.891226 -2.57988 -7.59143 -229.949 5876.99 
+0.840062 0.0591339 0.00248905 0.0449234 0.00184053 0.0454532 0.0101666 0.0284127 
+0.923277 3.43248 -8.83096 0.485041 -0.0893832 -1.36716 -0.116039 1.96657 
+0.707818 -2.46316 -11.3876 -57.8692 450.098 
 
 # parameters for class #177
-3.10602 0.260891 0.0088242 0.135899 0.0105744 0.148719 0.0249697 0.0588298 
-0.373126 5.02263 -15.7858 -10.6149 -0.36733 -7.3779 0.760132 -3.95366 
--2.85505 -2.69296 -3.38264 -89.7852 830.94 
+0.935499 0.00822166 0.0009004 0.00563087 0.0015093 0.00622595 0.000645331 0.0035045 
+0.203109 11.5772 -4.70997 0.815799 -0.057642 0.440682 -0.150237 0.73525 
+0.00194766 -0.222972 -2.53242 -221.986 1195.86 
 
 # parameters for class #178
-2.5699 0.030566 0.0086936 0.0270094 0.00707572 0.0289873 0.00722573 0.030478 
-0.854882 50.3378 -5.69506 -1.5543 -0.0364008 -1.50635 0.532025 -1.32831 
--0.583685 -0.529333 -11.7557 -990.573 5039.35 
+0.991627 0.0136724 0.00157963 0.0102026 0.0016496 0.0078135 0.000991133 0.00645071 
+0.250316 5.05545 -6.37815 0.959364 0.021305 0.259486 0.0548856 0.905844 
+-0.000802731 -0.63735 -1.25959 -88.3364 515.431 
 
 # parameters for class #179
-0.698847 0.0923379 0.00195935 0.0479457 0.00622251 0.0417503 0.00411486 0.0232388 
-0.731619 1.70818 -7.30833 -4.58033 -0.0885973 -4.17778 -0.697985 -0.597264 
-0.282566 -2.11324 -8.05937 -27.4672 422.813 
+7.84407 0.164262 0.0196146 0.0772615 0.00808898 0.0949924 0.0112411 0.0364848 
+0.416332 9.06147 -29.7365 2.00987 0.780364 0.187492 -0.0451191 2.09095 
+0.825694 -0.943489 -2.22468 -170.46 917.919 
 
 # parameters for class #180
-1.52598 0.0782001 0.0328602 0.0333409 0.0280689 0.0506765 0.00473313 0.0108114 
-0.995695 2.34018 -12.0903 -3.38006 -4.72745 -2.40629 -4.18601 -0.727173 
--0.530444 -1.05299 -13.7973 -39.4362 729.947 
+1.12721 0.0855369 0.0309 0.0561814 0.017028 0.0548697 0.0141151 0.0401003 
+0.583716 13.2517 -6.7142 3.76889 2.5179 1.72262 1.40419 3.14499 
+1.08987 -1.54819 -4.96914 -242.718 1387.47 
 
 # parameters for class #181
-0.86428 0.0421313 0.00155639 0.0263702 0.00214999 0.0149753 0.0164462 0.00389057 
-1.50529 4.8274 -6.09755 -2.16468 -0.0542546 -1.99593 0.134465 -0.217062 
--2.39017 -0.537922 -23.6987 -87.0719 720.839 
+1.54299 0.0361369 0.00821231 0.0320242 0.00893644 0.0177806 0.00563922 0.0148423 
+0.540612 15.0302 -10.7403 2.81993 0.655772 1.89022 0.766271 1.73511 
+0.400781 -0.75947 -5.2283 -277.261 1527.13 
 
 # parameters for class #182
-1.6301 0.0492769 0.00345085 0.0309598 0.00260038 0.0206613 0.00994933 0.00509418 
-1.31751 6.90795 -9.79572 -1.99533 0.287736 -1.792 0.0983047 -0.273753 
-1.36989 -0.524961 -20.3934 -126.83 837.978 
+4.40121 0.214548 0.0543435 0.202522 0.0200159 0.142161 0.0217343 0.141885 
+0.39974 20.8218 -12.4783 2.94295 1.44946 1.97018 0.956567 2.51618 
+0.0605821 -1.51862 -3.61635 -403.462 2055.17 
 
 # parameters for class #183
-1000 1.10163 0.101505 0.584913 0.0237759 0.477759 0.0303822 0.244485 
-1.13142 12.4476 -4000 -51.4316 6.28748 -30.7325 1.41758 -19.5077 
-1.91723 -4.92989 -8.01639 -234.279 6514.19 
+1000 0.250181 0.075675 0.146021 0.0142412 0.143761 0.0424453 0.0774878 
+2.46231 3.65279 -4004.54 -1.73739 3.88998 -2.74498 0.254173 0.705477 
+3.27132 -2.37644 -9.0179 -65.9245 4491.02 
 
 # parameters for class #184
-4.63857 0.176805 0.00726887 0.0763846 0.0131249 0.100191 0.00278477 0.0323021 
-0.344427 4.57866 -20.4443 -8.43291 0.428128 -4.79979 1.43406 -3.24122 
--0.112815 -1.50333 -2.66659 -82.2619 705.023 
+563.092 0.560169 0.0367022 0.257415 0.0115583 0.224347 0.0100777 0.0997461 
+3.76411 3.4785 -2259.86 -0.663174 1.11136 -3.61872 0.514238 2.62309 
+0.137466 -2.9845 -8.83309 -60.8704 2623.92 
 
 # parameters for class #185
-5.88512 0.0984816 0.0134775 0.058707 0.0112523 0.0800576 0.00481546 0.0376062 
-0.394644 12.1189 -24.8886 -6.50851 0.409879 -4.5224 0.945969 -4.39239 
--0.232385 -1.35194 -3.25385 -226.33 1422.7 
+8.41199 0.337673 0.0864431 0.236659 0.0326776 0.205587 0.0344561 0.0997557 
+0.424758 12.1906 -33.4781 -1.99272 1.54378 -2.68667 1.67391 -0.0894824 
+-0.730905 -1.78032 -3.24198 -228.731 1193.39 
 
 # parameters for class #186
-2.40436 0.0772526 0.00425718 0.048587 0.00505899 0.0568756 0.00188552 0.0202093 
-0.256036 14.4781 -10.7378 -8.12325 -0.239189 -5.6861 -0.513417 -5.32395 
-0.0413023 -0.764544 -2.334 -273.93 1886.92 
+2.54903 0.175815 0.0143929 0.0830979 0.00356336 0.0758302 0.0650686 0.0228811 
+0.531072 4.36209 -15.1264 -2.1433 -1.56097 -2.36615 0.134446 0.303292 
+-9.34606 -1.27446 -6.6017 -78.598 857.427 
 
 # parameters for class #187
-0.757181 0.131336 0.00484187 0.0788598 0.00764866 0.0617763 0.0040541 0.0390845 
-0.517389 0.699665 -5.53253 -4.41939 -0.0719757 -4.78348 -0.69522 -0.412868 
-0.253117 -2.62103 -3.60651 -10.3641 275.117 
+1.0287 0.00550248 0.00114286 0.00307392 0.000642075 0.00401137 0.000806269 0.00187994 
+0.127622 3.97856 -5.81901 0.816712 -0.0543808 0.337031 0.00228256 0.763467 
+-0.0517589 -0.188826 -0.992513 -73.2999 492.924 
 
 # parameters for class #188
-1000 0.262179 0.0343378 0.162585 0.0128543 0.140019 0.012171 0.0825106 
-1.07219 8.78286 -4000 -14.5835 0.701096 -10.5052 0.582253 -6.52977 
--0.0894612 -1.85819 -3.7219 -164.427 5271.2 
+0.704547 0.127077 0.0032251 0.0568724 0.00277975 0.0665495 0.0102335 0.0225535 
+0.368515 3.63047 -5.8638 0.659587 0.0784956 -1.18362 -0.151098 1.77406 
+0.852167 -1.44296 -4.01967 -63.1664 406.182 
 
 # parameters for class #189
-1000 0.282094 0.0917487 0.208102 0.0169181 0.158739 0.0284422 0.115261 
-1.9042 10.5253 -4000 -13.536 2.53344 -11.5001 0.188162 -6.46153 
-1.20812 -2.11576 -5.56734 -197.713 5385.45 
+0.918041 0.1212 0.0033906 0.0518687 0.00424541 0.0687445 0.00801783 0.0224061 
+0.370331 3.35966 -6.48023 -1.41284 0.0611314 -1.76209 -0.375176 0.542906 
+0.742434 -1.42677 -3.79643 -57.6849 383.16 
 
 # parameters for class #190
-2.14825 0.197747 0.0642767 0.147376 0.114943 0.149359 0.0206809 0.0908543 
-0.322526 16.0288 -6.95811 -10.2677 1.73341 -8.33183 0.0164629 -7.06698 
-1.03262 -1.16589 -2.61803 -309.765 1903.09 
+1.16697 0.111998 0.0168945 0.0431518 0.00202412 0.0612734 0.0145089 0.0174822 
+0.293754 3.53917 -7.00811 0.20085 1.87672 -0.849075 0.121824 1.38244 
+1.84751 -1.11238 -2.85081 -62.7047 482.576 
 
 # parameters for class #191
-5.81455 0.211731 0.0184203 0.142435 0.0101704 0.17994 0.0195486 0.13563 
-0.359478 21.63 -26.623 -8.62715 -0.602048 -6.88817 0.40146 -5.95533 
--1.69031 -3.60647 -3.07924 -408.194 2287.02 
+2.53777 0.0947572 0.0466744 0.0516288 0.00645888 0.0743455 0.0157255 0.0314645 
+0.488565 1.83621 -12.8755 -1.52023 5.60579 -1.56485 0.670683 -0.141567 
+1.97762 -1.66318 -5.05486 -32.1277 499.039 
 
 # parameters for class #192
-3.26754 0.192707 0.0125651 0.122568 0.00524627 0.148217 0.0384722 0.064272 
-0.421834 15.5016 -17.2254 -9.01993 -0.968064 -7.05827 0.200266 -5.37466 
--4.76288 -2.445 -4.50219 -290.191 1876.52 
+1000 0.159067 0.0513016 0.112534 0.0160364 0.110943 0.0206257 0.0871486 
+0.917197 4.18234 -4000 -2.27885 5.03741 -2.68627 1.50979 -0.530513 
+2.04848 -3.0939 -7.82444 -75.2637 4647.41 
 
 # parameters for class #193
-16.0815 0.0777048 0.0198755 0.0458115 0.0119268 0.0537298 0.00556499 0.0324598 
-7.60479 2.0216 -68.4771 -5.20655 0.600936 -4.13707 0.623536 -2.34685 
-0.011779 -1.65762 -12.8382 -34.296 502.27 
+0.461102 0.0190781 0.0125647 0.00412715 0.0739057 0.0146303 0.00245532 0.00187645 
+1.60245 3.41173 -5.14858 -0.906772 1.76023 -0.576898 12.1635 0.212585 
+0.19302 -0.429073 -23.7822 -57.133 1014.34 
 
 # parameters for class #194
-53.916 0.0722858 0.00317204 0.0448443 0.00419623 0.0525378 0.00237317 0.0339359 
-0.620468 8.79967 -431.708 -4.26161 0.00712936 -3.70817 0.151941 -1.78356 
--0.0048203 -1.85403 -5.86278 -157.779 1808.61 
+0.317096 0.000805746 0.00773607 0.000726567 0.00107444 0.000523325 0.000570543 0.000464225 
+1.57513 3.97561 -4.05148 -0.127606 1.05383 -0.289354 0.0984202 0.0461509 
+0.0300751 -0.255763 -25.1248 -69.7923 594.521 
 
 # parameters for class #195
-1.50392 0.177483 0.0220056 0.0817551 0.0119641 0.0967332 0.00502199 0.0276176 
-0.475653 1.29014 -9.75965 -4.14867 -2.43735 -3.47595 -1.39888 -0.478996 
--0.450567 -1.59805 -4.53603 -20.9739 357.432 
+1.14088 0.00483933 0.00433735 0.00201712 0.152859 0.00331206 0.00100819 0.000590706 
+1.22468 7.97897 -7.75356 -0.812127 0.575535 -0.524246 25.9809 -0.400659 
+0.0290417 -0.164905 -20.2551 -149.132 2063.67 
 
 # parameters for class #196
-6.50779 0.062458 0.00352237 0.0476499 0.0118192 0.0480825 0.00236266 0.00758529 
-1.40231 5.87255 -31.7836 -1.46248 -0.104489 -1.82726 -1.4561 -0.621975 
-0.110323 -0.60748 -22.3391 -108.508 760.436 
+0.608751 0.0219508 0.00274772 0.019097 0.00253225 0.0162966 0.004074 0.0113664 
+0.471138 3.72568 -6.40684 -3.50954 0.216528 -4.45143 0.154871 -1.32988 
+0.274525 -1.8554 -5.04169 -63.3965 865.886 
 
 # parameters for class #197
-4.54015 0.388181 0.0338534 0.23599 0.0203026 0.206897 0.0146403 0.0882426 
-0.304794 7.12312 -21.9285 -10.3531 -0.617108 -8.2704 -1.64399 -3.80805 
-0.78491 -2.69073 -2.88644 -131.08 896.472 
+0.710974 0.00401351 0.00139177 0.00304918 0.00193479 0.00254127 0.00128612 0.00202473 
+0.227554 5.85382 -5.84382 -1.15441 0.0557275 -1.10323 0.0902027 -0.521697 
+0.0351264 -0.338393 -1.75452 -103.7 761.615 
 
 # parameters for class #198
-1000 0.166981 0.463825 0.119125 0.525871 0.146022 0.134586 0.141102 
-4.21411 7.43977 -4000 -2.90233 9.19554 -2.90787 -0.0933177 -1.51164 
-5.19797 -2.35766 -7.64599 -137.567 4798.52 
+0.388409 0.000167499 0.000374602 0.000148286 0.000453352 0.000112486 0.000383764 5.20651e-05 
+0.119588 6.81447 -1.9679 -0.11548 0.00444258 -0.113954 0.00261821 -0.0683749 
+0.00471348 -0.013223 -1.59337 -131.818 777.773 
 
 # parameters for class #199
-7.0737 0.238069 0.04225 0.211569 0.0155828 0.211614 0.0117884 0.257109 
-0.502333 38.2014 -22.5132 -7.48395 0.442116 -7.27018 0.382477 -6.03329 
--0.047414 -2.27006 -4.16919 -745.465 3867.31 
+1.05289 0.00251993 0.00135091 0.00144172 0.0041096 0.00201362 0.000983916 0.000714226 
+0.302085 9.39779 -6.8842 -0.680018 -0.132037 -0.474 -0.593181 -0.453423 
+0.0297249 -0.118547 -4.05185 -176.905 1059.78 
 
 # parameters for class #200
-9.9729 0.466846 0.0501296 0.220436 0.0173954 0.298178 0.0303684 0.125275 
-0.306956 7.00466 -44.0276 -11.0504 -1.14993 -6.86578 0.667735 -4.82118 
--2.23857 -3.20644 -2.39078 -128.168 884.062 
+0.523015 0.00169013 0.00136965 0.000596002 0.358743 0.00099986 0.000711377 0.000163814 
+1.13518 5.7351 -4.79106 -0.425216 -0.16209 -0.2674 -62.3309 -0.146782 
+0.0294285 -0.083103 -18.5382 -104.985 3413.8 
 
 # parameters for class #201
-5.59809 0.447974 0.0330949 0.198065 0.011442 0.221817 0.0157954 0.0945024 
-2.86623 1.435 -25.7204 -11.1179 0.0854675 -8.44169 0.494835 -1.55876 
--0.631203 -3.84082 -7.18777 -22.8711 371.14 
+3.22691 0.0074199 0.00461818 0.00520907 0.0813675 0.00583155 0.00124473 0.00185609 
+0.601872 13.5707 -19.6674 -1.16881 -0.578465 -1.03707 -13.1475 -0.738712 
+0.0342896 -0.255077 -8.794 -255.356 1993.86 
 
 # parameters for class #202
-1000 0.0944159 0.00358301 0.0581775 0.00335069 0.0580194 0.00362411 0.0333185 
-0.601625 5.76785 -8000.4 -3.27748 0.016653 -3.40498 0.0738587 -0.565073 
-0.0788997 -1.78356 -5.73397 -101.119 16601.4 
+1000 0.168553 0.0366149 0.0901653 0.0109027 0.112329 0.00726975 0.0560421 
+1.05901 12.2798 -4000 -14.5062 1.72925 -8.48712 0.537652 -8.76147 
+0.309645 -1.26031 -5.25051 -233.423 5866.79 
 
 # parameters for class #203
-1.00882 0.0117939 0.0531881 0.0103068 0.00410155 0.00678439 0.0690051 0.00337253 
-1.54531 3.48822 -8.44109 -0.138399 -8.15201 -0.525045 -0.48789 0.20162 
--11.0137 -0.462945 -23.9507 -60.8378 1214.03 
+1000 0.0656197 0.0376728 0.0548445 0.0144763 0.0564189 0.0143967 0.0841507 
+1.00162 16.7883 -4000 -6.71337 2.36976 -6.04672 0.869709 -5.32383 
+0.919258 -2.06218 -6.13194 -318.389 6091.92 
 
 # parameters for class #204
-1.02484 0.00404352 0.00143779 0.00287363 0.000679243 0.0013012 0.0874259 0.000571093 
-0.847446 8.48647 -6.92436 0.178794 -0.173757 -0.0325189 0.0251746 0.162706 
--14.6449 -0.130362 -13.5549 -159.515 1506.99 
+1000 0.0208339 0.0263336 0.0175773 0.010459 0.0172686 0.0143423 0.0235536 
+0.901586 11.435 -3999.82 -2.83598 2.19361 -2.61265 0.837191 -2.13455 
+1.20242 -0.885779 -5.68573 -214.275 5405.23 
 
 # parameters for class #205
-0.62947 0.00547619 0.000917737 0.00512761 0.00133828 0.00316861 1000 0.00274601 
-0.303749 2.55586 -5.31647 -0.0810443 0.0292701 -0.329555 0.0659894 0.270281 
-0.000164803 -0.436947 -4.3464 -44.3639 297.005 
+1.64706 0.0248757 0.0124313 0.019747 0.00564999 0.0219335 0.0051047 0.0287688 
+0.462626 12.7438 -11.3467 -3.43503 0.899666 -3.08082 0.380838 -2.62423 
+0.338997 -1.35298 -3.70964 -234.324 1511.53 
 
 # parameters for class #206
-0.552113 0.00569082 0.00540766 0.00179109 0.288804 0.00384775 0.00110691 0.000533817 
-1.35873 4.23401 -4.58502 0.264925 0.7429 -0.1348 49.6163 0.423405 
-0.0331992 -0.178036 -22.1473 -75.6016 2681.22 
+1000 0.0183669 0.00805896 0.0164355 0.00359954 0.016264 0.00378775 0.0334979 
+1.08814 25.9299 -4000 -2.49293 0.291821 -2.40938 0.125235 -2.03076 
+0.13005 -0.912289 -3.77283 -496.219 6664.42 
 
 # parameters for class #207
-0.638208 0.021311 0.00355643 0.0114395 0.00250754 0.0138996 0.0052399 0.00956343 
-0.296633 1.69587 -6.44353 0.0585384 0.244103 -1.04451 0.0755009 1.17387 
-0.414735 -1.78633 -3.06056 -27.6924 335.893 
+1.86324 0.00683994 0.176966 0.00691493 0.0510433 0.00628846 0.0714788 0.0450799 
+0.0764744 74.0783 -4.13586 -1.59219 0.112313 -1.65015 0.044591 -1.42703 
+0.019979 -0.557049 -0.672196 -1464.74 7559.62 
 
 # parameters for class #208
-0.204882 0.0159168 0.000848962 0.00408402 0.00191096 0.00976007 0.00205624 0.00218682 
-0.168728 0.125761 -1.06717 -0.300836 -0.0227079 -0.33806 -0.226548 0.383159 
-0.214648 -0.331579 -1.20963 -1.27524 107.736 
+1.3852 0.00130073 0.00167036 0.00114147 0.00106529 0.00111649 0.00102399 0.00192731 
+0.137553 6.95313 -5.45669 -0.525159 0.0446573 -0.49114 0.0247248 -0.420725 
+0.0264867 -0.118483 -0.821182 -132.66 851.96 
 
 # parameters for class #209
-1.06001 0.00150595 0.00139383 0.000506399 0.00141026 0.000842705 0.108484 0.000261423 
-0.129993 0.122306 -2.10227 -0.114037 0.169904 -0.0946328 -0.185743 0.0319034 
-18.377 -0.0885391 -1.05869 -1.02018 876.493 
+1.02721 0.0193395 0.00160711 0.0109843 0.00274478 0.00674723 0.0303585 0.0016296 
+1.03115 6.55827 -6.86499 -2.35292 -0.0513368 -1.65331 0.177684 -0.479785 
+-4.65207 -0.282964 -16.1279 -120.282 1014.27 
 
 # parameters for class #210
-0.825434 0.119799 0.0160398 0.0725878 0.0046563 0.0674075 0.0128497 0.0447491 
-0.547888 2.28576 -7.65247 -3.74525 1.62993 -5.06306 0.290385 0.185063 
-1.38125 -3.93027 -5.30873 -37.7258 516.049 
+0.98063 0.0223098 0.00476249 0.0107778 0.00216697 0.0130845 0.00680354 0.00633713 
+0.239188 2.92137 -6.28364 -3.15416 0.232799 -1.93881 -0.0223536 -1.36068 
+0.573326 -0.546215 -1.39863 -50.1757 541.319 
 
 # parameters for class #211
-2.04324 0.130746 0.0544816 0.0941381 0.00737244 0.083733 0.0277179 0.069151 
-0.611187 1.55408 -11.3744 -3.76298 5.52327 -4.01554 0.441232 -1.22811 
-3.33509 -3.07333 -5.41798 -26.4896 534.844 
+1.97537 0.0543781 0.00309258 0.0386566 0.000911175 0.0296205 0.00949474 0.0124099 
+0.259876 8.04471 -10.4459 -6.10256 -0.258478 -4.94545 0.014321 -2.83779 
+-1.19032 -0.672162 -2.67914 -150.225 1219.72 
 
 # parameters for class #212
-1.88165 0.380638 0.0163422 0.209664 0.0121104 0.270095 0.0138498 0.152096 
-0.548646 2.04039 -15.8133 -15.1268 1.0641 -13.2013 0.705395 -4.11395 
-0.790271 -8.48316 -4.65177 -33.8448 750.503 
+0.892461 0.0139551 0.00123138 0.0107497 0.00101773 0.0093079 0.00211482 0.00745594 
+0.424955 3.77072 -8.35315 -1.96151 -0.0665779 -2.17776 -0.0505388 -0.720964 
+0.0748558 -1.03077 -5.08641 -66.3572 613.855 
 
 # parameters for class #213
-1.04703 0.23717 0.0173013 0.114723 0.0159769 0.151327 0.0181134 0.0718721 
-0.72893 0.803012 -6.41224 -7.44292 0.0306078 -6.60479 0.788706 -0.87273 
--0.761129 -4.14621 -2.71321 -11.8204 327.295 
+5.24538 0.00446582 0.00240554 0.00441267 0.00112952 0.00440196 0.00199832 0.0531244 
+0.490147 68.5686 -10.4351 -0.831492 0.0551639 -0.841651 -0.0307851 -0.799503 
+0.127819 -0.709656 -6.21678 -1353.64 6877.1 
 
 # parameters for class #214
-0.620994 0.217791 0.011384 0.18009 0.00724658 0.155688 0.0159136 0.117393 
-0.448635 1.29858 -5.80984 -6.2755 0.893183 -10.9142 0.394885 0.113911 
-1.34677 -8.42708 -4.07859 -21.0173 561.294 
+0.607509 0.00850158 0.00237039 0.00430797 0.00139183 0.00499597 0.00901088 0.00103516 
+1.50125 5.42352 -5.28801 -0.962023 -0.267052 -0.703587 -0.135543 -0.272153 
+-1.28631 -0.204558 -23.6415 -97.6281 726.912 
 
 # parameters for class #215
-1.21069 0.345311 0.0237337 0.159806 0.00793401 0.162085 0.0113208 0.0693646 
-0.410643 4.11783 -8.99367 -16.8421 1.55757 -11.174 0.335061 -4.53751 
-0.803638 -3.50147 -3.15739 -71.8257 894.074 
+0.91556 0.0942078 0.0177047 0.0539147 0.00695039 0.0449045 0.0127336 0.0247506 
+0.552889 1.17129 -5.50902 -6.36743 0.300254 -5.5565 0.155765 -1.40626 
+0.0925703 -1.84476 -1.499 -18.5896 425.87 
 
 # parameters for class #216
-1.51705 0.127327 0.0114191 0.0567237 0.00324509 0.0702048 0.0091021 0.0341484 
-0.763109 1.06474 -8.08303 -7.99688 0.759188 -5.10865 0.0634558 -2.51394 
-0.821503 -2.17282 -3.01627 -16.893 453.908 
+1000 0.245571 1000 0.245571 1000 0.245571 1000 0.00326364 
+1000 1000 -0 -28.0206 -0 -28.0206 -0 -28.0206 
+-0 0.533291 -0 -20010.8 102515 
 
 # parameters for class #217
-0.944143 0.104156 0.00510522 0.0653768 0.00361401 0.062257 0.00933619 0.0369705 
-0.530122 0.711296 -6.43239 -4.64067 -0.346937 -4.7177 0.130481 -0.991897 
--1.06777 -2.58361 -3.50993 -10.6647 326.28 
+30.8552 0.0296365 1000 0.029005 1000 0.0282184 1000 0.206979 
+0.107615 843.151 -19.4749 1.22441 -0.0162001 1.12355 0.0200568 1.23855 
+-0.000854128 -1.08198 -1.55399 -16809.3 83827.9 
 
 # parameters for class #218
-0.546662 0.128195 0.00384446 0.0620057 0.00914094 0.0960056 0.00709888 0.0444679 
-1.33296 5.08789 -5.85087 -5.40587 0.131794 -4.88043 0.544091 -0.556543 
-0.363505 -3.63022 -16.0319 -86.7325 717.853 
+1.21911 0.061541 0.0314212 0.0453616 0.0187304 0.0491425 0.00959616 0.0496823 
+0.420043 7.54605 -7.45065 2.7763 1.82289 1.47306 1.33557 2.83805 
+0.431791 -1.66395 -3.27798 -137.075 834.565 
 
 # parameters for class #219
-1.25976 0.152065 0.00681592 0.102101 0.00567151 0.110443 0.00712398 0.0853814 
-0.88121 9.42128 -11.9372 -9.04885 0.388637 -8.95524 0.247504 -3.47419 
-0.392359 -5.45576 -9.67783 -167.364 1297.2 
+1000 0.154413 0.016449 0.129047 0.0073805 0.103758 0.00584446 0.0936261 
+1.05866 24.8371 -4000 3.89535 0.68525 2.34753 0.321834 3.34737 
+0.218136 -1.84351 -5.00774 -472.082 6364.06 
 
 # parameters for class #220
-3.01703 0.0201151 0.00447255 0.0147217 0.00108245 0.00667529 0.191815 0.00137856 
-2.84236 14.7966 -17.0092 -1.67101 -0.584387 -1.62876 0.0302073 -0.228342 
--32.2606 -0.263136 -49.4072 -280 3080.47 
+1000 0.42299 0.103172 0.26096 0.0246645 0.32728 0.0187006 0.22362 
+1.26997 14.7069 -3999.96 3.68769 4.05351 0.807661 1.06569 4.69363 
+0.642802 -3.64856 -6.31765 -278.364 5445.49 
 
 # parameters for class #221
-0.426492 0.000412878 0.00336408 0.000389639 0.000516306 0.000488945 0.000514486 0.000413446 
-1.95306 5.55268 -4.60159 -0.0379074 -0.43473 -0.132315 0.00162714 0.0733406 
--0.0155205 -0.223922 -32.7281 -100.697 734.127 
+1000 0.308207 0.183494 0.189805 0.0465522 0.179154 0.0448631 0.0997788 
+2.10041 7.51772 -4000 2.27231 10.1175 -0.365145 2.70365 2.98633 
+2.31012 -2.57511 -9.92312 -138.113 4911.39 
 
 # parameters for class #222
-0.400693 0.0016384 0.0118879 0.00108623 0.027779 0.00211476 0.000732554 0.000428749 
-1.14915 3.43103 -4.6516 0.0426819 -1.71674 -0.167354 -4.57485 0.331038 
-0.00205748 -0.176176 -17.8204 -58.8781 683.601 
+1000 0.872107 0.238697 0.465948 0.0817806 0.52354 0.043345 0.223863 
+1.81796 11.071 -3999.92 -0.0971351 11.1483 -2.5489 4.71496 2.74733 
+1.49046 -3.78951 -10.9284 -207.874 5244.71 
 
 # parameters for class #223
-0.324926 0.000242596 0.000281321 0.000140632 0.000323309 0.000212456 0.000555347 5.15818e-05 
-0.507183 7.80141 -2.58984 0.0542274 -0.00847396 0.0053832 -0.0186577 0.0794236 
-0.00924044 -0.025796 -8.45596 -148.453 838.092 
+1.12528 0.195533 0.0283852 0.14912 0.0161565 0.120433 0.0176119 0.0860075 
+0.535216 8.9733 -6.55622 0.709182 1.87202 -0.611559 0.912779 1.33626 
+1.28399 -2.13206 -5.19593 -165.87 910.549 
 
 # parameters for class #224
-0.354038 0.00245744 0.00101388 0.0033831 0.0019565 0.00600861 0.00237221 0.00389353 
-0.209691 2.3847 -3.50536 0.0317795 0.0525417 -0.366851 0.100047 1.06725 
-0.0184383 -1.14608 -2.74207 -41.8479 406.652 
+5.43021 0.321371 0.0933366 0.261537 0.0313203 0.218334 1000 0.196105 
+0.340145 12.0469 -16.8699 -0.640146 2.50904 -1.8579 1.58859 0.681088 
+2.30842 -2.51126 -2.61561 -230.258 1187.41 
 
 # parameters for class #225
-0.652255 0.00111602 0.000797944 0.000661481 0.000739455 0.00107556 0.000824625 0.000620903 
-0.1761 3.1159 -5.46706 0.172904 0.0250106 0.032976 0.0278846 0.271933 
-0.0162932 -0.142105 -1.63298 -54.8171 358.491 
+2.04137 0.173828 0.0114504 0.0898119 0.00431041 0.0718836 0.0278927 0.0332701 
+0.344876 3.87479 -11.0527 -0.0923439 -0.89449 -1.38327 0.144516 1.02401 
+-3.41667 -1.4605 -2.98564 -69.2589 520.301 
 
 # parameters for class #226
-0.726919 0.0135808 0.00235938 0.0128706 0.00267711 0.00867066 0.0030742 0.00695076 
-0.612388 5.56462 -7.79304 0.876244 0.219653 -0.46765 0.143933 1.17731 
-0.223317 -1.28557 -8.22295 -96.3701 648.221 
+3.42321 0.161593 0.00934858 0.123124 0.00918572 0.105665 0.00123035 0.0378632 
+0.542746 12.0479 -9.78182 1.43587 0.795364 0.320389 1.00972 1.59586 
+0.0407816 -0.891261 -6.77037 -229.493 1221.41 
 
 # parameters for class #227
-0.421873 0.00828138 0.00200171 0.00754474 0.0020652 0.0117348 0.00188606 0.00634322 
-1.29697 3.2215 -5.55194 0.201001 0.162202 -0.558202 0.140549 1.32809 
--0.00358328 -1.25614 -17.5318 -52.5369 464.363 
+1.28031 0.333427 0.0424564 0.171647 0.00849272 0.166615 0.0111568 0.0818293 
+0.69308 1.4068 -7.68394 -6.45783 4.00718 -6.43504 0.771246 -0.288495 
+0.921287 -4.02551 -4.94387 -23.127 425.426 
 
 # parameters for class #228
-0.625027 0.0115785 0.00117966 0.00779536 0.000694641 0.0074863 0.00324532 0.00348247 
-1.8721 7.19492 -7.86723 0.523372 -0.0975775 -0.483732 -0.0455455 0.968678 
-0.206514 -0.738715 -27.9005 -123.878 807.762 
+2.32186 0.0255466 0.00278414 0.0168726 0.00144805 0.0163307 0.00136203 0.0028303 
+1.96925 12.5887 -13.0812 -0.764261 0.124176 -0.835339 0.0810476 -0.180975 
+0.0628448 -0.278866 -32.7269 -236.2 1340.09 
 
 # parameters for class #229
-1.10138 0.0117337 0.00118332 0.00863377 0.0181297 0.00655418 0.00225919 0.00192677 
-0.496754 7.90788 -7.54032 0.76753 -0.0911259 0.216566 -2.75761 0.615885 
-0.114644 -0.251794 -7.14496 -144.876 901.051 
+1.52437 0.33046 0.00689844 0.266592 0.00764648 0.232272 0.0183957 0.162615 
+0.636574 1.1869 -12.5805 -7.55709 0.418038 -12.7697 0.606485 0.713803 
+0.124742 -9.4761 -5.05774 -18.4583 498.846 
 
 # parameters for class #230
-0.532891 0.0187527 0.00104029 0.0140157 0.000884837 0.0150969 0.00361491 0.0112196 
-1.37783 3.58418 -6.44221 0.136131 -0.0318473 -0.952824 -0.0247342 1.13342 
-0.244625 -1.77109 -19.0193 -60.648 507.685 
+0.984953 0.391456 0.0109785 0.200203 0.0128315 0.22094 0.0165561 0.119441 
+0.497232 1.58303 -7.22148 -12.7568 0.843514 -11.6941 1.30247 -1.22955 
+0.0548632 -7.48818 -3.39326 -24.7341 596.494 
 
 # parameters for class #231
-0.625265 0.00647712 0.00104828 0.00366864 0.00724974 0.00518264 0.00138616 0.00131263 
-0.696452 4.54022 -5.3708 0.324334 0.0314842 -0.136956 -1.05317 0.532086 
-0.105197 -0.313618 -10.6378 -80.6637 547.252 
+1.44864 0.27606 0.0074484 0.19173 0.0115279 0.164163 0.00818718 0.100803 
+0.482217 3.5486 -12.6535 -13.3324 0.440747 -14.2903 0.840673 -3.04637 
+0.166568 -6.38684 -4.4776 -59.999 895.562 
 
 # parameters for class #232
-0.794721 0.0385093 0.00136874 0.0242084 0.00123997 0.0279986 0.00520777 0.0150635 
-0.220858 3.1253 -6.91972 1.26613 0.0438828 -0.587751 0.0148588 2.37968 
-0.347416 -1.79083 -2.03825 -53.1283 421.78 
+1.23338 0.0590697 0.00384757 0.0260042 0.00234878 0.0437977 0.00189112 0.0186688 
+0.823555 2.30436 -11.4161 -2.35939 -0.309256 -2.31502 -0.000641949 0.0294379 
+-0.0688504 -1.83257 -10.6731 -38.4212 397.05 
 
 # parameters for class #233
-1000 0.0109486 0.00396388 0.00948944 0.00252123 0.00940171 0.00196126 0.0155276 
-1.47398 23.544 -4000 1.21539 0.133731 0.88935 0.0968217 1.2062 
-0.0483408 -0.627189 -3.74657 -446.047 6260.62 
+0.347193 0.141286 0.00325955 0.0733215 0.00446739 0.111683 0.00286777 0.0536573 
+0.281222 0.693337 -3.37581 -3.92723 0.0166296 -5.21956 0.224522 1.54844 
+-0.0469518 -4.88648 -2.21989 -10.1656 337.433 
 
 # parameters for class #234
-1.68593 0.0117219 0.00660433 0.00805325 0.0015113 0.00530577 0.0173056 0.00159518 
-0.459542 9.60304 -9.72242 0.43436 0.849946 0.066702 0.0627471 0.423513 
-2.71817 -0.207752 -6.93122 -182.422 1113.49 
+0.806346 0.0792224 0.00435795 0.0631946 0.00507612 0.085835 0.0037572 0.0485694 
+1.23291 4.78927 -8.3237 -4.32171 -0.197688 -6.2473 0.267202 -0.905439 
+-0.0540999 -4.62077 -15.3583 -80.8724 786.196 
 
 # parameters for class #235
-1.24985 0.031137 0.0015055 0.0197476 0.000724111 0.0196032 0.00205043 0.00187812 
-0.795231 12.0006 -6.6273 0.570449 0.0625917 -0.0592451 -0.0458594 0.667856 
-0.184336 -0.175622 -12.4227 -225.403 1187.11 
+4.1822 0.129038 0.0319656 0.0505283 0.253128 0.138027 0.00306536 0.0340348 
+0.918535 2.25454 -26.7063 -3.28057 -4.25807 -2.43647 -39.8742 -0.607781 
+0.053818 -2.67444 -12.7269 -38.3179 2102.52 
 
 # parameters for class #236
-9.25919 0.0176102 0.0017751 0.0149881 0.00338293 0.0184618 0.0149019 0.0373758 
-1.14803 16.5552 -16.4517 -0.546117 0.123295 -0.600986 -0.308097 -0.400525 
-2.05529 -1.0353 -16.4141 -317.469 1732.54 
+1.10803 0.104961 0.0108959 0.0477907 0.121431 0.049136 0.00338145 0.0145134 
+0.965495 2.84099 -8.51654 -1.43765 -1.30576 -2.16374 -19.055 0.588281 
+0.187673 -1.41983 -13.1957 -48.7169 1167.58 
 
 # parameters for class #237
-1000 0.0529441 1000 0.0529441 1000 0.0529441 1000 0.00181877 
-1000 1000 -0 -11.3742 -0 -11.3742 -0 -11.3742 
--0 0.549035 -0 -20015.8 102024 
+662.261 1.14951 0.138498 1.01327 0.0396785 0.811003 0.0445279 0.677698 
+1.42587 84.6203 -2649.27 -6.70966 4.34797 -8.80926 1.54798 -2.41539 
+1.02662 -6.75287 -8.93106 -1627.24 10604.9 
 
 # parameters for class #238
-1000 0.041098 1000 0.041098 1000 0.041098 1000 0.00786607 
-1000 1000 -0 -2.56536 -0 -2.56536 -0 -2.56536 
--0 0.716124 -0 -20013.8 100266 
+1000 0.300363 0.283783 0.207238 0.074825 0.229528 0.60974 0.188927 
+1.73681 5.56848 -4000 -1.91873 2.73554 -2.5176 1.47187 -0.144075 
+-0.369156 -2.51923 -4.48961 -103.275 4534.23 
 
 # parameters for class #239
-2.12109 0.0171913 0.140356 0.0133979 0.0877585 0.0130456 0.0823871 0.00222208 
-5.73062 16.478 -7.15876 -0.637909 -23.0109 -0.614756 -14.3519 -0.364243 
--13.4125 -0.256068 -106.098 -318.029 4169.11 
+3.44988 0.0553803 0.0602213 0.0421971 0.0683867 0.0551454 0.0160034 0.0433879 
+0.396935 13.4036 -9.42382 -0.567521 -1.39416 -0.592579 -0.0674747 -0.358432 
+-0.690551 -0.495656 -4.12771 -260.027 1336.53 
 
 # parameters for class #240
-2.51168 0.00127667 0.0651744 0.000953539 0.0507791 0.00108285 0.0416424 3.9393e-05 
-7.70141 232.237 -8.92841 0.131389 -11.1618 0.0793634 -8.68671 0.132312 
--7.05931 -0.0159594 -148.972 -4605.91 24774 
+1000 0.48845 0.150522 0.358852 0.071625 0.296339 0.0306219 0.224248 
+1.84365 4.26624 -4000 -5.33717 5.34735 -6.35665 4.17986 -1.22674 
+0.279053 -4.19703 -8.64931 -77.2441 4554.41 
 
 # parameters for class #241
-1.22424 0.0794925 0.00884806 0.0471935 0.00718129 0.0505469 0.003259 0.0325272 
-0.282871 6.16812 -8.1703 3.61972 0.716125 1.05102 0.650184 3.47793 
-0.200201 -1.93872 -2.42746 -110.239 724.458 
+1000 0.337205 0.100143 0.214931 0.0284791 0.216972 0.0359675 0.129152 
+4.23106 2.61459 -4000 -3.16666 4.91707 -4.2603 1.31843 0.225622 
+1.84082 -3.47064 -15.0846 -45.0387 4382.95 
 
 # parameters for class #242
-1.20558 0.0163915 0.0272354 0.0113242 0.0126521 0.0120827 0.00958918 0.00668857 
-0.260347 5.83192 -5.94772 0.630484 3.28782 0.248662 1.51068 0.660231 
-1.12332 -0.39956 -2.95002 -108.597 769.281 
+1000 0.636528 0.2333 0.375578 0.162393 0.49855 0.0593299 0.320388 
+1.87086 5.64189 -4000 -9.44867 1.99563 -7.50733 0.178226 -4.83566 
+0.942081 -3.81497 -2.15528 -104.283 4604.7 
 
 # parameters for class #243
-1.70027 0.104912 0.0464936 0.0799342 0.0148429 0.0593625 0.0224905 0.0452294 
-0.591681 10.2265 -8.41883 1.65351 4.42346 0.348399 1.39256 1.60657 
-2.10429 -1.73229 -5.22074 -187.45 1140.2 
+6.07514 0.338594 0.0339927 0.237891 0.0283572 0.196342 0.0132276 0.0543825 
+0.334159 10.1906 -28.3698 -3.32421 -0.829715 -4.13878 -2.48365 -0.496423 
+0.66347 -1.73244 -3.70367 -188.311 1055.04 
 
 # parameters for class #244
-1.12294 0.0369758 0.0215744 0.0302302 0.0277268 0.0217076 0.00715694 0.0120731 
-0.842547 5.49865 -8.54618 0.413698 2.65752 -0.378564 3.97432 0.667594 
-0.579731 -0.909907 -10.9878 -97.0058 784.671 
+1000 1.00322 0.560605 0.491485 0.12077 0.643325 0.149168 0.300516 
+1.547 11.2119 -4000 -8.08284 22.7016 -6.51722 5.21056 -1.83573 
+5.61572 -4.65978 -7.92369 -209.387 5399.45 
 
 # parameters for class #245
-0.524252 0.00900813 0.00570009 0.00181152 0.310365 0.00517505 0.000862823 0.000798096 
-1.3375 2.62768 -5.04297 -0.216237 0.761453 -0.290382 53.1042 0.268001 
-0.0259085 -0.268005 -20.6632 -44.822 2673.75 
+48.5856 0.417676 0.0640983 0.224211 0.0447829 0.336449 0.0274688 0.210776 
+0.382227 10.5142 -202.175 -9.0573 1.40209 -6.45768 2.86566 -4.88289 
+-0.792359 -5.17315 -2.83147 -192.071 1324.6 
 
 # parameters for class #246
-0.721392 0.000301268 0.0608739 0.000141934 2.19637 0.000239608 0.000401595 8.20489e-05 
-10.2666 22.7915 -5.51107 -0.0312674 -10.1413 -0.0461092 -388.227 0.00645819 
-0.00174324 -0.0543887 -191.991 -436.946 20651.7 
+3.67018 0.23069 0.0753459 0.184195 0.0180437 0.148316 0.100497 0.171312 
+0.50189 5.1698 -18.4948 -3.38331 -3.84187 -4.36106 0.807419 -0.863422 
+-10.6297 -4.97949 -4.39346 -92.8218 896.163 
 
 # parameters for class #247
-1.80713 0.108934 0.00372753 0.0712551 0.0119712 0.0799138 0.00432609 0.0503792 
-1.08176 2.47623 -16.6255 -3.57271 -0.126353 -4.09875 0.798671 -0.642669 
--0.321142 -3.06249 -11.1309 -40.6135 432.457 
+2.59088 0.72847 0.0344984 0.35619 0.0257696 0.394553 0.00990628 0.187861 
+0.946582 1.91408 -17.9876 -10.451 2.06059 -10.4159 1.73085 0.431256 
+0.300836 -6.96214 -6.25889 -30.9197 439.227 
 
 # parameters for class #248
-0.779178 0.0409476 0.006882 0.0239742 0.00864131 0.0285935 0.00386651 0.0166232 
-0.245429 1.54779 -5.57859 0.0363239 0.331355 -1.21143 0.555005 1.53737 
-0.0556049 -1.84416 -1.32419 -25.1141 263.328 
+6.40521 0.132576 0.0130503 0.0855602 0.0243837 0.0798662 0.00517357 0.0516747 
+1.56939 0.931223 -29.0229 -3.99442 0.702252 -4.37163 2.70636 -0.728842 
+-0.263953 -2.85055 -7.87707 -14.5076 353.505 
 
 # parameters for class #249
-0.2807 0.0357672 0.00363408 0.0413799 0.00379644 0.0327308 0.00162695 0.0213175 
-1.00421 1.463 -3.90067 -0.248937 0.307444 -2.6305 0.308479 1.86538 
-0.0530693 -2.83124 -12.5625 -22.4914 365.967 
+7.34475 0.526101 0.0296415 0.23761 0.0292243 0.27163 0.00787931 0.120282 
+2.30338 3.24387 -33.6199 -14.2484 1.80575 -9.96746 2.75514 -3.26838 
+0.0186486 -4.64598 -10.8605 -55.3872 667.617 
 
 # parameters for class #250
-0.389369 0.0778185 0.00896099 0.0478972 0.0052136 0.0507877 0.00668837 0.0286961 
-0.547905 1.88093 -4.35436 -2.17009 0.957416 -3.96093 0.502094 1.3204 
-0.60116 -3.63183 -6.10046 -30.2246 468.65 
+1.22918 0.182704 0.0329817 0.103512 0.0145729 0.0921028 0.00536386 0.0467311 
+0.561851 1.93133 -9.62241 -5.16642 3.54735 -5.49957 1.6931 -0.116512 
+0.358332 -3.21717 -5.40599 -31.7151 517.938 
 
 # parameters for class #251
-1.64981 0.0134008 0.00606526 0.00372549 0.150849 0.0102043 0.00109272 0.000714941 
-3.90283 11.2979 -9.79558 -0.0149711 0.83863 -0.231304 25.5458 0.311005 
-0.0366173 -0.173256 -69.1238 -211.633 2488.61 
+1.01386 0.308465 0.0224817 0.186367 0.0167446 0.249197 0.00805804 0.134851 
+0.677589 0.86919 -7.4543 -11.9906 1.63385 -12.7014 1.31727 -2.07561 
+0.363398 -9.21925 -3.75848 -12.605 656.977 
 
 # parameters for class #252
-0.754152 0.00614306 0.00541881 0.00192757 0.595249 0.00444917 0.00082579 0.00087998 
-1.72061 4.27454 -6.26398 -0.228932 -0.749135 -0.320725 -102.92 0.143695 
-0.013395 -0.302424 -28.0691 -75.8157 5034.3 
+0.411234 0.10071 0.00442128 0.061794 0.0059063 0.0757017 0.0027978 0.0389831 
+0.847412 0.91907 -4.74787 -5.19883 -0.197926 -6.19566 0.372545 -0.365878 
+-0.204002 -4.12692 -7.87315 -12.5279 465.404 
 
 # parameters for class #253
-0.667522 0.0549539 0.00627936 0.019047 0.0337356 0.0289356 0.00520183 0.00827818 
-1.19825 2.25299 -7.17371 -0.977178 -0.708595 -1.21522 -5.12301 0.596501 
-0.390133 -0.997721 -16.3906 -37.1642 553.953 
+0.714247 0.059031 0.00551791 0.0449003 0.0137129 0.0443081 0.0084392 0.0303874 
+1.39095 3.27787 -8.31438 -2.75218 -0.469102 -3.84956 1.01883 -0.275316 
+-0.948506 -2.8874 -16.8122 -52.7994 570.777 
 
 # parameters for class #254
-1000 0.21309 0.0509089 0.130626 0.0255226 0.128373 0.0125012 0.0760874 
-1.66773 4.815 -4000 -0.492246 4.33608 -1.84317 2.22911 1.21828 
-1.00591 -2.75818 -10.4975 -86.2916 4627.67 
+0.913435 0.113081 0.0132225 0.0851979 0.012313 0.0809938 0.00365303 0.051356 
+0.461168 1.27492 -8.15304 -6.17877 1.47211 -8.10934 1.53347 -0.785063 
+0.104763 -5.24125 -4.27824 -19.5005 648.611 
 
 # parameters for class #255
-1.34938 0.230218 0.00529288 0.0954247 0.00791952 0.126643 0.0101255 0.0341522 
-0.443666 4.1627 -7.56937 -2.17442 -0.153591 -2.20658 0.588317 0.538807 
--1.04272 -1.45391 -4.33373 -73.4659 459.563 
+0.731689 0.12878 0.0129992 0.091243 0.00826151 0.094598 0.00725714 0.053267 
+1.80362 6.30111 -8.14055 -7.15609 1.30736 -8.47679 0.648157 -1.14931 
+0.360486 -4.82819 -23.4148 -107.614 1057.42 
 
 # parameters for class #256
-1.55496 0.0271658 0.0044601 0.0190177 0.00147205 0.0150375 0.0336615 0.00778872 
-0.317868 4.47259 -9.68784 0.518169 -0.497438 -0.0934317 0.0508862 0.679517 
--5.01574 -0.625026 -4.01532 -81.7293 674.622 
+0.38944 0.112295 0.00260771 0.0937892 0.00577618 0.101193 0.00523015 0.058681 
+0.893729 1.20978 -5.15528 -5.88134 0.128658 -10.5974 0.347687 0.442668 
+0.260232 -7.35494 -9.92232 -18.0086 774.266 
 
 # parameters for class #257
-0.357677 0.0963122 0.00761128 0.0830843 0.00626516 0.0750476 0.0106068 0.0525777 
-0.257929 1.10421 -3.20069 0.175054 0.304293 -2.90875 0.106298 2.74236 
-0.680663 -4.10316 -2.00502 -17.3753 269.987 
+0.352058 0.116904 0.00605332 0.0847963 0.00917393 0.0993975 0.00827371 0.0519783 
+0.864116 1.48124 -4.54934 -7.20518 0.514096 -10.0458 0.590227 -0.829097 
+0.644849 -6.27533 -9.46411 -22.5348 802.628 
 
 # parameters for class #258
-1.33641 0.117665 0.00991619 0.0459801 0.00495479 0.0685884 0.00936816 0.0275912 
-0.676616 4.42142 -12.1377 1.63121 0.825779 -0.853604 0.272716 2.79418 
-0.774961 -1.94988 -7.64143 -77.1975 538.667 
+0.566202 0.11809 0.00301026 0.117012 0.00432689 0.135379 0.00415883 0.0891313 
+0.934475 3.35429 -6.89938 -8.03454 0.18522 -13.1665 0.212722 -2.77678 
+0.127962 -8.77846 -10.6287 -54.9446 1063.36 
 
 # parameters for class #259
-2.96663 0.0426065 0.00581885 0.0321085 0.0686633 0.0303028 0.00474953 0.00932994 
-0.623055 7.13116 -17.3643 0.187863 -0.618344 -0.567441 -10.4603 0.677862 
-0.281836 -0.765462 -8.89644 -131.043 1144.12 
+2.78696 0.0262261 0.00905285 0.0139067 0.113962 0.020952 0.00157353 0.00429873 
+1.09233 15.0967 -16.3788 -2.57095 -1.19566 -1.76395 -18.3713 -1.54355 
+0.0628042 -0.472785 -17.0369 -284.545 2417.27 
 
 # parameters for class #260
-1.3988 0.0507574 0.0152395 0.0275974 0.00194489 0.0284433 0.015703 0.00690873 
-0.36778 2.70177 -8.62214 -0.324232 -1.84648 -0.683467 -0.151083 0.353416 
--2.11062 -0.470448 -4.73129 -48.1884 434.752 
+1.11574 0.0720139 0.0203242 0.0227718 0.134802 0.0552227 0.00224588 0.00817562 
+1.3498 1.71417 -9.34917 -3.10246 -2.8049 -2.10504 -21.792 -0.226602 
+0.0265907 -1.03977 -17.5694 -26.5521 1316.05 
 
 # parameters for class #261
-5.55374 0.0247325 0.00490957 0.0244176 0.00493008 0.021177 0.00593813 0.0364525 
-0.679991 40.2792 -10.5852 1.14782 0.0243568 0.995359 0.41548 1.10284 
--0.48849 -0.606855 -9.05519 -790.871 4020.18 
+1000 0.262253 0.300261 0.177183 0.0822047 0.203336 0.0786651 0.16602 
+2.53297 5.96894 -4000 -5.49709 2.07491 -4.88787 1.29189 -2.91487 
+-0.158122 -2.50747 -4.89472 -110.046 4622.21 
 
 # parameters for class #262
-0.915733 0.0300895 0.00547046 0.0158214 0.00511414 0.0132269 0.142741 0.0079112 
-0.235565 3.6135 -6.20391 1.04784 0.241522 -0.169633 0.350023 1.11806 
-0.0423847 -0.804237 -1.25658 -62.7706 394.958 
+42.3108 0.938218 0.106312 0.474984 0.0348122 0.612671 0.0218343 0.303785 
+6.01141 2.57199 -175.248 -16.1954 2.70014 -13.629 1.35542 -3.56835 
+0.223378 -7.94848 -12.5257 -43.483 651.339 
 
 # parameters for class #263
-0.932928 0.0429945 0.00273138 0.0402306 0.00232206 0.0296889 0.0109466 0.0258306 
-0.894508 3.20378 -9.77125 0.150994 -0.106769 -1.31069 -0.145524 1.11277 
-0.754552 -2.12068 -10.7797 -53.8473 412.819 
+4.50188 0.288112 0.0376054 0.138915 0.0461955 0.187982 0.00669749 0.0777712 
+0.964299 1.291 -22.2438 -4.44286 -2.71198 -4.003 -5.13082 -0.431983 
+0.00236891 -2.79541 -5.83374 -20.8697 418.798 
 
 # parameters for class #264
-1.0414 0.0111381 0.000851896 0.00776327 0.000954972 0.00841807 0.000585058 0.00463644 
-0.178022 13.8475 -5.06103 1.20907 -0.0471581 0.705009 -0.0730792 1.05349 
--0.00771898 -0.250135 -2.08132 -266.67 1441.73 
+10.8949 0.360153 0.0602281 0.282953 0.0353042 0.25992 0.0158195 0.145731 
+0.310284 8.89173 -46.9581 -4.15411 -1.12039 -4.84046 -2.08882 -1.56569 
+0.411952 -2.95151 -2.63438 -164.473 936.37 
 
 # parameters for class #265
-1.11471 0.013365 0.00225926 0.00994342 0.00185705 0.00709492 0.0011652 0.00569798 
-0.679084 5.7005 -6.46648 0.955979 0.0508686 0.26582 0.0749899 0.830816 
--0.00343055 -0.555298 -2.16487 -98.2107 546.971 
+1000 0.673819 0.340056 0.398858 0.0953797 0.481473 0.0906419 0.270108 
+1.94425 4.56104 -4000 -5.36491 5.7163 -4.90068 1.47685 -1.75117 
+1.63643 -2.95795 -4.85509 -84.5116 4485.53 
 
 # parameters for class #266
-301.88 0.148943 0.0231894 0.0698617 0.00581134 0.0713889 0.0093851 0.0309289 
-1.927 7.43443 -1210.69 1.86596 0.978845 -0.216472 0.0351988 2.00978 
-0.651542 -1.15877 -5.29811 -137.367 1939.01 
+6.2738 0.885064 0.432089 0.57461 0.128846 0.423299 26.9076 0.265942 
+0.359543 7.54863 -21.9424 -7.99961 8.04735 -7.65529 4.666 -2.01297 
+0.0617175 -2.8872 -2.3532 -143.014 851.922 
 
 # parameters for class #267
-1.13002 0.205436 0.0217156 0.0929653 0.0158228 0.122751 0.00980768 0.0517838 
-0.619344 10.2545 -6.56633 7.24192 1.69627 2.17072 1.26579 5.77222 
-0.722143 -1.81634 -5.23773 -187.242 1145.38 
+1000 1.68181 0.342541 1.11015 0.0862065 1.03095 0.0933847 0.651971 
+1.24433 39.3813 -4000 -21.765 12.9576 -17.665 3.15945 -10.279 
+3.62338 -6.96168 -8.18342 -754.321 8010.35 
 
 # parameters for class #268
-1.15563 0.0820851 0.0118511 0.0496622 0.0103461 0.0500468 0.00518312 0.0300721 
-0.472229 13.0706 -7.01281 5.49847 0.923482 2.57479 0.869393 4.12188 
-0.347793 -1.26966 -4.02423 -240.572 1434.68 
+1000 1.27834 0.492965 0.678138 0.0916773 0.847799 0.101587 0.355428 
+1.30708 24.7983 -4000 -25.7006 17.5352 -16.2574 2.92942 -13.7644 
+3.95516 -4.43025 -7.20505 -472.763 6791.99 
 
 # parameters for class #269
-1.9926 0.0573214 0.046358 0.0472672 0.0125853 0.0522689 0.0308502 0.045062 
-0.392564 21.3071 -5.01158 0.0382672 2.49858 -0.20504 0.0336825 0.29989 
-2.76397 -0.683152 -4.56899 -415.482 2179.19 
+1000 0.934914 0.292581 0.505533 0.0609665 0.710541 0.0875251 0.346703 
+1.61214 11.2654 -4000 -16.6968 8.15839 -11.2876 0.995828 -9.51331 
+3.39186 -4.36546 -6.20329 -211.795 5295.55 
 
 # parameters for class #270
-1000 0.376257 0.180643 0.201472 0.0319942 0.22944 0.0299337 0.118192 
-2.77805 3.79814 -4000 -0.664824 5.11183 -2.11145 1.34976 1.59375 
-0.389102 -2.51726 -8.32115 -68.5145 4412.84 
+1000 1.07376 0.58337 0.680217 0.147601 0.529746 0.117637 0.299153 
+1.6459 17.2736 -4000 -15.6745 17.877 -13.0544 5.55891 -5.29957 
+2.7372 -3.95346 -7.40045 -325.1 5904.21 
 
 # parameters for class #271
-9.34597 0.539139 0.148016 0.39119 0.0569479 0.340626 0.0697576 0.195723 
-0.420333 8.54156 -36.1723 -5.42861 2.8516 -5.84716 3.02895 -1.75922 
--1.34358 -3.22748 -3.25795 -158.924 918.688 
+272.24 0.646189 0.191664 0.321323 0.0733861 0.378807 0.0313095 0.160377 
+1.0999 4.64229 -1094.86 -17.6333 7.79795 -11.2338 4.62359 -7.42587 
+0.432921 -3.46569 -5.49537 -84.4538 1942.23 
 
 # parameters for class #272
-2.18049 0.172197 0.0126371 0.0918397 0.00382661 0.0812595 0.059045 0.0220155 
-0.530508 5.00035 -12.3265 -2.29085 -1.34859 -2.5701 0.157072 0.0832429 
--8.44059 -1.14534 -6.82029 -91.1014 873.906 
+1000 0.743081 0.337909 0.561384 0.0467509 0.521838 0.0862078 0.414495 
+1.40679 21.8253 -4000 -20.3246 19.1035 -17.8013 2.14675 -11.999 
+5.6692 -6.7262 -10.5611 -414.121 6765.5 
 
 # parameters for class #273
-1.00628 0.00585812 0.00136961 0.00310304 0.000623344 0.00523592 0.000817743 0.00235795 
-0.135513 4.89036 -5.9287 0.84593 -0.0856575 0.327271 -0.00530105 0.977296 
--0.0564046 -0.240074 -1.09358 -90.3905 583.909 
+1000 0.467098 0.107738 0.319114 0.0296079 0.370925 0.0298899 0.271554 
+1.39842 16.4088 -4000 -18.3989 7.00062 -14.232 1.92363 -12.6787 
+1.91008 -5.2628 -10.9324 -310.28 6159.15 
 
 # parameters for class #274
-0.631853 0.170601 0.00451241 0.0561066 0.00260945 0.0660892 0.0102997 0.0223678 
-0.254971 3.38249 -4.30775 1.31922 0.217702 -0.935406 -0.118181 1.87297 
-0.987755 -1.3715 -2.29292 -58.4527 379.492 
+5.68465 0.15948 0.0528422 0.0972394 0.0342826 0.103139 0.00659791 0.0682637 
+0.681725 1.86176 -26.3149 -5.44831 5.99212 -4.57634 4.34185 -2.22446 
+0.569405 -3.19676 -6.2886 -31.9509 688.323 
 
 # parameters for class #275
-0.74521 0.118534 0.00168246 0.0519782 0.0044971 0.0677932 0.00685961 0.0215714 
-0.500372 4.71744 -5.87536 -1.21599 0.00841157 -1.82277 -0.444745 0.750158 
-0.636669 -1.52672 -5.6964 -81.7441 502.082 
+1000 0.132496 0.0482712 0.100662 0.0192925 0.095452 0.0206136 0.0784349 
+1.09669 7.95415 -4000 -8.74637 4.25147 -7.51571 1.67574 -5.47526 
+1.80059 -2.43358 -8.81979 -147.524 5282.47 
 
 # parameters for class #276
-2.54545 0.146061 0.021308 0.0981555 0.00654026 0.088326 0.0144316 0.0630209 
-0.681638 6.37624 -20.0072 -0.0274636 1.71648 -1.75434 0.40652 1.36714 
-1.17736 -2.80115 -6.77917 -113.294 707.104 
+1.81274 0.00947876 1000 0.00872243 1000 0.00880258 1000 0.0292964 
+0.0646737 31.9093 -3.234 -0.974826 -0.00135141 -0.949913 0.0066919 -0.851942 
+-0.00267674 -0.358882 -0.627177 -628.493 3184.33 
 
 # parameters for class #277
-9.26967 0.0686987 0.0464382 0.0432431 0.0107577 0.0527285 0.0192297 0.0316367 
-0.553849 2.50067 -40.0427 -0.481842 5.27384 -0.83196 1.11361 0.279921 
-2.27102 -1.46831 -5.27717 -44.5886 562.029 
+1000 0.189387 1000 0.189387 1000 0.189387 1000 0.00258641 
+1000 1000 -0 -29.3877 -0 -29.3877 -0 -29.3877 
+-0 0.56705 -0 -20013.2 103571 
 
 # parameters for class #278
-1000 0.225 0.0714295 0.1448 0.021034 0.159685 0.0217055 0.103808 
-0.998233 5.62236 -4003.78 -3.45943 7.06209 -3.47206 2.00585 -1.08146 
-2.16459 -3.51208 -9.04117 -102.389 4863.77 
+3.4713 0.00536168 1000 0.00515043 1000 0.00531366 1000 0.0538848 
+0.0693824 126.749 -4.61741 0.522814 -0.0349744 0.481869 0.0155405 0.539002 
+0.016514 -0.436831 -0.737115 -2517.75 12558.2 
 
 # parameters for class #279
-0.386361 0.0168299 0.0123067 0.00803871 0.0508787 0.010995 0.00397181 0.00394383 
-1.01415 1.84012 -4.70468 -0.27083 1.71034 -0.771388 8.08609 0.522358 
-0.323632 -0.779108 -14.3281 -29.918 688.674 
+1.12593 0.00846826 0.0043788 0.00596843 0.0030706 0.00663404 0.00116442 0.00580191 
+0.252289 8.59773 -5.41632 1.30604 0.295363 0.773259 0.273852 1.18692 
+0.0264073 -0.351539 -1.5522 -159.986 953.717 
 
 # parameters for class #280
-0.795044 0.00102924 0.00978062 0.000452119 0.432306 0.00084233 0.000894171 0.000195293 
-1.51915 8.72642 -6.00292 -0.273578 1.44565 -0.193542 75.2631 -0.160145 
-0.0266892 -0.0849961 -25.7299 -163.709 4331.92 
+18.6339 0.114544 0.0247968 0.0581695 0.0107194 0.0736128 0.0102707 0.0332513 
+1.12221 10.1706 -75.2854 4.61389 0.998395 1.68181 0.757164 3.80165 
+0.00166681 -0.946113 -4.8321 -189.633 1139.9 
 
 # parameters for class #281
-0.416081 0.0179308 0.00510977 0.0136603 0.00430427 0.0145925 0.00329504 0.00784103 
-0.473662 2.72852 -4.887 -2.95033 0.49496 -3.46864 0.310761 -1.02067 
-0.217534 -1.53433 -5.20234 -45.3845 725.834 
+9.80142 0.0127185 0.00292107 0.0129249 0.00129138 0.0122426 0.00114827 0.221269 
+0.591276 261.526 -17.0536 0.684167 -0.00237176 0.659148 -0.023561 0.692803 
+0.0183541 -1.78991 -7.78968 -5194.37 25901.6 
 
 # parameters for class #282
-0.470129 0.0284276 0.00248221 0.0253781 0.00411356 0.0242059 0.00561723 0.0160433 
-0.5056 3.80809 -5.3768 -3.91199 0.146161 -5.29915 0.176867 -1.53715 
-0.333969 -2.45838 -5.66713 -64.3762 892.373 
+1.45384 0.0597299 0.00927376 0.0356144 0.002285 0.0257885 0.00797229 0.0149595 
+0.250546 11.9743 -7.46674 2.07892 0.485804 0.417122 0.0357216 1.47716 
+0.611479 -0.825673 -1.27058 -221.657 1153.58 
 
 # parameters for class #283
-0.682224 0.00666749 0.0017439 0.00381121 0.00200095 0.00511849 0.00173592 0.00240057 
-0.268578 5.15209 -6.23015 -1.74332 0.104129 -1.30909 0.117608 -0.878041 
-0.074626 -0.447781 -2.54593 -90.7293 767.932 
+1000 0.0377361 0.0108846 0.0280055 0.00437085 0.0266778 0.00481384 0.0229689 
+2.77974 11.9662 -4000 1.24033 0.0545428 0.563526 0.0310063 1.21691 
+0.0127963 -0.654177 -4.7981 -225.229 5131.08 
 
 # parameters for class #284
-0.810821 0.00252899 0.00140925 0.00172539 0.00125232 0.00202089 0.00118822 0.00170177 
-0.226758 6.81248 -5.2909 -0.847117 0.0554062 -0.678964 0.0492166 -0.550559 
-0.0364875 -0.223911 -1.25878 -123.061 813.085 
+7.87353 0.104529 0.00925869 0.092961 0.00749526 0.094216 0.0022278 0.141141 
+1.01086 31.4333 -19.4034 2.7402 0.475248 1.99171 0.626894 2.92109 
+0.00809958 -2.08281 -11.4921 -607.376 3094.31 
 
 # parameters for class #285
-0.582258 0.00384365 0.000669911 0.00132847 0.00323351 0.00270277 0.00115044 0.00050581 
-0.546039 5.68812 -4.86339 -0.797627 -0.0202213 -0.400123 -0.432967 -0.364236 
-0.0748815 -0.127702 -8.00356 -103.872 684.677 
+1.41735 0.111326 0.0427978 0.0893986 0.0256956 0.0726528 0.0211702 0.0729173 
+0.512417 11.5186 -9.52411 2.75694 2.83492 1.20807 1.61094 2.59221 
+1.4662 -2.28609 -4.66589 -211.313 1192.32 
 
 # parameters for class #286
-0.990064 0.00100524 0.00216916 0.000593527 0.000493737 0.00052437 0.000478314 0.000226831 
-0.662068 10.3018 -7.21812 -0.39606 -0.270201 -0.309953 -0.0470622 -0.152794 
--0.0103604 -0.0786337 -10.6242 -194.623 1150.14 
+413.867 0.789919 0.073486 0.577689 0.0249001 0.459326 0.0284405 0.322939 
+1.01083 41.1919 -1653.89 11.5666 3.86309 5.86229 1.12468 8.79182 
+1.67175 -5.16998 -7.15818 -788.19 5664.6 
 
 # parameters for class #287
-2.08608 0.0027451 0.00336356 0.0015945 0.0402417 0.00243789 0.00112372 0.000595307 
-0.444836 15.2871 -12.7141 -0.70196 -0.423761 -0.506595 -6.61035 -0.529889 
-0.0308547 -0.115539 -6.69737 -290.776 1889.04 
+1000 0.679687 0.0352289 0.298527 0.0190936 0.405127 0.00742414 0.171366 
+1.18611 11.9899 -3998.9 11.8222 2.22497 2.97886 1.31511 10.0506 
+0.405642 -3.98991 -7.47677 -222.748 5277.13 
 
 # parameters for class #288
-1000 0.0851177 0.038542 0.0693339 0.0132105 0.0686364 0.0129122 0.0802277 
-1.11718 19.6371 -4000 -8.79719 2.27319 -7.72594 0.755231 -6.53936 
-0.758895 -1.93857 -6.38294 -373.312 6479.44 
+1000 0.496216 0.216341 0.26469 0.047448 0.323498 0.0576057 0.152551 
+1.32565 9.11851 -3999.5 0.259495 10.7114 -1.33467 1.93854 1.96955 
+3.29326 -2.69667 -8.00449 -170.902 5049.4 
 
 # parameters for class #289
-1000 0.274732 0.0297789 0.158502 0.0100341 0.165824 0.0126694 0.0848415 
-0.949743 9.05857 -3999.78 -23.3227 1.84399 -14.6347 0.566999 -12.8436 
-0.821998 -1.9831 -5.97058 -170.74 5985.65 
+1000 0.704183 0.148412 0.364112 0.0367026 0.406553 0.0323011 0.200082 
+1.21638 8.70669 -4000 -1.19266 9.25695 -2.68108 2.32746 1.61645 
+1.94965 -3.92037 -8.7742 -162.413 5031.77 
 
 # parameters for class #290
-67.1518 0.0411896 0.0300214 0.0387777 0.0100502 0.0305984 0.0149759 0.0422378 
-1.00115 11.558 -271.637 -5.51667 2.42149 -5.60416 0.767349 -3.77395 
-1.2298 -1.40362 -6.71047 -216.982 1945.39 
+1000 0.277613 0.0742339 0.198827 0.0212957 0.193631 0.021493 0.147338 
+1.21273 16.4278 -3999.8 2.15506 5.41014 0.276614 1.53484 2.73685 
+1.54817 -3.37773 -9.47107 -307.708 5671.64 
 
 # parameters for class #291
-1000 0.079835 0.00514541 0.0580188 0.00319165 0.0335403 0.00226026 0.0195438 
-1.27189 14.3668 -4001.66 -12.0338 0.207925 -9.56416 0.140035 -4.58233 
-0.0743503 -0.677799 -4.17385 -272.434 6350.91 
+1000 0.680274 0.221954 0.511326 0.0632658 0.539515 0.0645135 0.486369 
+1.75347 26.0426 -4000 -7.32722 13.3961 -7.67157 3.65951 -3.52771 
+4.02366 -8.08681 -14.2153 -491.688 6772.32 
 
 # parameters for class #292
-1000 0.0469072 0.00772989 0.0409842 0.00377118 0.0337404 0.00374458 0.0381244 
-0.973352 24.4419 -4000 -5.91901 0.279765 -5.58711 0.126708 -3.91549 
-0.133176 -0.982848 -3.49525 -467.381 6776.55 
+11.839 0.399507 0.0699167 0.301041 0.017424 0.285994 0.0343642 0.130881 
+0.736583 11.8116 -48.6228 -8.38558 4.97207 -7.99498 0.763779 -4.39227 
+3.11611 -2.95401 -6.94352 -221.173 1428.91 
 
 # parameters for class #293
-2.16279 0.00725282 0.065818 0.0074319 0.0168121 0.00678179 0.0216004 0.075959 
-0.0958271 106.804 -4.96841 -1.56285 0.0386452 -1.63609 0.0177918 -1.42971 
--0.00315924 -0.791312 -0.860483 -2114.46 10765.1 
+1000 1.52153 0.155327 1.11952 0.0375456 0.809734 0.0378735 0.459917 
+1.6187 30.6943 -4000 -35.8858 7.3491 -30.6588 1.88671 -16.0209 
+1.65416 -6.39381 -11.588 -586.805 7493.43 
 
 # parameters for class #294
-2.6899 0.00264262 0.00203046 0.00238866 0.00109635 0.00273846 0.00111895 0.0130328 
-0.127955 37.8755 -8.54295 -0.857513 0.0365606 -0.800023 0.0105143 -0.860086 
-0.02535 -0.349973 -0.969988 -741.657 3903.9 
+0.406108 0.0222967 0.0115956 0.00971765 0.0456775 0.0127658 0.00454344 0.00364078 
+1.20355 2.28772 -4.76808 -0.191766 1.58526 -0.768246 7.21131 0.606505 
+0.359074 -0.65531 -17.2247 -37.7281 678.975 
 
 # parameters for class #295
-1.31707 0.00975365 0.00147804 0.00708862 0.00242215 0.00436772 0.0238761 0.00123886 
-1.25405 7.90941 -8.41564 -1.25117 -0.0311425 -1.11623 0.157835 -0.316801 
--3.65991 -0.242825 -20.2009 -146.123 1068.17 
+0.655264 0.000872567 0.000314889 0.000427696 0.296643 0.000592652 0.00437793 0.000138551 
+4.64564 10.2071 -5.73338 -0.123103 0.00901263 -0.130873 51.3724 -0.00475734 
+-0.692019 -0.084737 -84.6925 -192.26 3643.55 
 
 # parameters for class #296
-1.12791 0.0177171 0.00631145 0.0114809 0.00186567 0.00994431 0.00627204 0.0068068 
-0.283614 4.18796 -6.74793 -2.62445 0.289729 -2.05355 3.57582e-05 -1.17011 
-0.475492 -0.478364 -1.52934 -73.887 634.835 
+0.48964 0.00102785 0.0156914 0.000496389 0.120093 0.000521285 0.129222 0.000162785 
+3.42222 7.37421 -5.05485 -0.223978 -2.44006 -0.193059 -20.4841 -0.0251496 
+-22.0646 -0.0998582 -59.6141 -135.156 2903.73 
 
 # parameters for class #297
-2.6338 0.0422591 0.00547652 0.0291205 0.00163479 0.0200151 0.0426789 0.00689847 
-0.359244 9.22847 -15.3322 -4.3685 -0.590343 -3.59909 0.0581569 -1.60812 
--6.33798 -0.552527 -4.60998 -171.813 1402.57 
+0.692537 0.0359303 0.00859658 0.0172853 0.0265922 0.0348037 0.0021849 0.0105315 
+1.04345 1.61361 -7.36606 -1.96848 -0.995457 -1.84722 -3.85475 -0.299661 
+0.0412475 -1.26649 -12.4048 -24.9633 484.774 
 
 # parameters for class #298
-0.623685 0.0170316 0.00108502 0.00997991 0.00125358 0.00900658 0.00215785 0.00423593 
-0.347158 2.73473 -6.00075 -2.40233 -0.0537422 -2.05782 -0.0975201 -0.697756 
-0.104295 -0.628035 -3.97133 -47.3461 519.526 
+1.87009 0.0302456 0.00225016 0.0115006 0.0720123 0.0215301 0.00218479 0.00246211 
+2.71089 6.85036 -10.7586 -0.778714 -0.169927 -0.682179 -11.3857 -0.147339 
+0.124332 -0.386316 -46.249 -125.885 1324.1 
 
 # parameters for class #299
-5.20721 0.00453765 0.00203692 0.00441493 0.00102093 0.00450725 0.00242231 0.0394762 
-0.523712 55.2616 -10.2529 -0.83521 0.0624969 -0.834435 -0.0284511 -0.807177 
-0.183301 -0.588779 -6.80611 -1089.21 5566.56 
+1.18124 0.432444 0.0179412 0.205401 0.0219243 0.220337 0.0105236 0.107349 
+0.441864 2.68115 -8.255 -17.656 0.869608 -12.8618 1.68675 -4.00663 
+-0.033038 -5.53479 -2.78113 -44.835 756.961 
 
 # parameters for class #300
-0.391745 0.00854876 0.00192995 0.00350337 0.00173495 0.00407973 0.0192187 0.00130183 
-1.53356 3.18952 -3.91376 -1.09471 -0.229562 -0.697689 -0.189529 -0.191383 
--2.94274 -0.31702 -23.2538 -55.1363 609.033 
+2.02334 0.114804 0.0237712 0.0598942 0.0236527 0.0467204 0.00338596 0.0192034 
+0.425573 3.54029 -10.3864 -7.24582 2.059 -4.88988 2.83333 -2.07424 
+0.000294178 -1.00005 -3.13845 -63.2169 723.368 
 
 # parameters for class #301
-1.22214 0.102881 0.00441186 0.0538902 0.00262267 0.0650279 0.00289553 0.0347373 
-0.329536 2.9901 -7.64742 -9.25248 0.00855541 -6.39233 0.0303479 -3.96113 
--0.00575524 -2.15518 -1.38439 -51.7848 775.757 
+1.39358 0.145472 0.00467213 0.0981791 0.0074422 0.0860475 0.00347661 0.0671169 
+0.611766 5.8428 -12.6311 -10.5587 0.240343 -9.92976 0.479512 -3.53158 
+0.084522 -4.5494 -6.19872 -102.751 1105.5 
 
 # parameters for class #302
-1000 0.274227 1000 0.274227 1000 0.274227 1000 0.00335171 
-1000 503.934 -0 -31.2017 -0 -31.2017 -0 -31.2017 
--0 0.544688 -0 -10084 53118.7 
+0.731345 0.15596 0.00456366 0.0954352 0.00911406 0.106068 0.00361808 0.0608189 
+1.28706 2.39177 -7.62288 -6.28486 -0.0269168 -7.54902 0.595596 -0.426511 
+-0.078966 -5.02051 -13.2771 -37.5606 570.936 
 
 # parameters for class #303
-16.3546 0.039689 1000 0.0386941 1000 0.0366863 1000 0.185352 
-0.106279 646.747 -11.5819 1.64536 -0.0196353 1.50125 0.0254718 1.61837 
--0.00088778 -1.00562 -1.50035 -12889.3 64279 
+0.784395 0.0914214 0.00352398 0.0461995 0.00614684 0.0588152 0.00357561 0.0312129 
+1.34033 5.80555 -8.64331 -6.22947 -0.31375 -5.17176 0.378926 -1.24414 
+-0.353865 -3.29589 -17.3381 -98.8712 911.567 
 
 # parameters for class #304
-1.308 0.176967 0.0196535 0.117203 0.015497 0.103821 0.00626305 0.0674621 
-0.590676 10.5387 -7.01182 8.54342 1.30429 4.42702 1.15475 6.10158 
-0.348777 -2.04833 -4.4584 -193.772 1244.93 
+0.513666 0.0719473 0.00539064 0.0592067 0.00615902 0.0704435 0.0208362 0.0453807 
+0.284406 0.386304 -4.84264 -4.05124 0.170875 -6.65654 0.335653 -0.0931166 
+-0.00261886 -5.2501 -2.15563 -5.28751 482.164 
 
 # parameters for class #305
-1000 0.223968 0.01644 0.195478 0.00806944 0.176953 0.00739713 0.198549 
-0.869208 28.8796 -3999.98 5.30544 0.807902 3.5079 0.404303 5.20802 
-0.341019 -3.58286 -5.10686 -549.327 6768.81 
+0.446494 0.0306771 0.00419702 0.0180492 0.00305878 0.0145426 0.00209345 0.0109799 
+0.650281 1.81417 -5.20538 -1.24001 0.38113 -1.94069 0.283878 0.431472 
+-0.0150582 -1.69439 -8.12529 -29.2237 359.467 
 
 # parameters for class #306
-1000 0.590552 0.100051 0.303707 0.0311462 0.49299 0.0223776 0.224732 
-1.84757 11.9701 -4000 4.91328 3.92931 0.687733 1.34701 7.0868 
-0.772436 -3.83828 -8.45487 -225.419 5205.07 
+0.56494 0.045921 0.00526958 0.0548305 0.00847306 0.0624072 0.00621127 0.0613728 
+0.370662 2.81274 -5.89977 -4.08544 0.279822 -8.40617 0.570135 -1.55368 
+0.085531 -8.28528 -3.51484 -44.8513 964.043 
 
 # parameters for class #307
-1.36057 0.207556 0.060026 0.14579 0.0256867 0.13475 0.0240203 0.106662 
-0.701985 12.9289 -8.56362 1.803 3.80296 0.0994676 1.44696 2.21819 
-1.65757 -2.61855 -6.52652 -238.644 1302.02 
+0.529117 0.027882 0.009247 0.0527815 0.00296722 0.0629898 0.007015 0.0461178 
+2.31481 3.56798 -6.1607 -2.02518 1.0712 -7.261 0.155796 -0.373106 
+0.340876 -6.43848 -33.0332 -59.282 975.727 
 
 # parameters for class #308
-1000 0.864323 0.0658456 0.628107 0.0215479 0.536387 0.0260853 0.340172 
-1.21844 28.2454 -3999.22 1.86272 3.27787 -1.25275 1.02218 3.38177 
-1.33668 -5.053 -8.58932 -538.972 6700.93 
+1.09917 0.0254944 0.00606584 0.0265564 0.00313212 0.0262953 0.00398348 0.0166068 
+2.92645 10.0415 -10.8929 -2.42386 0.654396 -4.08861 0.196381 -0.511562 
+0.139567 -2.40257 -44.4502 -177.294 1351.01 
 
 # parameters for class #309
-1000 1.00452 0.182538 0.641571 0.0700477 0.556625 0.0344869 0.28178 
-2.48956 9.47895 -4000 -1.11764 8.14012 -4.48578 3.94385 2.65322 
-1.08247 -4.99605 -13.5884 -176.356 5045.36 
+0.387043 0.0349359 0.00357984 0.0515726 0.00283855 0.0565203 0.00400803 0.0474381 
+0.822347 3.0358 -4.69697 -3.37886 0.317904 -8.69741 0.14987 -1.42294 
+0.219791 -7.20696 -10.023 -49.6418 1038.52 
 
 # parameters for class #310
-1000 1.15418 0.150907 0.72536 0.043011 0.668014 0.0398884 0.38941 
-1.43078 22.1292 -4000 -11.8235 9.02361 -10.724 2.5042 -3.81016 
-2.41942 -6.6762 -11.1793 -416.987 6315.98 
+0.404487 0.0233773 0.00835363 0.00897161 0.00179235 0.0194216 0.00214786 0.00828359 
+0.926273 2.31288 -4.44178 -1.21944 -0.976924 -1.19692 0.0614428 0.323885 
+-0.180436 -1.3647 -12.7919 -38.2468 413.713 
 
 # parameters for class #311
-6.74061 0.398212 0.0983286 0.238475 0.0314682 0.286764 1000 0.176671 
-0.366989 3.90133 -23.512 -1.97462 2.20248 -2.55445 1.35231 0.217348 
--0 -2.46319 -2.18226 -72.7365 427.869 
+0.683661 0.0348055 0.0300895 0.0152696 0.0476291 0.0210524 0.00380581 0.00633324 
+1.35344 2.62448 -6.0168 -2.18908 -4.54357 -1.65384 -7.55063 -0.399945 
+-0.4221 -0.897031 -19.955 -44.7817 919.235 
 
 # parameters for class #312
-1.96343 0.143413 0.0125854 0.0695893 0.00491291 0.0695892 0.0300008 0.0307511 
-0.364316 3.86914 -10.7397 -0.0189037 -0.990741 -1.08829 0.169504 1.061 
--3.69839 -1.39165 -3.1091 -69.0673 529.845 
+1.90696 0.0153228 0.0134803 0.00753837 0.285765 0.00907797 0.000857274 0.0013935 
+1.68792 7.671 -10.6322 0.0914594 -1.99367 -0.304598 -48.3717 0.361196 
+0.00688417 -0.263821 -29.1446 -143.009 2995.28 
 
 # parameters for class #313
-1.95607 0.147692 0.0297741 0.0915622 0.0171278 0.0787692 0.00371538 0.036375 
-0.491898 3.8766 -9.80231 0.188627 2.65401 -1.0613 2.02448 1.05202 
-0.116667 -1.46465 -4.64167 -68.5519 507.961 
+2.62285 0.681395 0.0207089 0.345778 0.0162203 0.434868 0.0125815 0.186062 
+0.834119 2.33301 -20.138 -14.5764 0.99235 -13.9288 1.06672 -1.10176 
+0.14227 -8.10551 -5.63112 -37.5375 569.262 
 
 # parameters for class #314
-1.35731 0.361726 0.0482426 0.206965 0.0185387 0.159148 0.00889389 0.0820456 
-0.760049 1.38689 -7.76295 -7.36692 4.43268 -7.87529 1.77349 -0.405064 
-0.666045 -3.98569 -5.10119 -22.7122 467.132 
+4.60078 0.610245 0.0415285 0.392129 0.131386 0.287121 0.0169488 0.214872 
+0.68664 3.56295 -25.8878 -11.7872 -2.96781 -11.6946 -15.9904 -2.46162 
+0.796057 -7.63423 -6.82914 -63.1557 1128.83 
 
 # parameters for class #315
-0.652357 0.160489 0.00534435 0.108702 0.00715647 0.0931229 0.00588886 0.056563 
-1.02618 4.33349 -6.8301 -3.06233 0.267459 -5.48814 0.38424 1.12239 
-0.330259 -4.00722 -11.4335 -73.9708 578.671 
+1000 0.660571 0.280462 0.422484 0.0998125 0.428204 0.0673169 0.289097 
+1.66082 5.03056 -4000 -9.61849 5.69142 -8.70605 3.95297 -3.64613 
+-0.0227692 -4.43207 -5.94734 -92.3377 4620.66 
 
 # parameters for class #316
-5.17018 0.282859 0.0214157 0.161634 0.024114 0.161689 0.00853364 0.0766898 
-0.881441 4.68189 -39.8845 -5.4988 1.56865 -5.81727 2.09036 -0.0795458 
-0.240435 -3.39836 -8.1749 -79.3815 659.923 
+294.092 0.496897 0.0459927 0.270324 0.0232464 0.374645 0.0204367 0.220879 
+1.59003 2.66805 -1184.67 -7.85953 -0.284028 -6.83963 1.10079 -2.37147 
+-1.16728 -5.7128 -7.00851 -45.6836 1567.97 
 
 # parameters for class #317
-0.875082 0.286401 0.0112952 0.141866 0.0137046 0.170519 0.00949466 0.0817195 
-0.459303 2.19493 -6.35383 -10.2336 0.846133 -8.68204 1.43114 -1.59609 
--0.036342 -5.10724 -3.23623 -35.417 560.54 
+3.89472 0.720024 0.0990566 0.3658 0.0314173 0.478604 0.0214623 0.227004 
+2.84583 2.95291 -19.7178 -13.9287 5.03471 -11.6868 1.60952 -3.15362 
+0.891312 -7.03794 -11.0123 -49.6314 586.507 
 
 # parameters for class #318
-0.844605 0.642999 0.0174308 0.303752 0.0177261 0.350118 0.0076 0.154811 
-0.485626 0.992126 -6.2395 -21.5756 1.08133 -18.1511 1.21488 -2.34614 
-0.286696 -9.32718 -2.78637 -15.0491 746.236 
+6.53754 0.102804 0.0142293 0.0819702 0.0077324 0.0660243 0.0182883 0.0507889 
+0.408126 3.10088 -26.833 -0.585373 0.477903 -1.47304 -0.410201 0.418559 
+1.68783 -1.83907 -2.82522 -54.5535 385.376 
 
 # parameters for class #319
-0.76388 0.0818166 0.00293302 0.0413557 0.00172018 0.0528439 0.00156214 0.022913 
-0.973613 3.63885 -7.65357 -2.75925 -0.178207 -2.854 -0.0156194 -0.0735293 
--0.0363685 -1.76575 -11.9931 -61.5165 474.044 
+1.83275 0.1697 0.00952938 0.11684 0.00500639 0.110513 0.0136966 0.0455227 
+0.56502 4.47556 -8.23709 -4.53163 0.345871 -4.50982 -0.314405 -1.70204 
+1.34726 -1.75836 -5.45959 -80.2177 560.697 
 
 # parameters for class #320
-0.331663 0.138793 0.00268463 0.0701879 0.0038891 0.0939894 0.00252005 0.0467291 
-0.272993 0.773926 -3.1452 -3.63441 0.0304863 -4.94407 0.173015 1.53933 
--0.0173626 -4.32548 -2.01511 -11.3486 320.626 
+1000 1.61639 0.233528 1.00647 0.0362568 0.843677 0.0440738 0.452288 
+2.03297 25.5518 -4000 -30.4429 4.01506 -23.1912 0.551039 -12.3394 
+0.836203 -4.94097 -5.36842 -485.115 6680.85 
 
 # parameters for class #321
-0.580659 0.0664352 0.00441433 0.0560995 0.00472372 0.066411 0.00396404 0.0432167 
-1.11066 2.0234 -6.33217 -3.40473 -0.248242 -5.73462 0.225835 -0.251327 
--0.0482536 -4.52235 -14.0847 -33.0884 558.112 
+1000 1.30291 0.0889881 0.589507 0.0288271 0.818456 0.028529 0.303758 
+1.48402 13.3184 -4000 -25.855 2.89268 -15.0269 1.42921 -11.62 
+0.377711 -4.80698 -6.81843 -248.969 5517.79 
 
 # parameters for class #322
-4.92369 0.131405 0.0367486 0.0609783 0.223258 0.108473 0.00226645 0.0365414 
-0.835473 1.53581 -31.3146 -3.32363 -4.81529 -2.89793 -34.6651 -0.477308 
-0.0159603 -2.68549 -10.8703 -25.5084 1837.54 
+1.80772 0.25919 0.0204911 0.167831 0.0131246 0.173898 0.0132542 0.0953968 
+0.874155 1.65581 -10.0496 -4.907 -0.215535 -5.69963 0.806129 -0.699427 
+-0.978384 -3.69378 -4.9767 -26.999 307.38 
 
 # parameters for class #323
-2.46013 0.0909003 0.015088 0.0404286 0.227961 0.0531944 0.00443817 0.0164943 
-0.96239 3.1707 -15.9777 -1.54669 -1.90828 -1.71391 -36.1602 0.231494 
-0.188973 -1.48724 -13.6457 -55.2042 1909.53 
+1.87099 0.168514 0.0222216 0.0893937 0.0029449 0.107929 0.0220825 0.0548721 
+0.482344 1.63 -10.2923 -2.80081 -1.90344 -2.89587 -0.0641807 -0.108931 
+-2.4967 -2.38835 -3.43299 -27.0319 345.889 
 
 # parameters for class #324
-1000 0.835356 0.198284 0.562013 0.070579 0.604529 0.0703106 0.392142 
-1.35956 21.0988 -4000 -6.86268 6.39293 -7.142 3.25081 -2.25046 
-1.20784 -5.27107 -6.94258 -399.735 6070.17 
+1.87868 0.249422 0.0240045 0.141492 0.00954176 0.0843095 0.00990836 0.0496422 
+0.449198 4.49588 -12.4104 -1.72338 0.116663 -3.40655 0.0890806 0.848263 
+0.0781899 -1.8777 -2.37077 -77.4707 440.093 
 
 # parameters for class #325
-1000 0.531244 0.0333686 0.372882 0.0108342 0.357648 0.00855931 0.232185 
-0.960572 18.5339 -4000 -1.19015 0.10575 -2.74126 0.14198 1.02679 
--0.0586801 -3.03241 -2.91785 -350.65 5703.11 
+11.4647 0.0615198 0.0111135 0.0355322 0.0891918 0.0444246 0.00321861 0.00402151 
+3.30809 11.9219 -58.2732 -1.33844 1.41942 -1.48906 14.1178 -0.348041 
+0.125351 -0.438405 -56.6656 -221.796 2028.68 
 
 # parameters for class #326
-3.19197 0.0510114 0.0771071 0.0536379 0.0549128 0.035224 0.0232529 0.0404436 
-0.21762 9.33556 -10.0876 -0.111127 -1.75365 -0.392739 0.143468 0.103374 
--1.07108 -0.573236 -1.70623 -179.34 936.085 
+1.09202 0.0384568 0.00448199 0.0346773 0.00418761 0.0439355 0.00427802 0.0283786 
+1.35488 3.57535 -10.5083 -1.93635 0.378733 -3.55443 0.0135986 -0.350986 
+0.209182 -2.89771 -19.7051 -61.551 608.888 
 
 # parameters for class #327
-1000 0.659475 0.0948648 0.457963 0.0396344 0.417157 0.0194272 0.279892 
-2.01682 4.28676 -4000 -6.77484 3.96212 -7.99621 2.55544 -1.28725 
-0.278925 -5.65964 -9.8703 -77.347 4548.63 
+2.04584 0.127737 0.00267753 0.0732785 0.00749228 0.090652 0.00468434 0.0461214 
+0.400645 3.20554 -18.0153 -6.3994 0.031458 -6.18354 0.0498252 -1.45426 
+0.195857 -3.40916 -4.20649 -54.2304 605.458 
 
 # parameters for class #328
-1000 0.711339 0.105138 0.358276 0.00930819 0.402902 0.0151781 0.171438 
-4.1921 3.09848 -4000.02 -6.11275 5.44351 -6.8412 0.385423 0.768824 
-0.896963 -4.73818 -16.1159 -54.3707 4444.71 
+3.29591 0.158023 0.0184593 0.0659222 0.0814933 0.0811401 0.00404387 0.033642 
+0.877072 3.87442 -22.2936 -6.60234 -2.09731 -4.25169 -11.9032 -1.54928 
+0.15531 -2.22548 -9.98963 -67.1076 1072.61 
 
 # parameters for class #329
-115.784 0.364122 0.0529722 0.243652 0.026086 0.239518 0.0147613 0.157796 
-0.402839 7.62676 -468.121 -4.22042 0.254438 -4.2707 -0.631531 -1.35844 
-0.477371 -2.73169 -2.07789 -140.157 1201.44 
+3.07167 0.0798181 0.0173727 0.0443741 0.112906 0.0660938 0.00295489 0.00728242 
+1.86792 13.3388 -16.6972 -3.03973 -2.2659 -2.46861 -17.763 -1.4342 
+0.1097 -0.611049 -30.5549 -249.451 2210.7 
 
 # parameters for class #330
-7.42542 0.414651 0.0263138 0.242709 0.0237261 0.23605 0.0119136 0.0513405 
-0.31147 7.45219 -34.7038 -3.68542 -0.686701 -4.03513 -2.07882 -0.335872 
-0.567364 -1.60911 -3.27752 -136.842 805.876 
+3.37463 0.462518 0.0348674 0.266013 0.0177996 0.231611 0.0952587 0.162394 
+0.519202 2.76016 -17.2066 -9.62601 -1.92608 -8.76442 1.10996 -2.03802 
+-11.0997 -6.15017 -4.3586 -47.5554 820.062 
 
 # parameters for class #331
-1000 0.8208 0.278567 0.612405 0.0590261 0.606909 0.0544246 0.502613 
-1.33361 40.1246 -4000 -8.12001 12.3054 -8.13523 2.73713 -3.94584 
-2.26073 -6.28395 -9.52547 -766.524 7958.49 
+7.76593 0.578081 0.061688 0.281825 0.0327915 0.388902 0.0192318 0.192963 
+2.43103 2.85685 -34.525 -12.6963 2.48009 -9.61329 2.36657 -3.78052 
+-0.0853302 -5.8457 -9.90747 -48.952 559.985 
 
 # parameters for class #332
-36.6477 0.545613 0.0300789 0.263318 0.0274954 0.377488 0.0100967 0.130281 
-0.398173 11.2867 -153.007 -12.5083 0.625197 -7.95042 1.90872 -5.88405 
--0.383424 -3.39397 -3.15747 -207.026 1361.97 
+9.75903 0.163906 0.0312887 0.0875915 0.0395098 0.104697 0.00478184 0.0494939 
+2.18157 1.07635 -43.4027 -2.1885 2.31765 -2.63109 4.41208 0.356324 
+-0.0211368 -2.20872 -11.5077 -17.0859 386.156 
 
 # parameters for class #333
-3.88647 0.287568 0.0626877 0.199174 0.0162827 0.185781 0.0808436 0.168138 
-0.509481 4.58354 -19.5235 -4.09076 -3.29361 -4.69887 0.736762 -0.933822 
--8.67735 -5.01501 -4.34097 -81.719 795.178 
+1.059 0.429074 0.0206398 0.234452 0.0176556 0.306447 0.0103629 0.150838 
+0.54042 2.06411 -8.88634 -11.2664 1.62622 -11.4386 1.50644 -0.485665 
+0.478365 -8.57125 -4.63461 -33.0472 602.042 
 
 # parameters for class #334
-5.47778 0.504028 0.0678964 0.286076 0.0366868 0.367219 0.0185391 0.203723 
-2.90799 2.98465 -25.468 -8.8242 3.59617 -8.35028 2.87434 -2.07592 
-0.226645 -6.12675 -13.6728 -51.3239 548.509 
+2.91374 0.304486 0.0146553 0.221931 0.0130497 0.156303 0.00600764 0.119833 
+0.899582 8.41267 -24.3692 -12.1472 1.20712 -13.2733 1.156 -2.52752 
+0.281582 -6.51075 -9.4953 -147.568 1230.8 
 
 # parameters for class #335
-4.50349 0.226067 0.0309885 0.14928 0.0529197 0.156015 0.0100724 0.091857 
-1.14211 3.26723 -19.1692 -3.89566 1.59169 -4.38679 5.49648 -0.788617 
--0.381148 -3.19958 -7.68537 -56.0784 552.797 
+1.86587 0.234327 0.0156042 0.151327 0.0121186 0.18908 0.010488 0.107145 
+0.716153 3.02657 -16.5634 -11.2689 1.34095 -11.4507 1.02078 -3.35502 
+0.705864 -7.4482 -7.46419 -51.3296 869.794 
 
 # parameters for class #336
-2.92169 0.27521 0.0251814 0.185907 0.0208732 0.132336 0.00776146 0.0875269 
-2.36371 0.679088 -14.7589 -6.36879 1.65974 -8.55062 2.01645 -0.00364699 
-0.0283321 -4.78748 -9.28008 -9.89066 377.14 
+0.952799 0.0577975 0.014263 0.037584 0.00288072 0.0168484 0.0919638 0.00521589 
+0.954443 2.91922 -7.08536 -4.10527 1.9046 -3.66687 0.187637 -0.595363 
+14.5375 -0.58462 -13.7357 -51.0409 1156.19 
 
 # parameters for class #337
-1.2378 0.251736 0.0349147 0.14786 0.0146117 0.107305 0.00493536 0.061228 
-0.527189 1.45736 -9.42985 -6.03175 3.63023 -7.34742 1.7158 0.436741 
-0.232209 -4.24037 -4.64072 -23.0773 507.899 
+1.2533 0.0595056 0.0198012 0.0360128 0.0023961 0.0360835 0.0252418 0.017572 
+0.430946 4.67926 -7.58263 -4.96654 2.39095 -3.7037 0.180632 -2.23323 
+3.49436 -1.2313 -4.75217 -83.3759 892.063 
 
 # parameters for class #338
-1.67154 0.16523 0.0104501 0.137119 0.0220041 0.111201 0.00713212 0.0977428 
-1.22422 7.57627 -15.2953 -6.49673 0.635199 -9.1042 1.71995 -1.07449 
-0.315102 -6.43961 -13.9311 -130.589 1045 
+2.51525 0.0681884 0.0123771 0.0381764 0.00208722 0.0260272 0.102862 0.0092276 
+1.04727 6.52862 -16.0131 -5.04838 -1.57269 -3.74577 0.106101 -1.21593 
+-16.1538 -0.851979 -15.0766 -118.853 1568.05 
 
 # parameters for class #339
-0.705049 0.127617 0.00472892 0.0718695 0.00590606 0.0823894 0.00499351 0.042701 
-1.00593 1.76261 -7.70548 -6.78392 -0.236406 -6.74261 0.371087 -1.07203 
--0.374007 -3.91682 -10.6388 -27.5283 558.341 
+0.610271 0.15898 0.00761818 0.119232 0.0140306 0.141693 0.0114043 0.0869764 
+0.424587 0.710222 -5.68955 -7.05137 0.272489 -10.443 1.01731 -0.361441 
+-0.0235725 -7.94596 -3.1616 -10.0137 605.945 
 
 # parameters for class #340
-0.776505 0.0687531 0.00589585 0.0571489 0.0098792 0.0359924 0.00719206 0.0230992 
-1.1512 2.77891 -8.49029 -2.66806 -0.480993 -4.22576 0.693091 -0.108015 
--0.795764 -1.98627 -13.6224 -45.0206 481.395 
+0.270853 0.012338 0.00183777 0.00862414 0.00114429 0.00613994 0.0402433 0.00436431 
+0.980355 2.16684 -3.5167 -0.702351 -0.192791 -1.14048 0.0509443 0.231924 
+-6.36335 -0.942455 -13.2498 -34.3445 605.106 
 
 # parameters for class #341
-0.80155 0.0827599 0.0123785 0.0710182 0.0064917 0.0666743 0.0053585 0.0646031 
-0.617508 0.978157 -8.31031 -3.74782 1.28026 -6.70822 0.702335 0.265076 
-0.0612471 -7.15588 -6.30096 -14.4761 587.056 
+0.244458 0.00534482 0.00982423 0.00318776 0.000770789 0.00278383 0.217038 0.00137362 
+1.65681 2.83146 -2.76593 -0.335573 -1.45667 -0.507911 0.031386 0.189984 
+-37.0154 -0.445565 -26.8799 -49.9547 2089.61 
 
 # parameters for class #342
-0.900409 0.129198 0.0132699 0.13525 0.0129485 0.143813 0.00833859 0.0964147 
-0.922435 3.39049 -9.3054 -7.34145 1.32807 -12.4919 1.155 -1.91273 
-0.408002 -8.63453 -10.7757 -56.2577 984.394 
+0.305543 0.0017781 0.000563957 0.00119973 0.000973103 0.00172763 1000 0.000993454 
+0.665986 2.03742 -3.14777 -0.0870494 0.0164982 -0.176914 0.0468191 0.192885 
+-0 -0.271497 -10.106 -34.7725 280.115 
 
 # parameters for class #343
-0.587351 0.0966593 0.00480066 0.10959 0.00701713 0.107361 0.00414098 0.0792037 
-0.828819 1.51176 -6.86197 -4.87888 0.201186 -11.2896 0.41413 -0.00421562 
-0.131162 -8.69047 -9.11146 -23.1143 777.182 
+0.325176 0.00330792 0.000797912 0.00116686 0.042968 0.0026714 0.00137585 0.000515181 
+1.28605 3.38491 -3.79965 -0.0123354 -0.00216379 -0.179091 -7.01621 0.240665 
+0.0799155 -0.189232 -19.4539 -57.0424 703.111 
 
 # parameters for class #344
-0.408296 0.120784 0.00437458 0.11256 0.00643636 0.125626 0.00505671 0.0702739 
-0.914792 1.38254 -5.33066 -7.42713 0.297645 -12.8579 0.365359 -1.19823 
-0.260484 -7.89923 -9.84857 -21.0579 887.736 
+0.267377 0.002356 0.00982173 0.00138611 0.0390084 0.00227776 0.000841629 0.000783619 
+0.951971 1.86859 -3.34426 -0.0582733 -1.3916 -0.270479 -6.43498 0.250939 
+0.00766537 -0.303552 -14.2046 -30.8414 615.201 
 
 # parameters for class #345
-1.10197 0.0426218 0.00651241 0.049492 0.00242671 0.0398092 0.00404155 0.0399226 
-2.29104 12.1528 -10.7001 -3.61193 0.6385 -6.4605 0.126065 -1.36493 
-0.250576 -4.26703 -33.0956 -218.028 1601.75 
+0.207723 0.008694 0.00275527 0.00501542 0.00164987 0.00810267 0.00432383 0.0035116 
+1.57803 3.07697 -3.13841 -0.078814 0.280839 -0.70952 0.115992 0.892841 
+0.33224 -0.94717 -22.5577 -50.7116 487.351 
 
 # parameters for class #346
-1.43234 0.0544396 0.0177799 0.0243334 0.0849944 0.0297196 0.00100585 0.0152098 
-0.978822 4.74446 -11.5409 -4.00985 -2.42245 -2.82998 -13.3481 -1.02077 
--0.000625996 -1.73613 -13.0705 -82.2268 1288.37 
+0.196672 0.0206476 0.0010665 0.0170391 0.00235683 0.0151376 0.00695189 0.0105603 
+0.805513 1.46242 -3.15412 -0.782432 0.0320684 -2.49039 0.0982153 0.966247 
+0.506982 -2.31986 -10.256 -22.4596 437.663 
 
 # parameters for class #347
-1.34923 0.0775346 0.0286668 0.0317997 0.351143 0.0749937 0.00189798 0.0177959 
-1.61543 2.0138 -10.5532 -2.96526 -3.95549 -2.48097 -56.8618 -0.423834 
-0.0326002 -1.99074 -21.5901 -32.0306 2832.09 
+0.285744 0.036789 0.00176481 0.0247206 0.00760265 0.0244829 0.00728382 0.0153731 
+1.58029 2.71927 -4.53934 -1.00137 0.121047 -2.68291 0.544052 1.30446 
+0.563427 -2.67187 -21.2675 -43.6781 549.961 
 
 # parameters for class #348
-1000 0.425844 0.261862 0.303356 0.0899537 0.261372 0.0760568 0.211576 
-1.79926 3.92852 -4000 -4.7611 2.17726 -5.19002 1.62284 -1.37274 
--0.119071 -2.93533 -4.2447 -71.8889 4411.54 
+0.199425 0.0175792 0.00611902 0.00871549 0.00183593 0.0152359 0.00313764 0.00604541 
+0.981028 1.81079 -3.13999 -0.863213 0.687308 -1.40803 0.131158 0.874722 
+0.287739 -1.44181 -13.2014 -28.779 419.998 
 
 # parameters for class #349
-5.90782 1.12633 0.0906672 0.446587 0.0173264 0.574212 0.0156416 0.219261 
-4.49639 2.37197 -27.5605 -20.3773 2.65729 -13.8422 0.704414 -2.96759 
-0.205964 -6.44611 -11.38 -39.1912 506.785 
+0.440482 0.0304194 0.0029007 0.0155712 0.00181478 0.0263139 0.00397721 0.0127283 
+0.636361 3.4845 -5.21687 -1.27723 0.255677 -1.84365 0.0727536 0.713895 
+0.386423 -2.08942 -8.1983 -58.3091 511.844 
 
 # parameters for class #350
-3.94665 0.243504 0.0414746 0.108453 0.0486282 0.179828 0.0066492 0.0633961 
-0.842517 2.24779 -19.8163 -4.13176 -3.01744 -3.31075 -5.22576 -0.676553 
--0.0894993 -2.32765 -5.27286 -37.3094 484.011 
+0.734763 0.0218772 0.0165477 0.016874 0.00284123 0.00847681 0.10092 0.00354682 
+1.32455 3.87093 -6.6914 -2.12917 2.30617 -2.33839 0.182517 -0.339223 
+16.3649 -0.538253 -19.0697 -66.5289 1320.69 
 
 # parameters for class #351
-87.8357 0.497815 0.0590936 0.271968 0.0194024 0.270062 0.0127383 0.131868 
-0.549695 2.97914 -358.51 -4.10334 -1.09121 -4.23475 -0.969742 -0.251664 
-0.208379 -2.68201 -2.749 -52.6764 688.635 
+0.495356 0.0179135 0.00437204 0.00749917 0.0434539 0.0123821 0.00182129 0.00273607 
+1.0081 4.89076 -4.91336 -2.07903 -0.541492 -1.40409 -6.96472 -0.733591 
+0.0882813 -0.486126 -14.0921 -85.2447 939.865 
 
 # parameters for class #352
-1000 0.857815 0.332826 0.576336 0.0734013 0.524602 0.0722878 0.323883 
-1.90164 6.18663 -4000 -7.36812 5.51045 -7.30953 1.09309 -2.35863 
-1.30905 -3.39262 -4.85884 -115.272 4641.21 
+0.695175 0.03807 0.00413999 0.0189444 0.0554985 0.0260605 0.00383899 0.00975609 
+1.2714 2.8579 -7.07696 -2.4324 -0.46073 -2.33477 -8.6612 -0.427427 
+0.300904 -1.40143 -16.9443 -47.417 837.557 
 
 # parameters for class #353
-6.48488 0.267152 0.0833 0.21773 0.0412657 0.263378 0.0231147 0.412627 
-0.641316 65.7728 -21.4912 -4.09195 1.34186 -3.97022 1.28155 -3.26498 
-0.00929466 -3.48628 -5.11288 -1273.78 6288.95 
+0.793123 0.0563886 0.00156065 0.020432 0.0130931 0.0367412 0.00265679 0.0108053 
+0.411848 4.97955 -5.95391 -4.6164 -0.0970326 -2.3005 -1.7765 -2.02117 
+0.167413 -0.965721 -4.9865 -88.7183 743.668 
 
 # parameters for class #354
-206.819 0.808269 0.191206 0.389463 0.0773015 0.535881 0.0525024 0.226035 
-5.93404 2.85884 -834.732 -9.22802 6.94633 -8.19352 2.9963 -0.963294 
-1.75393 -5.32507 -16.4236 -48.8664 1291.08 
+0.581907 0.0576754 0.00121212 0.0198821 0.0174437 0.0394672 0.00651315 0.00997829 
+0.590367 1.21091 -5.07585 -1.85982 -0.0427052 -1.48811 -2.43274 0.137643 
+0.691263 -1.14582 -6.74783 -19.2129 335.614 
 
 # parameters for class #355
-1000 1.72406 0.447598 0.885545 0.0944575 0.966748 0.0841881 0.362468 
-1.61131 25.2163 -4000 -34.7242 15.7889 -21.6185 2.91972 -15.3419 
-3.31172 -4.78735 -8.18421 -478.922 6876.24 
+1000 0.222298 0.0573477 0.196805 0.0117149 0.158165 0.0118487 0.177464 
+1.23174 39.2581 -4000 -14.5767 1.94362 -13.9509 0.325257 -9.5307 
+0.4558 -2.70318 -5.63757 -755.708 8332.45 
 
 # parameters for class #356
-1000 1.1709 0.298908 0.648784 0.0899502 0.707764 0.101968 0.356431 
-1.56003 10.7028 -4000 -20.15 8.16174 -13.9464 1.6052 -9.14329 
-3.70506 -4.34921 -6.16069 -201.364 5270.38 
+1000 0.108268 0.0328876 0.0791649 0.0208411 0.0733198 0.0082477 0.0593235 
+2.69254 8.59439 -4000 -7.1888 0.327043 -5.87294 0.0973068 -4.29726 
+0.12095 -1.05526 -4.09173 -162.422 5096.84 
 
 # parameters for class #357
-1000 0.981605 0.374177 0.614841 0.0977278 0.510189 0.0919813 0.300413 
-1.41724 18.3628 -4000 -14.7393 11.2808 -11.9388 3.70148 -5.4148 
-2.02092 -3.84643 -6.61331 -346.512 5929.84 
+4.84337 0.134948 0.011387 0.113037 0.00405115 0.122713 0.00332701 0.123905 
+0.510785 29.5927 -13.503 -6.77257 0.0310965 -6.11881 -0.118755 -5.67751 
+0.108072 -1.44962 -5.06181 -577.636 3118.35 
 
 # parameters for class #358
-5.89253 0.465164 0.0601796 0.312684 0.0204257 0.31883 0.0110294 0.119218 
-0.767064 15.0416 -20.8153 -11.6995 2.56481 -9.21054 1.29235 -6.63448 
-0.16871 -1.78211 -7.19153 -287.988 1675.24 
+3.51394 0.0583998 0.0243965 0.0510103 0.00812218 0.0473178 0.0087853 0.0466624 
+0.31114 22.2468 -11.8168 -4.21157 -0.071961 -3.95696 0.276978 -3.15231 
+-0.352296 -0.793945 -2.75495 -432.577 2373.71 
 
 # parameters for class #359
-1000 0.503992 0.397869 0.400548 0.0756723 0.355753 0.107197 0.300743 
-1.54286 15.5464 -4000 -13.6446 22.6174 -12.8433 3.49801 -7.85553 
-7.09731 -5.27346 -10.8281 -292.793 6156.56 
+3.86263 0.12636 0.0100408 0.0907273 0.00749518 0.102856 0.0153311 0.0690251 
+0.375664 21.0398 -18.9846 -7.50658 -0.48969 -6.23166 0.328316 -5.1608 
+-1.59163 -2.27083 -3.64509 -398.567 2310.55 
 
 # parameters for class #360
-1000 0.67894 0.0765125 0.476424 0.0279956 0.487004 0.025324 0.350107 
-1.28902 19.6459 -4000 -26.6909 4.6624 -21.0579 1.7138 -16.7652 
-1.51026 -6.32491 -9.8259 -372.971 6597.51 
+682.206 0.0893438 0.0145592 0.0651969 0.00520051 0.0755599 0.00344573 0.0697994 
+1.01775 17.4081 -2723.71 -6.12149 -0.380314 -4.97243 -0.16819 -4.59141 
+-0.0593918 -1.40508 -3.98292 -330.919 4610.26 
 
 # parameters for class #361
-1000 0.331308 0.0756753 0.204465 0.025597 0.197178 0.0259439 0.123408 
-1.05487 7.64687 -4000 -16.4943 6.68571 -11.7966 2.24089 -8.25695 
-2.26946 -3.63166 -8.83418 -141.494 5433.67 
+1.79654 0.314488 0.0224947 0.168608 0.010308 0.194073 0.00801745 0.102158 
+0.546879 8.24098 -12.5209 -13.4724 1.61501 -9.90502 0.621803 -5.18306 
+0.538532 -4.24893 -4.38982 -147.251 1140.69 
 
 # parameters for class #362
-1000 0.288254 0.0522861 0.18203 0.0228283 0.182133 0.0210564 0.104114 
-1.13813 8.52141 -4000 -18.4604 4.47974 -13.1075 1.92869 -10.2135 
-1.79432 -3.02797 -9.2548 -158.455 5653.77 
+3.01713 0.0442643 0.0236648 0.0240592 0.0760558 0.0427162 0.0027262 0.0131018 
+0.509801 3.9955 -16.356 -2.76946 3.02856 -1.92506 11.317 -2.0121 
+0.189491 -0.926421 -6.70738 -72.2469 1057.02 
 
 # parameters for class #363
-6.2323 0.0491277 1000 0.0444142 1000 0.039919 1000 0.0743302 
-0.101313 205.23 -5.92078 -3.72411 0.00452052 -3.53479 -0.0104577 -2.87526 
-0.00981552 -0.570407 -1.36283 -4079.21 20474.4 
+1.9098 0.0563873 0.00767052 0.0440207 0.00943173 0.0273582 0.00141766 0.0121966 
+0.26545 8.21051 -8.18951 -4.81228 0.531998 -4.40724 1.06167 -1.92691 
+-0.0309015 -0.576967 -2.56329 -153.646 1073.83 
 
 # parameters for class #364
-1000 0.187166 1000 0.187166 1000 0.187166 1000 0.00255455 
-1000 1000 -0 -29.1378 -0 -29.1378 -0 -29.1378 
--0 0.561807 -0 -20013.2 103553 
+2.17011 0.137426 0.00215029 0.0551255 0.00257721 0.0766063 0.00296315 0.0266776 
+0.29997 5.67708 -17.7637 -8.08954 -0.000330442 -4.82998 -0.096247 -2.36359 
+0.131137 -1.77548 -3.17371 -100.426 809.916 
 
 # parameters for class #365
-2.87194 0.0045202 1000 0.00426485 1000 0.00456401 1000 0.0452613 
-0.0660899 91.8303 -4.1031 0.438071 -0.034487 0.395093 0.0131117 0.461757 
-0.0163492 -0.395969 -0.674117 -1822.36 9090.73 
+55.1183 0.0231689 0.0286193 0.0169776 0.0098964 0.0159493 0.0130319 0.0143552 
+13.7664 3.21191 -226.231 -2.2496 0.123393 -2.0577 0.0761192 -1.16404 
+0.00137238 -0.71598 -8.15867 -56.7296 670.555 
 
 # parameters for class #366
-0.993991 0.00772049 0.00265981 0.0052685 0.00184073 0.0048717 0.000893721 0.00331233 
-0.179669 7.31646 -4.83847 1.3243 0.174023 0.755236 0.155379 0.973216 
-0.0175909 -0.229481 -1.18055 -136.687 847.376 
+1.56236 0.106737 0.0102426 0.0562442 0.00698476 0.0591885 0.00573657 0.0331889 
+0.826964 2.96749 -8.52419 -9.12884 0.393985 -6.2785 0.415987 -3.50327 
+0.0209513 -1.92139 -2.68223 -51.1671 737.507 
 
 # parameters for class #367
-454.066 0.028755 0.0376563 0.0220047 0.0187072 0.0213028 0.0315509 0.0208452 
-2.00013 9.63703 -1820.09 1.80206 1.68577 1.04162 1.44209 1.66162 
-0.0499761 -0.765414 -6.9154 -178.988 2822.75 
+1.40744 0.0905441 0.00750613 0.0469845 0.0036843 0.0511857 0.00270809 0.0271475 
+0.54556 8.61692 -7.86831 -10.2643 0.290625 -6.39291 0.183332 -4.614 
+0.0467147 -1.41396 -2.19422 -155.218 1393.17 
 
 # parameters for class #368
-8.1706 0.0233881 0.00257655 0.0235651 0.000986151 0.0219034 0.000998556 0.148371 
-0.545204 216.523 -14.4224 1.49205 0.0007947 1.42978 -0.0127143 1.46579 
-0.0119583 -1.36142 -7.22911 -4298.7 21483.9 
+0.58423 0.0271217 0.00284094 0.0111713 0.014822 0.0104332 0.0158115 0.00295914 
+1.0685 2.14301 -5.48075 -1.40387 0.22276 -1.05016 2.16032 -0.0562786 
+-2.19285 -0.436506 -14.9226 -35.14 477.94 
 
 # parameters for class #369
-1000 0.0975607 0.00548045 0.0540338 0.0028995 0.0687811 0.00309452 0.0345687 
-1.58454 14.4346 -4000 3.05492 0.108709 1.07414 0.0722908 2.94012 
-0.0388438 -0.942515 -4.29665 -271.965 5388.61 
+0.590159 0.0067004 0.00158647 0.00536428 0.00210264 0.0032857 0.0338132 0.00168285 
+1.47992 5.86514 -5.19464 -0.768292 0.126384 -0.865347 0.077315 -0.12953 
+5.27739 -0.363781 -22.9981 -104.924 912.119 
 
 # parameters for class #370
-1.24161 0.0672635 0.00741946 0.0330452 0.00220092 0.0296648 0.005193 0.014332 
-0.23171 9.26713 -6.72399 2.36278 0.363775 0.349483 0.0443512 1.75218 
-0.35758 -0.827249 -1.2157 -170.164 909.715 
+0.665192 0.02067 0.00140574 0.0109013 0.00240912 0.0128411 0.00129549 0.00726707 
+0.258127 4.71409 -5.97621 -3.02055 -0.0662589 -2.1527 0.114089 -1.16336 
+-0.0896748 -0.887789 -2.55974 -82.8527 713.097 
 
 # parameters for class #371
-7.75619 0.112437 0.00867598 0.0988097 0.00759568 0.0999643 0.0022574 0.125176 
-0.879831 26.9353 -18.7452 2.82347 0.43948 2.00586 0.642204 2.99141 
-0.00118131 -1.83741 -10.0538 -520.377 2667.34 
+0.684055 0.0519647 0.00237336 0.0360422 0.00612862 0.0418656 0.00208008 0.026041 
+0.910295 5.24031 -7.33065 -4.69765 -0.0940923 -5.11759 0.378453 -1.6358 
+-0.0882343 -2.92856 -10.177 -87.9745 858.779 
 
 # parameters for class #372
-1.8408 0.176827 0.0325971 0.0964405 0.0195251 0.0992736 0.0206101 0.0528588 
-0.484895 12.0157 -13.1541 3.93284 2.18823 0.838305 1.236 3.50523 
-1.45507 -1.91364 -4.6158 -219.925 1231.3 
+0.922041 0.0143915 0.0014196 0.0262146 0.00227675 0.0239852 0.00246723 0.0204113 
+0.888296 2.12664 -9.03185 -1.29195 -0.0808515 -4.40174 -0.00235681 -0.282853 
+0.041818 -3.30158 -12.1753 -34.874 608.229 
 
 # parameters for class #373
-1000 0.547473 0.0431487 0.411419 0.0145384 0.360546 0.0212294 0.249105 
-1.07001 32.0627 -3996.34 7.3715 2.39254 3.55177 0.765452 6.59661 
-1.209 -4.25552 -7.64643 -611.568 7086.97 
+0.329392 0.0156112 0.00305267 0.0104625 0.00371901 0.0149457 0.00180546 0.00689608 
+0.734699 1.11385 -4.00781 -1.31079 -0.31566 -1.72922 -0.451129 -0.126025 
+0.0453379 -1.21622 -8.45216 -16.5918 328.562 
 
 # parameters for class #374
-1000 0.201142 0.0245381 0.106251 0.0146878 0.147357 0.00424646 0.0726389 
-2.51361 5.65882 -4000 2.63906 1.41389 0.100817 1.00696 3.72693 
-0.177918 -2.32308 -10.5616 -102.628 4597.31 
+1.69694 0.0637069 0.00282821 0.035239 0.00752865 0.0348675 0.00233631 0.0166344 
+0.288676 5.84712 -10.0688 -6.67604 -0.216032 -4.45702 -0.933793 -2.92852 
+0.0762523 -1.02459 -2.63076 -106.92 984.211 
 
 # parameters for class #375
-1000 0.46144 0.0663736 0.179999 0.0182875 0.255892 0.0164909 0.0863933 
-2.82846 4.33196 -4000 0.413796 3.72138 -1.87344 0.984568 3.12227 
-0.934954 -2.59145 -11.6861 -77.8524 4500.53 
+0.821548 0.0325411 0.00297682 0.0269506 0.00506861 0.0228721 0.00298265 0.0158203 
+0.281124 0.659095 -7.48253 -2.4106 -0.284117 -3.58061 -0.0317351 -0.387213 
+-0.257314 -1.99786 -2.88336 -10.1027 355.949 
 
 # parameters for class #376
-6.71867 0.458121 0.0206941 0.379805 0.0140299 0.389193 0.00632602 0.379655 
-0.658354 56.0328 -19.712 -2.44148 1.03176 -2.93498 0.743661 -1.13984 
-0.281418 -3.85405 -7.63341 -1092.9 5440.86 
+0.888961 0.0453548 0.00208847 0.0233482 0.000960826 0.0162186 0.000829396 0.00743548 
+0.193476 2.82649 -6.77987 -4.93606 -0.119643 -3.60051 -0.023002 -1.00895 
+-0.0212075 -0.783588 -1.62551 -48.9546 594.933 
 
 # parameters for class #377
-1000 0.213566 0.0520189 0.196797 0.0217137 0.152305 0.019957 0.167251 
-1.34472 17.0356 -3999.9 1.26467 3.94383 -0.068213 1.62261 1.85659 
-1.50448 -3.92003 -10.9294 -318.181 5697.51 
+0.680395 0.0871142 0.00310726 0.135213 0.00468644 0.110793 0.00740855 0.0788501 
+0.542168 1.98758 -7.46539 -4.39089 0.113006 -12.8175 0.14771 -0.697382 
+0.0873692 -7.30671 -5.97783 -31.3446 736.35 
 
 # parameters for class #378
-1000 0.810845 0.238512 0.538867 0.0488529 0.542821 0.0397436 0.375519 
-1.46937 14.575 -4000 -13.7996 14.7077 -11.6818 3.04361 -6.70884 
-2.39488 -6.63285 -11.6331 -273.331 5805.26 
+1.25322 0.0967137 0.00443523 0.0506509 0.00144042 0.0730149 0.00183016 0.0397304 
+0.330336 4.00636 -7.91468 -6.88588 -0.114584 -4.81496 -0.0209263 -3.46619 
+-0.0260501 -2.14558 -1.77742 -69.9994 675.953 
 
 # parameters for class #379
-5.2102 0.419324 0.173761 0.286463 0.0321764 0.245228 0.0443412 0.0952247 
-0.449222 4.66709 -19.4734 -8.45257 11.8028 -6.9111 1.74148 -3.94872 
-3.5226 -1.71056 -4.98785 -88.6124 884.631 
+0.683118 0.0529097 0.00417235 0.047291 0.00575335 0.0286164 0.00738557 0.0224792 
+0.253818 1.73286 -5.91578 -4.74 0.017111 -6.74363 0.0640782 -0.955769 
+0.082052 -2.52551 -1.79417 -28.1248 604.47 
 
 # parameters for class #380
-1000 1.26782 0.164351 0.953382 0.0415756 0.810804 0.0336446 0.542771 
-1.45303 43.0539 -4000 -30.5482 7.21651 -26.2739 1.85367 -16.728 
-1.43408 -6.94176 -10.2882 -826.744 8592.12 
+6.56025 0.0385392 0.00175595 0.0242121 0.00230818 0.0234434 0.00353396 0.012719 
+0.344144 6.62321 -53.3993 -3.73672 0.028559 -3.29899 -0.00194248 -1.29895 
+0.184078 -1.13863 -4.07685 -119.068 953.646 
 
 # parameters for class #381
-0.697104 0.0386888 0.0193136 0.0203899 0.0531162 0.0202444 0.00683876 0.00635478 
-0.993609 3.24792 -6.6891 -0.204657 2.64621 -1.02907 8.28252 0.614522 
-0.561797 -0.801287 -13.8569 -55.4222 814.561 
+4.0397 0.0199546 0.00276098 0.0271409 0.00158195 0.0285081 0.00175961 0.0239831 
+1.59978 4.90199 -34.3457 -1.5625 -0.244214 -3.64497 -0.0201221 -0.494559 
+0.0179528 -2.98298 -23.2876 -85.1291 829.134 
 
 # parameters for class #382
-0.520407 0.000828868 0.000298662 0.000373739 0.341981 0.000449492 0.0771883 0.00010371 
-4.13152 7.90232 -4.80403 -0.127942 0.00750628 -0.123154 59.3381 -0.00103085 
--13.0842 -0.0686668 -75.0462 -148.109 4259.97 
+1.82068 0.0287408 0.00609807 0.019839 0.00115091 0.0161557 0.051838 0.00365634 
+1.1398 8.57701 -9.99375 -2.97088 0.765719 -2.42352 0.0341464 -1.21654 
+8.24189 -0.408168 -18.3397 -159.878 1417.03 
 
 # parameters for class #383
-0.261663 0.00604341 0.0106278 0.00309759 0.000475725 0.00401994 0.0282289 0.00148803 
-1.29557 2.49011 -3.82294 -0.396951 -1.5295 -0.551747 -0.00264946 0.238077 
--4.52619 -0.43725 -19.2071 -40.4649 609.963 
+1.4953 0.0149364 0.00388755 0.0100207 0.000647182 0.0125111 0.00617467 0.00368799 
+0.231654 6.87232 -7.0643 -2.55394 0.384576 -1.88921 0.0233775 -1.90614 
+0.76507 -0.242968 -2.52421 -128.21 975.715 
 
 # parameters for class #384
-0.586203 0.0551536 0.00583104 0.0345177 0.0194751 0.0408079 0.00129625 0.0140239 
-0.976551 1.50641 -6.42406 -3.11696 -0.64804 -3.76158 -2.79 -0.409538 
-0.0297061 -1.71419 -11.6903 -23.4399 509.783 
+1.8593 0.0108384 1000 0.0098761 1000 0.0100721 1000 0.0312919 
+0.0662114 49.2866 -3.28937 -1.83793 -0.140318 -1.73509 0.00293178 -1.64669 
+-0.00543032 -0.385654 -0.666988 -974.237 5053.19 
 
 # parameters for class #385
-1.64186 0.0294099 0.00217564 0.0097907 0.0694526 0.0230306 0.00212913 0.00211795 
-2.79461 7.23413 -9.88487 -0.68225 -0.147737 -0.587142 -10.9741 -0.0633976 
-0.128749 -0.343953 -47.1859 -132.007 1328.89 
+0.663491 0.00366149 0.0252955 0.00242625 0.0268143 0.00150409 0.0407945 0.000553296 
+2.78393 5.53173 -6.116 -0.407144 -3.95138 -0.473226 -4.32647 -0.0271338 
+-6.70733 -0.182604 -47.3632 -100.437 1377.73 
 
 # parameters for class #386
-1.17385 0.32242 0.0186831 0.164233 0.0196206 0.222913 0.00740192 0.134853 
-0.544246 1.87195 -6.93236 -12.3696 0.867493 -9.73643 1.60184 -3.78423 
--0.101412 -6.77729 -2.69604 -30.4494 582.124 
+7.26213 0.00451855 0.00408394 0.00279396 0.151972 0.00291563 0.00112977 0.000576713 
+8.53226 8.91204 -18.8208 -0.0670424 -0.590456 -0.169306 -25.6944 0.093632 
+0.105979 -0.114341 -96.4774 -100.798 1739.86 
 
 # parameters for class #387
-1.00806 0.13291 0.0177088 0.0774432 0.00837552 0.0800206 0.0052444 0.037992 
-0.399813 6.3324 -8.44344 -7.80396 1.63471 -6.52487 0.872547 -2.25736 
-0.0713472 -2.6288 -4.08729 -110.916 929.773 
+1000 0.000133211 1000 0.000133211 1000 0.000133211 1000 6.55934e-05 
+1000 342.555 -0.0914006 -0.122265 -0 -0.122265 -0 -0.122265 
+-0 0.0804601 -0 -6857.05 34438.3 
 
 # parameters for class #388
-0.742699 0.170419 0.0170601 0.115709 0.0235485 0.149144 0.00566581 0.0938685 
-0.384772 1.83289 -6.56564 -9.52107 1.27217 -10.3149 2.04338 -2.81935 
-0.121197 -7.42496 -3.10144 -29.1435 768.526 
+1000 0.269151 0.193515 0.248798 0.912489 0.181613 0.0498379 0.244584 
+8.12586 40.3192 -4000 1.20151 -0.2007 -0.35802 -0.0639078 1.8828 
+-0.0993828 -3.09183 -3.53093 -769.748 7706.73 
 
 # parameters for class #389
-0.771064 0.109517 0.00465094 0.0628386 0.0102829 0.0922139 0.00610432 0.0525056 
-1.27514 2.57736 -7.94246 -4.39903 -0.0240388 -4.99577 0.665213 -0.326861 
--0.118424 -4.36097 -13.5121 -40.894 506.939 
+7.2996 0.0524395 0.00676837 0.0478186 0.00788449 0.0449511 0.00705935 0.0616364 
+0.756617 28.3251 -13.1786 0.326268 0.0521646 0.0498091 0.687001 0.511832 
+-0.56231 -0.920443 -10.0853 -554.194 2822 
 
 # parameters for class #390
-0.754919 0.0941259 0.00338279 0.0430697 0.00718167 0.0659325 0.00306966 0.0280584 
-1.3891 7.87731 -8.38351 -6.50719 -0.269377 -4.85949 0.459289 -1.48154 
--0.272128 -2.92967 -18.1282 -135.619 1063.69 
+2.36632 0.481892 0.0374744 0.329257 0.0216102 0.301059 0.0108329 0.189728 
+0.853127 6.79668 -11.3109 -0.550745 2.13707 -3.30816 1.77164 2.3636 
+0.214418 -4.83161 -5.67166 -121.786 712.313 
 
 # parameters for class #391
-0.552824 0.0882547 0.00208055 0.0676193 0.00559638 0.0770141 0.00345439 0.0491735 
-0.627213 0.536668 -5.88361 -4.40003 0.042353 -7.32511 0.333161 0.429904 
-0.00136426 -5.88763 -4.80733 -6.52113 527.692 
+1.57228 0.750647 0.0396697 0.459278 0.027485 0.446747 0.0136509 0.260924 
+0.56945 3.68056 -10.6649 -15.6352 2.79801 -15.8238 2.10145 -2.78343 
+0.643572 -9.58788 -4.26582 -63.5052 738.742 
 
 # parameters for class #392
-0.549403 0.0321099 0.00664421 0.0278147 0.00474256 0.0332553 0.00276762 0.0247994 
-0.405335 0.786864 -5.84862 -1.572 0.688055 -3.10493 0.495872 0.493765 
-0.0834702 -3.51688 -4.26099 -11.6445 384.153 
+2.35669 0.159316 0.0477032 0.102728 0.013971 0.111501 0.0229603 0.0708264 
+0.898373 7.93038 -18.2983 -1.48461 4.12214 -2.61706 0.94663 0.573723 
+2.01797 -3.02124 -9.05268 -141.21 925.034 
 
 # parameters for class #393
-0.39832 0.0891208 0.00467314 0.101595 0.0076042 0.101917 0.00665719 0.0797678 
-0.424466 2.83658 -4.33031 -7.22453 0.198257 -13.4929 0.443014 -2.94255 
-0.105919 -8.75236 -3.77906 -45.395 1110.4 
+1000 0.335471 0.0646612 0.185301 0.0156614 0.225478 0.0248224 0.110662 
+1.12668 6.43521 -4003.98 -10.1899 6.41861 -7.2311 1.48797 -4.89904 
+2.49662 -3.77708 -10.1988 -117.001 5053.57 
 
 # parameters for class #394
-0.549035 0.0288395 0.00904062 0.0705703 0.00285605 0.0697807 0.00391296 0.0700351 
-1.73569 2.4424 -6.23447 -2.12393 1.03809 -9.70679 0.122879 -0.470558 
-0.180621 -9.6787 -24.3951 -39.9774 1053.45 
+3.05304 0.0622869 0.018813 0.0494153 0.0020069 0.0591523 0.0117216 0.0440967 
+0.49104 14.0127 -8.90902 -3.19653 1.60268 -2.80749 0.0835345 -2.70434 
+1.24516 -0.930688 -6.03277 -269.42 1546.53 
 
 # parameters for class #395
-0.424598 0.0189246 0.00833858 0.0367584 0.00230827 0.0381529 0.00243659 0.0283611 
-1.28549 2.5114 -5.24815 -1.76831 1.00319 -6.56462 0.160967 -0.214978 
-0.0859285 -5.19901 -17.8513 -40.7977 899.621 
+1000 0.299444 0.0711028 0.230299 0.021054 0.199754 0.0208542 0.170241 
+1.25679 11.5375 -4000 -15.9374 5.31981 -13.8376 1.55002 -9.2609 
+1.54913 -4.16065 -9.65182 -215.988 5764.09 
 
 # parameters for class #396
-0.480874 0.0310174 0.00378151 0.0492996 0.00321053 0.0481135 0.00341626 0.0427572 
-1.21341 5.1908 -5.46819 -3.08531 0.353463 -8.16319 0.181624 -1.42258 
-0.15924 -6.18162 -16.4564 -88.94 1160.53 
+1.22482 0.0457666 0.00217554 0.0392115 0.00634565 0.0282864 0.0159997 0.0222735 
+0.593686 1.14186 -9.27013 -1.98579 -0.0440725 -2.76714 0.647206 -0.338835 
+-2.05621 -1.94871 -6.40676 -18.0944 350.878 
 
 # parameters for class #397
-0.316455 0.0250458 0.00524635 0.0107839 0.00199679 0.0197525 0.00218252 0.00886843 
-1.0255 1.83771 -3.94737 -1.32878 -0.568417 -1.43764 0.0748109 0.379112 
--0.205643 -1.4887 -13.3125 -28.9258 373.467 
+4.7307 0.112489 0.0102829 0.0715213 0.00245796 0.070325 0.0847097 0.0236753 
+0.752271 12.2749 -27.5418 -6.04557 -1.16165 -5.01137 0.102969 -2.61962 
+-12.5 -1.46843 -10.0976 -227.965 1882.46 
 
 # parameters for class #398
-0.705143 0.0303624 0.0375092 0.0129482 0.0500014 0.0212887 0.00481047 0.00507655 
-1.55221 3.01702 -6.12412 -1.87487 -5.76131 -1.38567 -8.00333 -0.371507 
--0.568683 -0.754054 -23.5356 -51.8827 1025.27 
+1.94952 0.412815 0.0226568 0.192542 0.01442 0.293096 0.0180741 0.119207 
+0.797958 4.02603 -16.5351 -11.7088 1.77683 -9.17699 1.07377 -2.4151 
+1.20704 -5.92247 -7.83593 -69.1354 731.457 
 
 # parameters for class #399
-1.36066 0.0180783 0.0170923 0.0106661 0.223971 0.0121207 0.00115061 0.00326575 
-0.440978 0.330351 -5.14289 -0.181319 -2.48841 -0.48152 -37.2951 0.275339 
-0.0661712 -0.465943 -5.63824 -4.57451 1757.91 
+0.523171 0.19414 0.0119361 0.118033 0.0077717 0.142552 0.0162528 0.0810324 
+0.2959 2.16367 -4.78548 -11.1119 0.840065 -11.1043 0.444519 -3.12001 
+1.19741 -6.61754 -2.66175 -35.8566 822.138 
 
 # parameters for class #400
-7.53251 0.112926 0.0587705 0.10523 0.066464 0.0934252 0.0110753 0.130018 
-0.738791 28.8901 -16.3638 -2.33564 2.9693 -2.64634 5.97299 -1.51474 
--0.0705269 -1.67907 -9.22958 -561.886 3014.02 
+0.932258 0.306515 0.0285199 0.168259 0.0100307 0.145777 0.0146931 0.076584 
+0.511302 1.88687 -7.07019 -11.6505 2.68908 -10.3714 0.802731 -2.1798 
+1.34199 -4.6064 -4.21469 -31.2184 647.576 
 
 # parameters for class #401
-4.44902 0.379261 0.0494082 0.194066 0.190775 0.248403 0.0152865 0.155806 
-0.511503 1.70386 -24.5658 -6.00437 -3.60362 -5.2747 -23.5408 -1.09912 
-0.707895 -5.819 -4.88428 -29.4466 1119.79 
+0.795035 0.125265 0.00523468 0.0965353 0.00696351 0.0715221 0.00430391 0.0522572 
+0.448101 2.50476 -7.30116 -7.69587 0.0119484 -9.5691 0.47452 -1.65933 
+-0.196611 -4.48048 -3.71014 -40.106 700.486 
 
 # parameters for class #402
-7.14644 0.351685 0.0456596 0.174538 0.0223625 0.220772 0.0248032 0.117111 
-0.257247 2.71187 -31.3716 -5.14228 0.902466 -4.08395 -0.758552 -1.32366 
-1.55088 -3.25335 -1.85415 -47.5884 382.745 
+0.790896 0.0053427 0.00112468 0.00262475 0.17009 0.00395489 0.00692632 0.000820178 
+2.63652 6.48742 -6.16653 -0.447219 0.100437 -0.409167 28.5414 -0.117378 
+-0.977889 -0.221781 -45.2172 -118.489 2075.3 
 
 # parameters for class #403
-1000 0.505135 0.279895 0.31646 0.0985523 0.308395 0.0950918 0.193749 
-1.98071 4.31343 -4000 -7.20579 5.97184 -6.62946 3.92228 -2.33804 
-0.150768 -3.19228 -6.47202 -78.6658 4532.81 
+0.456546 0.00455931 0.000737509 0.00211688 0.0644649 0.00290796 0.000973507 0.00105573 
+1.30959 4.28372 -4.59345 -0.591563 -0.0379063 -0.53764 -10.6444 -0.136837 
+0.0481029 -0.335223 -18.7959 -73.392 973.943 
 
 # parameters for class #404
-1.39144 0.221091 0.018169 0.169857 0.0107808 0.145639 0.00994029 0.0476334 
-0.651735 9.79053 -4.69846 -3.76035 0.000533863 -3.83767 0.754579 -1.65164 
--0.707818 -0.988983 -7.95243 -186.728 1029.44 
+0.90185 0.0676403 0.0175712 0.0881807 0.00559639 0.0583034 0.0039852 0.0538518 
+0.986594 3.09164 -9.26494 -3.9923 2.06651 -9.37716 0.529787 -0.47893 
+0.329177 -6.13803 -11.9473 -51.0126 877.582 
 
 # parameters for class #405
-2.11925 0.801207 0.0654192 0.522961 0.0242875 0.423472 0.0178617 0.293357 
-0.871666 4.18249 -12.7239 -14.8359 3.19525 -16.1481 1.16449 -2.48616 
-0.709512 -8.95161 -4.52611 -71.4126 684.854 
+1.23315 0.16291 0.0107295 0.111205 0.00912078 0.0959489 0.00459197 0.0637557 
+0.903966 7.45531 -11.628 -11.2731 0.980059 -11.3588 0.796348 -2.77787 
+0.239633 -5.40879 -10.5919 -130.104 1328.83 
 
 # parameters for class #406
-6.31388 0.154534 0.0112481 0.109434 0.00505128 0.109956 0.0141563 0.057243 
-0.390474 6.47467 -25.0732 -0.968523 0.398787 -1.85187 -0.247379 0.455554 
-1.29993 -1.90582 -3.01538 -116.886 659.127 
+0.528329 0.0652314 0.00968242 0.05474 0.00923955 0.0602953 0.00539 0.0418711 
+0.383842 0.651658 -5.14415 -4.84103 0.882642 -7.24176 0.827156 -0.758041 
+0.344478 -5.51317 -3.02981 -9.20341 654.881 
 
 # parameters for class #407
-2.35826 0.144099 0.00796088 0.0974666 0.00547965 0.0826346 0.0131154 0.0481244 
-0.446154 1.83935 -11.7233 -3.44337 0.261633 -3.791 -0.369229 -0.780744 
-1.29913 -2.17658 -3.5852 -31.2683 320.973 
+0.822733 0.101203 0.00463677 0.0709805 0.00806555 0.0777591 0.00359175 0.0464994 
+0.450616 4.82761 -8.00572 -9.71456 0.296413 -9.64525 0.523793 -4.09607 
+0.158248 -4.25676 -4.56182 -83.4078 1162.6 
 
 # parameters for class #408
-1000 0.353743 0.533924 0.299925 0.273346 0.266914 0.171104 0.338598 
-2.2713 7.36641 -4000 -6.23847 5.23206 -6.72449 0.31474 -3.43001 
-3.13341 -3.77896 -2.37483 -137.615 4774.34 
+0.687069 0.0464019 0.0077923 0.0432488 0.0066411 0.0353216 0.00375789 0.0249409 
+1.0727 7.47827 -7.18954 -4.94602 0.787588 -6.8006 0.555608 -1.80303 
+0.2715 -2.98911 -13.2372 -130.487 1222.36 
 
 # parameters for class #409
-356.787 1.68308 0.155017 0.712499 0.0389889 0.850343 0.0309459 0.348051 
-1.29793 16.7523 -1432.06 -31.8245 5.47273 -17.4492 2.1857 -11.3309 
-0.349193 -5.71627 -6.82189 -313.571 3330.76 
+1.37399 0.00838753 0.00496278 0.00688027 0.00135493 0.00196674 0.289715 0.000811032 
+2.20591 10.3214 -8.73332 -1.20645 -0.670804 -1.26718 0.0545795 -0.121035 
+-49.5861 -0.209134 -37.8852 -194.44 3405.5 
 
 # parameters for class #410
-2.89602 0.217577 0.0240469 0.0981635 0.00345276 0.148411 0.0242344 0.0613629 
-0.4958 1.5553 -14.8598 -3.14788 -1.93638 -2.75804 -0.0505031 -0.144116 
--2.70442 -2.37251 -3.45007 -26.1067 342.197 
+0.564699 0.0235154 0.00500429 0.0163663 0.0039047 0.0159235 0.00454446 0.00923022 
+0.942026 3.82308 -6.39432 -2.57848 -0.551169 -2.76098 0.228121 -0.710622 
+-0.567737 -1.36207 -12.2502 -64.7394 664.137 
 
 # parameters for class #411
-4.01104 0.147121 0.0308804 0.108959 0.00998925 0.0747853 1000 0.0572895 
-4.85328 0.539569 -18.7322 -2.85701 0.0916881 -4.87902 0.0445722 0.445499 
--0 -2.97743 -4.58151 -7.84742 186.23 
+0.269811 0.0201969 0.00118252 0.0123984 0.00351372 0.0206934 0.00328074 0.0102221 
+1.97917 3.65709 -4.4877 -1.4564 0.0486488 -2.27412 0.164699 0.682904 
+0.231765 -2.32924 -27.1633 -58.4841 673.635 
 
 # parameters for class #412
-3.38931 0.100288 0.0473155 0.0566297 0.215674 0.0640747 0.0019659 0.0175988 
-1.39002 2.55456 -21.1274 -2.88635 6.53247 -2.80957 33.8154 -0.621821 
-0.0944397 -1.4081 -20.1492 -44.6252 1976.86 
+0.338148 0.0264475 0.00317406 0.0403698 0.00392082 0.0314016 0.00582603 0.0319212 
+0.819377 2.55283 -4.37447 -2.76663 0.285961 -7.70037 0.23241 -0.743075 
+0.450309 -5.68659 -10.1327 -41.6813 980.322 
 
 # parameters for class #413
-0.989476 0.0595095 0.00530788 0.043744 0.00443764 0.0620769 0.00372388 0.0311549 
-1.17514 2.83798 -9.6765 -2.7713 0.435997 -4.13321 0.0372654 -0.396547 
-0.174018 -2.97012 -16.4312 -48.0358 542.375 
+0.289125 0.00828859 0.000659445 0.00537168 0.00185316 0.00302219 0.0120825 0.00171906 
+1.14148 3.14115 -3.65111 -0.86148 -0.00337641 -1.01565 0.125581 0.0450385 
+-1.83594 -0.481895 -16.537 -52.5088 525.629 
 
 # parameters for class #414
-1.26212 0.0992129 0.00370021 0.0996773 0.0069683 0.086166 0.00422822 0.0687473 
-0.469234 1.56953 -11.8076 -4.86109 0.0102013 -8.71881 0.044473 -0.940159 
-0.149746 -5.5843 -4.8752 -25.2484 553.623 
+0.757092 0.00263186 0.00764349 0.00196907 0.00101056 0.000746945 0.677729 0.000399341 
+1.7733 7.58836 -5.86166 -0.588126 -1.10404 -0.578745 0.0359587 -0.0513681 
+-118.082 -0.158951 -30.2393 -141.553 6131.5 
 
 # parameters for class #415
-6.10953 0.146788 0.0251849 0.0863271 0.140138 0.086513 0.00573845 0.0478075 
-0.842282 5.52602 -38.2527 -5.91836 -2.87045 -5.01427 -20.5326 -1.91557 
-0.250837 -2.79403 -10.2853 -99.5424 1595.76 
+0.20804 0.00995784 0.000884292 0.00690293 0.00207213 0.00747916 0.0012232 0.00469216 
+0.459764 1.15095 -2.83514 -1.49446 0.0199507 -1.96634 0.0870461 -0.10315 
+0.0337025 -1.32129 -4.90711 -17.5025 440.371 
 
 # parameters for class #416
-5.48521 0.0701289 0.025547 0.0464929 0.264021 0.0533296 0.00234728 0.0186171 
-2.01521 10.5307 -32.9208 -3.21059 -3.47388 -3.10416 -42.0081 -1.34427 
-0.0721403 -1.57529 -31.4541 -193.931 3022.27 
+0.388966 0.0107676 0.00325321 0.00809189 0.0023769 0.0110235 0.00151406 0.00623557 
+0.465458 2.36391 -4.58 -1.79246 0.300121 -2.19153 0.145411 -0.628224 
+0.100349 -1.4509 -5.45418 -39.083 574.564 
 
 # parameters for class #417
-2.98451 0.41136 0.018099 0.248064 0.0184302 0.212284 0.059172 0.126949 
-0.524137 3.03775 -16.1079 -8.9229 -1.18901 -8.59168 1.19485 -1.91127 
--7.29924 -5.20961 -4.84454 -52.5912 738.625 
+0.584646 0.00113551 0.0102614 0.000516553 0.722769 0.000826898 0.000764844 0.000231221 
+1.37503 6.3164 -4.91648 -0.279486 1.51977 -0.224823 126.311 -0.128142 
+0.022122 -0.112778 -23.0553 -116.948 6342.27 
 
 # parameters for class #418
-14.2963 0.380927 0.0608907 0.218406 0.0291676 0.25907 0.0215173 0.150495 
-4.40146 2.83543 -61.7423 -10.1083 2.40678 -8.92482 2.03575 -3.14997 
--0.0332741 -5.15401 -14.1942 -48.4856 585.731 
+0.253962 0.0114178 0.00280481 0.00812765 0.00230056 0.00977993 0.00196598 0.00715708 
+0.592105 1.51514 -3.58385 -1.11567 0.268648 -1.8702 0.15143 0.287219 
+0.154814 -1.98981 -7.06074 -23.4978 468.913 
 
 # parameters for class #419
-9.59963 0.178004 0.0435157 0.116781 0.0412304 0.10945 0.00559483 0.0683061 
-2.09402 1.17061 -42.3682 -1.77099 3.07621 -2.89505 4.4412 0.542355 
--0.0111821 -2.73268 -11.1779 -18.9017 397.784 
+0.282425 0.000305817 0.000316694 0.000219753 0.000376542 0.00026327 0.00037635 0.000106836 
+0.857544 3.63175 -3.74057 -0.154839 0.0102249 -0.186599 0.00857146 -0.0540488 
+0.013948 -0.080329 -13.2183 -63.8863 497.861 
 
 # parameters for class #420
-1.33918 0.459583 0.0385088 0.272624 0.0250919 0.292316 0.00842752 0.208475 
-0.456719 2.99614 -9.68929 -13.6744 2.92362 -12.7001 2.06887 -3.28518 
-0.406876 -9.37502 -3.71482 -50.8668 742.644 
+0.223145 0.00120674 0.00045922 0.000855949 0.000876083 0.000850692 0.000654897 0.000727419 
+0.641934 2.00123 -3.2626 -0.326043 0.00806266 -0.424862 0.0292421 -0.0314258 
+0.0251539 -0.359474 -8.34459 -32.3747 359.709 
 
 # parameters for class #421
-1.28497 0.384818 0.0155052 0.249414 0.0187756 0.261595 0.00769571 0.14251 
-0.671534 1.94577 -11.5126 -11.2009 1.23474 -13.1843 1.637 -0.582728 
-0.293436 -8.56277 -6.3334 -31.3889 651.563 
+0.422146 0.00340765 0.000531287 0.00236139 0.000851897 0.0024625 0.000780096 0.00140585 
+0.388246 2.99427 -4.66722 -1.02563 0.00669815 -1.03722 0.0269112 -0.386205 
+0.0154314 -0.427969 -4.44701 -51.0766 547.706 
 
 # parameters for class #422
-2.84651 0.236254 0.0282539 0.146572 0.0206858 0.164181 0.00765415 0.0929332 
-0.734564 3.96886 -23.6789 -9.85778 2.6738 -9.38945 2.00139 -2.46322 
-0.46662 -5.72392 -7.56527 -67.7348 863.206 
+0.3814 0.000683122 0.00339354 0.00025428 0.0173001 0.000325619 0.000457675 9.53621e-05 
+1.18517 4.96271 -4.50275 -0.256989 -0.453708 -0.176262 -2.91112 -0.0585028 
+0.0116815 -0.0665566 -19.0701 -89.3049 766.284 
 
 # parameters for class #423
-1.60389 0.0179654 0.018572 0.0112743 0.00305798 0.0133392 0.132281 0.00399392 
-1.50761 8.69975 -10.31 -1.86573 2.60054 -1.44038 0.196739 -0.927606 
-21.4944 -0.487645 -23.8162 -159.955 1984.15 
+1.93813 0.00285016 0.0136786 0.00105182 0.605519 0.00203765 0.000753974 0.000278935 
+4.12796 20.5398 -12.5916 -0.419074 -2.08077 -0.274218 -105.312 -0.186308 
+0.0182533 -0.0998078 -73.5676 -390.642 6962.65 
 
 # parameters for class #424
-1.42261 0.0662054 0.0143108 0.0335319 0.00275194 0.0390347 0.0282705 0.0119189 
-0.366225 6.20145 -8.54718 -5.74848 1.66865 -3.51839 0.167491 -2.54825 
-4.00922 -0.865714 -4.43103 -112.324 1047.27 
+3.69958 0.254247 0.0310047 0.17245 0.012461 0.164182 0.11198 0.107403 
+0.528794 3.02319 -20.9451 -6.23931 -2.54683 -6.55429 0.724101 -1.87076 
+-14.6698 -4.70637 -5.4043 -52.9592 1009.91 
 
 # parameters for class #425
-3.83615 0.0548657 0.0105407 0.0348515 0.00285055 0.0271284 0.104141 0.00920084 
-0.969363 6.8213 -23.2339 -3.97286 -1.29856 -3.28486 0.160745 -1.28133 
--16.2887 -0.820963 -14.0467 -124.98 1562.87 
+2.29235 0.0245997 0.0199356 0.0213964 0.00273016 0.0128234 0.314294 0.00599922 
+1.48804 5.20575 -14.6908 -0.366785 -2.88886 -0.962121 0.112859 0.272756 
+-52.0968 -0.746274 -23.9924 -94.9435 2898.17 
 
 # parameters for class #426
-0.644671 0.144865 0.008283 0.110943 0.0100209 0.116111 0.0099874 0.0769226 
-0.38076 2.49523 -6.27507 -9.15153 0.215969 -11.4984 0.615708 -2.48895 
--0.00207882 -6.77524 -3.31427 -40.5552 844.844 
+0.336693 0.000738022 0.0118466 0.00027979 0.834408 0.000655298 0.000543758 0.000161593 
+2.00013 3.75136 -3.84077 -0.0460248 1.78922 -0.0988682 146.382 0.0678878 
+0.0213913 -0.112238 -33.46 -66.3984 7024.2 
 
 # parameters for class #427
-0.360572 0.0120445 0.00150095 0.0100436 0.00219581 0.00354358 0.0655724 0.00430767 
-0.721813 2.30231 -3.70337 -0.741747 -0.108572 -1.19377 0.123494 0.100453 
--10.5517 -0.921875 -10.1746 -38.8907 789.057 
+0.240499 0.000592573 0.00372833 0.000495815 0.000624307 0.00040002 0.000565889 0.00037357 
+1.30933 2.78208 -3.9259 -0.169721 0.448805 -0.299061 0.0436282 0.00945655 
+0.0408556 -0.261621 -18.5694 -45.1409 452.802 
 
 # parameters for class #428
-0.598197 0.00368098 0.00300097 0.00251466 0.000761057 0.00147414 0.30101 0.000824132 
-1.04711 5.98764 -5.18719 -0.144131 -0.408665 -0.319186 0.0287558 0.159185 
--51.8201 -0.292664 -17.0229 -110.282 2930.95 
+316.752 0.00428085 0.00158697 0.000904922 0.0427866 0.00188816 0.00126705 0.000343283 
+590.338 609.239 -163.575 -0.1857 -0.180396 -0.126983 -6.80448 0.102247 
+0.0992892 -0.0753711 -1397.7 -1441.69 2033.72 
 
 # parameters for class #429
-0.245374 0.00362548 0.000759577 0.00490857 0.00223534 0.00301641 1000 0.00345947 
-0.95872 1.82396 -2.84465 -0.208755 0.034672 -0.661408 0.135508 0.321412 
--0 -0.858344 -14.3177 -30.0141 322.723 
+1000 0.770593 0.0635054 0.571801 0.0229169 0.44657 0.0270049 0.279595 
+1.39991 15.5079 -4000 -25.0017 4.90121 -21.7018 1.72968 -12.0289 
+2.09421 -6.26673 -12.3719 -290.944 6106 
 
 # parameters for class #430
-0.317517 0.00327957 0.000756732 0.00158441 0.0371458 0.00243379 0.00110554 0.000719055 
-1.12389 2.96146 -3.64872 0.00153842 -0.00257649 -0.214298 -6.00272 0.217321 
-0.0624979 -0.247815 -17.0807 -50.1316 625.413 
+2.27591 0.378098 0.0304294 0.264175 0.014569 0.224815 0.0163362 0.177144 
+0.616593 8.96768 -16.3494 -11.5985 1.8054 -11.6839 0.73671 -3.74413 
+0.882608 -6.14088 -4.72823 -160.065 1120.85 
 
 # parameters for class #431
-0.244345 0.00659095 0.0054022 0.00317903 0.0182705 0.006576 0.00191298 0.00220854 
-0.966554 1.66225 -3.70197 -0.221491 -0.705927 -0.50189 -2.85161 0.494642 
-0.113641 -0.620517 -13.8056 -26.4325 435.683 
+1.14013 0.055517 0.00233117 0.0300511 0.00126588 0.0377291 0.00250883 0.00496305 
+1.01908 7.5309 -7.00501 -2.11804 -0.0722133 -1.66841 0.024211 -0.698435 
+-0.234479 -0.413417 -15.4893 -138.757 820.032 
 
 # parameters for class #432
-0.273165 0.0223696 0.00304051 0.0188379 0.00330356 0.0162878 0.0051484 0.0115048 
-1.17502 2.46072 -4.1079 -0.320414 0.285469 -2.1752 0.230914 1.32993 
-0.414874 -2.42546 -15.8235 -39.5643 517.51 
+5.03393 0.313746 0.0148598 0.183754 0.00621037 0.143585 0.0910678 0.0705993 
+0.651917 4.78082 -29.6944 -11.3598 -1.44338 -9.37073 0.345873 -3.11394 
+-12.66 -3.58273 -7.68365 -85.9273 1251.77 
 
 # parameters for class #433
-0.205418 0.0277568 0.00112064 0.0215005 0.00349982 0.0208221 0.00661817 0.0154471 
-1.24591 2.09818 -3.34768 -1.09519 0.0392944 -2.97515 0.177465 1.13993 
-0.484573 -3.13888 -16.5012 -33.0219 550.385 
+1.47778 0.247102 0.0131371 0.182963 0.00992124 0.122428 0.00512882 0.0896899 
+1.46376 0.406026 -8.34412 -5.86399 0.607207 -9.9319 0.661941 0.840096 
+0.0446537 -6.01444 -4.34815 -5.51266 364.054 
 
 # parameters for class #434
-0.564551 0.016101 0.00585222 0.010384 0.00204611 0.00971015 0.0135029 0.00430821 
-0.96316 3.50257 -6.11687 -0.589581 0.726993 -1.00519 0.117547 0.442039 
-2.06198 -0.815293 -13.6356 -59.5253 546.195 
+0.646291 0.306822 0.00931325 0.248338 0.00848956 0.137983 0.00996289 0.0956924 
+0.387037 1.88503 -5.9892 -6.47186 0.550588 -12.7625 0.428882 1.1424 
+0.623396 -6.46456 -3.36457 -30.9643 521.383 
 
 # parameters for class #435
-0.279517 0.0383296 0.00271834 0.044903 0.00468686 0.0411346 0.00725456 0.037008 
-1.25802 2.98145 -4.01532 -1.46299 0.226808 -5.26544 0.317131 1.43982 
-0.604624 -6.09288 -16.5401 -48.6841 769.299 
+8.36141 0.307535 0.0363147 0.159155 0.17053 0.229417 0.0191893 0.131612 
+0.838499 6.68026 -49.9301 -7.80879 -3.27387 -5.9393 -22.7034 -2.94886 
+0.976477 -5.50207 -9.73962 -121.427 1698.52 
 
 # parameters for class #436
-0.427911 0.0206274 0.00315589 0.0147196 0.00176575 0.0221644 0.0051779 0.0121422 
-0.277629 0.564559 -4.29014 -0.924259 0.248292 -1.82832 0.0253953 0.573367 
-0.493281 -1.98611 -2.43924 -8.402 270.91 
+0.183087 0.000285456 0.000282782 0.000125927 0.000279436 0.000317978 0.000618462 9.03832e-05 
+1.48581 3.45053 -2.82873 -0.0162431 0.00471734 -0.0662561 0.00708393 0.0860766 
+0.0132989 -0.0815589 -24.075 -59.8104 477.63 
 
 # parameters for class #437
-0.581513 0.0339058 0.0100699 0.0212162 0.00261755 0.0101607 0.0958145 0.00310037 
-1.29479 3.48655 -5.28913 -2.69985 1.33406 -2.57075 0.152899 -0.197192 
-15.5511 -0.502104 -18.8175 -59.7938 1214.99 
+0.32039 0.000354721 0.00141289 0.000185459 0.262542 0.000144137 0.000268127 7.15633e-05 
+3.41876 7.80261 -3.64459 -0.10728 0.187017 -0.119197 45.8688 -0.0104331 
+-0.00308653 -0.0614707 -60.2893 -144.25 3060.44 
 
 # parameters for class #438
-0.413993 0.0260719 0.00376194 0.0254064 0.00374204 0.0190796 0.00339332 0.0114453 
-1.35365 2.46818 -5.28993 -1.8683 -0.383978 -3.6072 -0.472879 -0.168907 
-0.194153 -1.78113 -17.8238 -40.0863 547.684 
+0.247712 0.00195242 0.00320154 0.00162344 0.0012405 0.00212103 0.00143657 0.00130523 
+0.694304 1.75442 -3.59912 -0.217356 0.32711 -0.525009 0.0746193 0.17835 
+0.099793 -0.56515 -8.7422 -27.5011 337.013 
 
 # parameters for class #439
-0.822497 0.0216315 0.00339351 0.00541338 0.0397311 0.0309536 0.002152 0.00419768 
-0.396445 0.208711 -1.40688 -0.833347 -0.341498 -0.486813 -5.9843 0.373856 
-0.178037 -0.530505 -1.64981 -1.05366 332.242 
+0.37551 0.00186979 0.00280646 0.000739979 0.373764 0.00125356 0.000563291 0.000424656 
+1.34824 3.22854 -4.47907 -0.224485 -0.346996 -0.252034 -64.5857 0.0236878 
+0.0131901 -0.218474 -20.7175 -55.2724 3246.96 
 
 # parameters for class #440
-0.668033 0.0535187 0.00195805 0.0272107 0.0139044 0.0327365 0.00304041 0.012318 
-0.3653 5.30242 -4.86256 -4.1069 -0.0950167 -2.82965 -1.81887 -1.74029 
-0.205623 -1.02859 -4.52689 -95.2528 760.496 
+0.838202 0.00539144 0.000575621 0.00220298 0.0535269 0.00392356 0.00151971 0.000573702 
+2.70388 7.37694 -6.78189 -0.349794 -0.010464 -0.334534 -8.75812 -0.00297015 
+0.180152 -0.181916 -46.1683 -134.737 1279.25 
 
 # parameters for class #441
-1.26379 0.0598227 0.00173645 0.0377202 0.0160387 0.0281543 0.00548436 0.00641525 
-0.545786 3.50783 -8.30044 -2.35289 -0.0135721 -2.41777 -2.13308 -0.495491 
-0.608297 -0.609936 -7.36421 -61.7284 524.31 
+0.927922 0.232438 0.00903076 0.155883 0.00830272 0.102272 0.00778362 0.0455797 
+0.440676 2.90973 -5.93235 -6.35453 0.15066 -6.58078 0.76167 -1.20221 
+-0.650896 -2.18458 -4.37944 -50.0523 451.152 
 
 # parameters for class #442
-1000 0.268137 0.0759462 0.157468 0.00814239 0.149241 0.00963345 0.0789552 
-1.6109 6.5634 -4000 -17.2432 2.6062 -11.2994 0.207677 -8.48532 
-0.392068 -1.54302 -6.04601 -123.447 5250.63 
+2.34245 0.156265 0.0116548 0.0932861 0.0111355 0.0701525 0.00749267 0.0422122 
+1.91207 0.494268 -11.3583 -5.78204 -0.068013 -5.96705 0.635916 -0.703243 
+-0.481945 -2.60023 -5.34967 -7.11895 292.262 
 
 # parameters for class #443
-1000 0.105403 0.0314 0.078336 0.0139253 0.0819204 0.0102034 0.0796671 
-1.85979 13.6863 -4000 -6.90031 0.235546 -5.6711 0.0646255 -4.79538 
-0.103098 -1.28424 -3.36224 -260.687 5564.95 
+1.60763 0.111037 0.0245086 0.0492588 0.030864 0.0797951 0.00142851 0.0278255 
+0.564013 1.13467 -11.0424 -2.98635 -2.85172 -2.49563 -4.22999 -0.360988 
+-0.0585685 -1.84444 -5.58729 -17.7321 456.632 
 
 # parameters for class #444
-4.30579 0.0917406 0.0114501 0.0863924 0.00321058 0.0804645 0.00306074 0.0804652 
-0.534244 38.906 -12.6444 -5.15037 0.0516475 -5.19683 -0.0784594 -4.19521 
-0.0933098 -1.03094 -5.3405 -759.43 3978.01 
+1.92131 0.20376 0.0164231 0.118127 0.00996584 0.139932 0.0114695 0.0769246 
+0.817961 1.29299 -11.3925 -4.99689 -0.701449 -4.99792 -0.783821 -0.963516 
+0.122325 -3.2283 -3.99209 -20.4942 284.34 
 
 # parameters for class #445
-4.33282 0.12969 0.0212759 0.071541 0.0118142 0.0711964 0.00817166 0.0378784 
-0.305682 5.24262 -18.0844 -9.07303 -0.0903207 -5.73757 0.462829 -4.24615 
--0.378227 -1.05516 -1.82349 -97.7413 870.672 
+1000 0.127871 0.0192007 0.0944589 0.00683101 0.0973877 0.00711586 0.0829547 
+1.01274 7.30647 -4000 -5.22531 -0.43614 -4.57778 -0.249183 -3.23958 
+-0.0483018 -1.59836 -3.53647 -135.919 4816.1 
 
 # parameters for class #446
-4.24666 0.123782 0.00969393 0.0776192 0.00731698 0.0798829 0.0198282 0.0439251 
-0.33705 7.71585 -20.4191 -7.65331 -0.432175 -5.73443 0.392436 -3.96484 
--2.11025 -1.71451 -2.79796 -142.743 1086.65 
+1000 0.244711 0.240892 0.142788 0.190483 0.147523 0.0744964 0.0834986 
+6.07969 3.61179 -4000 -3.04917 5.24109 -3.08198 0.171985 -0.492162 
+3.06395 -1.75987 -9.72836 -64.7499 4411.77 
 
 # parameters for class #447
-51.2333 0.0870344 0.0144832 0.078833 0.00584147 0.0689732 0.00417435 0.0924134 
-0.778655 25.391 -201.874 -6.67809 -0.355787 -6.59039 -0.197896 -4.81862 
--0.0544338 -1.67711 -3.32606 -485.918 2925.21 
+16.6634 0.291817 0.0846272 0.132175 0.0214511 0.171083 0.0300814 0.0751589 
+4.61304 1.25302 -71.5945 -3.84506 1.17699 -3.67358 0.0199014 0.241349 
+0.774932 -2.35321 -4.97861 -20.2672 257.218 
 
 # parameters for class #448
-1.99929 0.429984 0.0614386 0.228646 0.01259 0.217635 0.0130554 0.117767 
-1.02988 4.56556 -10.6254 -19.2046 4.36073 -13.2562 0.906507 -6.80198 
-0.7769 -4.24783 -5.98832 -81.3433 1022.04 
+1000 1.02114 0.263807 0.762031 0.130251 0.501587 0.0638551 0.297529 
+4.41276 6.97429 -4000 -24.2885 4.88729 -22.924 2.62047 -8.77187 
+1.07527 -4.56565 -9.52459 -128.491 5026.31 
 
 # parameters for class #449
-3.18843 0.070679 0.0114333 0.0291639 0.0558996 0.0654122 0.0019205 0.00771831 
-0.786902 7.79325 -18.049 -4.04231 1.43805 -2.24709 8.50384 -2.67845 
-0.0989946 -0.646549 -11.6337 -143.673 1285.46 
+1000 0.583339 0.0895589 0.45968 0.0224225 0.381178 0.020567 0.324879 
+1.67727 27.4914 -4000 -20.3861 1.55403 -18.284 0.489036 -11.4808 
+0.256086 -4.01606 -4.9322 -525.311 7003.19 
 
 # parameters for class #450
-2.17585 0.0202344 0.00590944 0.0152627 0.0146065 0.0133734 0.00190266 0.00719866 
-0.228684 4.98166 -9.69795 -1.93143 0.397385 -1.78676 1.82294 -0.99301 
--0.109407 -0.476706 -2.06043 -91.2334 673.419 
+1000 0.300924 0.0596783 0.141876 0.0208698 0.198512 0.0191241 0.0852877 
+7.89681 1.64396 -4006.34 -7.79651 1.44843 -5.60934 0.0879623 -2.43805 
+0.811083 -2.59971 -10.7584 -27.4233 4308.22 
 
 # parameters for class #451
-1.77406 0.111049 0.00168602 0.0479293 0.00357155 0.0650207 0.00273741 0.0289726 
-0.309036 3.82398 -15.0471 -6.2606 0.0161082 -4.2614 -0.14968 -1.6496 
-0.135756 -2.1498 -3.49811 -66.3424 613.21 
+4.10838 0.302253 0.0934527 0.238997 0.0563904 0.221331 0.0210331 0.112374 
+0.382328 19.5688 -13.104 -10.3031 2.8604 -9.0396 3.0747 -6.71253 
+0.0533611 -1.35588 -3.70822 -378.92 2176.22 
 
 # parameters for class #452
-6.98299 0.077448 0.0162676 0.0458374 0.00836852 0.0444986 0.0053994 0.0270054 
-3.92445 3.48908 -31.4133 -5.02243 0.0102554 -3.98698 -0.0292378 -1.89799 
-0.0174972 -1.26754 -4.80453 -60.0526 538.782 
+1000 0.586681 0.10562 0.32452 0.0438366 0.411628 0.0516505 0.225279 
+3.01857 6.79927 -4000 -15.3266 2.35713 -11.2411 1.88559 -7.24849 
+-0.00924604 -4.60642 -8.59724 -123.461 4873.72 
 
 # parameters for class #453
-1.26062 0.144949 0.0100378 0.081684 0.00752158 0.0971198 0.00633201 0.0651677 
-0.40498 2.71178 -9.56776 -9.84558 0.520958 -7.77131 0.522786 -3.78138 
-0.0477337 -4.11692 -2.72002 -45.7757 727.792 
+1000 0.39867 0.0765031 0.18699 0.0528654 0.200707 0.0181882 0.0846627 
+3.13408 9.42713 -4000 -15.9793 0.975843 -8.91963 0.0824385 -6.5154 
+0.425768 -1.48166 -4.38 -176.667 5184.98 
 
 # parameters for class #454
-0.973858 0.119885 0.00463504 0.0719916 0.00904884 0.0745717 0.00531443 0.0459475 
-0.358295 4.96698 -8.6925 -11.2456 0.248826 -9.28244 0.607918 -4.06185 
-0.122172 -3.7557 -3.39336 -86.6654 1158.29 
+2.19734 0.0995849 0.0175419 0.0582222 0.00117546 0.0328782 0.104547 0.00848998 
+0.715342 3.87014 -14.0118 -3.62437 -2.20836 -3.41312 0.0189067 -0.367577 
+-16.2233 -0.746915 -9.97428 -69.1355 1208.22 
 
 # parameters for class #455
-0.323244 0.0126592 0.00121096 0.00986075 0.00189325 0.00453909 0.0128791 0.00270053 
-2.8012 3.8724 -3.9592 -0.619322 0.051349 -1.04195 0.176079 0.11561 
--1.85492 -0.522786 -41.9118 -64.9434 628.508 
+1.55063 0.149484 0.0103861 0.0958457 0.0031732 0.0791525 0.0155838 0.0505376 
+0.811583 0.809418 -8.78519 -5.39806 -0.732696 -5.6119 0.076905 -1.04514 
+-1.78569 -2.8851 -4.39289 -12.4773 349.129 
 
 # parameters for class #456
-0.552193 0.0108585 0.00121831 0.00818889 0.00159815 0.00423499 0.0236776 0.00190776 
-1.56128 5.16952 -5.10776 -1.13671 0.0943208 -1.25573 0.0495511 -0.117622 
-3.67536 -0.406139 -24.1354 -91.5584 810.479 
+1.60564 0.111732 0.0118532 0.0718518 0.00394622 0.0768134 0.0267868 0.0201583 
+0.392169 7.93688 -6.58104 -4.45928 1.21863 -3.73046 -0.0128622 -2.03207 
+3.72609 -0.870226 -4.61599 -147.297 1022.04 
 
 # parameters for class #457
-0.823058 0.0218972 0.00180718 0.0132368 0.0017438 0.0148131 0.00137961 0.00887286 
-0.201824 5.44537 -6.32775 -3.05135 -0.0417186 -2.39433 0.0621814 -1.4208 
--0.0619773 -0.859641 -1.67628 -96.9635 773.062 
+2.44568 0.0194021 0.00761662 0.0150539 0.0021596 0.0101233 0.0760252 0.00317246 
+1.87612 11.0303 -14.2198 -0.636918 0.987797 -0.807878 0.100126 0.0110028 
+12.2881 -0.395878 -31.0773 -206.842 1723.73 
 
 # parameters for class #458
-0.512232 0.0657447 0.00273076 0.0475123 0.00658028 0.0447279 0.00182443 0.027518 
-0.970662 6.00667 -5.55292 -5.53279 -0.104251 -6.39728 0.40823 -1.4977 
--0.0575517 -3.04787 -11.5449 -101.951 965.424 
+1000 0.0297255 1000 0.0202319 1000 0.0263504 1000 0.024865 
+220.741 6.23816 -4000 -1.43208 -0 -1.18331 -0 -0.997798 
+-0 -0.513775 -4.31423 -117.119 4594.65 
 
 # parameters for class #459
-1.26824 0.0278482 0.00142597 0.0301076 0.00284789 0.0409924 0.00381469 0.0222908 
-1.05532 3.40657 -11.8178 -2.37383 -0.0738757 -4.39199 0.00303083 -0.681116 
-0.0769072 -2.98813 -14.6384 -57.6945 686.576 
+4.40993 0.0167877 0.00373472 0.0132689 0.00188558 0.0130803 0.00401078 0.0114702 
+0.240451 9.8174 -18.4339 -2.55075 -0.112453 -2.22901 0.063928 -1.77368 
+-0.332064 -0.50515 -1.43324 -184.549 1203.78 
 
 # parameters for class #460
-0.276738 0.0159899 0.00213866 0.0111755 0.00498046 0.0108078 0.00222389 0.00533147 
-0.639013 0.954019 -3.43143 -1.44635 -0.191177 -1.92584 -0.627072 -0.143476 
-0.0746561 -0.959994 -6.89001 -14.0325 320.921 
+1.63384 0.00811793 0.0019407 0.0069702 0.00088514 0.00685948 0.00158795 0.00769436 
+0.140752 14.7291 -5.91111 -1.76662 -0.059115 -1.60598 0.0107821 -1.40382 
+-0.101359 -0.273307 -1.20081 -285.193 1709.89 
 
 # parameters for class #461
-1.01982 0.0281097 0.00222378 0.0181702 0.00369377 0.017195 0.00134757 0.009969 
-0.304608 3.90304 -6.93474 -2.97712 -0.144835 -2.48678 -0.403371 -1.30456 
-0.0406647 -0.770247 -2.44281 -68.791 589.765 
+1.136 0.0483293 0.0049332 0.0281739 0.0026373 0.0261492 0.00271126 0.0153261 
+0.46053 7.25202 -6.54932 -6.54406 0.04511 -4.68566 0.0614823 -2.72522 
+-0.0115914 -1.01999 -1.52251 -128.802 1136.03 
 
 # parameters for class #462
-0.968721 0.0347072 0.00507639 0.0321843 0.00304778 0.0299673 0.00383338 0.0213095 
-0.452308 1.2608 -9.33626 -2.63686 -0.553641 -4.199 0.00376667 -0.631075 
--0.371854 -2.5851 -5.27391 -20.0632 460.331 
+1.02798 0.0162666 0.00223408 0.0086487 0.00213964 0.0106796 0.000863247 0.00488976 
+0.177035 7.67233 -5.50971 -2.7996 -0.151501 -1.68725 -0.202361 -1.60072 
+-0.00140534 -0.302259 -1.55131 -144.044 1017.71 
 
 # parameters for class #463
-2.29809 0.0439902 0.00805049 0.0226918 0.00382731 0.0224459 0.00358461 0.0118881 
-2.2948 1.49221 -11.2322 -2.62587 -0.198525 -2.14332 0.0386971 -0.561279 
--0.182277 -0.890505 -4.2592 -24.4426 276.888 
+1.77337 0.0402552 0.00234643 0.0265081 0.00910935 0.0241235 0.00127394 0.0109342 
+0.257113 11.2043 -9.33131 -5.37375 -0.175258 -4.02122 -1.14982 -2.80266 
+0.042843 -0.629173 -2.62217 -210.359 1517.79 
 
 # parameters for class #464
-0.585329 0.130559 0.00301915 0.0882592 0.00377425 0.115711 0.0048299 0.0668187 
-0.266129 1.99178 -5.58877 -9.01567 0.131662 -9.70034 0.088106 -2.9362 
-0.179024 -5.99896 -2.2868 -32.2158 773.169 
+1000 0.129239 0.0521053 0.0932013 0.0146266 0.0872956 0.0226176 0.068606 
+0.88127 5.60293 -4000 -6.19575 5.32602 -5.40618 1.46152 -3.30634 
+2.29458 -2.58852 -7.6637 -102.121 4951.54 
 
 # parameters for class #465
-1.59699 0.0360291 0.00241203 0.0180047 0.00131095 0.0234437 0.000956586 0.0127053 
-0.349366 3.1758 -14.1543 -3.8681 -0.197631 -3.02039 -0.0401833 -1.04141 
--0.010798 -1.71405 -4.17527 -54.7686 637.103 
+2.14311 0.115233 0.00436608 0.0768338 0.00890226 0.0643784 0.0555044 0.049908 
+0.526527 3.22065 -13.2596 -5.21633 -0.345086 -5.01963 0.735512 -1.51291 
+-7.77684 -3.3525 -5.83709 -55.5135 817.131 
 
 # parameters for class #466
-0.761228 0.0460787 0.00485431 0.0280733 0.00752892 0.0230351 0.00390421 0.0139686 
-0.338833 1.56503 -5.76789 -4.009 0.018087 -4.00327 0.0693835 -0.691326 
-0.00931545 -1.61514 -1.58298 -25.522 448.54 
+1.06003 0.0669458 0.00985574 0.041771 0.00484945 0.0319681 0.0681262 0.0173535 
+1.08505 3.70232 -8.70365 -3.62787 -1.15043 -3.57028 0.362071 -0.61198 
+-10.3887 -1.70642 -14.1082 -62.9787 981.189 
 
 # parameters for class #467
-1.53907 0.0469601 0.00170954 0.0351404 0.00247149 0.0330898 0.00343638 0.0231599 
-0.380894 4.71718 -13.5692 -4.75728 0.0233412 -5.15769 0.0231247 -1.71971 
-0.167172 -2.38688 -4.56584 -83.4482 857.383 
+0.441608 0.202499 0.0086782 0.124428 0.0116037 0.154348 0.00833739 0.106349 
+0.415293 1.51572 -4.44605 -5.87298 0.627699 -8.26207 0.806326 1.44673 
+0.512388 -9.06396 -3.89086 -24.2513 568.231 
 
 # parameters for class #468
-0.688128 0.0484096 0.00318868 0.044689 0.00374712 0.0678832 0.00319795 0.039465 
-0.876788 2.07817 -7.1278 -2.79963 -0.164071 -5.16533 -0.0237741 -0.421058 
-0.128192 -4.54147 -11.2255 -34.0726 565.811 
+0.665931 0.217416 0.0084338 0.179916 0.00554932 0.205849 0.00528447 0.112667 
+0.964953 2.83759 -7.26299 -8.51397 0.67875 -12.6394 0.366907 -1.3714 
+0.254893 -8.11889 -10.6984 -46.6068 757.508 
 
 # parameters for class #469
-1.69371 0.0188584 0.0036048 0.0148286 0.000883949 0.00856412 0.0463655 0.00177594 
-1.30549 7.30354 -8.6359 -2.15707 0.42052 -1.99462 0.00231375 -0.68343 
-7.46613 -0.244317 -21.7495 -137.056 1258.81 
+0.707143 0.175851 0.013047 0.108909 0.00800596 0.101393 0.0103052 0.0634087 
+0.607662 1.85088 -7.11528 -7.10556 1.2651 -8.70287 0.626807 -0.214972 
+0.90245 -5.75973 -6.2678 -29.9822 636.075 
 
 # parameters for class #470
-1000 0.00419336 0.00308937 0.00350146 0.00209376 0.00410715 0.00180326 0.00840227 
-0.972613 15.1114 -3999.9 -1.02502 0.142416 -0.92501 0.0950989 -0.922877 
-0.0757832 -0.39674 -2.93842 -287.265 5599.46 
+1.19148 0.113589 0.0183326 0.0637141 0.0135379 0.0678272 0.00891885 0.0365891 
+0.620816 3.71716 -10.7885 -6.58586 1.93097 -5.91738 1.0517 -1.63225 
+0.927773 -3.10789 -6.43783 -62.7979 751.725 
 
 # parameters for class #471
-1.85125 0.00661274 1000 0.00633911 1000 0.00624879 1000 0.0324624 
-0.0653353 45.5532 -3.26064 -1.03866 -0.092677 -1.03378 0.00208174 -0.944145 
-0.000285398 -0.393066 -0.654067 -899.848 4581.25 
+2.74992 0.0300807 0.0085249 0.00950984 0.120191 0.0217121 0.00214669 0.00199822 
+3.98539 14.5942 -15.6519 -1.62622 1.18696 -0.885938 19.9258 -0.640746 
+0.104058 -0.326633 -69.8467 -274.546 2593.13 
 
 # parameters for class #472
-1.05436 0.00363155 0.0382178 0.00251523 0.0336292 0.00181898 0.0263392 0.000521478 
-4.45837 10.2731 -8.48636 -0.387229 -6.07514 -0.435988 -5.46217 -0.0616375 
--4.26237 -0.15062 -77.6035 -190.088 1960.64 
+1.24244 0.0197148 0.00863852 0.00770292 0.0967662 0.0115086 0.00170968 0.00208433 
+1.13972 9.83915 -8.23478 -2.4808 1.15984 -1.3346 15.8376 -1.08098 
+0.084046 -0.332104 -17.9202 -183.443 1850.21 
 
 # parameters for class #473
-3.04028 0.00180006 0.00756795 0.000604799 0.138213 0.00143841 0.000947726 0.000296923 
-0.18059 0.180804 -4.37228 -0.0529194 -1.12811 -0.0764844 -23.4063 0.0989932 
-0.0781009 -0.0849658 -1.22193 -1.22244 1113.81 
+1.10946 0.0105738 0.00113623 0.00439226 0.0116449 0.00838113 0.00151304 0.00112014 
+1.19921 11.3235 -7.31034 -1.22367 -0.0307437 -0.724036 -1.71672 -0.699205 
+0.114067 -0.2068 -19.438 -211.454 1287.92 
 
 # parameters for class #474
-1000 0.000521653 1000 0.000521653 1000 0.000521653 1000 0.000250563 
-1000 518.805 -0 -0.282554 -0 -0.282554 -0 -0.282554 
--0 0.184753 -0 -10384.8 52125.1 
+2.53097 0.0291919 0.0074102 0.0187923 0.0012243 0.0111627 0.166033 0.00279346 
+1.34332 8.50407 -15.2352 -3.0099 -0.969528 -2.43816 0.0436251 -0.713323 
+-27.2669 -0.392064 -21.5462 -158.033 2223.23 
 
 # parameters for class #475
-1000 0.0140803 1000 0.0135587 1000 0.0109517 1000 0.0217516 
-1000 4.05364 -4000 -0.0625496 -0 -0.212519 -0 0.0743541 
--0 -0.489058 -1.15843 -75.1063 4351.02 
+0.294062 0.0195531 0.00191986 0.0134928 0.00102216 0.0187449 0.00131488 0.010043 
+0.880504 1.32785 -3.88518 -0.672681 -0.136358 -1.60749 0.00578115 1.00826 
+0.0116056 -1.82355 -11.2072 -20.7229 337.839 
 
 # parameters for class #476
-7.4802 0.191974 0.011143 0.157512 0.0146045 0.146685 0.00606647 0.106611 
-0.913145 11.6406 -17.5711 -0.968875 0.238547 -1.67917 1.23743 0.0820203 
--0.337256 -1.7355 -10.5321 -222.391 1183.3 
+0.351409 0.0404556 0.00174462 0.0409535 0.00383151 0.0456819 0.00287821 0.0294042 
+0.352829 0.876149 -3.90135 -2.22772 0.0448082 -5.36589 0.225502 0.906509 
+0.0485694 -4.64139 -3.20142 -12.9192 514.995 
 
 # parameters for class #477
-13.1039 0.313411 0.0440083 0.273863 0.0346035 0.224446 0.00953079 0.27733 
-2.55678 6.95131 -54.5331 -0.301444 2.35231 -2.67036 2.98057 1.76771 
-0.0496842 -6.92537 -14.9428 -124.684 815.954 
+0.280246 0.040759 0.00285896 0.0294917 0.00884299 0.0385822 0.00793466 0.0210528 
+1.43877 3.08786 -4.24487 -2.35102 0.209804 -4.10693 0.577792 0.748763 
+0.61541 -3.57089 -18.4534 -49.3629 677.101 
 
 # parameters for class #478
-1.93376 0.657245 0.10151 0.347358 0.0233796 0.341604 0.0215326 0.182119 
-1.2892 1.39035 -10.1598 -9.8069 6.81702 -9.46765 1.64331 -0.844911 
-1.19238 -6.0621 -7.26634 -23.0144 461.993 
+0.48413 0.0396863 0.00679622 0.0237119 0.0022855 0.0330789 0.00587114 0.0190725 
+0.797085 1.80367 -5.65398 -2.96683 0.73465 -3.35776 0.122912 -0.378002 
+0.670538 -2.87453 -9.74219 -28.9576 536.15 
 
 # parameters for class #479
-1.32109 0.342831 0.064968 0.23121 0.0120604 0.199594 0.0169657 0.141799 
-0.597911 4.53763 -8.41781 -5.38162 5.48224 -6.68348 0.855015 -0.588539 
-1.44456 -5.3612 -4.99744 -79.8819 691.932 
+0.449548 0.0313894 0.0115286 0.0354753 0.00380886 0.053751 0.00520614 0.0297574 
+1.06473 2.46599 -5.49609 -2.63116 1.40858 -5.63078 0.341381 -0.302528 
+0.313653 -4.93437 -13.9272 -39.6482 807.403 
 
 # parameters for class #480
-1000 0.391886 0.0665717 0.211738 0.0197895 0.2214 0.0228479 0.109937 
-1.08781 4.58029 -4000 -11.8564 6.23616 -8.22839 1.79391 -4.79296 
-2.15496 -3.56167 -9.30135 -82.6971 4881.56 
+0.432753 0.011278 0.00170024 0.0051148 0.00261486 0.00647584 0.0111846 0.00217498 
+0.891689 2.82794 -5.16895 -1.66365 -0.175652 -1.16924 0.131485 -0.302637 
+-1.6741 -0.500799 -11.9992 -46.6033 533.214 
 
 # parameters for class #481
-17.3367 0.558789 0.0831982 0.357731 0.00906087 0.291679 0.0221211 0.163621 
-1.89564 3.23034 -72.9929 -14.9449 5.99205 -13.2121 0.456858 -4.84268 
-1.89531 -4.982 -11.2871 -56.893 807.686 
+0.272261 0.00576502 0.00248759 0.00474441 0.000948418 0.00733796 0.000661075 0.00441458 
+0.419552 0.710315 -3.26258 -0.569489 -0.250893 -1.10053 0.000953207 0.174193 
+-0.0190354 -1.19809 -5.43106 -10.9382 298.144 
 
 # parameters for class #482
-1000 0.313404 0.132206 0.210177 0.0265533 0.23352 0.0262322 0.171125 
-1.23205 13.7088 -4000 -17.0084 9.48252 -12.7381 1.88496 -11.1934 
-1.86113 -3.90581 -9.57347 -258.322 6076.08 
+0.358424 0.0040124 0.00294833 0.00239933 0.0007264 0.00156742 0.178581 0.000850536 
+1.01405 2.64258 -4.23231 -0.551124 -0.357517 -0.597137 0.0164627 0.0450091 
+-30.3231 -0.323394 -14.8999 -44.8329 1700.95 
 
 # parameters for class #483
-1.03666 0.0827376 0.00302611 0.0511699 0.00707751 0.0483061 0.0159137 0.0223748 
-0.974733 3.90099 -7.87902 -3.50826 -0.0589849 -3.24914 0.690959 -0.834251 
--2.00469 -1.69406 -12.1124 -67.3199 591.95 
+0.203133 0.000421979 0.000292516 0.000292827 0.000316331 0.000328371 0.000290218 0.000164652 
+1.28538 2.46839 -3.73421 -0.140456 -0.00350559 -0.219646 0.000824739 0.0313617 
+0.00256596 -0.155236 -19.4085 -40.4419 422.105 
 
 # parameters for class #484
-4.24456 0.114287 0.0130054 0.0664863 0.00226394 0.0766542 0.0806074 0.0237688 
-0.682163 11.9842 -24.6485 -5.88674 -1.4853 -4.49341 0.0800704 -2.7198 
--11.8393 -1.42577 -9.02141 -222.579 1813.13 
+0.33887 0.00119499 0.000404981 0.000553926 0.000497276 0.00143094 0.000916523 0.000418235 
+0.813392 3.12382 -4.02383 0.0777186 0.0144546 -0.0981113 0.0192731 0.341709 
+0.0303943 -0.194019 -11.7532 -53.6313 403.17 
 
 # parameters for class #485
-1.52657 0.39182 0.0176524 0.238808 0.0107408 0.244299 0.0163421 0.130098 
-0.659059 3.05486 -13.1647 -9.78195 1.32134 -11.1157 0.645483 -1.02962 
-1.1818 -6.73913 -6.13003 -51.9051 633.424 
+0.200081 0.0011743 0.00208846 0.00205775 0.00145578 0.00247739 0.00120081 0.00127255 
+1.33463 3.17148 -2.79587 -0.0602268 0.20516 -0.503681 0.099782 0.37075 
+0.0474973 -0.532034 -19.7716 -53.472 480.246 
 
 # parameters for class #486
-0.737272 0.252004 0.0191856 0.194215 0.00857134 0.15774 0.0092535 0.112411 
-0.390773 0.944942 -6.07182 -10.785 1.59268 -14.4067 0.610552 -1.85462 
-0.700163 -8.21242 -2.93614 -14.5796 709.554 
+0.171437 0.00771046 0.000683539 0.00474853 0.000960985 0.00548827 0.00121641 0.00313518 
+0.478833 1.12279 -2.42841 -0.233443 0.0166298 -0.872296 0.0367821 0.661808 
+0.0493855 -0.997244 -5.06537 -16.6627 288.745 
 
 # parameters for class #487
-0.618924 0.182561 0.00756526 0.120823 0.00933093 0.147947 0.0160685 0.0923442 
-0.393354 2.53225 -6.04228 -10.1187 0.516901 -11.2278 0.561245 -2.90784 
-1.15623 -7.64878 -3.98549 -42.2546 853.57 
+0.261395 0.000381591 0.00861952 0.000154308 0.630272 0.000422368 0.000473235 0.000103135 
+1.84778 3.29408 -3.17389 -0.029438 -1.29763 -0.0661226 -110.726 0.0587222 
+0.014229 -0.0852848 -31.6254 -58.9283 5412.25 
 
 # parameters for class #488
-0.637637 0.101774 0.00705474 0.0574524 0.00749453 0.0572952 0.00626129 0.037335 
-0.326036 2.31902 -4.72165 -6.24046 0.0246868 -5.32676 0.509507 -1.67746 
--0.361968 -2.76732 -2.02685 -37.9048 508.7 
+0.892593 0.00414532 0.00544827 0.000870772 0.498826 0.00326704 0.000959463 0.000249386 
+2.63576 7.137 -6.21083 0.178945 -0.792753 -0.0786323 -86.8767 0.35066 
+0.0217771 -0.100865 -46.5949 -132.499 4721.6 
 
 # parameters for class #489
-0.756747 0.00685765 0.00375509 0.00297344 0.227868 0.00550932 0.00634835 0.00098219 
-2.34393 4.63347 -5.64423 -0.465543 0.459896 -0.397787 38.5373 -0.115534 
--0.840533 -0.234965 -40.3205 -84.5321 2327.92 
+0.280031 0.0467056 0.00140919 0.0431069 0.00343893 0.0340088 0.0047954 0.0292642 
+0.674846 1.27217 -3.88258 -0.641614 0.0580255 -3.32404 0.173216 1.76655 
+0.2993 -4.03902 -7.91528 -19.5699 398.47 
 
 # parameters for class #490
-0.408003 0.00433129 0.000779562 0.00169891 0.0590403 0.00328981 0.00105602 0.00116354 
-1.25269 3.85794 -4.21763 -0.552275 -0.0408737 -0.440422 -9.74531 -0.134564 
-0.0549695 -0.385677 -17.9508 -65.7819 897.334 
+0.778218 0.0569417 0.00430393 0.0510378 0.00407449 0.0501639 0.00863893 0.0425409 
+0.896322 4.62589 -8.43683 0.444473 0.375031 -2.2276 0.204509 2.63117 
+0.694152 -4.53579 -10.9969 -78.1172 636.548 
 
 # parameters for class #491
-0.776868 0.0703347 0.0169909 0.0508331 0.0142282 0.0388381 0.00462016 0.02491 
-0.345196 0.715483 -6.67048 -3.99712 2.00383 -5.01157 1.83879 -0.48304 
-0.245784 -2.62639 -3.13006 -10.6419 480.094 
+0.544167 0.0544393 0.00479008 0.0245886 0.00200625 0.0416554 0.00540275 0.0206247 
+0.286994 2.80232 -5.16606 -0.742271 0.343994 -1.54095 -0.0222366 1.39968 
+0.590469 -2.36689 -2.92227 -46.8066 393.511 
 
 # parameters for class #492
-2.12827 0.134599 0.0107481 0.0875312 0.00886028 0.067906 0.00334841 0.042901 
-0.567927 5.03498 -17.9065 -10.7895 0.972456 -9.63706 0.864494 -3.02134 
-0.111831 -3.33901 -5.38767 -87.1575 1093.51 
+1.89806 0.10531 0.00727029 0.0557038 0.00180284 0.0544316 0.0166131 0.0110565 
+0.231387 5.22643 -7.80039 -1.25769 0.66906 -1.40572 -0.0264761 0.134244 
+2.21856 -0.540036 -2.60929 -96.0196 610.687 
 
 # parameters for class #493
-0.592174 0.0683943 0.0081228 0.0562151 0.0082737 0.0527941 0.00607713 0.0380788 
-0.517488 0.696392 -5.80034 -5.0104 0.724599 -7.27852 0.748661 -0.678418 
-0.361681 -4.88005 -3.9001 -9.50602 624.767 
+2.37347 0.000687364 0.399061 0.000635079 0.348336 0.000620502 0.228604 0.000114387 
+35.9474 197.785 -7.8641 -0.0163631 69.2932 -0.0238057 60.493 -0.00563293 
+39.5489 -0.0347424 -702.446 -3919.99 30252.2 
 
 # parameters for class #494
-0.688518 0.044266 0.00371768 0.0278358 0.00480585 0.0279467 0.00365449 0.0200012 
-0.285873 0.78868 -5.83537 -3.90803 0.26129 -4.34433 0.44448 -0.526237 
--0.00179368 -2.97372 -1.99138 -11.8598 495.028 
+0.535025 0.00017546 0.164179 0.000121624 0.285468 0.000110037 0.305804 3.63567e-05 
+17.8213 39.4836 -3.26562 -0.0508905 28.4066 -0.0489712 49.889 -0.0202851 
+53.3768 -0.023405 -343.779 -773.416 11255 
 
 # parameters for class #495
-0.594334 0.0539524 0.00737355 0.0778878 0.0108203 0.0688019 0.00459253 0.0609521 
-1.03645 5.55309 -6.6227 -4.85469 0.717734 -11.3726 0.842387 -1.99477 
-0.303932 -7.80731 -13.0006 -94.5083 1331.94 
+2.24954 0.0176128 0.00373288 0.0133042 0.0015006 0.0117785 0.0284476 0.00538041 
+0.322263 11.106 -13.3524 -2.58509 -0.395884 -2.26173 0.0573764 -1.40395 
+-4.23853 -0.482291 -3.98831 -207.822 1466.89 
 
 # parameters for class #496
-0.550746 0.0253927 0.00400289 0.01304 0.00362535 0.0120911 0.0128606 0.00448452 
-1.0174 4.10342 -6.26395 -3.21553 -0.458086 -2.46124 0.212885 -0.63795 
--1.87549 -0.769452 -13.7459 -69.8065 755.962 
+1.82662 0.00100458 0.1034 0.000876741 0.0562431 0.000719373 0.0885122 0.000104279 
+9.61333 84.922 -7.1382 -0.234352 -17.828 -0.223911 -9.63818 -0.151501 
+-15.267 -0.0370196 -185.691 -1677.55 11116.2 
 
 # parameters for class #497
-0.481527 0.0152726 0.0141867 0.0102004 0.000989034 0.0150594 0.00432938 0.00746427 
-1.08621 1.97093 -5.6187 -1.44865 -1.92818 -1.78984 0.00903497 -0.180658 
--0.538266 -1.3993 -15.0143 -31.8156 510.753 
+2.1083 0.00543243 0.177316 0.00403748 0.152784 0.00431885 0.131396 0.000366169 
+8.91226 27.9862 -7.26243 -0.557454 -30.2892 -0.462268 -26.0784 -0.390445 
+-22.3957 -0.0759567 -170.124 -547.312 6936.76 
 
 # parameters for class #498
-0.26411 0.023179 0.00110621 0.0124453 0.00303555 0.0262057 0.00242049 0.0104772 
-1.38933 2.65438 -4.28447 -1.84724 0.0318563 -2.3777 0.13789 0.638288 
-0.127484 -2.35367 -17.6836 -40.8602 574.191 
+1000 0.326232 0.0935012 0.217905 0.0371471 0.212322 0.0283005 0.147169 
+1.20719 8.6253 -4000 -13.7492 7.95254 -10.761 3.1855 -7.41147 
+2.35056 -4.03377 -10.2259 -159.855 5443.01 
 
 # parameters for class #499
-0.22192 0.0223639 0.0029432 0.0259346 0.00271751 0.0285533 0.00818301 0.027313 
-0.387345 1.11235 -2.85163 -2.19727 0.215358 -5.06828 0.128005 -0.0784161 
-0.61204 -5.52925 -4.21124 -17.4805 739.528 
+19.8312 0.0793989 0.042563 0.0619885 0.00804504 0.0530379 0.0260732 0.0374435 
+0.541685 7.84567 -83.3571 -5.43498 4.84346 -4.96681 0.841649 -3.00343 
+3.09219 -1.75957 -5.31066 -144.112 1306.67 
 
 # parameters for class #500
-0.30877 0.00805646 0.000723753 0.00569896 0.00203917 0.00294577 0.0169305 0.00191531 
-1.02241 2.96065 -3.7993 -0.853434 -0.0128676 -1.06872 0.129451 0.0257479 
--2.61303 -0.521268 -14.5311 -49.2009 536.915 
+1000 0.0458278 0.0326907 0.0330009 0.0142479 0.0365029 0.0168378 0.0334889 
+0.812065 8.28554 -3999.88 -4.41405 3.00992 -3.57148 1.28187 -3.08129 
+1.54477 -1.28731 -5.82926 -153.556 5170.07 
 
 # parameters for class #501
-0.842606 0.00993999 0.00494209 0.00621071 0.00140771 0.00251549 0.292904 0.00107551 
-1.61853 6.26982 -5.99111 -1.58269 -0.665632 -1.28461 0.0564551 -0.158403 
--50.2375 -0.301609 -27.2029 -116.475 3047.91 
+2.90118 0.0246857 0.00202867 0.0178634 0.00266691 0.0202817 0.00318944 0.00409969 
+0.874344 8.52549 -15.7369 -1.86502 0.0414438 -1.65625 0.246831 -1.09768 
+-0.350969 -0.402107 -13.3205 -157.968 968.029 
 
 # parameters for class #502
-0.264999 0.0127004 0.00122411 0.0140536 0.0021659 0.0185752 0.00215695 0.0111476 
-0.454563 1.49232 -3.38809 -1.66716 0.051766 -3.39433 0.0826895 -0.384985 
-0.0859297 -2.54927 -5.0209 -23.4536 582.632 
+0.383457 0.0214011 0.0116912 0.0172211 0.00277898 0.00870906 0.141364 0.00726257 
+1.59529 2.61391 -3.92988 -0.8569 -1.56872 -1.52305 0.167896 0.180365 
+-23.0888 -1.15785 -23.3401 -43.6354 1412.59 
 
 # parameters for class #503
-0.362363 0.0119921 0.00568661 0.0196363 0.00258643 0.0209989 0.00235231 0.0186016 
-1.04654 1.70831 -4.90097 -1.28267 0.637512 -4.24721 0.17654 -0.0316033 
-0.110178 -4.20058 -13.7889 -26.6475 741.386 
+0.627473 0.12694 0.00254 0.079293 0.00437292 0.0844681 0.00573375 0.0515807 
+0.994276 3.93628 -6.69323 -4.31202 0.117798 -6.1931 0.17315 0.68892 
+0.390921 -4.91107 -11.8048 -66.8317 666.236 
 
 # parameters for class #504
-0.63728 0.00696664 0.00140104 0.00252693 0.0254288 0.00524891 0.00095956 0.00123781 
-1.02648 4.07543 -6.2229 -0.920765 0.127634 -0.617926 4.08138 -0.313232 
-0.0123742 -0.340046 -14.5596 -70.4186 691.43 
+0.92116 0.0553373 0.010597 0.0318016 0.00275008 0.0310595 0.0258554 0.00903266 
+0.555269 1.65459 -7.89733 -2.21845 1.31939 -2.34656 0.196292 -0.0593556 
+3.78677 -0.961471 -6.68624 -27.215 470.486 
 
 # parameters for class #505
-0.366038 0.00579337 0.00273648 0.00355336 0.00171432 0.00438048 0.00192216 0.00253683 
-0.486769 3.4771 -4.15464 -1.2334 0.257159 -1.20552 0.118164 -0.383537 
-0.124005 -0.701661 -5.98198 -59.3737 578.093 
+0.31713 0.0727001 0.0043833 0.0480447 0.00679574 0.0566969 0.0118389 0.0330487 
+1.03024 1.72851 -4.50091 -2.77069 0.315601 -4.72722 0.435275 1.17195 
+0.929994 -4.28746 -12.1474 -27.1034 522.473 
 
 # parameters for class #506
-0.219317 0.000374964 0.00531806 0.00025601 0.000402759 0.000176715 0.00037459 9.83457e-05 
-1.3735 3.70802 -3.1907 -0.158884 0.730958 -0.198765 0.0268869 -0.0140447 
-0.030029 -0.0834078 -21.9594 -64.8656 555.836 
+0.74096 0.0786593 0.00313959 0.0496304 0.00765926 0.0499839 0.00380468 0.0299703 
+1.23959 10.7225 -7.41076 -6.15972 0.0252472 -5.96114 0.438719 -1.5867 
+0.0408167 -2.86268 -15.3482 -187.736 1319.11 
 
 # parameters for class #507
-0.221692 0.00109693 0.00043467 0.000732462 0.000726015 0.000735661 0.000568053 0.000630361 
-0.739207 2.19463 -3.33077 -0.303478 0.00884387 -0.380347 0.0209505 -0.0214176 
-0.0208926 -0.334003 -9.82863 -35.6127 375.271 
+0.631093 0.0862715 0.00498739 0.0861951 0.0117654 0.125448 0.00679862 0.0688464 
+0.575608 1.64606 -6.52268 -5.4017 0.305312 -9.6382 1.01466 -1.49614 
+0.0506362 -7.46663 -5.51706 -25.6108 760.509 
 
 # parameters for class #508
-0.370522 0.00358276 0.000531933 0.00221137 0.000870458 0.00242332 0.000720273 0.00129859 
-0.375736 2.50353 -4.1788 -1.01689 0.00615784 -0.939254 0.0283529 -0.33675 
-0.0112618 -0.402778 -4.35772 -42.4552 485.189 
+0.585015 0.127724 0.0057922 0.0636025 0.00854649 0.0927905 0.00595215 0.0415042 
+0.387831 2.39423 -4.8641 -9.96058 0.309759 -7.87184 0.623911 -2.91013 
+0.0561897 -4.12212 -2.38572 -38.4518 791.155 
 
 # parameters for class #509
-0.417446 0.000584701 0.00506188 0.000274848 0.00224222 0.000479396 0.000642978 0.000194889 
-1.20852 5.22469 -4.70662 -0.231565 -0.710604 -0.196961 -0.340999 -0.0996952 
-0.0108521 -0.127721 -19.6091 -94.7382 712.524 
+0.686815 0.0149175 0.000929312 0.00985218 0.00187269 0.00299147 0.0380914 0.00189384 
+1.95518 8.25463 -5.83783 -1.17889 -0.034757 -1.20283 0.136081 -0.00511208 
+-6.07944 -0.427432 -31.9036 -149.735 1204.48 
 
 # parameters for class #510
-1.50466 0.00290023 0.0106183 0.00116186 0.761676 0.00209054 0.000822604 0.000396945 
-3.60921 15.2521 -10.1602 -0.416701 -1.56628 -0.302486 -132.303 -0.183928 
-0.0201367 -0.13867 -63.1778 -287.625 7556.1 
+0.276655 0.0215945 0.0057723 0.00995543 0.00308504 0.0175021 0.00310997 0.0112823 
+0.521443 2.01665 -3.59355 -1.70209 0.638708 -1.69437 0.224506 0.232275 
+0.338219 -2.35904 -6.52271 -32.4101 476.249 
 
 # parameters for class #511
-3.9637 0.192953 0.0247395 0.136229 0.0118499 0.119458 0.123246 0.106284 
-0.552076 2.66604 -22.8814 -5.98815 -2.17193 -6.20924 0.678731 -1.99085 
--16.5407 -5.01734 -5.73473 -46.5945 1083.43 
+1.35568 0.0117538 0.0115442 0.00874018 0.00117327 0.00304298 0.388248 0.00127148 
+1.77694 8.46621 -8.85317 -0.958233 1.66836 -1.04961 0.0510348 -0.0172675 
+66.331 -0.290921 -30.1504 -158.652 3896.42 
 
 # parameters for class #512
-0.450305 0.0377533 0.00908825 0.0230877 0.00205052 0.0139621 0.0579008 0.00907078 
-1.20598 2.51011 -4.77186 -0.907998 -1.15646 -1.60994 0.110593 0.425627 
--9.16004 -1.24352 -16.3964 -40.7624 761.642 
+0.387777 0.053173 0.00140396 0.0378469 0.00515953 0.0452406 0.00353313 0.0301397 
+1.10024 2.15521 -5.1144 -3.93659 -0.0532257 -4.96786 0.317643 -0.744097 
+-0.315692 -3.90428 -12.4542 -33.0692 605.537 
 
 # parameters for class #513
-0.477616 0.00122953 0.0178294 0.00037345 1.28472 0.000880682 0.000618161 0.000186298 
-2.80034 5.53293 -4.14718 -0.0446918 2.80669 -0.0955039 225.96 0.0659102 
-0.0201524 -0.108748 -49.5502 -102.075 10826.6 
+0.446912 0.0313138 0.00140448 0.0286767 0.00499189 0.028156 0.00239364 0.0189622 
+1.08638 5.73873 -5.2026 -3.31434 0.00604925 -4.99825 0.274005 -1.03698 
+0.0446017 -2.75576 -13.9673 -97.6996 944.806 
 
 # parameters for class #514
-0.398742 0.00623768 0.0057585 0.00328277 0.0012562 0.00182904 0.163638 0.000926009 
-1.11897 4.59878 -4.2799 -0.522985 0.728146 -0.543169 0.0609122 0.0966706 
-27.5609 -0.287861 -16.5605 -80.2028 1719.16 
+0.514749 0.010493 0.00127176 0.00814883 0.00238282 0.010108 0.00126232 0.00832837 
+1.50644 7.01751 -5.74885 -1.40651 -0.0573705 -1.80453 0.102973 -0.424456 
+0.00548477 -1.59076 -21.7483 -122.803 915.826 
 
 # parameters for class #515
-1.1472 0.0197014 0.0138615 0.00525644 0.414824 0.0135698 0.00111343 0.00139067 
-2.82436 7.10962 -7.54147 -0.217223 -2.02808 -0.376518 -70.778 0.348533 
-0.0283004 -0.30477 -48.7377 -130.991 3992.97 
+0.578936 0.0118229 0.023189 0.00610447 0.0111801 0.00650895 0.00361632 0.00263512 
+0.950659 2.77156 -5.6968 -1.25649 -3.45972 -1.01902 -1.66278 -0.306798 
+-0.423001 -0.446604 -13.2687 -47.3256 616.374 
 
 # parameters for class #516
-1000 0.758403 0.0787153 0.527174 0.0284868 0.428488 0.0248468 0.266658 
-1.29516 13.5866 -4000 -24.6168 5.76563 -20.0039 2.07803 -11.5572 
-1.79581 -5.75811 -11.022 -254.865 5914.62 
+0.58739 0.00872932 0.033088 0.00465541 0.0729978 0.00585331 0.00666531 0.00251475 
+2.19272 3.37299 -5.28247 -0.395316 -5.17679 -0.501052 -11.9948 0.0638675 
+-0.946725 -0.556897 -35.8786 -58.7452 1241.41 
 
 # parameters for class #517
-2.01964 0.352471 0.0326111 0.267938 0.0137175 0.244575 0.0118499 0.209643 
-0.585309 9.19087 -13.8553 -10.2719 2.03536 -11.3329 0.761488 -3.85426 
-0.654529 -7.16137 -4.39165 -163.92 1118.74 
+6.27911 0.0990608 0.0153689 0.0660894 0.00754699 0.043974 0.00768466 0.028237 
+3.78589 0.715023 -29.018 -3.64791 -0.279608 -4.10293 -0.298009 -0.507769 
+0.0314548 -1.52147 -5.92182 -10.7967 241.264 
 
 # parameters for class #518
-1.01192 0.0476678 0.00245305 0.0312716 0.00157464 0.0294324 0.0015862 0.00550153 
-0.958039 7.10277 -6.01137 -1.47887 -0.0592185 -1.46746 0.0421621 -0.38887 
--0.122995 -0.413381 -14.5675 -131.361 763.023 
+1.95228 0.289626 0.0142195 0.199098 0.0223321 0.155802 0.012851 0.101919 
+0.71894 2.89908 -10.7928 -7.58785 -0.400028 -8.27603 -2.15084 -1.67954 
+0.836722 -4.28548 -4.70305 -48.1376 512.31 
 
 # parameters for class #519
-3.38373 0.131236 0.0124129 0.0844831 0.00739051 0.0756724 0.129967 0.0344868 
-0.857961 5.97317 -20.0939 -4.3924 -1.32196 -4.23955 0.503419 -1.2524 
--19.0623 -2.0866 -11.3258 -107.697 1459.4 
+2.9653 0.247745 0.0291165 0.138789 0.00975221 0.127614 0.0165014 0.0654271 
+1.74871 0.802453 -14.8115 -5.02421 0.236304 -5.43613 -0.392048 -0.183096 
+0.901232 -2.88094 -5.56855 -12.1818 233.749 
 
 # parameters for class #520
-0.994339 0.383838 0.0106798 0.167985 0.0114471 0.148506 0.0136154 0.0709472 
-0.404017 0.618468 -7.26391 -9.40595 0.400943 -9.06071 0.721764 0.67392 
-0.0111081 -4.5252 -2.20832 -8.97797 357.103 
+1000 1.37569 0.329728 0.579334 0.0703737 0.659456 0.0596025 0.255217 
+1.64499 10.946 -3998.16 -39.8329 10.385 -19.8013 2.92444 -15.649 
+1.23126 -3.71959 -7.20034 -206.374 5676.55 
 
 # parameters for class #521
-1.04055 0.231585 0.0170229 0.184064 0.00722427 0.136664 0.0133155 0.094917 
-0.701461 0.452262 -6.81966 -5.56299 1.045 -9.94177 0.342859 0.735507 
-0.77724 -6.27916 -2.92267 -6.38211 380.981 
+1000 1.21117 0.116485 0.855268 0.0355891 0.794152 0.0278544 0.581873 
+1.16261 50.5461 -4000 -29.6768 3.00374 -24.0943 1.04891 -16.5452 
+0.604263 -6.35873 -5.37196 -969.929 9161.8 
 
 # parameters for class #522
-7.66901 0.299381 0.032955 0.156082 0.1554 0.235205 0.0163766 0.118731 
-0.849134 7.84441 -45.1581 -7.24185 -2.93798 -5.57786 -20.636 -2.85257 
-0.822981 -4.90377 -9.96866 -143.004 1691.76 
+2.69096 0.498459 0.0438444 0.261127 0.0128641 0.3274 0.0113197 0.173243 
+1.06493 6.66497 -14.8981 -13.6317 1.60424 -10.3314 0.404397 -4.9211 
+0.370543 -5.0632 -4.48894 -117.453 846.857 
 
 # parameters for class #523
-0.211979 0.000296766 0.000305142 0.000127766 0.000347472 0.000298975 0.000697522 9.64771e-05 
-1.81792 4.21011 -3.09985 -0.0199099 0.0122095 -0.067228 0.0171182 0.0812375 
-0.0131795 -0.0862235 -29.8426 -73.5727 565.258 
+9.71581 0.386896 0.057726 0.230483 0.0160308 0.284234 0.0175997 0.117923 
+0.308579 17.1043 -37.9674 -12.6634 -0.522962 -8.8525 0.360956 -7.68218 
+-0.691546 -2.02661 -1.88305 -324.628 1870.8 
 
 # parameters for class #524
-0.449465 0.00220251 0.00556774 0.000833101 0.469987 0.00125525 0.000669698 0.000387461 
-1.29069 3.61417 -4.97153 -0.329714 0.745669 -0.300278 81.3835 -0.03421 
-0.0243755 -0.192344 -19.7425 -62.4758 4029.68 
+1.05735 0.277215 0.00904525 0.141329 0.00522045 0.147916 0.00979927 0.0674061 
+0.51865 0.861623 -7.03942 -6.0398 -0.394945 -5.98976 0.207055 -0.189922 
+-0.905707 -3.4279 -3.27164 -13.2923 276.999 
 
 # parameters for class #525
-0.232677 0.00190152 0.00207568 0.0012418 0.00100647 0.00216075 0.00112326 0.000988903 
-0.70853 1.68294 -3.36872 -0.20415 0.202365 -0.401885 0.0562431 0.204377 
-0.0795712 -0.4472 -9.50151 -27.0204 318.56 
+0.914088 0.0813382 0.0102737 0.0524457 0.00118287 0.0412567 0.00683342 0.0215696 
+0.428741 1.10772 -7.33532 -2.92016 -1.09005 -3.41028 -0.053377 -0.265212 
+-0.795644 -1.63377 -3.94766 -17.3105 305.118 
 
 # parameters for class #526
-0.804702 0.00272713 0.000446724 0.00150374 0.104025 0.00159498 0.0165036 0.000313203 
-4.22471 8.48257 -6.51486 -0.289413 -0.00717621 -0.294432 -17.4554 -0.0218578 
-2.68569 -0.130651 -75.3696 -157.997 2018.4 
+0.986441 0.187091 0.00367309 0.0894093 0.00290225 0.117004 0.00381729 0.0523536 
+0.413834 0.661052 -8.32158 -6.58273 -0.0969131 -5.81244 -0.200253 -0.611203 
+0.13597 -3.6027 -3.16581 -9.88738 326.919 
 
 # parameters for class #527
-0.646017 0.0142235 0.000744962 0.00404404 0.0358331 0.00822114 0.00147011 0.00162325 
-1.47901 3.669 -5.93685 -0.805649 -0.013189 -0.561804 -5.68411 -0.00946531 
-0.1367 -0.386251 -23.0398 -63.7192 717.735 
+1.28892 0.139686 0.0107644 0.0955276 0.0191711 0.0961952 0.00347649 0.0540462 
+0.561194 1.1053 -8.70424 -3.40466 -0.80793 -4.46251 -2.2988 -0.287916 
+0.0907413 -3.05538 -4.32565 -17.3516 334.38 
 
 # parameters for class #528
-1.37985 0.278474 0.00960602 0.120347 0.0105627 0.152085 0.00857045 0.0292785 
-0.385384 4.37707 -6.26 -9.19538 0.282694 -5.33356 1.03741 -3.24203 
--0.669926 -1.19013 -4.19637 -79.7534 627.132 
+1000 0.056067 1000 0.0282276 1000 0.0478721 1000 0.0242238 
+1000 1.34953 -4000 -0.995705 -0 -0.822434 -0 -0.305553 
+-0 -0.551858 -3.72754 -23.9352 4116.92 
 
 # parameters for class #529
-1.33265 0.0925006 0.019043 0.0648893 0.0163014 0.0446548 0.0143922 0.0314567 
-1.01247 0.651926 -7.14531 -2.68644 -0.026319 -3.54194 1.142 -0.160215 
--1.04037 -1.91772 -4.20131 -9.37035 226.138 
+29.6825 0.242643 0.0270562 0.130081 0.0105817 0.118578 0.00979169 0.0570816 
+4.2927 0.607423 -124.116 -3.12401 -0.534558 -3.8609 0.222888 0.468164 
+-0.53359 -2.1731 -8.27107 -9.34311 275.855 
 
 # parameters for class #530
-1.89406 0.280133 0.0160268 0.0917392 0.0332893 0.141815 0.00197765 0.0387354 
-0.447331 1.48503 -11.4736 -9.61037 -1.62093 -5.19823 -4.43134 -1.83141 
--0.00991043 -2.3081 -3.63704 -24.2848 549.653 
+2.20551 0.089296 0.0061946 0.0412979 0.00336723 0.068764 0.00280962 0.0294832 
+1.56575 0.426916 -10.8938 -1.00629 -0.257827 -1.63027 0.0229088 1.16997 
+-0.198549 -1.86133 -4.04122 -6.22604 144.714 
 
 # parameters for class #531
-5.50275 0.551527 0.0452579 0.308888 0.0187448 0.326208 0.0124987 0.132968 
-0.302757 7.64462 -26.0265 -9.0933 -1.05913 -7.19543 -1.29025 -3.19759 
-0.371279 -3.15342 -2.62445 -140.3 849.46 
+656.831 0.113861 0.0243243 0.0645769 0.00681094 0.0748008 0.00545262 0.0410273 
+2.21655 1.41444 -2635.39 -0.597467 -1.32285 -1.25224 -0.370381 0.665582 
+-0.272311 -1.42754 -7.22968 -24.0135 2833.84 
 
 # parameters for class #532
-682.418 0.223592 0.0642989 0.120615 0.0226616 0.174775 0.0417715 0.0937897 
-1.42393 2.27633 -2737.69 -4.44586 -1.32533 -3.42848 -0.92671 -1.98281 
-0.0669817 -1.93653 -4.48943 -40.1326 3032.67 
+2.33368 0.0909175 0.00363078 0.0552588 0.00163493 0.0399786 0.00230101 0.0218049 
+0.364833 3.10543 -17.9441 -0.0955312 -0.126204 -1.58594 -0.0556361 1.03664 
+0.00165542 -1.36446 -3.04424 -53.0375 356.195 
 
 # parameters for class #533
-17.6915 0.669535 0.127647 0.271056 0.0298096 0.304364 0.0443394 0.0929574 
-0.41366 5.0173 -72.5754 -13.8907 3.94663 -7.76331 -0.1798 -3.92696 
-2.7046 -2.07237 -2.13553 -91.2354 744.554 
+2.1482 0.213731 0.0254027 0.171204 0.0138522 0.107507 0.0127185 0.0448746 
+0.324274 6.43125 -9.86275 -0.583571 0.0313187 -1.98417 -0.794396 0.63199 
+0.716962 -1.28499 -2.85362 -118.183 636.155 
 
 # parameters for class #534
-4.37292 0.251159 0.0567469 0.144116 0.0218997 0.108049 0.0315486 0.0632988 
-2.22746 1.37605 -20.339 -2.68836 0.900654 -4.0105 -0.129306 0.691619 
-1.10729 -2.35631 -3.74498 -22.2091 220.681 
+1.83651 0.211223 0.0238545 0.116523 0.017946 0.0941436 0.0164035 0.0511017 
+0.742042 2.24879 -9.75843 -0.664536 0.870967 -2.62543 -0.0617066 1.49374 
+1.0338 -2.22315 -2.48847 -37.6682 280.663 
 
 # parameters for class #535
-1000 0.718521 0.517326 0.42062 0.19203 0.496817 0.158086 0.251141 
-3.31931 17.9766 -4000 -14.1002 9.39083 -10.3208 3.58993 -7.30849 
-2.77738 -3.1068 -7.70831 -338.875 5856.89 
+1000 0.303464 0.0890371 0.275748 0.0285093 0.204431 0.0326543 0.206167 
+1.41601 13.1126 -4000 -2.02609 7.11366 -3.44606 2.24397 -0.174989 
+2.60806 -4.82134 -12.5056 -244.361 5470.35 
 
 # parameters for class #536
-1000 0.623162 0.0830703 0.45745 0.0224269 0.382591 0.0214868 0.275446 
-1.64599 22.4873 -4000 -21.1779 1.40865 -17.894 0.50365 -11.0387 
-0.236758 -3.57692 -4.7183 -427.905 6516.1 
+1.35901 0.529013 0.041399 0.255576 0.0109804 0.294192 0.018231 0.141493 
+0.635331 3.28119 -9.07036 -9.37933 2.81114 -8.62483 0.493084 -0.73368 
+1.31863 -5.58246 -4.21935 -55.7631 540.238 
 
 # parameters for class #537
-13.4807 0.505788 0.0435153 0.271211 0.0232941 0.300848 0.0114989 0.161648 
-6.34238 1.39308 -58.4441 -12.7781 0.851364 -10.9633 0.107122 -3.04122 
-0.373028 -5.35731 -8.54404 -22.5039 437.959 
+37.9668 0.218548 0.0441496 0.13294 0.0371926 0.187911 0.0205556 0.139472 
+1.02788 3.8784 -156.386 -4.08922 0.65128 -3.88224 2.95616 -1.53686 
+-1.23731 -4.40698 -6.29468 -67.5576 660.896 
 
 # parameters for class #538
-3.69192 0.419926 0.127679 0.262782 0.0594465 0.248521 0.041268 0.0935264 
-0.312274 15.3828 -12.2057 -14.5739 3.63376 -10.2514 3.21833 -7.55274 
--0.0406403 -1.23378 -2.84618 -296.659 1833.69 
+5.51428 0.0794978 0.0182845 0.0452255 0.00637813 0.0657768 0.00755235 0.0349915 
+0.316839 6.56942 -24.1546 -3.77893 -1.16991 -2.65076 -0.337051 -2.39614 
+-0.539946 -1.15142 -2.1302 -121.047 777.076 
 
 # parameters for class #539
-1000 0.496654 0.0887085 0.253087 0.0343271 0.388575 0.0521416 0.179356 
-2.50203 5.4848 -4000 -12.4206 2.06151 -8.41639 1.52242 -6.51335 
-0.00506249 -3.59511 -7.60928 -99.5969 4702.06 
+3.05241 0.745904 0.0398236 0.3158 0.0379883 0.284392 0.0109038 0.106188 
+0.420535 4.73939 -16.3984 -14.0397 -1.66049 -8.91283 -3.6285 -2.68473 
+0.437861 -3.21306 -3.70807 -84.6428 708.592 
 
 # parameters for class #540
-559.153 0.871614 0.0697919 0.461318 0.044415 0.464323 0.0224122 0.216893 
-1.71886 12.9867 -2228.59 -32.6618 0.802691 -19.8226 -0.124839 -14.8473 
-0.565712 -2.89914 -3.43726 -246.117 4063.39 
+14.0283 0.0351758 0.000888828 0.0283842 0.00329914 0.0315931 0.0042742 0.0316216 
+1.15806 27.4239 -23.2389 -1.84887 0.023366 -1.71577 -0.330073 -1.41005 
+0.503514 -0.748325 -16.9541 -531.875 2788.46 
 
 # parameters for class #541
-2.47057 0.0899102 0.0123574 0.0474749 0.00146002 0.0418676 0.121395 0.00763201 
-0.726456 5.40731 -14.3299 -2.74377 -1.52309 -2.30672 0.0211482 -0.418558 
--18.7829 -0.63781 -10.7866 -98.9617 1393.13 
+1000 0.112258 1000 0.112258 1000 0.112258 1000 0.00191431 
+1000 1000 -0 -21.077 -0 -21.077 -0 -21.077 
+-0 0.514843 -0 -20014.8 103140 
 
 # parameters for class #542
-0.970204 0.0921154 0.0107637 0.048774 0.00430387 0.0517603 0.0138379 0.0284355 
-0.593865 0.674374 -6.7336 -1.94572 -0.86906 -2.27882 0.0780105 0.252927 
--1.6216 -1.79589 -3.94124 -10.1842 233.143 
+2.61787 0.000428889 0.00240204 0.000449839 0.00100715 0.000403444 0.00111547 0.0115145 
+0.126892 77.7601 -7.11465 0.127655 0.0056151 0.129944 -0.000477986 0.123615 
+0.00379443 -0.253937 -1.19671 -1539.32 7717.96 
 
 # parameters for class #543
-2.5592 0.101012 0.0174965 0.0552994 0.00349546 0.056407 0.0277768 0.0237893 
-0.625366 1.48688 -12.278 -3.80703 1.55483 -3.09161 -0.00922074 -1.06538 
-3.49409 -1.2371 -4.26636 -24.8556 413.102 
+1.83952 0.122704 0.00455901 0.0454812 0.120722 0.0965838 0.00429975 0.00637356 
+1.4056 4.59967 -11.8495 -3.46544 0.451989 -2.49455 19.0678 -0.86972 
+-0.383547 -0.653081 -20.9842 -79.9828 1336.59 
 
 # parameters for class #544
-1.40191 0.0235511 0.00230077 0.0151397 0.000903548 0.0135701 0.0489499 0.00122797 
-2.78727 18.9135 -6.40068 -1.42705 0.256528 -1.1723 -0.0347663 -0.444073 
-7.91694 -0.151815 -48.6101 -361.911 2379.9 
+1.26356 0.128364 0.00214911 0.0612889 0.0115363 0.0924974 0.00407315 0.00939616 
+0.546118 4.84987 -5.562 -5.39809 0.116208 -3.45807 1.4772 -2.53515 
+-0.379726 -0.54488 -7.0527 -88.8207 669.238 
 
 # parameters for class #545
-1000 0.436504 131.897 0.222198 248.23 0.211753 38.1706 0.109046 
-150.115 6.99881 -4000 -14.7742 0.285348 -9.27418 -2.95813 -5.49605 
-0.620005 -1.73477 -4.11904 -131.059 4874.52 
+0.964426 0.0340179 0.00267797 0.0154656 0.0483909 0.0258182 0.00179902 0.00964793 
+0.556553 0.894772 -7.03873 -1.33631 0.203509 -1.23643 7.19976 -0.153648 
+-0.135484 -1.07275 -6.10595 -13.3237 471.523 
 
 # parameters for class #546
-3.44713 0.030193 0.0037012 0.0226821 0.00184625 0.0211543 0.00607956 0.0182609 
-0.311209 9.79111 -16.0478 -3.81628 -0.165435 -3.2401 0.0603234 -2.31784 
--0.592846 -0.850187 -1.9867 -182.055 1242.78 
+0.571077 0.109792 0.00941785 0.065724 0.0168597 0.141751 0.0110083 0.0570714 
+1.28459 2.29614 -7.12036 -4.98132 0.827168 -5.89439 1.33271 -0.13848 
+0.178572 -5.48062 -13.9279 -34.8762 598.738 
 
 # parameters for class #547
-1.63111 0.00748367 0.00220932 0.00674642 0.00125361 0.00598224 0.00289451 0.00718448 
-0.157946 10.5046 -6.2594 -1.46416 -0.0685543 -1.41603 0.0358974 -1.08327 
--0.233298 -0.284845 -1.29231 -201.62 1235.34 
+0.491916 0.023495 0.00139338 0.0133924 0.00221032 0.0106878 0.00376607 0.00452446 
+1.3018 4.59854 -5.29705 -2.24003 0.0504552 -1.94564 0.174635 -0.371492 
+-0.425798 -0.706675 -18.4666 -79.061 643.958 
 
 # parameters for class #548
-2.61283 0.0249743 0.00832618 0.0190716 0.00381335 0.0151569 0.00367738 0.0129844 
-2.50884 5.00084 -12.5361 -3.22278 0.0236493 -3.01651 0.0447632 -1.51392 
--0.0285329 -0.799781 -3.87825 -87.9146 723.526 
+0.505542 0.031652 0.00436125 0.0304975 0.00472389 0.0465233 0.00174498 0.0273953 
+1.55268 3.11811 -5.82173 -2.04261 -0.349571 -4.14115 0.244079 0.0300068 
+-0.0288905 -3.95942 -21.2931 -51.4164 676.833 
 
 # parameters for class #549
-1.28621 0.0126461 0.00197138 0.00868646 0.00252685 0.00957208 0.00103975 0.00707626 
-0.197513 9.09012 -6.73159 -2.18508 -0.123168 -1.68835 -0.252554 -1.45456 
-0.0139578 -0.414764 -1.66518 -170.715 1115.22 
+0.669767 0.0772463 0.00237601 0.051832 0.0108041 0.055246 0.00277682 0.0309543 
+0.740022 0.899055 -7.27404 -4.79874 -0.0326513 -6.09182 0.916785 -0.492883 
+-0.1607 -3.74977 -7.57898 -13.2227 525.375 
 
 # parameters for class #550
-2.84036 0.0155477 0.00405569 0.00796407 0.0340054 0.0132537 0.00139348 0.00222824 
-0.416431 13.2167 -17.1146 -2.196 -0.459711 -1.38299 -5.25177 -1.53406 
-0.0425539 -0.242602 -5.63209 -248.448 1667.63 
+0.398317 0.00264252 0.000562242 0.00203135 0.00130695 0.00100507 0.0321336 0.000771821 
+1.19105 3.52698 -4.74266 -0.527922 -0.00660445 -0.632102 0.0972769 -0.0320514 
+-5.20192 -0.304772 -17.7397 -60.5676 720.068 
 
 # parameters for class #551
-286.265 0.132183 0.0735211 0.0937082 0.0254489 0.0905791 0.0155332 0.0758378 
-0.865043 4.05205 -1150.4 -4.86452 8.13156 -4.43052 2.88642 -2.38585 
-1.61253 -3.14129 -8.06888 -72.8868 2027.52 
+0.470065 0.00283144 0.00555323 0.00110862 0.350672 0.00210134 0.000792943 0.000568903 
+1.07714 2.86711 -4.78061 -0.302713 0.750985 -0.308821 60.4064 -0.0142654 
+0.0334064 -0.239206 -16.6752 -49.7692 3032.27 
 
 # parameters for class #552
-2.223 0.126377 0.00644706 0.0821934 0.00862786 0.0802185 0.0614402 0.0491873 
-0.479036 3.26236 -13.1969 -6.30069 -0.480935 -5.61853 0.667075 -2.42263 
--8.37393 -3.02216 -4.99399 -56.7728 865.874 
+0.465245 0.0376072 0.00399093 0.0306228 0.00478386 0.0309702 0.00237905 0.019532 
+0.470082 0.728664 -5.0319 -3.40388 0.343442 -5.17342 0.400303 -0.295574 
+0.115445 -3.33101 -3.93673 -10.0443 563.171 
 
 # parameters for class #553
-1.49901 0.0638422 0.0128888 0.0431644 0.00521493 0.0417463 0.0650195 0.0260532 
-1.11064 2.46637 -11.4964 -2.90593 -1.50165 -3.19845 0.380007 -0.621645 
--9.76588 -2.26556 -13.8932 -41.547 843.737 
+0.418648 0.0468396 0.00171885 0.0411233 0.00395628 0.0480639 0.00592449 0.0381641 
+1.90632 4.91729 -5.68349 -3.44191 0.0532087 -6.13631 0.194346 -0.329505 
+0.411114 -5.80969 -24.5315 -80.6897 999.557 
 
 # parameters for class #554
-0.570127 0.221812 0.011297 0.135898 0.0145309 0.138271 0.00764614 0.0919907 
-0.379345 1.35331 -5.21508 -6.18242 0.796825 -8.64832 1.06824 1.23093 
-0.393842 -7.5196 -3.28378 -21.4122 520.625 
+0.473817 0.0510645 0.00357261 0.0482531 0.00367301 0.0456672 0.00461191 0.0368646 
+0.342072 3.40971 -5.04154 -5.56063 0.233766 -8.10623 0.17221 -2.27501 
+0.289588 -4.67081 -3.54786 -57.5691 992.094 
 
 # parameters for class #555
-0.944111 0.166402 0.00905745 0.168263 0.0129415 0.161225 0.0082291 0.12993 
-0.705944 3.06653 -9.68731 -7.53272 0.649399 -12.6344 0.850991 -2.00907 
-0.290566 -9.06608 -7.2119 -50.474 804.942 
+0.74555 0.0251759 0.0110519 0.0189129 0.00248391 0.0155631 0.00365744 0.0110797 
+0.392154 1.96144 -6.92056 -3.09991 1.34612 -3.39329 0.205952 -0.999676 
+0.41851 -1.55052 -4.12588 -32.4716 587.824 
 
 # parameters for class #556
-0.931831 0.13115 0.019868 0.0859762 0.00788665 0.0857278 0.0101609 0.048865 
-0.48212 1.12957 -8.00877 -6.58119 2.1618 -7.56377 0.665974 -1.15506 
-1.06577 -4.44763 -4.35733 -17.7985 594.359 
+0.808198 0.0286528 0.00806874 0.0173659 0.00381865 0.0125757 0.00305031 0.00704565 
+0.29928 6.16448 -6.45296 -4.66733 0.753315 -3.56453 0.303284 -1.48628 
+0.236719 -0.720622 -2.60886 -109.744 1021.62 
 
 # parameters for class #557
-0.716457 0.186331 0.0119575 0.111872 0.0051791 0.0967233 0.00725148 0.0634976 
-0.316942 2.91675 -5.70009 -12.7777 1.07721 -11.2197 0.368125 -3.59843 
-0.626766 -4.83233 -2.65643 -49.6553 940.731 
+0.301553 0.00137685 0.00104424 0.0010518 0.000579382 0.00061399 0.104656 0.00041029 
+1.38996 2.98142 -4.13277 -0.34414 -0.104162 -0.449319 0.0173495 0.00309171 
+-17.8118 -0.232529 -20.6393 -49.9143 1226.1 
 
 # parameters for class #558
-1.71637 0.0337246 0.0130845 0.00965008 0.196755 0.0197995 0.00184628 0.00172032 
-3.45808 9.17346 -10.4831 -1.56363 1.90708 -0.908264 33.1151 -0.338199 
-0.0989407 -0.318305 -60.308 -170.566 2636.6 
+0.261847 0.00199627 0.000693492 0.00170368 0.000598614 0.00178286 0.000670549 0.00165329 
+0.488468 1.30769 -3.17003 -0.341744 -0.0419654 -0.593271 -0.00414459 -0.00261884 
+0.00624225 -0.627961 -6.82461 -21.8018 318.358 
 
 # parameters for class #559
-1.99855 0.00553777 0.012784 0.00190694 0.325277 0.0040688 0.00112231 0.000509845 
-2.92964 19.7989 -12.4857 -0.788213 1.88969 -0.441667 55.9782 -0.406198 
-0.0438673 -0.147624 -51.151 -375.909 4630.58 
+0.509879 0.00458473 0.00624864 0.0039161 0.000884368 0.00136857 0.266975 0.000786495 
+0.984892 3.55913 -4.84354 -0.608279 0.847398 -0.808651 0.0364432 0.00486873 
+45.6733 -0.258988 -15.3899 -63.4807 2476.34 
 
 # parameters for class #560
-0.921082 0.0186647 0.00123798 0.0062592 0.0146526 0.0118078 0.00156565 0.00128293 
-1.09284 9.04491 -6.30147 -1.90988 -0.0334936 -0.925574 -2.14155 -0.839579 
-0.114756 -0.212835 -17.3354 -167.6 1097.02 
+0.382601 0.00803444 0.00378872 0.00566583 0.000788537 0.00599071 0.000718867 0.00359385 
+0.602654 2.26969 -4.15868 -1.14457 -0.437168 -1.40211 -0.0420129 -0.237179 
+-5.20687e-05 -0.819974 -8.37747 -38.5789 453.876 
 
 # parameters for class #561
-0.36772 0.0239617 0.0136069 0.0140463 0.00354224 0.0112421 0.129402 0.0066838 
-1.87691 2.87612 -4.08491 -1.37541 -1.81091 -1.55208 0.225436 0.105014 
--21.0489 -1.1257 -27.4223 -47.6297 1385.93 
+0.347622 0.0120866 0.00305455 0.0223232 0.001716 0.0289783 0.00230721 0.0156306 
+0.91503 1.39319 -4.38101 -1.10434 0.280655 -4.15728 -0.00574747 -0.0890925 
+0.106524 -2.98406 -11.842 -21.2267 555.261 
 
 # parameters for class #562
-0.333789 0.0186013 0.00210822 0.0104883 0.00235389 0.0127722 0.00291976 0.0095789 
-0.650063 1.3652 -4.12288 -1.00168 -0.13692 -1.61491 0.0722643 0.51391 
--0.0367027 -1.91704 -7.99651 -21.4312 356.253 
+0.353036 0.00277048 0.00248511 0.00257501 0.00134961 0.00420042 0.00133326 0.00296831 
+0.800761 2.60102 -4.05063 -0.395219 0.250116 -0.757445 0.0614374 -0.00342743 
+0.0967889 -0.96235 -11.5753 -44.3927 460.468 
 
 # parameters for class #563
-0.812338 0.0520625 0.00384557 0.0408452 0.00766915 0.069375 0.005875 0.0459917 
-0.874123 3.97396 -8.81342 -4.46248 0.0691267 -6.18859 0.456161 -1.63704 
-0.0170326 -6.16466 -9.18556 -63.317 898.43 
+0.39914 0.00939226 0.00164965 0.00911016 0.00165573 0.00731072 0.0022118 0.00693805 
+0.286123 2.4176 -4.18317 -1.93764 0.096429 -2.7243 0.0750194 -0.783085 
+0.107606 -1.41027 -2.89601 -40.8554 648.546 
 
 # parameters for class #564
-0.784789 0.0126282 0.00261771 0.0105425 0.00360965 0.012527 0.00155543 0.00846438 
-0.293107 1.08953 -7.48561 -0.801339 0.166385 -1.73931 0.22134 0.486507 
-0.0631431 -1.81894 -2.48313 -17.0239 339.055 
+0.581516 0.00614951 0.00200358 0.00228211 0.0431022 0.00446944 0.000792721 0.000922963 
+0.611405 4.71109 -5.27997 -1.16929 -0.221984 -0.659588 -7.02089 -0.544627 
+0.00758744 -0.229393 -8.42966 -83.7296 897.164 
 
 # parameters for class #565
-0.26147 0.0336548 0.00529382 0.0380455 0.00312056 0.037299 0.00413431 0.0311945 
-1.2565 2.09217 -3.6397 -2.63392 0.527878 -6.05134 0.142423 -0.136152 
-0.364519 -5.22904 -15.7163 -32.9447 774.408 
+1.06224 0.0144986 0.0308028 0.00857166 0.261372 0.0139743 0.00187181 0.00444496 
+2.21891 4.49748 -9.41463 -1.09068 -4.67605 -1.23935 -43.8906 -0.240535 
+0.0845383 -0.828798 -34.1749 -77.6901 2659.73 
 
 # parameters for class #566
-0.507557 0.0247503 0.00794056 0.0534973 0.00365696 0.0511356 0.00661628 0.0525586 
-1.41178 3.12934 -6.07487 -1.99112 0.914076 -8.00533 0.306771 -0.285308 
-0.314453 -8.15997 -19.4389 -51.5591 1036.16 
+3.92625 0.0190282 0.0030632 0.0154518 0.00126269 0.00865205 0.0891778 0.0020894 
+2.96257 15.8318 -20.84 -1.07283 -0.370718 -1.21428 0.0405395 -0.176647 
+-14.6837 -0.325088 -51.3994 -299.955 2386.96 
 
 # parameters for class #567
-0.374419 0.0394102 0.00216489 0.0331288 0.0023162 0.0298583 0.00210129 0.0189252 
-0.848746 1.47092 -4.67398 -3.45863 -0.143426 -5.41048 0.111581 -0.436048 
--0.157375 -3.04034 -9.80397 -22.283 606.07 
+0.555834 0.012106 0.00169379 0.00615417 0.00179617 0.00580896 0.000596773 0.00178727 
+1.23955 3.49745 -4.26211 -0.484389 -0.132631 -0.57443 -0.190804 0.0374993 
+-0.0276738 -0.323191 -20.1938 -62.9735 473.396 
 
 # parameters for class #568
-0.272882 0.00614087 0.00350303 0.00691526 0.0018582 0.00654736 0.000856243 0.00696925 
-0.729111 1.24287 -3.50102 -0.703741 -0.389357 -1.59198 0.0629034 -0.00769792 
--0.0618302 -1.71474 -9.74979 -19.365 407.828 
+3.90798 0.33884 0.0410416 0.133386 0.0139587 0.139645 0.0151087 0.0587146 
+4.31238 0.851661 -18.7625 -11.3436 1.19857 -7.56841 0.0586269 -1.41203 
+0.715325 -2.96021 -7.01471 -12.6724 368.244 
 
 # parameters for class #569
-0.373149 0.0031416 0.0025351 0.00222711 0.000963236 0.00130206 0.267256 0.000857573 
-0.928436 2.662 -4.16143 -0.46174 -0.310164 -0.573614 0.0334204 0.0435938 
--45.8221 -0.348874 -14.0581 -46.1447 2386.69 
+2.71672 0.160977 0.00819699 0.0998736 0.00748281 0.0962066 0.00594091 0.0528217 
+1.00898 1.41834 -13.7313 -5.59761 0.031594 -5.36217 -0.522696 -1.54012 
+0.431407 -2.52986 -4.8409 -22.9082 330.996 
 
 # parameters for class #570
-0.310663 0.00026141 0.0262688 0.000123737 0.0144841 0.000193057 0.218236 7.13249e-05 
-3.91633 7.386 -3.89038 -0.0882415 -4.2389 -0.0806047 -2.42509 -0.00751265 
--37.8945 -0.0676557 -69.5339 -135.804 2960.19 
+3.45749 0.367954 0.022582 0.18779 0.057701 0.239487 0.0152182 0.111828 
+0.531426 6.6454 -19.0284 -10.5765 -1.2749 -7.34537 -6.60928 -4.4095 
+0.829139 -3.9633 -5.43716 -121.371 1049.06 
 
 # parameters for class #571
-0.231645 0.00120973 0.000672667 0.000741368 0.000576822 0.00114529 0.000976704 0.000561933 
-0.894014 2.87909 -3.10747 0.0136214 0.0464914 -0.184691 0.0310894 0.236287 
-0.0384264 -0.281506 -12.7392 -48.26 387.393 
+1000 1.73913 0.158171 0.693568 0.0351748 0.734085 0.0368053 0.253304 
+1.57279 24.6202 -4000 -52.4432 4.00089 -24.2387 0.474751 -18.6179 
+1.33401 -3.30554 -5.42297 -469.494 7035.68 
 
 # parameters for class #572
-0.351796 0.00117392 0.000450939 0.00113978 0.000944157 0.00124431 1000 0.000924992 
-0.979858 2.58983 -3.83124 -0.112428 0.0133876 -0.274947 0.0478859 0.155546 
--0.490798 -0.354651 -15.2188 -44.5688 373.56 
+1000 0.565623 0.203099 0.356491 0.0687842 0.292862 0.0411138 0.169955 
+1.7654 6.40447 -4000 -20.7152 10.2701 -15.4744 3.85014 -8.73887 
+1.82682 -3.42086 -9.48705 -118.85 5229.24 
 
 # parameters for class #573
-1000 0.000481235 1000 6.33669e-05 1000 0.000347446 1000 3.44778e-05 
-0.455868 0.455875 -1.54158 -0.0821596 -0 -0.0349004 -0 0.0727002 
--0 -0.0262035 -0.349841 -0.349839 45.0934 
+1000 0.327148 0.0514563 0.241955 0.0136631 0.269811 0.015302 0.254725 
+1.07487 32.2041 -4000 -16.3465 0.838417 -13.2715 0.211026 -12.1637 
+0.254311 -3.18937 -3.22243 -618.558 7535.77 
 
 # parameters for class #574
-0.36228 0.00159487 0.0035213 0.000900561 0.263765 0.00114088 0.00090908 0.000478275 
-1.35131 2.85988 -4.38071 -0.130689 -0.449 -0.276998 -45.4584 0.0662067 
-0.0293495 -0.243335 -20.7398 -48.4869 2387.3 
+5.264 0.42079 0.0225957 0.267472 0.0192335 0.288171 0.0489565 0.149129 
+0.503837 11.1044 -26.4799 -12.5061 -1.10666 -10.3521 1.14141 -5.97505 
+-5.43474 -4.99745 -5.22777 -204.974 1471.08 
 
 # parameters for class #575
-0.815327 0.0055821 0.00379723 0.00131414 0.421273 0.00446636 0.00109609 0.000401261 
-2.57595 6.89855 -5.95624 0.227475 -0.507397 -0.100015 -72.8342 0.427657 
-0.0364668 -0.14221 -44.4011 -126.425 4027.85 
+3.04062 0.266659 0.0117591 0.149589 0.0128902 0.165831 0.0300459 0.106168 
+0.497575 2.21916 -15.1488 -8.05012 -0.417663 -6.8937 1.00009 -2.33194 
+-3.35912 -4.99976 -3.57571 -37.2147 542.275 
 
 # parameters for class #576
-0.752319 0.035397 0.00208611 0.0304522 0.00244615 0.0337093 0.00538799 0.0206385 
-1.57216 6.88869 -8.51326 1.04775 0.161248 -1.13827 0.109966 2.77172 
-0.36944 -2.67103 -21.5969 -119.002 832.459 
+1.1153 0.560083 0.0191947 0.294575 0.0119428 0.293289 0.0119371 0.149188 
+0.485198 1.51286 -7.81495 -24.3913 0.990241 -19.384 0.58065 -5.96633 
+0.494565 -7.69883 -2.68346 -24.6618 893.282 
 
 # parameters for class #577
-0.766455 0.0972019 0.00483617 0.0898279 0.00558008 0.0832406 0.011286 0.0691116 
-0.608749 2.73073 -7.98824 -0.116971 0.345918 -3.89355 0.260577 3.08087 
-0.852425 -6.19506 -6.88063 -45.5089 507.789 
+1.36097 0.470179 0.0104942 0.223229 0.00768004 0.298474 0.00712404 0.125086 
+0.624921 2.40476 -10.5942 -17.0015 0.269751 -13.7376 0.235071 -3.06218 
+0.105642 -6.8964 -3.36299 -38.5152 688.814 
 
 # parameters for class #578
-0.468301 0.0785566 0.00516079 0.041043 0.00162883 0.0411996 0.00681596 0.0147566 
-0.237727 2.80993 -4.02851 -1.13717 0.380771 -2.36579 -0.0304598 1.13759 
-0.776898 -1.54483 -2.12443 -46.193 368.408 
+2.82877 0.132127 0.0168451 0.0632781 0.033213 0.0920881 0.00183336 0.0423225 
+0.41778 5.54861 -15.7756 -7.17523 -1.69174 -4.44975 -4.35002 -3.5278 
+-0.0148823 -2.04401 -3.83563 -100.096 941.893 
 
 # parameters for class #579
-1.56806 0.0553057 0.0070183 0.0457865 0.00164891 0.0256415 0.0335426 0.0081279 
-0.344165 6.04333 -8.67804 -0.800869 0.752372 -1.38499 0.0421647 0.153166 
-4.87189 -0.577206 -4.62009 -110.82 803.153 
+2.69998 0.34377 0.0145245 0.22204 0.00960942 0.221697 0.00702153 0.0534208 
+0.41768 14.3954 -9.77085 -12.528 0.0639692 -9.42844 -0.504988 -6.78567 
+0.386788 -1.12213 -4.19588 -274.53 1648.76 
 
 # parameters for class #580
-2.04594 0.00056888 0.373295 0.000518752 0.32544 0.000505811 0.227031 0.000126869 
-28.1836 139.197 -7.02591 -0.028075 64.7625 -0.0340622 56.4679 -0.0162885 
-39.2602 -0.0384353 -549.556 -2755.39 23324.8 
+6.14017 0.291334 0.0768593 0.282794 0.0235756 0.246536 0.0266445 0.42392 
+0.64465 55.7968 -19.7807 -10.4983 4.14021 -10.8243 1.17224 -8.33134 
+1.50959 -4.60136 -7.49209 -1093.6 5796.64 
 
 # parameters for class #581
-0.447913 0.000144792 0.196449 0.000100126 0.294799 8.5487e-05 0.394123 3.32367e-05 
-19.3949 40.8107 -2.88174 -0.0475489 34.0859 -0.0460801 51.6015 -0.0175568 
-68.9916 -0.0233523 -374.52 -799.528 12552.7 
+1000 1.29693 0.298046 0.809462 0.0361998 0.532769 0.0492993 0.291934 
+1.57648 9.03363 -4000 -45.2194 10.2708 -32.17 1.07294 -15.9783 
+1.90994 -4.17104 -7.35401 -170.724 5796.78 
 
 # parameters for class #582
-1.86382 0.018054 0.00315456 0.0124568 0.00189712 0.0130868 0.0214314 0.00589936 
-0.314498 10.793 -11.155 -2.74042 -0.312066 -2.17945 0.0799966 -1.63214 
--3.11437 -0.500975 -3.68757 -201.818 1403.77 
+1000 0.691504 0.176373 0.41495 0.0382125 0.3282 0.089909 0.184336 
+1.38843 11.1811 -4000 -26.6932 6.69723 -18.5581 0.535695 -10.6598 
+5.28273 -3.20227 -6.13037 -210.269 5724.14 
 
 # parameters for class #583
-1.67372 0.000791451 0.0317531 0.000753046 0.0134176 0.000670928 0.0204559 0.000485892 
-3.24853 72.8155 -6.55489 -0.182623 -5.09535 -0.18548 -2.09202 -0.143436 
--3.26377 -0.0688255 -59.869 -1435.08 7854.54 
+15.1208 0.240443 0.0128541 0.161078 0.00986116 0.189881 0.00990807 0.104887 
+0.335558 18.7315 -65.6193 -10.5643 -0.198067 -8.20803 0.439979 -6.9909 
+-0.690894 -2.71691 -2.87406 -353.988 2104.6 
 
 # parameters for class #584
-2.46346 0.00436054 0.192235 0.00344658 0.171698 0.00372222 0.143444 0.00032224 
-12.0404 41.6996 -8.14399 -0.453991 -32.9652 -0.395786 -29.4273 -0.346798 
--24.5462 -0.0706169 -231.292 -818.36 8933.3 
+6.95045 0.112145 0.0244191 0.0709449 0.012717 0.0582452 0.0125888 0.0380099 
+5.18691 0.567411 -31.1842 -3.59946 -0.422051 -3.94016 0.181004 -0.506045 
+-0.574658 -1.91818 -7.45157 -8.44299 225.737 
 
 # parameters for class #585
-1000 0.589036 0.0678059 0.353733 0.0403126 0.308367 0.0205345 0.148554 
-1.36586 10.303 -4000 -23.6813 5.86462 -16.6686 3.52741 -10.2641 
-1.72569 -4.04542 -12.0332 -191.514 5727.3 
+1.40328 0.282741 0.0198423 0.142118 0.0153614 0.138017 0.0108525 0.0698656 
+0.486939 4.85815 -8.52455 -15.2412 0.709493 -10.4251 0.757308 -4.68194 
+0.111162 -3.0746 -2.19727 -85.3767 914.251 
 
 # parameters for class #586
-1000 0.141124 0.0612469 0.100193 0.0144498 0.0902521 0.0227938 0.0736653 
-0.999722 6.49569 -4000.6 -7.63863 6.45229 -6.58196 1.47261 -3.84124 
-2.39912 -3.06882 -8.29544 -118.009 5138.94 
+2.13736 0.106008 0.0168452 0.0885951 0.00834489 0.0612262 0.00848064 0.03469 
+0.203345 5.09312 -7.64533 -6.37927 -0.708929 -5.96614 -0.600274 -3.25098 
+-0.0217764 -0.735214 -1.8488 -96.2891 769.921 
 
 # parameters for class #587
-1000 0.048737 0.0496794 0.0381323 0.018987 0.0385609 0.0249984 0.0429903 
-0.868916 8.92371 -3999.8 -5.05216 4.29463 -4.35752 1.59143 -3.58808 
-2.18388 -1.47615 -6.18569 -166.482 5345.26 
+5.05202 0.279446 0.0142735 0.151399 0.0416476 0.165976 0.00561431 0.0669023 
+0.57124 10.8137 -28.7345 -10.5167 -1.29784 -7.4629 -5.45902 -4.25065 
+0.184923 -2.78906 -6.66301 -201.004 1486.68 
 
 # parameters for class #588
-2.72966 0.0353864 0.00182729 0.0267382 0.00306949 0.0262963 0.00400913 0.0046543 
-1.01179 9.57443 -14.7884 -2.6982 0.0272268 -2.45686 0.275639 -1.46596 
--0.458016 -0.426842 -15.2112 -177.185 1103.1 
+1000 0.874416 0.331128 0.601418 0.102311 0.504277 0.0946882 0.316722 
+1.28232 28.8925 -4000 -26.1307 17.4764 -20.6547 5.62811 -12.8207 
+4.7584 -5.0474 -9.19665 -551.164 7503.05 
 
 # parameters for class #589
-2.16764 0.0331563 0.00634044 0.0227308 0.00222794 0.0131616 0.204717 0.00307679 
-2.20675 9.3098 -12.0022 -1.3444 -0.81734 -1.42636 0.100681 -0.0962213 
--33.7688 -0.40823 -37.295 -174.564 2506.9 
+1000 0.72629 0.260965 0.5575 0.0795856 0.442073 0.0816168 0.321919 
+1.50273 20.8775 -4000 -25.4692 12.4418 -22.1339 3.12221 -13.4537 
+4.51746 -5.01272 -9.55823 -397.26 6728.51 
 
 # parameters for class #590
-0.446028 0.119096 0.00281117 0.100485 0.00585296 0.0791685 0.0074129 0.0537115 
-0.989864 2.14858 -5.36627 -3.7781 0.157389 -7.9165 0.316122 1.1437 
-0.512175 -5.49605 -11.4221 -34.9997 581.792 
+1000 1.09846 0.283166 0.658085 0.0556227 0.644957 0.0592644 0.352367 
+1.25384 31.0836 -4000 -33.3507 11.5973 -22.6529 2.36393 -16.9624 
+2.31282 -4.69647 -7.56238 -594.952 7616.59 
 
 # parameters for class #591
-0.80253 0.0429052 0.00302055 0.031493 0.00221347 0.0118454 0.0365459 0.00380951 
-1.46632 4.68419 -6.13846 -2.50015 0.325117 -2.78975 0.110619 -0.0960511 
-5.77436 -0.586393 -22.5471 -83.7176 880.165 
+8.23988 0.284037 0.0522001 0.191691 0.00897824 0.203518 0.0199065 0.113741 
+0.571495 9.79318 -31.8715 -15.3185 2.54789 -11.4275 0.199026 -9.81403 
+1.38001 -2.07011 -4.21881 -185.867 1514.01 
 
 # parameters for class #592
-0.503246 0.105134 0.00861724 0.09266 0.00700615 0.0791427 0.00948473 0.0605758 
-0.4337 1.53834 -5.48459 -4.48764 0.747828 -8.73539 0.469192 0.600551 
-0.812424 -6.88799 -4.50488 -24.4615 659.888 
+14.8642 0.416323 0.0251098 0.277116 0.0147865 0.1878 0.0215074 0.0823582 
+0.318329 7.83993 -65.53 -13.349 -0.285002 -11.2745 0.913418 -4.37261 
+-1.70967 -2.63103 -2.77474 -143.737 1086.96 
 
 # parameters for class #593
-0.622154 0.0796544 0.00677491 0.0961663 0.0121493 0.0426387 0.0358439 0.037116 
-0.213234 1.50016 -4.92592 -5.48433 0.373228 -11.3573 0.991537 -0.71375 
-0.101023 -4.01773 -1.51574 -24.2525 721.397 
+2.26132 0.144376 0.00841245 0.0899742 0.0016323 0.0583497 0.0192074 0.0265758 
+0.313418 4.12961 -12.0891 -9.32617 -0.69665 -7.26173 0.0393874 -2.81136 
+-2.41525 -1.33432 -2.79253 -74.8094 842.774 
 
 # parameters for class #594
-0.517184 0.0817424 0.00341598 0.0313508 0.00411508 0.0669964 0.00266336 0.022201 
-0.468079 2.84044 -5.38169 -5.4447 0.214825 -3.46587 0.409306 -1.38746 
--0.121582 -2.42206 -5.29389 -46.5196 542.41 
+2.05612 0.273476 0.0131936 0.17311 0.00755422 0.204581 0.00634182 0.142786 
+0.566319 8.46254 -13.6133 -10.82 0.346776 -9.37796 0.202749 -5.04988 
+0.126766 -4.83433 -3.05536 -151.119 1048.63 
 
 # parameters for class #595
-0.995741 0.0039411 0.000614861 0.00213574 0.0243949 0.00264182 0.00524771 0.000621142 
-3.99116 9.45892 -7.66988 -0.25564 -0.0120197 -0.296178 3.89795 -0.0243882 
--0.763793 -0.182859 -69.8314 -174.262 1390.44 
+2.27868 0.130605 0.0250364 0.0486778 0.00957288 0.0626027 0.0395806 0.0241542 
+0.954723 2.07305 -11.8165 -6.52541 -0.00480202 -3.51448 0.019853 -1.72129 
+-0.133625 -1.14243 -2.00055 -35.2808 376.873 
 
 # parameters for class #596
-0.346815 0.0259008 0.00797684 0.0140771 0.00334974 0.0250863 0.0047916 0.0135562 
-0.647448 1.4505 -4.37835 -1.55451 0.931254 -2.0525 0.282495 0.568259 
-0.509932 -2.58299 -7.89 -22.8899 450.537 
+3.00273 0.248116 0.0102097 0.128337 0.0296649 0.144337 0.00756282 0.0631844 
+0.432112 18.3229 -16.0741 -13.009 -0.616027 -8.10735 -3.45227 -6.03771 
+0.370234 -2.39049 -4.63127 -345.412 2196.71 
 
 # parameters for class #597
-2.36547 0.00583409 0.0180898 0.0051285 0.000956275 0.00222855 0.604509 0.00103194 
-2.99603 15.4424 -14.7896 -0.569196 2.72517 -0.704752 0.0400635 -0.036655 
-104.09 -0.257066 -52.2298 -292.754 6324.87 
+379.292 0.433554 0.0525828 0.224482 0.0168708 0.227181 0.0253792 0.116499 
+1.50935 4.05529 -1520.82 -13.2401 2.20551 -9.02479 0.133246 -4.74232 
+1.75497 -2.9431 -5.57579 -72.5127 2169.93 
 
 # parameters for class #598
-0.463342 0.0397755 0.00187562 0.0215245 0.00411428 0.0288343 0.0022582 0.0148931 
-0.388052 2.85913 -4.84668 -4.3242 -0.107692 -3.61335 0.228627 -1.40285 
--0.183876 -1.97775 -3.94177 -47.1609 629.246 
+1000 0.631714 0.0751001 0.448892 0.0321988 0.380815 0.0175299 0.249332 
+1.52257 37.6073 -4000 -26.0999 2.29084 -20.7599 1.25176 -13.8559 
+0.37298 -3.50416 -6.94719 -720.519 8159.72 
 
 # parameters for class #599
-0.277218 0.0313679 0.00145826 0.0389035 0.00420981 0.046025 0.00450975 0.0395205 
-0.555937 0.840779 -3.46681 -2.30552 0.0202213 -6.23421 0.238345 0.371951 
-0.00996836 -6.88317 -5.74117 -12.06 715.775 
+7.64244 0.0497803 0.23566 0.0511959 0.0435836 0.0425101 0.183763 0.142697 
+0.834911 35.546 -12.9474 -2.32178 12.3372 -2.59574 -0.0319759 -1.81022 
+16.3853 -1.5126 -10.7387 -695.562 4082.97 
 
 # parameters for class #600
-0.484835 0.0113382 0.00154542 0.00753422 0.00250203 0.0116763 0.00149645 0.00620077 
-1.40666 7.15388 -5.4654 -1.58015 -0.0647018 -1.66933 0.0937055 -0.627741 
-0.0141292 -1.10598 -19.8384 -125.329 895.783 
+6.59667 0.342619 0.0134413 0.130476 0.0162201 0.173158 0.0105723 0.0767932 
+0.286205 4.34407 -29.742 -13.5875 0.175484 -6.79395 1.23659 -4.66273 
+-0.689032 -3.04259 -2.11746 -77.2905 737.962 
 
 # parameters for class #601
-0.66629 0.0178716 0.0124318 0.00752271 0.0123362 0.0108729 0.00148567 0.00353705 
-0.994191 3.98904 -6.24499 -1.83505 -1.75516 -1.16602 -1.81254 -0.570697 
--0.143479 -0.52733 -13.8038 -69.2446 666.254 
+0.728691 0.00713237 0.0440156 0.00616526 0.000655324 0.00392455 0.286488 0.00180652 
+2.113 4.45663 -5.87312 -0.0404732 -6.98073 -0.423298 0.0151943 0.252201 
+-48.6572 -0.381532 -34.7302 -80.4936 2942.43 
 
 # parameters for class #602
-0.511505 0.00941111 0.0273085 0.00478775 0.0708662 0.00578351 0.00292097 0.00248343 
-1.72381 3.16003 -4.90644 -0.302776 -4.19998 -0.482 -11.5962 0.157383 
--0.382856 -0.549468 -27.2865 -53.7673 1093.51 
+0.505823 0.00410628 0.000690523 0.00310186 0.000868271 0.0023635 0.000715731 0.00158546 
+0.274153 2.80872 -4.82749 0.347354 -0.027428 -0.0773169 0.0105367 0.429994 
+-0.0112329 -0.360635 -3.42137 -49.1788 350.362 
 
 # parameters for class #603
-0.98577 0.156785 0.00570393 0.0951292 0.00255832 0.0961673 0.00319783 0.0538049 
-0.645148 0.335559 -6.42905 -5.69016 -0.0997193 -6.67381 -0.0555253 -0.214972 
--0.0183471 -3.8673 -2.21478 -4.31332 311.571 
+0.388395 0.0163493 0.000808302 0.0113357 0.00205088 0.0126546 0.00303774 0.00717939 
+2.75342 4.6268 -5.70373 -0.0660927 -0.00606994 -1.09976 0.100688 1.1231 
+0.154615 -1.41071 -40.0583 -76.8508 663.719 
 
 # parameters for class #604
-2.02183 0.188746 0.0136555 0.119799 0.0246092 0.128851 0.0116841 0.083191 
-0.579913 2.91846 -11.0734 -5.59394 -0.396528 -5.43958 -2.50928 -1.80555 
-0.824678 -3.70285 -4.12295 -49.1359 499.346 
+0.712388 0.00843482 0.00469412 0.00544584 0.00424057 0.00519602 0.0051242 0.00264066 
+2.02122 6.38483 -9.0796 0.265901 -0.592644 -0.380936 -0.583803 0.571088 
+0.375119 -0.581421 -30.911 -110.163 777.856 
 
 # parameters for class #605
-87.7213 0.245639 0.0301648 0.146124 0.00916327 0.218409 0.0171695 0.129943 
-1.62695 6.19904 -357.31 -7.47788 0.382768 -5.98528 -0.273005 -4.35417 
-0.894605 -3.46261 -5.32702 -110.478 1069.05 
+0.532595 0.0195579 0.00353774 0.00873032 0.00274427 0.0187846 0.00242397 0.00598808 
+0.272522 4.31076 -5.18145 1.03212 0.31034 -0.131144 0.180651 2.08937 
+0.170172 -0.850561 -3.11077 -75.034 517.352 
 
 # parameters for class #606
-1000 1.3018 0.147515 0.633283 0.0401649 0.627074 0.0303657 0.253158 
-2.10921 7.74764 -4000 -37.1606 4.95936 -21.7716 1.74472 -14.2423 
-0.692059 -4.06456 -8.90067 -144.683 5318.27 
+0.576473 0.0295026 0.00444286 0.0277092 0.00277973 0.0221424 0.00528438 0.0177111 
+1.105 3.60034 -6.83994 0.44656 0.448986 -1.57776 0.180249 1.75392 
+0.417918 -2.64302 -14.5142 -60.6079 552.078 
 
 # parameters for class #607
-1000 1.30405 0.188835 0.761235 0.0375797 0.744299 0.0373029 0.399701 
-1.56224 18.5809 -4000 -30.3475 4.95103 -21.0284 1.11238 -14.0818 
-0.837353 -4.88737 -6.37518 -352.746 6146.94 
+1.24036 0.00747628 0.003896 0.00432025 0.00237444 0.00402734 0.00148188 0.00176646 
+0.220061 5.56769 -9.13339 0.87884 0.387584 0.304189 0.230152 0.664014 
+0.116786 -0.21699 -2.47635 -101.871 630.752 
 
 # parameters for class #608
-3.07641 0.592256 0.0411255 0.301365 0.0168594 0.424471 0.0113787 0.193588 
-1.40249 5.18852 -16.2006 -15.8771 1.44683 -11.6464 0.525895 -6.33228 
-0.353869 -5.45717 -5.29059 -91.1007 758.03 
+0.874854 0.0433592 0.0168827 0.0243203 0.00247645 0.0222158 0.00771392 0.0121213 
+0.372378 2.38302 -7.53486 -0.0927705 2.04379 -1.30282 0.195702 1.00236 
+0.937322 -1.47852 -3.70972 -39.5961 406.682 
 
 # parameters for class #609
-173.97 0.14116 0.0442301 0.103192 0.0132409 0.0973349 0.019084 0.0946214 
-0.475949 15.2323 -701.818 -6.01156 -0.435833 -5.23061 0.302526 -3.35644 
--0.784274 -2.04066 -1.9495 -286.037 2265.26 
+0.610279 0.00930403 0.0068107 0.00579056 0.00127244 0.00457451 0.116063 0.00173933 
+0.96288 3.95438 -5.40685 -0.322632 0.907276 -0.499892 0.0581582 0.238154 
+19.2724 -0.360344 -14.5547 -70.2311 1298 
 
 # parameters for class #610
-1.21111 0.157849 0.0145758 0.0790415 0.00562221 0.0886114 0.00677347 0.0435232 
-0.726812 0.565031 -7.49531 -3.92216 -0.518891 -3.94439 0.0781708 -0.00655598 
--0.460306 -2.44916 -2.88485 -8.24908 208.729 
+0.488632 0.0370465 0.00114262 0.0170627 0.00914862 0.0308668 0.00713835 0.00791624 
+0.684166 2.19477 -5.79825 -0.0420067 -0.0498507 -0.954206 -1.17774 1.37027 
+0.60981 -1.0496 -8.84119 -36.1322 360.078 
 
 # parameters for class #611
-1.21929 0.132024 0.0108657 0.0792395 0.00164471 0.0694246 0.00699251 0.0355187 
-0.455862 1.84499 -8.26205 -4.96847 -1.0949 -4.75212 -0.0864563 -1.03187 
--0.793471 -2.17173 -3.76749 -30.3227 397.436 
+0.774339 0.0361287 0.00153491 0.0136883 0.00515807 0.0176973 0.00249346 0.0043545 
+1.50308 5.45767 -6.29062 -0.67049 0.0707619 -0.777616 -0.627293 0.271436 
+0.289278 -0.591801 -22.9546 -96.4369 641.357 
 
 # parameters for class #612
-1.68769 0.272545 0.0120615 0.150269 0.00633374 0.13226 0.010587 0.071025 
-0.73273 1.31516 -9.85539 -7.58475 -0.476423 -7.10156 -0.465194 -1.11504 
-0.117721 -3.20317 -3.23909 -20.8122 328.8 
+1.02155 0.137939 0.0120792 0.0507009 0.00535065 0.0555611 0.00895665 0.0234799 
+0.361332 3.48931 -8.16496 -2.66123 1.17961 -2.57125 0.225854 0.55571 
+1.05915 -1.86558 -3.57204 -59.4759 469.057 
 
 # parameters for class #613
-1.35347 0.197552 0.00767205 0.121494 0.0132319 0.133693 0.00426264 0.0607259 
-0.652686 1.19381 -10.1054 -4.94141 -0.583795 -5.8461 -1.56741 -0.386042 
-0.110222 -3.54292 -5.70358 -18.9613 359.552 
+2.71821 0.164622 0.0405301 0.0772113 0.00360468 0.0987359 0.0380721 0.0443766 
+0.462677 1.3119 -13.5832 -4.41449 3.94195 -3.1662 0.138539 -1.18254 
+4.70547 -1.98678 -3.77863 -22.0453 487.473 
 
 # parameters for class #614
-1000 0.310511 0.210078 0.210374 0.067173 0.227793 0.093551 0.170501 
-3.76258 4.13122 -4000 -4.7445 -0.547526 -4.60697 -0.245242 -1.97277 
--0.14439 -2.49945 -4.15398 -75.624 4425.98 
+1.43769 0.223911 0.0311949 0.165586 0.00756466 0.112442 0.0273508 0.0754889 
+0.466672 3.71752 -9.77285 -6.73691 2.66236 -8.02373 0.42232 -1.50969 
+2.54576 -3.53803 -3.83538 -65.0462 662.835 
 
 # parameters for class #615
-23.4796 0.180041 0.0331627 0.0835769 0.00824184 0.0938904 0.0121741 0.0416638 
-5.24512 0.545704 -98.7807 -3.06509 -0.684505 -3.06005 0.145056 0.241448 
--0.653502 -1.80956 -8.75625 -8.1115 248.016 
+0.806225 0.0366963 0.0467842 0.0217722 0.064007 0.0228995 0.00573549 0.00988928 
+0.819911 2.76233 -6.83249 -1.95158 6.65266 -1.98812 9.88491 -0.436247 
+0.532163 -1.09586 -10.4176 -46.5885 1022.53 
 
 # parameters for class #616
-4.21337 0.494924 0.0379942 0.242431 0.0207339 0.18686 0.0200766 0.0785738 
-0.610115 1.61366 -19.9495 -8.42846 -1.40793 -6.77701 0.121048 -1.14002 
--1.42058 -2.23208 -2.80088 -27.3208 316.009 
+0.911158 0.0928063 0.00612029 0.0928729 0.00763032 0.100933 0.0058729 0.0604508 
+0.875944 7.64291 -9.0008 -7.54861 0.480024 -11.1189 0.500033 -3.92521 
+0.349738 -5.4584 -10.1933 -133.992 1351.16 
 
 # parameters for class #617
-58.6729 0.129621 0.0287737 0.0660995 0.00455339 0.0688519 0.00839101 0.0348048 
-2.29749 1.43163 -241.274 -1.2489 -1.77802 -1.74734 -0.225865 0.49371 
--0.566237 -1.42695 -7.49092 -23.6007 458.93 
+0.423014 0.0374922 0.00928129 0.0246539 0.00331244 0.0211253 0.00458107 0.0125094 
+0.401235 0.817316 -4.56462 -1.97604 1.12086 -2.94501 0.323783 0.280226 
+0.517942 -1.9784 -4.30577 -12.3583 371.467 
 
 # parameters for class #618
-2.29202 0.129481 0.00928069 0.0931897 0.00390128 0.054529 0.00711923 0.0388375 
-0.59069 2.18222 -13.1605 -0.974192 -0.246685 -2.60948 -0.166064 0.671639 
--0.0266584 -1.79046 -2.49497 -35.8548 258.08 
+0.374516 0.0178664 0.000859232 0.00741075 0.00501817 0.0108402 0.00143688 0.00218453 
+1.61652 4.92976 -4.29578 -1.59076 0.0153329 -1.21002 -0.665493 -0.298489 
+0.110052 -0.42173 -23.1043 -83.8094 638.294 
 
 # parameters for class #619
-2.23034 0.142085 0.0185522 0.148506 0.0131006 0.0968049 0.00661336 0.0478123 
-0.674887 13.5984 -8.1529 -0.686682 -0.0741559 -1.51812 -0.666256 0.0333931 
-0.263508 -0.944985 -7.50012 -259.616 1325.9 
+0.545338 0.0359641 0.00152101 0.0122263 0.0162109 0.0264495 0.00167175 0.00409708 
+1.55766 6.80324 -4.5461 -2.26115 -0.077621 -1.29277 -2.35575 -0.840418 
+0.0650001 -0.554678 -23.3971 -121.399 871.765 
 
 # parameters for class #620
-8.0705 0.240166 0.0295123 0.119082 0.0168489 0.101205 0.0134588 0.0494642 
-4.48145 1.69693 -35.4868 -0.973447 1.09972 -2.79459 0.0319414 1.54484 
-0.852048 -2.15101 -8.8051 -28.2005 265.933 
+0.900537 0.0624864 0.00188354 0.0396776 0.00526595 0.0361905 0.00509223 0.0193681 
+0.711635 8.38094 -7.82948 -4.82446 -0.074009 -4.07531 0.382185 -1.69289 
+-0.572885 -1.53817 -8.46986 -149.259 1025.41 
 
 # parameters for class #621
-1000 0.309148 0.0914501 0.218938 0.0239382 0.258769 0.0368797 0.228182 
-1.24872 10.8027 -4000 -3.14015 7.2114 -3.52068 1.84031 -1.09569 
-2.9325 -5.34073 -10.8461 -200.602 5269.01 
+0.847718 0.0811681 0.00346941 0.0450108 0.00385143 0.0376368 0.00259737 0.0204657 
+0.248928 2.80429 -5.7087 -7.79132 0.0300605 -5.80087 0.260096 -2.34519 
+-0.135102 -1.57854 -1.52147 -48.2512 715.408 
 
 # parameters for class #622
-1.67509 0.41646 0.0347248 0.337929 0.0112915 0.206521 0.0176904 0.147351 
-0.614297 3.48153 -11.7646 -7.71199 2.30057 -11.9177 0.531695 -0.481034 
-1.17958 -5.99632 -4.23825 -59.1462 579.691 
+0.704642 0.0763293 0.00655866 0.0841523 0.0121306 0.113852 0.00755087 0.08338 
+0.850459 4.42174 -7.3903 -5.44879 0.508426 -10.0529 0.901982 -2.48406 
+0.479628 -8.99807 -9.81282 -74.1759 1088.21 
 
 # parameters for class #623
-7.91785 0.362647 0.0229507 0.23594 0.0179616 0.206975 0.0131179 0.126791 
-1.84046 1.8382 -35.0822 -6.45239 0.1339 -7.41106 1.25632 -0.860861 
--0.815069 -4.52967 -8.4986 -30.2213 369.277 
+0.813877 0.0505659 0.014393 0.0348082 0.00323126 0.0344556 0.00636981 0.0238474 
+0.46722 1.60777 -7.44355 -4.15724 1.68713 -4.44432 0.286888 -1.2184 
+0.697423 -2.69624 -4.87213 -26.1688 572.744 
 
 # parameters for class #624
-15.98 0.12588 0.0214388 0.0708162 0.00670608 0.0945832 0.00729499 0.0397305 
-0.385254 8.7093 -68.4637 -5.28971 -1.29052 -3.73485 -0.34732 -2.96057 
--0.48245 -1.28024 -2.42057 -159.989 1020.53 
+1000 0.0085439 0.0057032 0.00709405 0.00312571 0.00798342 0.00280063 0.013583 
+0.8933 15.6311 -3999.94 -1.66934 0.313395 -1.49823 0.164101 -1.43359 
+0.146678 -0.53917 -3.33574 -297.208 5698.98 
 
 # parameters for class #625
-3.32656 0.401488 0.0359278 0.236255 0.040875 0.260525 0.00870239 0.151092 
-0.411926 8.12748 -16.6334 -9.7381 -1.77075 -7.80878 -3.83947 -4.02781 
-0.174063 -4.12482 -3.29562 -148.504 1018.71 
+1.50493 0.0142425 0.00240185 0.00625291 0.00466007 0.00836647 0.000860738 0.00130495 
+0.137854 1.88859 -8.70238 -1.88092 0.182484 -1.10368 0.599816 -0.780286 
+-0.0144025 -0.183697 -1.53078 -33.4393 381.661 
 
 # parameters for class #626
-25.914 0.0418591 0.00436729 0.042168 0.00831344 0.036511 0.00344534 0.112401 
-2.13478 79.1085 -35.6334 -1.56523 -0.0166602 -1.74715 -0.726209 -1.21774 
-0.276983 -1.28728 -31.4779 -1559.99 7924.61 
+0.617682 0.0330925 0.00284336 0.0334503 0.00527213 0.0268167 0.00359397 0.0217255 
+0.475796 4.77172 -6.53453 -4.37358 0.210988 -6.53395 0.357096 -1.67777 
+0.157133 -3.07633 -5.36142 -81.9159 1043.38 
 
 # parameters for class #627
-1000 0.0983855 1000 0.0983855 1000 0.0983855 1000 0.00191415 
-1000 1000 -0 -18.5233 -0 -18.5233 -0 -18.5233 
--0 0.516101 -0 -20014.8 102789 
+0.933907 0.0290754 0.00486694 0.0193506 0.00346733 0.0141967 0.00235069 0.00928268 
+0.302793 6.14868 -6.2141 -4.96379 0.156147 -4.01963 0.148072 -1.87705 
+0.0350786 -0.754365 -1.4555 -109.443 1051.31 
 
 # parameters for class #628
-1.6965 0.000510963 0.00193989 0.000540186 0.000927214 0.000452686 0.00114433 0.00323921 
-0.116352 16.4275 -5.44751 0.162286 0.0161896 0.162885 0.0082601 0.151188 
-0.00697202 -0.123725 -0.900287 -321.378 1682.71 
+0.522646 0.00567006 0.00148251 0.00325409 0.00109962 0.00386894 0.000664141 0.00210485 
+0.374333 2.34554 -5.42218 -1.16939 -0.108476 -1.01133 0.0187842 -0.36293 
+-0.0272283 -0.502676 -4.43469 -40.0296 440.144 
 
 # parameters for class #629
-1.51518 0.0688227 0.0107294 0.0451794 0.0702326 0.0383069 0.0012671 0.00463825 
-0.679668 10.7049 -5.89665 -0.337012 1.32081 -0.975251 11.0467 0.314876 
--0.0401777 -0.30348 -10.7115 -203.03 1541.5 
+0.613187 0.00805145 0.00072297 0.0050736 0.00190214 0.00293154 0.0139222 0.000895884 
+0.944394 5.69914 -4.98459 -1.41164 -0.0154639 -1.14479 0.138841 -0.277862 
+-2.13851 -0.215822 -14.3477 -102.869 817.498 
 
 # parameters for class #630
-1.23763 0.0491647 0.00451561 0.0326142 0.0303482 0.0430826 0.00851204 0.00987927 
-0.669813 1.91103 -7.77442 -1.99338 0.329922 -2.04525 4.41047 -0.810809 
--0.985974 -0.904617 -8.98911 -32.6399 499.131 
+0.452253 0.0179834 0.00308168 0.0166225 0.00750154 0.013762 0.0151095 0.0092514 
+0.31974 0.752731 -4.98617 -1.9218 0.163114 -3.363 0.509452 -0.170821 
+0.085737 -1.81343 -2.75368 -11.17 435.425 
 
 # parameters for class #631
-0.767122 0.0309483 0.00196307 0.0144429 0.0403032 0.0285733 0.00188521 0.00861369 
-0.534088 0.941934 -6.02712 -1.13736 0.127645 -1.16316 5.98555 -0.0120402 
--0.15666 -1.03672 -6.02406 -13.9944 424.502 
+0.394716 0.0274493 0.00212013 0.0188664 0.00124038 0.0247572 0.00108801 0.015433 
+1.21533 5.67278 -5.44571 -3.46826 0.141645 -3.90011 0.0437121 -1.12344 
+0.0329224 -2.66951 -14.7196 -92.998 939.282 
 
 # parameters for class #632
-0.64585 0.137778 0.00426161 0.114761 0.00993635 0.158643 0.00801965 0.103908 
-0.820043 3.6158 -7.21594 -7.56407 0.266554 -11.3853 0.743571 -1.56479 
-0.0600548 -10.0477 -9.10181 -58.9475 977.688 
+2.58406 0.012927 0.00403514 0.00458135 0.188642 0.0116684 0.00103187 0.00111038 
+5.41529 22.0114 -14.3878 -0.93294 -0.548483 -0.550449 -31.8689 -0.493579 
+0.0283883 -0.222319 -97.0397 -418.604 3907.17 
 
 # parameters for class #633
-0.477203 0.0167113 0.00147574 0.00787241 0.0018702 0.00960864 0.00242578 0.00372522 
-1.22181 4.18069 -4.93527 -1.67125 0.0724111 -1.19891 0.160699 -0.370015 
--0.256723 -0.62083 -17.6205 -72.1593 571.134 
+4.31717 0.348439 0.0584941 0.235579 0.0187015 0.299932 0.0185852 0.131325 
+0.506638 7.62778 -13.9344 -12.9922 1.65329 -9.72927 -0.0229514 -9.98618 
+0.98878 -1.57328 -4.09442 -145.964 1084.14 
 
 # parameters for class #634
-0.630481 0.0245501 0.00344848 0.024834 0.00467929 0.0396107 0.00149027 0.0220479 
-1.90797 3.66264 -6.61061 -1.66817 -0.288362 -3.46544 0.24352 -0.0757258 
--0.0331564 -3.23679 -27.7785 -62.2242 709.048 
+1.79548 0.0252203 0.00695204 0.0127677 0.198776 0.0225976 0.00351962 0.00436414 
+1.78964 4.63859 -12.7965 -1.37408 0.874511 -1.23538 32.7079 -0.500658 
+-0.340551 -0.597054 -27.6278 -81.6031 1986.52 
 
 # parameters for class #635
-0.611607 0.0733672 0.00316512 0.0565847 0.00855038 0.0752767 0.00396979 0.0442034 
-1.06996 1.65157 -6.77498 -4.66221 -0.0614727 -6.84889 0.614369 -0.83484 
--0.182864 -5.26473 -10.861 -24.9087 639.605 
+1.09191 0.132234 0.00559799 0.061801 0.00260627 0.0676524 0.00504212 0.0307104 
+0.347932 6.29215 -7.18449 -11.1588 0.177025 -6.49325 0.0258094 -4.29724 
+0.237369 -1.46249 -1.9887 -112.82 1061.18 
 
 # parameters for class #636
-0.374179 0.00253567 0.000638114 0.00180275 0.00148842 0.00109639 0.0369897 0.000774693 
-1.3659 3.87651 -4.2344 -0.482503 0.000614365 -0.520719 0.114552 -0.043934 
--5.95575 -0.2845 -20.7041 -67.2843 772.589 
+0.661492 0.0237607 0.00146313 0.0056672 0.00848219 0.013489 0.000912099 0.00153587 
+2.30843 4.73123 -5.60029 -0.245935 0.0869637 -0.391353 1.22297 0.363063 
+0.0131238 -0.28225 -36.7277 -83.351 647.664 
 
 # parameters for class #637
-0.421988 0.0146948 0.00609667 0.00511181 0.079592 0.0111865 0.00205487 0.00262821 
-1.5955 3.11282 -4.85543 -0.974041 0.797399 -0.82335 12.9986 -0.0155982 
-0.136547 -0.594038 -23.1562 -51.7245 1006.17 
+0.702729 0.0407919 0.00134458 0.0275438 0.00229057 0.0263898 0.00303675 0.0167717 
+0.390881 1.87434 -7.1772 -3.45197 -0.030561 -3.86317 -0.178428 -0.741053 
+0.176717 -2.10734 -4.02391 -30.0432 487.22 
 
 # parameters for class #638
-0.446082 0.0656437 0.00345154 0.0819826 0.00764782 0.0844138 0.00796415 0.0603932 
-0.902497 4.27871 -5.21673 -5.06059 0.181559 -10.8733 0.458207 -1.60735 
-0.409131 -7.34242 -10.8715 -70.8333 1088.25 
+2.40632 0.0388355 0.00486016 0.0324858 0.0018712 0.0318706 0.00453206 0.0227995 
+0.329244 7.58384 -7.55949 -4.82955 0.221979 -4.30082 -0.0375962 -3.70863 
+0.39855 -0.545081 -3.15921 -144.521 1164.65 
 
 # parameters for class #639
-0.440007 0.0295693 0.00180616 0.0366005 0.00385033 0.0325771 0.00398436 0.0258798 
-1.72033 7.47579 -5.17438 -2.95874 -0.0142398 -6.11894 0.169959 -1.11139 
-0.192567 -3.65724 -23.5532 -129.533 1177.56 
+3.18798 0.0962956 0.00457071 0.0640093 0.0136975 0.0658835 0.0037359 0.0314506 
+0.302872 15.2288 -16.7276 -8.05495 -0.337428 -6.20313 -1.68603 -4.6563 
+0.13522 -1.38277 -3.0563 -286.085 1891 
 
 # parameters for class #640
-0.394886 0.0656902 0.00501538 0.0582761 0.00425468 0.0553491 0.00778035 0.038732 
-0.450565 1.89288 -4.31939 -5.97305 0.35951 -9.0603 0.188674 -1.62766 
-0.594973 -5.23679 -3.92133 -29.7349 880.727 
+3.55097 0.100813 0.00595179 0.0792122 0.00283708 0.0782212 0.00258457 0.0461308 
+0.336843 17.405 -12.1527 -8.94181 -0.0326087 -7.50944 -0.102838 -6.46309 
+0.0669962 -0.830793 -2.79301 -335.266 2188.37 
 
 # parameters for class #641
-0.853783 0.0196298 0.00670388 0.0113998 0.00134069 0.0125218 0.00494635 0.00651802 
-0.223199 1.72601 -5.75233 -2.75859 0.664658 -2.0568 0.0616447 -1.26676 
-0.554263 -0.655232 -1.81407 -29.394 463.664 
+30.198 0.0476134 0.00659145 0.0339055 0.00203208 0.0308353 0.00524228 0.0239653 
+0.58589 5.74368 -124.605 -4.66203 -0.18879 -3.81694 0.0295365 -2.56653 
+-0.33687 -0.887892 -2.27609 -105.858 952.414 
 
 # parameters for class #642
-0.900149 0.0257256 0.00666771 0.0182169 0.00572276 0.0171095 0.00262168 0.0142198 
-0.361918 5.79531 -8.31673 -3.92449 0.621423 -3.75272 0.472931 -1.57691 
-0.162341 -1.80344 -3.6669 -101.486 985.864 
+2.88573 0.069577 0.00804288 0.040594 0.00338775 0.0493399 0.0221906 0.0202801 
+0.274698 8.00463 -15.1103 -5.87348 -0.668999 -4.01755 0.138298 -3.43857 
+-2.87659 -0.986599 -2.78056 -149.583 1173.07 
 
 # parameters for class #643
-0.857072 0.00250974 0.00554043 0.00196149 0.00090856 0.000823278 0.514674 0.000386881 
-1.58587 8.08722 -6.36837 -0.622411 -0.785567 -0.615735 0.0293686 -0.0853112 
--89.5507 -0.152292 -27.0227 -151.285 4918.01 
+4.47164 0.216203 0.036219 0.0961087 0.00816237 0.112041 0.017807 0.0489901 
+2.24628 2.73778 -21.2074 -10.0547 0.589482 -6.47994 -0.0726618 -2.85914 
+0.661835 -2.22371 -3.93153 -45.899 533.846 
 
 # parameters for class #644
-0.244604 0.00239502 0.00143257 0.00170927 0.000595458 0.00177771 0.000531845 0.0012546 
-0.530703 1.32651 -3.10976 -0.426811 -0.127628 -0.605928 -0.00860608 -0.0148552 
--0.00463059 -0.477035 -7.21956 -21.7756 311.849 
+1.62716 0.255881 0.010199 0.125937 0.00637413 0.106813 0.00473412 0.052158 
+0.696839 3.93417 -8.80911 -15.5574 0.388899 -10.0458 0.0839326 -4.46476 
+0.243901 -2.25454 -2.50866 -69.0086 872.249 
 
 # parameters for class #645
-0.228308 0.00257421 0.00123228 0.00444933 0.00171771 0.0048335 0.00145274 0.00354189 
-0.821363 2.41486 -2.77674 -0.352932 0.0966763 -1.31804 0.0460247 0.0170497 
-0.0867104 -1.12763 -11.9301 -41.0701 490.483 
+2.86108 0.159167 0.0058597 0.0975742 0.0109524 0.0855821 0.00483277 0.040858 
+0.283048 10.0563 -14.2969 -10.6404 -0.229046 -7.7368 -1.10955 -4.69961 
+0.227802 -1.61861 -2.51988 -187.112 1379.69 
 
 # parameters for class #646
-0.698457 0.00840198 0.00250409 0.0122982 0.00142876 0.0154387 0.00169666 0.0114476 
-0.689792 1.50224 -6.99631 -0.875087 -0.233623 -2.41648 -0.0398655 -0.18064 
-0.029946 -2.2122 -9.61766 -24.6128 462.052 
+4.00814 0.241759 0.0211333 0.130821 0.0214998 0.160167 0.00587541 0.0852429 
+0.36192 6.86311 -19.2452 -10.4001 -1.46041 -6.99395 -2.2725 -5.22982 
+-0.0130273 -2.69042 -2.8243 -126.339 1001.23 
 
 # parameters for class #647
-0.641616 0.0340227 0.00204308 0.0230814 0.0016496 0.0205399 0.00272469 0.0147989 
-0.203656 1.18735 -5.70372 -3.81307 0.116296 -4.17776 -0.0048868 -0.856069 
-0.193897 -2.21452 -1.68322 -18.8682 537.865 
+1000 0.173215 0.0416237 0.137754 0.0222349 0.115604 0.0123827 0.11425 
+1.2372 9.8434 -4000 -6.82887 1.85678 -6.81244 1.6636 -3.39807 
+0.0634426 -3.09518 -5.75405 -181.928 5125.08 
 
 # parameters for class #648
-0.264403 0.00320221 0.00169046 0.0022826 0.00178978 0.0030931 0.00100533 0.00216631 
-0.435789 1.43995 -3.54002 -0.61261 0.138478 -0.850194 0.0978442 -0.0363729 
-0.0523329 -0.83176 -5.22655 -22.9326 375.619 
+1000 0.531528 0.0756761 0.349294 0.023725 0.350885 0.0233086 0.222211 
+1.10742 17.8308 -4000 -25.2336 4.1708 -18.3656 1.2693 -14.8663 
+1.29746 -3.91481 -7.6858 -339.598 6461.21 
 
 # parameters for class #649
-0.374834 0.00989648 0.000984288 0.00562405 0.00127785 0.00643669 0.00204349 0.00344833 
-0.284271 2.36571 -3.79236 -1.5816 0.0508407 -1.46347 0.00567057 -0.386504 
-0.151549 -0.781241 -3.73284 -41.2508 473.635 
+1000 0.0403167 0.0158078 0.0346597 0.00785465 0.0367469 0.00563176 0.0692382 
+1.27265 30.5287 -4000 -3.87477 0.286038 -3.58357 0.105816 -3.264 
+0.120371 -1.23547 -3.4649 -587.019 7124.77 
 
 # parameters for class #650
-0.620898 0.00779477 0.00408578 0.00307333 0.0371703 0.00484415 0.000782678 0.00120146 
-0.511951 3.61303 -5.45013 -1.36922 -0.50531 -0.804419 -6.00037 -0.542984 
-0.0020975 -0.262522 -6.90814 -64.0881 776.449 
+3.06966 0.249358 0.0205522 0.145292 0.00413132 0.152584 0.0584499 0.067658 
+0.417108 11.0351 -16.4063 -11.759 -1.77332 -8.56591 0.14014 -5.4436 
+-7.51887 -2.74127 -4.40066 -205.032 1644.18 
 
 # parameters for class #651
-0.805867 0.0137554 0.0192254 0.00587284 0.397087 0.0128496 0.00183025 0.00425473 
-2.85321 5.17467 -7.65061 -0.938967 -2.87709 -0.898228 -67.3896 -0.0788953 
-0.110136 -0.943878 -44.9502 -89.5519 3700.27 
+2.08229 0.0161296 0.0301149 0.0144966 0.881534 0.0162793 0.0166926 0.0431221 
+0.341122 19.4165 -4.55208 -0.786429 -1.38804 -0.768746 0.172954 -0.724105 
+-1.33075 -0.533827 -4.1483 -380.268 1988.07 
 
 # parameters for class #652
-0.32183 0.0153726 0.00495722 0.0110994 0.000756473 0.00990473 0.0084576 0.00672836 
-0.310735 0.513715 -2.82264 -0.671576 -0.569997 -1.00236 -0.0141818 0.0329346 
--1.12971 -0.800962 -3.15675 -7.45894 206.193 
+4.7775 0.210214 0.0396889 0.120959 0.0161715 0.167537 0.0136045 0.0879581 
+0.310438 10.8887 -20.0332 -10.5638 1.19107 -6.89839 0.873142 -7.26506 
+-0.0331411 -1.83379 -2.29332 -206.565 1380.16 
 
 # parameters for class #653
-0.558931 0.0133321 0.00278887 0.00801812 0.00423276 0.00688581 0.00495556 0.00183893 
-1.79396 5.66688 -4.56571 -0.736188 -0.29055 -0.740911 -0.489007 -0.102996 
--0.647983 -0.29396 -28.549 -101.701 715.204 
+2.89319 0.153721 0.0100186 0.0968797 0.0060079 0.0725635 0.0085114 0.0491134 
+0.300617 6.00166 -13.7285 -8.69766 0.0628025 -6.68147 -0.341811 -3.21857 
+0.536016 -1.72718 -2.05202 -109.709 864.711 
 
 # parameters for class #654
-3.10821 0.326573 0.0436933 0.192205 0.0145327 0.146284 0.0177634 0.0837613 
-3.07752 1.05403 -15.3706 -10.7546 1.25063 -10.4258 0.095422 -1.67955 
-0.792257 -3.88969 -5.67831 -16.1661 416.082 
+1.25418 0.0472561 0.009274 0.0216546 0.00573031 0.0303794 0.00201145 0.00613311 
+0.214169 4.00189 -6.43922 -3.6012 -0.933014 -2.0048 -0.637373 -1.8445 
+-0.142664 -0.339605 -2.33657 -74.0354 598.313 
 
 # parameters for class #655
-2.57362 0.186605 0.0125107 0.101963 0.00891689 0.121924 0.00718489 0.0680661 
-1.10263 2.0784 -13.1478 -6.84755 -0.0108327 -5.57736 -0.520024 -2.27948 
-0.400907 -2.97011 -4.45466 -34.3334 397.796 
+1000 0.0905717 0.0327632 0.0567725 0.0166936 0.0624115 0.0166137 0.0415422 
+3.14832 3.90805 -4003.18 -3.95923 -0.984947 -3.2693 0.064214 -1.86243 
+-0.975476 -1.32981 -6.38127 -70.1156 4492.54 
 
 # parameters for class #656
-3.4749 0.358757 0.0242398 0.203659 0.0576304 0.195332 0.0106109 0.11314 
-0.481411 4.81371 -18.9327 -10.1617 -1.36786 -7.92221 -6.55346 -3.48472 
-0.545363 -4.03475 -4.80148 -87.3344 880.85 
+467.05 0.305672 0.0331737 0.195677 0.0196929 0.213636 0.00988492 0.140789 
+2.88651 6.87104 -1876.51 -10.8971 0.492457 -9.17135 0.909571 -5.21882 
+-0.1858 -3.79885 -7.91863 -123.672 2749.59 
 
 # parameters for class #657
-1000 1.31642 0.0801274 0.730396 0.0232979 0.82491 0.0282294 0.417277 
-0.983452 46.0541 -4000 -37.6173 1.62514 -23.8052 0.234424 -20.2585 
-0.843827 -4.67023 -3.44785 -885.067 8889.22 
+5.27006 0.285401 0.0632974 0.173953 0.0206154 0.20483 0.0130259 0.129784 
+4.03956 5.86355 -25.2137 -12.5552 3.26403 -10.2874 1.15782 -5.88812 
+0.496544 -4.72913 -13.7176 -102.94 963.408 
 
 # parameters for class #658
-7.98661 0.626202 0.0806651 0.491974 0.0289652 0.594337 0.0274082 0.622497 
-0.738193 80.0142 -27.8143 -21.2632 4.26459 -17.8936 1.49557 -18.7435 
-1.45484 -7.03343 -7.83009 -1564.43 8321.73 
+1000 0.276589 0.182636 0.175128 0.0492513 0.198904 0.0410135 0.123166 
+2.96222 9.44775 -4000 -12.6812 7.63493 -9.44232 1.96983 -7.51472 
+1.76937 -2.63466 -11.3168 -174.922 5319.51 
 
 # parameters for class #659
-1000 0.280633 0.0501624 0.21512 0.0117665 0.195411 0.0192275 0.17394 
-0.998864 25.8794 -4000 -13.0605 0.692618 -11.1774 0.208587 -8.03532 
-0.180055 -2.34423 -2.75792 -494.804 6784.2 
+105.149 0.164435 0.0223258 0.117849 0.00559776 0.100691 0.0156972 0.0694619 
+3.74818 2.10719 -426.353 -7.46825 0.983279 -7.08682 0.0440956 -3.09213 
+1.12717 -2.48021 -10.4646 -36.5709 900.239 
 
 # parameters for class #660
-4.66102 0.423584 0.0177266 0.249919 0.0100244 0.278135 0.0392112 0.132958 
-0.455435 11.2898 -23.7287 -12.9065 -0.959915 -9.92841 0.509904 -5.92562 
--4.36292 -4.41923 -4.59184 -208.726 1445.17 
+1000 0.199219 0.0435221 0.154988 0.012662 0.122976 0.0152875 0.0987783 
+1.02239 11.7579 -4000 -14.2831 2.55815 -12.2177 0.69623 -7.93931 
+0.926416 -2.19541 -6.27425 -222.164 5785.94 
 
 # parameters for class #661
-3.02692 0.24177 0.00986 0.116411 0.0229092 0.172223 0.0202318 0.0892357 
-0.554986 2.78397 -14.9743 -6.90448 -0.210992 -5.1251 2.01708 -2.21275 
--2.16824 -4.18176 -4.16055 -47.2098 528.762 
+1.46015 0.218046 0.0380092 0.140866 0.0108108 0.124635 0.0163565 0.0842211 
+0.585278 3.54769 -8.23042 -12.2146 2.6684 -9.7594 0.593393 -5.36331 
+1.26058 -3.03703 -3.87039 -62.6143 835.93 
 
 # parameters for class #662
-1.89305 0.513259 0.0392689 0.309764 0.0136257 0.270373 0.0110237 0.160026 
-1.40027 1.78878 -10.2572 -21.5623 2.09504 -19.1041 0.692088 -5.94507 
-0.49894 -7.34306 -4.92795 -29.4423 853.531 
+2.54354 0.0720474 0.0103877 0.0418792 0.0021133 0.0582005 0.0102211 0.0241684 
+0.353354 3.4209 -9.75723 -7.20548 0.667209 -4.61878 0.0155561 -5.22837 
+0.985408 -0.723839 -2.83448 -62.8345 813.349 
 
 # parameters for class #663
-1.62979 0.423506 0.00940214 0.200303 0.00850048 0.273848 0.00692846 0.14146 
-0.481842 4.77288 -12.841 -15.2968 0.318919 -11.3925 0.408224 -4.02715 
-0.0506388 -6.7048 -3.3243 -80.802 812.26 
+35.7943 0.00806111 0.00313355 0.00789422 0.00360713 0.00810809 0.0031577 0.185495 
+2.30091 204.428 -47.4572 -0.836606 0.00922017 -0.845411 -0.275768 -0.814651 
+0.248724 -1.7434 -33.8972 -4052.2 20342.4 
 
 # parameters for class #664
-2.85129 0.207995 0.024546 0.0876402 0.0518915 0.135757 0.00328674 0.0490699 
-0.461508 7.48042 -16.145 -10.6115 -2.51248 -5.74187 -6.9641 -4.9363 
-0.0126945 -2.25541 -4.70498 -137.158 1299.2 
+1000 0.05952 1000 0.05952 1000 0.05952 1000 0.00186748 
+1000 1000 -0 -12.69 -0 -12.69 -0 -12.69 
+-0 0.559707 -0 -20016 102223 
 
 # parameters for class #665
-3.23441 0.243689 0.0178384 0.175788 0.00911661 0.191675 0.00626098 0.0620215 
-0.434714 17.5678 -11.9035 -9.18794 0.00293279 -7.58096 -0.41383 -6.21422 
-0.263207 -1.18271 -4.21518 -336.62 1902.04 
+258.859 0.277782 1000 0.211316 1000 0.188009 1000 0.176055 
+11.8284 443.944 -137.996 -5.06154 -0 -4.61979 -0 -2.74243 
+-0 -1.28086 -205.81 -8829.86 44869.6 
 
 # parameters for class #666
-1000 0.617712 0.0757026 0.412644 0.0253754 0.310088 0.0166873 0.185496 
-2.53139 3.70887 -4000 -19.9198 3.91965 -17.0504 1.42057 -7.18647 
-0.770899 -4.63488 -11.3591 -66.639 4822.71 
+1.88611 0.318638 0.0188453 0.144646 0.0152308 0.156943 0.00852682 0.0652023 
+1.3388 1.10706 -10.3557 -4.95205 0.549172 -5.27728 1.19945 0.79811 
+-0.310994 -3.21664 -5.83357 -16.955 261.93 
 
 # parameters for class #667
-1000 1.13175 0.221661 0.6978 0.025821 0.508032 0.0396996 0.279095 
-1.79935 9.27368 -4000 -38.7191 7.31226 -27.6873 0.579072 -14.6035 
-1.68762 -4.27151 -7.34286 -174.313 5654.43 
+66.1807 0.20004 0.160886 0.130597 0.0504118 0.120265 0.126002 0.0847243 
+13.6243 1.13737 -271.714 -4.65073 3.87057 -5.43859 2.28536 -0.583085 
+0.0076816 -3.365 -19.3262 -17.7996 548.899 
 
 # parameters for class #668
-1000 0.975846 0.0864008 0.521072 0.0146369 0.540739 0.0379913 0.247743 
-1.62614 11.5439 -4000 -39.2411 3.45704 -24.0155 0.311682 -18.5669 
-2.13322 -4.24953 -7.64366 -216.687 5961.98 
+6.39012 0.136126 0.02028 0.0716694 0.00570279 0.0912772 0.0176104 0.0461534 
+3.83493 0.410372 -28.7324 -2.95254 1.01698 -3.08293 0.00968703 -0.0387514 
+1.45445 -2.2834 -9.9281 -5.96611 219.877 
 
 # parameters for class #669
-12.3886 0.383058 0.0251171 0.189196 0.017895 0.221957 0.0222169 0.0973224 
-0.323302 7.35198 -54.9647 -11.7063 -0.261953 -7.52559 1.12045 -4.70087 
--1.75288 -3.16886 -2.67844 -133.558 973.796 
+1.63664 0.124599 0.00340006 0.0613883 0.00521779 0.0752115 0.00235772 0.0392324 
+0.629431 3.66736 -14.5783 -1.32853 0.0419948 -2.58267 0.225747 1.55184 
+0.0220586 -2.7289 -6.54721 -62.9027 452.742 
 
 # parameters for class #670
-106.974 0.162743 0.0130002 0.0883403 0.00576457 0.0843564 0.0103741 0.0451552 
-0.806822 4.72862 -433.917 -8.73391 -0.215717 -5.99255 0.255946 -3.33108 
--0.729694 -1.65246 -3.21118 -84.8723 1143.68 
+4.28554 0.13491 0.00425415 0.0503554 0.0347526 0.0890268 0.00216171 0.00823993 
+0.757264 1.79461 -23.8094 -2.30442 0.387009 -1.99644 5.02439 0.00878009 
+0.00887714 -0.699094 -10.0253 -29.605 466.998 
 
 # parameters for class #671
-1.05676 0.55752 0.0157086 0.345628 0.0122107 0.354814 0.0115195 0.230927 
-0.454419 1.66742 -8.03919 -17.2406 0.710637 -18.9088 0.490227 -2.19297 
-0.456692 -12.4135 -2.62519 -26.1494 736.973 
+0.933789 0.163475 0.00943766 0.0718692 0.0136544 0.0881335 0.00898544 0.0478601 
+0.350018 1.29211 -6.03846 -7.6992 0.278411 -5.36396 1.17519 -1.68003 
+-0.472264 -3.22291 -2.1526 -20.4855 423.636 
 
 # parameters for class #672
-8.70198 0.141019 0.0147315 0.0879946 0.00856088 0.108069 0.00344546 0.0633808 
-0.316027 7.85466 -36.3003 -8.28622 -0.65111 -5.94238 -0.643234 -5.40922 
--0.00953317 -1.66744 -2.16322 -146.801 1086.78 
+0.457456 0.108497 0.00436065 0.0845233 0.0108328 0.0638108 0.00745119 0.0560134 
+0.396288 0.860767 -5.02667 -3.29675 0.2511 -6.72525 0.7122 1.24467 
+0.138245 -5.90313 -3.82772 -13.0295 454.161 
 
 # parameters for class #673
-4.51906 0.311081 0.0160863 0.158779 0.0456635 0.182596 0.00368158 0.0755505 
-0.514255 8.15449 -25.4597 -11.324 -1.39947 -7.6397 -5.8583 -4.46101 
-0.108724 -3.05708 -5.62981 -150.16 1250.35 
+0.652206 0.220934 0.00814508 0.171862 0.0107952 0.17529 0.00696494 0.134903 
+0.363072 2.16517 -5.89222 -12.126 0.522675 -15.2354 0.845521 -3.25196 
+0.0706612 -10.4676 -2.89322 -34.6126 945.067 
 
 # parameters for class #674
-1000 0.598183 0.432532 0.447026 0.12038 0.442513 0.0972956 0.404269 
-1.32813 23.7991 -4000 -15.2294 23.2946 -13.4087 6.96428 -9.25888 
-4.81255 -6.57469 -9.59859 -451.61 6922.64 
+0.487467 0.117731 0.00581777 0.127035 0.0101438 0.116287 0.00598977 0.11341 
+0.725683 1.2244 -5.87424 -5.47238 0.39166 -12.1083 0.633865 0.111548 
+0.322243 -11.8218 -7.56671 -18.4023 830.213 
 
 # parameters for class #675
-107.669 0.919846 0.247667 0.558176 0.039588 0.542826 0.0633118 0.264916 
-1.40268 13.3712 -429.123 -31.6896 12.1124 -22.2132 1.32516 -15.7983 
-3.94186 -4.60662 -8.78508 -250.932 2488.82 
+0.676914 0.112793 0.012004 0.103191 0.00875547 0.111994 0.0102925 0.0850008 
+0.416212 0.724762 -5.93942 -6.75699 1.04905 -10.5159 0.717593 -1.61608 
+0.655042 -8.34013 -3.05845 -10.1299 724.419 
 
 # parameters for class #676
-1000 0.769956 0.128648 0.583165 0.0378186 0.561168 0.0416716 0.41695 
-1.54901 44.9486 -4000 -24.5491 5.61486 -20.856 1.67927 -15.7149 
-1.76659 -5.5921 -10.0433 -862.483 8781.19 
+0.626119 0.0948106 0.0083046 0.060041 0.00322416 0.0504751 0.0103929 0.0307684 
+0.347122 1.51887 -5.79088 -4.6385 0.787517 -5.7915 0.149302 -0.262825 
+1.11877 -3.27036 -3.34195 -24.6346 501.682 
 
 # parameters for class #677
-60.2679 0.351599 0.0988624 0.294848 0.0176257 0.232195 0.0385045 0.221329 
-0.912005 17.9833 -236.004 -18.7635 4.84058 -17.2059 0.489176 -11.2341 
-2.55156 -3.64385 -6.11463 -344.034 2670.17 
+0.613716 0.085401 0.00367387 0.102216 0.00650899 0.0824933 0.0070776 0.0698215 
+0.246513 1.76702 -5.85145 -6.1081 0.117703 -12.2236 0.197647 -1.77364 
+0.362387 -7.26345 -2.27796 -28.7663 861.653 
 
 # parameters for class #678
-3.70884 0.0782173 0.0077451 0.0525395 0.00647855 0.051912 0.00797845 0.0272486 
-0.265689 9.73185 -15.3527 -6.67863 -0.116056 -5.03689 0.377295 -3.87813 
--0.642691 -0.918283 -2.20559 -183.669 1292.29 
+0.640924 0.0432631 0.00203112 0.0234321 0.00259507 0.0220805 0.030969 0.00755011 
+0.5864 1.1508 -5.49845 -3.27448 -0.134399 -2.68343 0.200544 -0.608308 
+-4.59191 -0.958859 -6.72141 -17.986 501.5 
 
 # parameters for class #679
-2.43689 0.107427 0.0096378 0.0554562 0.00166262 0.0615766 0.0142134 0.0242768 
-0.236509 4.74152 -12.3519 -7.40857 -0.845692 -4.61193 0.0189252 -3.35733 
--1.78425 -1.1281 -2.28057 -87.6052 827.186 
+0.5931 0.0350166 0.0152324 0.0234854 0.00200673 0.0272344 0.0102323 0.0142436 
+1.58692 2.67439 -6.98341 -2.6137 -1.98351 -3.10768 0.0842742 -0.292586 
+-1.41607 -2.06256 -21.4666 -43.4634 658.614 
 
 # parameters for class #680
-3.14684 0.185556 0.0166513 0.12672 0.0104351 0.167673 0.00863944 0.146879 
-0.658091 11.8151 -21.8844 -7.89789 0.557961 -7.21328 0.337682 -4.65721 
-0.234645 -4.93732 -3.90464 -212.954 1308.97 
+0.567399 0.00696948 0.000857423 0.00266628 0.038633 0.00457982 0.00072414 0.00111388 
+2.01998 3.86098 -5.36702 -0.388292 0.0486824 -0.415062 6.2134 0.00733835 
+-0.011165 -0.293871 -31.7481 -67.0116 777.229 
 
 # parameters for class #681
-13.56 0.188032 0.0518313 0.107218 0.0187144 0.10283 0.0169484 0.0581284 
-6.31367 3.06454 -58.7945 -7.86383 0.731748 -6.31062 0.453671 -2.54804 
-0.0325786 -2.12419 -8.27991 -53.2025 545.819 
+1.56761 0.0101797 0.014259 0.00299778 0.49803 0.00633874 0.00114634 0.000738961 
+2.47069 9.04464 -10.3203 -0.895519 2.1422 -0.520086 85.785 -0.270041 
+0.0493148 -0.201481 -42.8788 -169.208 4877.57 
 
 # parameters for class #682
-2.28974 0.184119 0.00962167 0.105657 0.0275524 0.0868363 0.00708098 0.0363464 
-0.346066 10.2012 -12.3837 -9.34649 -0.564771 -6.67499 -3.24727 -3.36062 
-0.385572 -1.52151 -3.65761 -190.362 1335.34 
+0.274257 0.00350672 0.00195626 0.00358818 0.000655897 0.00360554 0.000959295 0.00213351 
+1.55216 3.6884 -3.33428 -0.0464836 -0.203804 -0.553447 0.00280111 0.440359 
+0.00890805 -0.630914 -24.0915 -64.0388 529.998 
 
 # parameters for class #683
-205.512 0.415578 0.0656005 0.224713 0.0317649 0.247093 0.0307728 0.132411 
-1.62583 3.61074 -826.24 -12.37 2.75719 -8.86972 0.197911 -4.95709 
-2.16902 -3.33122 -5.7817 -64.3241 1441.69 
+0.195012 0.0076382 0.00147856 0.00696719 0.000791398 0.00875834 0.00100682 0.00558424 
+1.0987 2.19538 -3.06945 -0.440961 -0.117259 -1.35584 -0.000714017 0.674679 
+0.0277372 -1.58983 -15.5091 -35.1594 468.032 
 
 # parameters for class #684
-1000 0.616531 0.112328 0.443228 0.0376162 0.41753 0.0284053 0.300036 
-1.4334 40.1175 -4000 -24.8073 3.69373 -19.8055 1.41166 -14.9428 
-0.786709 -3.96311 -6.98664 -770.5 8394.54 
+0.301592 0.0068503 0.00201696 0.00803045 0.0010429 0.00798622 0.00199256 0.00617016 
+0.534949 1.80125 -3.87154 -0.44198 0.172676 -1.64191 0.0296937 0.527841 
+0.138495 -1.76815 -7.06034 -29.5324 448.163 
 
 # parameters for class #685
-7.55837 0.0590594 0.044648 0.0585733 0.00853528 0.0527581 0.0298439 0.17562 
-0.938722 46.0549 -14.3368 -2.6774 2.44737 -2.88324 0.0133562 -2.1863 
-2.69868 -1.94148 -11.8493 -900.731 4670.97 
+0.672266 0.0129246 0.00224618 0.00514975 0.00086834 0.00662975 0.00306491 0.00207989 
+0.144658 0.540008 -4.68198 -1.5116 0.187704 -0.895619 -0.0177751 -0.361449 
+0.34572 -0.320497 -1.3795 -8.3275 218.788 
 
 # parameters for class #686
-7.51164 0.287881 0.0185371 0.139841 0.0149323 0.118322 0.00981648 0.0557863 
-0.292464 4.9449 -33.6107 -12.1992 0.15394 -7.42698 0.998774 -3.71591 
--0.585035 -1.9502 -2.21555 -89.7787 786.143 
+0.586983 0.0013791 0.000508666 0.00052387 0.0416458 0.000724524 0.00354272 0.000136554 
+2.46865 6.94954 -5.36139 -0.248562 0.0231779 -0.170432 -6.93458 -0.0300915 
+0.552555 -0.0762364 -43.5002 -128.962 1211.4 
 
 # parameters for class #687
-2.20541 0.0187534 0.0405905 0.0179459 0.00211788 0.008326 0.291442 0.00384131 
-2.09769 7.70337 -14.1912 -0.0533726 -6.21403 -0.717621 0.0786157 0.311519 
--48.784 -0.531675 -34.709 -141.975 3172.86 
+1.12786 0.000545555 0.0169599 0.000280703 0.0218258 0.000351978 0.000327707 7.04568e-05 
+2.8275 33.5422 -6.9725 -0.215549 -2.72325 -0.149311 -3.72273 -0.112872 
+-0.0116057 -0.0341143 -51.7649 -651.908 3800.55 
 
 # parameters for class #688
-0.451169 0.00167237 0.00190498 0.0020081 0.000689928 0.00157611 0.000801455 0.00140804 
-0.647107 3.48817 -4.47412 0.0223051 -0.197728 -0.239584 0.00117285 0.229621 
--0.0207822 -0.410941 -9.78384 -61.6916 436.329 
+1.44536 0.00301813 0.420376 0.00192536 0.244863 0.00223566 0.380787 0.000248398 
+11.8362 29.0493 -5.31389 -0.0344854 -72.8153 -0.0608083 -42.3076 0.0169937 
+-65.9017 -0.0672382 -227.913 -569.028 11767.7 
 
 # parameters for class #689
-0.551801 0.0167112 0.000891878 0.0107468 0.00158791 0.0142216 0.00112773 0.00799554 
-0.194793 1.65096 -4.99353 0.582124 0.0125029 -0.586871 0.058672 1.69714 
-0.020201 -1.46117 -1.58115 -26.2352 307.947 
+1000 0.767511 0.156952 0.556374 0.0463419 0.570875 0.042678 0.437069 
+1.66611 16.7275 -4000 -13.3463 11.0659 -12.2044 3.27426 -7.33149 
+2.96879 -8.34021 -14.885 -314 6018.06 
 
 # parameters for class #690
-0.748189 0.00272037 0.00182676 0.000865977 0.268871 0.00178117 0.000988885 0.000197391 
-1.04466 5.13051 -5.0984 0.348566 -0.231343 0.0113182 -46.3987 0.335306 
-0.0200722 -0.0739735 -17.5536 -94.8797 2623.51 
+1000 0.802004 0.145358 0.618921 0.0462378 0.534002 0.0383897 0.409174 
+1.47659 22.529 -4000 -21.0345 9.94699 -18.9162 3.19617 -11.69 
+2.56895 -7.47442 -13.1847 -426.776 6717.97 
 
 # parameters for class #691
-0.389136 0.038056 0.00102904 0.0242333 0.00458105 0.026535 0.00666174 0.0170614 
-1.6565 4.13547 -5.69299 -0.299704 0.0466506 -2.09378 0.299604 1.8517 
-0.456208 -2.85417 -23.0568 -68.5023 644.821 
+1000 0.9693 0.123719 0.527387 0.0730672 0.651714 0.0408296 0.322987 
+2.84827 5.84236 -4000 -23.9925 5.51965 -16.8982 3.01145 -11.381 
+1.9437 -6.49455 -12.108 -106.4 4997.98 
 
 # parameters for class #692
-0.929177 0.0214414 0.00425553 0.0113672 0.00309002 0.0144092 0.00319701 0.00878061 
-0.266904 6.33271 -7.4339 1.33266 0.357151 0.2206 0.254953 1.49158 
-0.230416 -0.888034 -2.76001 -113.435 681.922 
+4.65716 0.178596 0.0298968 0.142914 0.00349364 0.106107 0.0762183 0.0726314 
+0.64459 6.2482 -26.7329 -4.87524 -3.17897 -5.66638 0.0417104 -1.67302 
+-10.4272 -3.10794 -7.78673 -114.386 1191.66 
 
 # parameters for class #693
-1.09199 0.0139338 0.00461638 0.00647768 0.00420762 0.00830565 0.00209726 0.00329064 
-0.224563 7.14084 -7.63401 1.68173 0.40959 0.548017 0.402978 1.30449 
-0.142428 -0.295786 -2.12902 -130.678 812.25 
+3.1135 0.187767 0.0397043 0.149829 0.0129599 0.0999485 0.026754 0.0815299 
+3.49775 0.936278 -15.5201 -4.05957 0.615727 -7.18885 0.291065 0.480728 
+0.0566542 -4.48312 -4.7635 -13.9107 282.694 
 
 # parameters for class #694
-0.688306 0.0289847 0.00569614 0.0267554 0.00245279 0.0228767 0.00468507 0.0212814 
-0.63548 2.44399 -7.68097 0.324339 0.615044 -1.677 0.171042 1.77794 
-0.417342 -3.32374 -7.8606 -40.6023 484.398 
+2.2674 0.33922 0.00553112 0.179247 0.0092837 0.174522 0.00610353 0.0981617 
+0.649072 2.00595 -19.2958 -8.89542 0.170314 -9.30529 0.0815178 -0.096861 
+0.241169 -5.46888 -4.54457 -32.2912 477.241 
 
 # parameters for class #695
-1.88115 0.0137442 0.0145775 0.00903845 0.00122834 0.00483367 0.162082 0.00148584 
-2.10451 12.2696 -11.4633 -0.350915 2.08552 -0.491048 0.0506426 0.108824 
-27.025 -0.233367 -35.7834 -231.745 2532.25 
+5.5991 0.252787 0.0376304 0.121622 0.200599 0.172944 0.00468141 0.0801412 
+0.640597 4.38125 -33.1396 -6.10365 -4.30175 -4.75213 -29.1986 -1.50773 
+0.152672 -4.26165 -7.84476 -78.4096 1787.41 
 
 # parameters for class #696
-0.682907 0.0395224 0.00155588 0.0244742 0.00869075 0.0277049 0.00824836 0.0125399 
-0.91476 3.15303 -8.0447 -0.122437 -0.100615 -1.20728 -1.04191 1.06452 
-0.655767 -1.38418 -11.5478 -52.4884 436.49 
+1.52629 0.0566855 0.00310977 0.0411034 0.00367799 0.0274106 0.0035379 0.0109317 
+0.186246 3.11344 -8.46169 1.18084 -0.0563729 0.0423452 -0.342928 1.04709 
+0.214019 -0.628474 -1.73206 -55.6786 351.061 
 
 # parameters for class #697
-0.930336 0.0199005 0.00222392 0.0133456 0.00590523 0.0106044 0.0056137 0.00395437 
-1.03672 3.44058 -6.89653 -0.660608 0.157161 -0.859196 -0.685975 0.0132027 
-0.78053 -0.506733 -15.5404 -60.4531 473.862 
+1000 1.0249 0.257556 0.501251 0.0671754 0.686786 0.0440336 0.28797 
+2.14295 7.41937 -4000 -7.77774 13.5276 -6.89307 3.96313 -0.979244 
+1.98782 -5.53418 -12.6151 -137.179 4994.73 
 
 # parameters for class #698
-1.29281 0.227451 0.0201313 0.115841 0.0058802 0.169702 0.0117405 0.0791586 
-0.572568 4.19188 -10.6052 -3.42468 1.8524 -4.58646 0.367724 1.13772 
-1.09168 -4.65101 -5.36197 -72.1016 585.277 
+1000 0.805796 0.110578 0.35894 0.0140538 0.543369 0.0363278 0.191071 
+1.66802 6.47672 -4000 -12.3025 5.91357 -7.94327 0.356287 -4.56714 
+2.7336 -4.02304 -9.37142 -118.535 4832.31 
 
 # parameters for class #699
-2.54296 0.0673212 0.0141769 0.0550977 0.00174965 0.0581256 0.00917071 0.0337524 
-0.585533 16.5944 -7.32638 -2.09187 1.29914 -2.02189 0.0825427 -1.46608 
-1.01621 -0.795132 -7.86446 -319.652 1720.93 
+1000 1.52546 0.685617 0.887085 0.108707 0.850764 0.130533 0.417117 
+1.80151 14.0194 -4000 -27.5158 34.5197 -20.0778 5.20608 -11.436 
+6.8577 -6.56171 -11.7973 -263.308 6158.09 
 
 # parameters for class #700
-1.29406 0.384042 0.0290466 0.18377 0.00958205 0.206574 0.0121228 0.0984135 
-0.505715 4.93561 -8.90673 -14.4927 2.34001 -10.0543 0.602244 -4.38954 
-0.990407 -4.39009 -4.11451 -86.811 865.115 
+1000 0.73694 0.472287 0.455747 0.135639 0.50294 0.162452 0.320097 
+3.59044 4.16026 -4000 -12.0914 18.5874 -10.5346 5.49173 -4.87854 
+6.18894 -5.77431 -14.0501 -74.755 4811.57 
 
 # parameters for class #701
-0.785963 0.0437226 0.0463344 0.0217557 0.0618616 0.0270215 0.00488003 0.00778571 
-1.00947 3.11286 -6.74447 -1.9297 6.64672 -1.79814 9.62532 -0.278767 
-0.457569 -0.889751 -13.3132 -52.5619 1032.41 
+3.24969 0.388815 0.019198 0.255463 0.00727848 0.312562 0.00679381 0.0692453 
+0.367111 16.3488 -12.345 -8.05353 0.0446907 -6.542 -0.260463 -4.97027 
+0.255266 -1.27235 -3.65781 -311.789 1656.73 
 
 # parameters for class #702
-0.662451 0.08448 0.00704953 0.0640264 0.0125847 0.0941878 0.00496781 0.0557166 
-1.4794 10.4867 -7.06324 -6.53306 0.591215 -7.52879 0.94002 -2.98334 
-0.27024 -5.34297 -18.0955 -182.623 1443.37 
+14.6665 0.133198 1000 0.107583 1000 0.111934 1000 0.155133 
+0.0956057 228.909 -11.5671 -3.97828 -0.0126584 -3.52241 0.0367918 -3.02205 
+-0.0285476 -0.907425 -1.26762 -4552.14 22718.2 
 
 # parameters for class #703
-0.396742 0.0151493 0.00113605 0.00766109 0.00439376 0.0097344 0.0014436 0.00270565 
-1.74178 4.59521 -4.7734 -1.33769 0.0412502 -1.24932 -0.56235 -0.243471 
-0.107449 -0.513357 -24.7269 -77.6969 612.824 
+1000 0.120291 1000 0.120291 1000 0.120291 1000 0.00499488 
+1000 1000 -0 -10.1183 -0 -10.1183 -0 -10.1183 
+-0 0.627554 -0 -20016.6 100813 
 
 # parameters for class #704
-0.631249 0.0392785 0.00186379 0.0151774 0.012022 0.0226999 0.00147676 0.00396453 
-1.34346 5.26687 -5.1378 -2.25523 -0.0820794 -1.53416 -1.71173 -0.595796 
-0.05271 -0.551736 -20.1473 -93.5376 708.685 
+1000 0.0648744 1000 0.0604164 1000 0.0607782 1000 0.229744 
+1000 688.511 -499.64 -0.0468367 -0 -0.235262 -0 0.148911 
+-0 -1.45752 -17512.7 -13699.4 144871 
 
 # parameters for class #705
-0.940202 0.0780753 0.0018053 0.0488458 0.00857227 0.0337694 0.00390452 0.0206379 
-0.539305 6.81933 -8.20697 -6.92667 -0.0553654 -5.70773 0.648201 -1.88882 
--0.388959 -1.66992 -5.93199 -120.699 1017.82 
+16.0446 0.314615 0.0239668 0.27205 0.0235853 0.223558 0.00649402 0.17654 
+1.94306 14.5695 -42.6256 -1.56447 0.848679 -3.00065 2.10319 0.242778 
+-0.247534 -3.08607 -20.1054 -273.941 1479 
 
 # parameters for class #706
-1.20351 0.0350899 0.00583234 0.0209148 0.00802859 0.024721 0.0040236 0.0160597 
-0.59708 1.96464 -6.71975 -3.13432 0.0743455 -2.64046 0.60504 -1.30332 
--0.223512 -1.33818 -2.19025 -32.352 406.266 
+10.6253 0.272736 0.0343692 0.22913 0.0316462 0.185985 0.0032929 0.134843 
+1.50002 11.4951 -29.362 -1.55479 2.51134 -2.93886 3.51714 0.26408 
+-0.000200442 -2.91496 -16.2994 -214.652 1269.88 
 
 # parameters for class #707
-0.73473 0.126031 0.00661549 0.110985 0.00994137 0.12484 0.0065356 0.106951 
-0.523272 2.13343 -7.43241 -8.34037 0.550032 -12.1169 0.757031 -2.43827 
-0.406006 -10.6959 -5.6059 -34.846 998.102 
+6.83069 0.358627 0.0586373 0.238688 0.0217316 0.188141 0.0234855 0.127235 
+7.67816 0.77819 -31.7153 -7.92637 2.30606 -10.5009 1.4245 -0.0358073 
+0.00229485 -6.21002 -18.1544 -11.4633 402.122 
 
 # parameters for class #708
-0.956413 0.0902813 0.0167744 0.0668503 0.0084706 0.051148 0.011106 0.0288485 
-0.371363 5.11006 -8.07197 -7.70726 1.64482 -8.03475 0.672842 -2.58941 
-1.01723 -2.43074 -3.56805 -89.2136 1024.62 
+1.48558 0.772516 0.0391765 0.414368 0.0147511 0.322862 0.013138 0.165892 
+1.14153 1.11961 -9.28296 -17.6858 2.65314 -17.8364 0.914662 -0.780403 
+0.715863 -7.99016 -5.4371 -16.9407 577.347 
 
 # parameters for class #709
-0.473201 0.073842 0.00439962 0.0574798 0.00683794 0.0883451 0.00496583 0.0501078 
-0.80363 4.27546 -5.53947 -7.39692 0.239755 -8.8965 0.434552 -3.87422 
-0.168248 -5.9206 -8.49948 -70.9683 1136.12 
+1.95847 0.756325 0.0242091 0.348488 0.0118301 0.452367 0.00907582 0.198045 
+2.32558 0.938482 -10.8403 -11.3328 1.31361 -12.3979 0.579351 2.4944 
+0.407795 -9.28678 -7.6259 -14.2969 403.755 
 
 # parameters for class #710
-0.657903 0.0685289 0.00323118 0.0549283 0.00493578 0.0530357 0.00253062 0.0402646 
-0.245879 4.04034 -5.66796 -8.04873 0.170991 -8.82916 0.323997 -3.76881 
-0.0687949 -3.93415 -1.99891 -69.9426 1128.76 
+2.12233 0.471089 0.0446259 0.320949 0.0169464 0.255117 0.0204133 0.181362 
+1.48529 1.48548 -11.2983 -9.74854 1.82001 -12.1168 0.279606 -0.908221 
+1.14313 -7.06878 -4.49366 -23.4661 414.18 
 
 # parameters for class #711
-1.27101 0.0086797 0.00208313 0.00299312 0.0165242 0.0068706 0.000715001 0.000761869 
-0.736767 7.53703 -8.19184 -1.41504 0.19787 -0.658547 2.57997 -0.876769 
-0.00187066 -0.145256 -11.1549 -139.854 995.044 
+2.32113 0.269723 0.0298859 0.1565 0.0144617 0.144781 0.0306515 0.0775635 
+0.840791 3.88218 -11.7822 -9.29508 -0.960941 -7.57987 0.599002 -2.9728 
+-2.61418 -2.80628 -4.40849 -68.1815 637.504 
 
 # parameters for class #712
-0.465008 0.0527872 0.00284445 0.0412281 0.00614295 0.0374333 0.00385904 0.0261451 
-0.26257 3.76191 -4.58112 -6.15235 0.106027 -7.45068 0.387045 -1.90779 
-0.045404 -3.56885 -2.3785 -63.0358 998.657 
+0.159218 0.00254178 0.000856454 0.000979722 0.0107033 0.00235479 0.000658184 0.000412509 
+0.196963 0.174173 -0.822256 -0.00763027 0.104698 -0.0982655 1.73276 0.208194 
+-0.0363086 -0.119944 -2.07414 -2.0198 171.261 
 
 # parameters for class #713
-0.561705 0.0156661 0.00313884 0.00888059 0.00106327 0.007605 0.0011138 0.00386814 
-0.43669 2.85459 -5.76654 -2.46442 -0.321976 -2.06639 0.0181516 -0.572659 
--0.0912227 -0.680411 -5.30875 -49.148 567.97 
+0.924374 0.0392549 0.0135131 0.013587 0.143197 0.0379998 0.00232645 0.00640742 
+1.22011 1.82662 -8.15096 -2.05286 1.9186 -1.56028 23.5123 -0.203508 
+0.0559074 -1.00819 -16.808 -29.2947 1384.29 
 
 # parameters for class #714
-0.467213 0.00629187 0.00100014 0.00306998 0.00212178 0.00332822 0.00278572 0.00160641 
-0.461879 2.40264 -4.99911 -1.24944 -0.0756008 -0.88639 0.0998416 -0.307327 
--0.347897 -0.378447 -5.50388 -40.4982 430.259 
+0.536093 0.0738176 0.00240408 0.0628241 0.00242644 0.0651766 0.00470695 0.0378984 
+0.279857 0.511998 -5.05928 -4.05635 0.0723382 -6.61203 -0.0198883 -0.396997 
+0.244515 -3.99718 -2.21557 -7.06552 429.891 
 
 # parameters for class #715
-0.5001 0.0204182 0.00301015 0.0220282 0.00404542 0.0236369 0.00858148 0.0197874 
-0.370888 0.568766 -5.51267 -2.09123 0.185267 -4.3018 0.266512 -0.23499 
-0.101896 -3.79291 -3.0157 -8.03539 555.231 
+0.284796 0.0503564 0.00205066 0.031536 0.00429109 0.029391 0.00200725 0.0222919 
+0.303327 1.08561 -3.37294 -2.23386 -0.0506955 -3.49061 0.25413 0.565482 
+-0.111386 -3.12726 -3.05994 -16.5171 372.286 
 
 # parameters for class #716
-0.576496 0.00327182 0.00103505 0.00290548 0.00269566 0.0031243 0.00252065 0.00318539 
-1.73471 3.43759 -5.25728 -0.270031 0.0575127 -0.631894 0.0579762 0.0252512 
-0.0675656 -0.803082 -28.5698 -61.1429 552.657 
+0.664642 0.0594921 0.00310305 0.0689398 0.00298404 0.0878092 0.00292061 0.0552281 
+0.790314 0.801977 -7.2732 -3.62937 -0.128268 -8.30557 0.0496535 -0.462326 
+-0.0020979 -6.60095 -8.23082 -11.6066 635.705 
 
 # parameters for class #717
-1.28292 0.023536 0.0539372 0.0135633 0.277477 0.0233207 0.00190016 0.0109347 
-1.46576 2.64322 -10.521 -1.61143 -8.29491 -1.7628 -46.3971 -0.348858 
-0.0342429 -1.80997 -21.7811 -44.6406 2754.19 
+1000 0.0234496 1000 0.00764077 1000 0.0271912 1000 0.00607035 
+0.265458 0.265458 -0 -0.938803 -0 -0.761755 -0 0.533653 
+-0 -0.724327 -0.413681 -0.413681 63.6666 
 
 # parameters for class #718
-4.21222 0.153233 0.0757561 0.125296 0.0202415 0.146976 0.0257727 0.159111 
-0.501567 12.9571 -12.5634 -5.55393 2.1757 -4.97392 0.0486882 -4.82165 
-1.32722 -1.66407 -4.48519 -250.692 1441.22 
+73.3709 0.0403413 1000 0.0124347 1000 0.0356384 1000 0.00812395 
+0.0761486 0.0758926 -4.27449 -2.70607 -0 -1.92181 -0 0.720709 
+-0 -1.41986 -0.425645 -0.424689 200.828 
 
 # parameters for class #719
-2.45062 0.0537634 0.0103356 0.0404109 0.0148835 0.049008 0.00101239 0.027703 
-0.4586 24.2084 -7.60418 -3.24212 0.894882 -2.7517 1.80198 -2.58452 
-0.0065141 -0.786185 -5.8239 -468.018 2539.19 
+0.785993 0.0261805 0.00164633 0.0456056 0.00774897 0.0655977 0.00256851 0.0412222 
+0.282696 0.635794 -7.28122 -1.32955 0.0606452 -5.7551 0.0385792 0.200646 
+0.057572 -5.5005 -3.36155 -9.61444 496.432 
 
 # parameters for class #720
-2.00154 0.0209717 0.00867109 0.0111395 0.181607 0.024452 0.00403245 0.00752464 
-1.69953 3.847 -14.783 -0.992977 1.08245 -0.95719 29.564 -0.388303 
--0.399447 -0.941009 -25.5347 -66.2633 1763.43 
+0.276651 0.0230948 0.00169869 0.027285 0.00464206 0.0292251 0.00532964 0.0226538 
+0.519141 1.63399 -3.47395 -1.09952 0.0201633 -3.38918 0.0452674 0.668817 
+0.373054 -3.50954 -6.02135 -26.1274 449.095 
 
 # parameters for class #721
-1.17248 0.128901 0.00955033 0.0649174 0.0039883 0.051221 0.00536288 0.0252223 
-0.391109 4.32512 -7.26036 -10.241 0.334084 -6.59195 0.0175038 -2.93288 
-0.284265 -1.26606 -1.891 -76.5758 832.329 
+0.460716 0.0332067 0.00416714 0.0143081 0.00195007 0.0326962 0.00111446 0.00926987 
+0.555164 0.637573 -4.91891 -1.7472 -0.418877 -1.63014 -0.181104 0.0833341 
+-0.0196138 -1.20849 -5.50819 -8.67689 234.45 
 
 # parameters for class #722
-1.69655 0.0096147 0.00212319 0.00529143 0.00112911 0.00704348 0.00202617 0.00179681 
-2.68374 12.4223 -10.4383 -0.41488 0.0936404 -0.402606 0.0688256 -0.114608 
-0.0735858 -0.235958 -45.6498 -232.915 1379.7 
+1.28502 0.108576 0.0192245 0.0413593 0.428 0.0576764 0.00312944 0.0134463 
+1.64979 2.16789 -9.76741 -3.34807 -2.57714 -2.81709 -69.709 -0.086768 
+0.137966 -1.53239 -23.3884 -35.8439 3333.36 
 
 # parameters for class #723
-0.878111 0.047454 0.00164106 0.0298187 0.00213104 0.0325348 0.00301615 0.0146434 
-0.43715 2.08142 -8.96688 -3.78473 -0.0399161 -3.97313 -0.168475 -0.825402 
-0.17127 -1.78106 -4.50712 -33.33 492.326 
+0.56664 0.0193065 0.000834431 0.00784476 0.013238 0.0132733 0.00179783 0.00268519 
+1.7184 3.28111 -6.04297 -0.805363 -0.00136442 -0.902677 -1.95089 0.150749 
+0.138022 -0.522149 -25.2211 -54.9747 527.621 
 
 # parameters for class #724
-1.61196 0.0582296 0.00160009 0.0410791 0.0019814 0.0415739 0.00143906 0.0144049 
-0.246367 12.1571 -5.2493 -7.61797 -0.00864748 -5.7342 -0.135823 -5.08021 
-0.0828103 -0.387208 -2.55429 -233.846 1795.49 
+3.21028 0.293844 0.0437534 0.136776 0.0841708 0.175619 0.0101579 0.0871043 
+0.402142 3.52601 -16.518 -7.57659 -3.9872 -5.29917 -10.7366 -2.26869 
+0.0387181 -3.46048 -3.58605 -62.578 916.464 
 
 # parameters for class #725
-3.19316 0.0838864 0.00954923 0.0511818 0.0255 0.0665366 0.00274945 0.0341564 
-0.347065 14.3927 -17.0528 -6.7926 -0.784787 -4.83782 -3.22207 -4.50845 
-0.0701686 -1.49963 -3.48019 -269.913 1801.32 
+4.92862 0.555926 0.0491507 0.399928 0.0754335 0.382614 0.00895769 0.0835853 
+0.556987 15.4337 -25.1751 -8.21286 -3.45354 -8.9044 -8.70466 -2.75087 
+0.221165 -2.54718 -6.50324 -286.913 1831.85 
 
 # parameters for class #726
-2.69008 0.0564895 0.00991448 0.0451428 0.0025548 0.0510421 0.00447756 0.0386134 
-0.530792 16.3021 -8.84327 -5.5057 0.192486 -4.68193 -0.0619053 -4.65973 
-0.251615 -0.711792 -4.81451 -313.919 1942.86 
+28.3854 0.515533 0.366833 0.456516 0.100822 0.349025 0.151067 0.338267 
+0.768685 27.322 -110.345 -8.04052 4.10759 -8.91025 2.20425 -4.07498 
+0.0464954 -3.44809 -3.47675 -521.18 2736.43 
 
 # parameters for class #727
-57.2579 0.0450316 0.00764363 0.0363332 0.00237117 0.02753 0.00257232 0.0229684 
-0.842103 4.02635 -232.44 -4.37379 -0.256329 -4.02266 -0.0321138 -2.29985 
--0.118543 -0.760305 -2.75856 -73.8484 896.043 
+1.7927 0.0752857 0.0419079 0.0503568 0.108875 0.0428316 0.00479874 0.0156827 
+0.760569 3.21781 -11.4448 -2.43617 5.54237 -2.65833 16.4141 -0.604851 
+0.365538 -1.16413 -10.0224 -56.512 1227.3 
 
 # parameters for class #728
-3.23734 0.0530115 0.0102644 0.0391032 0.00433071 0.0377806 0.0299422 0.0289112 
-0.323 8.4893 -17.0703 -4.62405 -0.774703 -3.98398 0.199118 -2.73383 
--3.76378 -1.36438 -3.0036 -158.024 1210.64 
+2.00748 0.0543221 0.0157186 0.0275476 0.0783334 0.0395429 0.00385163 0.0146664 
+1.7506 7.46852 -14.5774 -3.05955 2.14645 -2.45531 12.3629 -1.07759 
+0.135647 -1.46181 -25.3811 -133.181 1457.34 
 
 # parameters for class #729
-3.49918 0.260231 0.046272 0.125084 0.0141539 0.110243 0.0195489 0.0524825 
-1.69654 2.90061 -16.751 -12.0422 0.805634 -8.19456 -0.0830466 -2.97246 
-0.727468 -2.20063 -3.15437 -49.5553 595.57 
+2.56426 0.046688 0.0446191 0.020259 0.677423 0.0426386 0.00240897 0.0114112 
+2.58804 7.35864 -17.3616 -2.56075 -6.71136 -1.82936 -112.618 -0.916874 
+0.0841604 -1.39736 -41.2866 -132.485 5886.77 
 
 # parameters for class #730
-1.24211 0.360614 0.0119973 0.144807 0.00476397 0.147015 0.00506851 0.0601708 
-0.700253 1.54945 -8.06186 -19.0714 0.52384 -11.3223 0.165935 -3.93681 
-0.187642 -3.41599 -2.95103 -25.0855 715.745 
+4.56315 0.352344 0.0268911 0.227243 0.0236465 0.238815 0.00881168 0.0609947 
+0.456652 11.257 -17.5762 -10.4388 0.862937 -8.32564 1.91412 -5.35394 
+-0.333873 -1.60473 -4.51609 -210.876 1292.69 
 
 # parameters for class #731
-3.01787 0.244229 0.0119847 0.138587 0.0144538 0.1474 0.00816772 0.0667017 
-0.328506 8.04109 -15.0319 -10.2127 -0.270295 -7.24601 -1.26626 -4.655 
-0.456296 -2.26494 -2.831 -148.195 1038.48 
+4.70168 0.709328 0.0623105 0.32111 0.0195975 0.33471 0.019832 0.0970048 
+0.300317 9.55631 -19.9611 -18.7341 0.116403 -10.6781 0.997104 -6.5227 
+-0.986371 -2.28411 -2.40791 -177.651 1165.65 
 
 # parameters for class #732
-2.69622 0.205516 0.0201573 0.120704 0.0219603 0.127939 0.00565576 0.0605365 
-0.311379 9.33589 -13.1422 -8.30096 -1.2836 -6.06688 -2.2246 -3.91221 
-0.0134462 -1.85857 -2.6734 -173.564 1147.22 
+226.749 0.071492 0.00460832 0.0491258 0.00400289 0.0456581 0.00313383 0.0310879 
+0.498349 3.32089 -1818.28 -2.16363 -0.159075 -2.92247 0.0340394 -0.0995558 
+-0.0477932 -1.91459 -4.38757 -56.4205 4026.76 
 
 # parameters for class #733
-5.32613 0.171635 0.028612 0.124142 0.0182476 0.169801 0.00410177 0.111341 
-0.691421 26.5095 -18.3138 -6.57622 1.82098 -5.47695 1.65717 -5.51666 
-0.0834342 -2.24867 -6.91739 -508.138 2749.32 
+51.1273 0.388785 0.0866147 0.242535 0.0260022 0.264544 0.0209504 0.132532 
+0.577319 9.97328 -204.84 -12.2039 0.480331 -9.2405 -0.716891 -6.53529 
+0.777307 -2.46518 -2.67262 -185.735 1349.81 
 
 # parameters for class #734
-1000 0.443676 0.122745 0.326231 0.031658 0.396221 0.0296845 0.420537 
-1.17165 52.9285 -4000 -20.1699 5.68969 -16.1768 1.46363 -16.3776 
-1.35785 -6.01592 -7.80159 -1020.3 9669.07 
+1.86945 0.963532 0.0335843 0.39005 0.0142802 0.373653 0.0130064 0.151961 
+1.75531 0.818863 -10.3708 -26.4029 1.61475 -19.2604 0.622916 -1.92273 
+0.537501 -7.51139 -5.2612 -12.1925 642.625 
 
 # parameters for class #735
-1000 0.0674189 0.0143837 0.0592785 0.00598121 0.0504139 0.00584435 0.063942 
-1.14769 26.6091 -4000 -6.4858 0.281748 -6.15531 0.104934 -4.46496 
-0.117593 -1.19693 -3.24473 -511.008 6912.15 
+16.0021 0.123957 0.0367808 0.08596 0.00707652 0.0987779 0.0362059 0.0788839 
+1.19191 2.5433 -65.7401 -3.59261 2.44266 -3.52651 0.0260265 -1.67857 
+3.70284 -2.67293 -6.68714 -43.9258 529.253 
 
 # parameters for class #736
-2.75162 0.246941 0.0183636 0.13842 0.00617981 0.119172 0.0212704 0.0605381 
-0.650144 3.59112 -14.0774 -9.11932 -1.20786 -7.27094 0.105744 -2.53091 
--2.31502 -2.54473 -3.8311 -62.0445 632.556 
+2.04498 0.465685 0.0308754 0.292365 0.00778734 0.302168 0.0158846 0.19199 
+1.51639 1.39584 -11.1147 -15.441 1.76228 -15.0303 0.241764 -4.49319 
+1.0952 -8.315 -5.75748 -22.3352 617.951 
 
 # parameters for class #737
-1.73368 0.0312484 0.0218126 0.0238986 0.0149673 0.0337059 0.0111743 0.0384486 
-0.238763 13.1175 -5.213 -1.77341 -0.932462 -1.4791 -0.0238708 -1.74046 
--0.812675 -0.614952 -2.5167 -254.857 1389.22 
+1000 0.260318 0.122832 0.175722 0.022168 0.200562 0.0296085 0.150339 
+2.67705 3.54914 -4000.86 -10.229 8.76872 -8.69767 1.25525 -5.83479 
+2.44428 -4.5756 -15.1232 -62.895 4837.03 
 
 # parameters for class #738
-52.5836 0.223192 0.0592609 0.108158 0.0254331 0.137013 0.0175847 0.0620689 
-4.94629 3.14945 -216.854 -10.3096 1.8828 -6.67362 1.48213 -4.20267 
-0.000758408 -2.21096 -11.9574 -55.0785 812.773 
+3.92081 0.0731378 0.00934566 0.065814 0.00295644 0.06338 0.00887589 0.0765053 
+0.482279 14.3283 -10.5509 -5.44153 0.441435 -5.24666 -0.0218339 -4.37989 
+0.751426 -1.23504 -5.07728 -275.799 1696.19 
 
 # parameters for class #739
-1.53347 0.178975 0.00782296 0.0902106 0.00421598 0.0936634 0.00479671 0.0461291 
-0.513877 5.75267 -8.57532 -10.0011 -0.00437468 -6.54373 -0.212969 -3.68073 
-0.228953 -1.89894 -2.74898 -102.635 835.055 
+4.73566 0.0336684 0.00161722 0.0264761 0.000983192 0.0293743 0.0139314 0.0185338 
+0.689995 11.386 -9.79477 -2.99139 0.11441 -2.61288 -0.0607296 -2.31565 
+1.85997 -0.580843 -9.48838 -217.397 1368.46 
 
 # parameters for class #740
-2.35111 0.0907617 0.01212 0.0441583 0.0062821 0.0613857 0.00232041 0.0262318 
-0.331263 3.06096 -12.2309 -5.34078 -1.04301 -3.34391 -0.620694 -2.5936 
--0.128996 -1.24425 -2.38783 -54.3266 529.857 
+1000 0.216914 1000 0.216914 1000 0.216914 1000 0.00325598 
+1000 1000 -0 -27.7441 -0 -27.7441 -0 -27.7441 
+-0 0.592969 -0 -20013 102806 
 
 # parameters for class #741
-50.8492 0.383178 0.0300394 0.182199 0.0069762 0.173279 0.0117678 0.0728703 
-0.436342 4.54054 -208.886 -12.0203 -0.900022 -7.36307 -0.011876 -3.86419 
--0.642008 -1.79895 -1.94025 -82.5418 842.33 
+6.94052 0.0647153 1000 0.0538314 1000 0.055825 1000 0.0923854 
+0.0878012 240.712 -7.34868 0.852915 -0.0001676 0.539778 0.0324542 0.909656 
+-0.0322866 -0.596743 -1.02399 -4785.18 23798.9 
 
 # parameters for class #742
-38.4611 0.393801 0.0331398 0.217139 0.0219967 0.195497 0.0102412 0.0938 
-4.111 5.6347 -158.841 -13.6569 0.530753 -10.301 1.08028 -4.28085 
--0.208779 -2.83848 -10.9905 -100.088 947.588 
+5.35917 0.0153615 0.00218794 0.0142504 0.00196967 0.0145642 0.00103524 0.0293129 
+0.468775 39.1161 -12.5177 1.54997 0.0968802 1.33828 0.174437 1.57047 
+-0.028891 -0.621305 -5.65251 -763.507 3920.56 
 
 # parameters for class #743
-4.1916 0.48837 0.0349228 0.276214 0.0176336 0.259396 0.00912341 0.14933 
-1.96327 5.40495 -20.5597 -18.3233 1.7905 -14.4472 1.29973 -5.84227 
-0.109315 -5.42801 -8.19323 -94.6725 970.487 
+6.03641 0.0421109 0.0107095 0.0407081 0.00994968 0.0372604 0.00199941 0.0847333 
+0.912968 24.1718 -18.1736 2.4182 0.690122 2.05996 0.962854 2.3944 
+0.0172718 -1.79553 -9.09458 -460.356 2412.39 
 
 # parameters for class #744
-1000 0.273448 0.0733687 0.208183 0.0185288 0.168202 0.0186024 0.132742 
-3.98339 6.30527 -4000 -11.443 3.42856 -11.1897 0.857418 -5.03673 
-0.855883 -3.94325 -12.5692 -113.52 4943.25 
+142.032 0.114634 0.0154052 0.0770719 0.00946746 0.0704397 0.00328255 0.0447725 
+2.67133 3.3143 -572.706 1.09647 0.79887 -0.498648 0.687258 1.80289 
+0.0733289 -1.75814 -9.04699 -59.0399 939.656 
 
 # parameters for class #745
-23.5672 0.179945 0.0253883 0.112763 0.00584906 0.110632 0.0177178 0.0639525 
-2.99709 2.30712 -98.2201 -8.54647 1.17304 -7.04316 0.0306644 -3.60162 
-1.34956 -2.34341 -9.31815 -40.1678 620.922 
+2.40265 0.192812 0.0107875 0.0858754 0.00589067 0.11375 0.00817123 0.0509889 
+0.47118 3.81503 -19.1798 1.00954 0.735327 -1.42139 0.318543 2.81561 
+0.545091 -2.57439 -4.48007 -67.097 467.631 
 
 # parameters for class #746
-1000 0.236267 0.0603643 0.144775 0.0183755 0.166521 0.0180355 0.0987622 
-1.09421 12.7159 -4000 -16.0581 3.47633 -10.8225 1.01416 -10.1874 
-1.05445 -2.11003 -6.8308 -240.936 5900.74 
+2.48462 0.320582 0.0186922 0.180634 0.011819 0.16187 0.00735126 0.0902181 
+0.5237 5.45018 -18.0665 -2.39334 0.852665 -3.94339 0.580933 1.03689 
+0.244687 -3.09078 -4.07783 -94.8 562.861 
 
 # parameters for class #747
-3.29967 0.191144 0.0202159 0.105322 0.00412414 0.142981 0.0117401 0.0574302 
-0.539108 3.41556 -14.5601 -10.9309 1.49612 -7.05357 0.142016 -6.77938 
-1.12787 -1.75117 -4.06576 -61.5892 764.564 
+1.55402 0.111769 0.109027 0.0716903 0.0440319 0.0802616 0.0639463 0.0311376 
+0.329645 5.7859 -4.57259 -0.896153 5.84684 -1.04623 0.0288573 -0.116691 
+5.7091 -0.598385 -3.46185 -109.952 785.371 
 
 # parameters for class #748
-2.07181 0.0391167 0.0139397 0.0309012 0.00279311 0.0325764 0.0119756 0.0260957 
-0.318735 3.58535 -7.28838 -4.10259 0.90291 -3.51936 0.0212861 -3.12519 
-1.16729 -0.685628 -2.81916 -66.6671 698.774 
+2.17162 0.373338 0.0142663 0.162564 0.00562779 0.154855 0.00581922 0.0716106 
+0.825221 2.41579 -12.652 -6.05366 -0.311477 -5.74275 -0.093376 0.398985 
+-0.119026 -3.03019 -3.047 -39.3971 330.924 
 
 # parameters for class #749
-26.0036 0.0179991 0.00193602 0.0177764 0.00243377 0.0172931 0.00140123 0.126347 
-1.6272 124.612 -35.0761 -1.504 0.00176366 -1.54989 -0.173098 -1.38208 
-0.0939486 -1.27977 -23.9113 -2464.63 12429.8 
+1.22514 0.124223 0.00593856 0.08485 0.00629008 0.0633544 0.022699 0.0420706 
+0.595406 1.42346 -9.07648 -3.06441 -0.473833 -4.09588 0.410088 -0.0362353 
+-2.97187 -2.75273 -5.85182 -22.9165 392.995 
 
 # parameters for class #750
-1000 0.220204 1000 0.220204 1000 0.220204 1000 0.00205555 
-1000 1000 -0 -37.5792 -0 -37.5792 -0 -37.5792 
--0 0.493805 -0 -20011.6 104943 
+1.90257 0.0224726 0.00697619 0.00814424 0.0809047 0.013707 0.00119701 0.00111525 
+2.20308 8.46475 -10.7479 0.42692 0.943658 -0.180993 13.3328 0.621502 
+0.0458113 -0.190336 -37.5132 -157.674 1557.69 
 
 # parameters for class #751
-6.88926 0.0266169 1000 0.0181636 1000 0.0226229 1000 0.0204742 
-0.25221 51.3166 -10.0505 -0.519725 0.00338672 -0.510622 0.050541 -0.245939 
--0.0306082 -0.359372 -3.47452 -1008.03 4982.72 
+1.19722 0.0419737 0.00705435 0.00965517 0.152718 0.0275419 0.00148214 0.00330955 
+1.1738 1.83552 -9.00084 -0.96218 0.889878 -0.76522 25.1097 0.380993 
+0.00479573 -0.528138 -16.2832 -29.6407 1344.2 
 
 # parameters for class #752
-9.79599 0.334688 0.0492106 0.231238 0.0414629 0.192788 0.0140241 0.151047 
-0.510376 2.92125 -41.1498 -4.60895 1.77286 -5.30594 3.25049 -0.864763 
--0.313418 -4.07601 -3.28537 -50.9045 458.712 
+0.441142 0.0296845 0.00282256 0.0250738 0.00183983 0.0288649 0.00330408 0.02219 
+0.446687 1.34209 -5.09595 -0.459986 0.234431 -2.41687 0.0769326 1.65783 
+0.255732 -3.67788 -5.23235 -21.7718 417.326 
 
 # parameters for class #753
-18.6133 0.210774 0.0851584 0.126238 0.0300091 0.145326 0.0488442 0.0915676 
-10.862 0.840389 -79.3631 -5.49463 2.40041 -5.90545 1.52749 -0.772376 
-0.00149409 -4.11842 -17.4246 -12.7437 358.637 
+0.407864 0.032361 0.00187928 0.0180533 0.00270967 0.0379688 0.00230856 0.010934 
+1.25669 1.44816 -5.28252 -2.05211 0.0984583 -2.33599 -0.201314 -0.0791171 
+0.130072 -1.5789 -15.5024 -21.8813 371.737 
 
 # parameters for class #754
-41.0283 0.155146 0.0339788 0.0895364 0.00865205 0.0930718 0.0227817 0.0533425 
-4.24625 0.902924 -169.403 -4.60487 1.61566 -4.33043 -0.0306746 -1.02563 
-1.90484 -2.35845 -11.0645 -14.2232 447.375 
+0.766619 0.0292339 0.00291727 0.0518703 0.0111581 0.0421201 0.00404072 0.0357736 
+0.231572 1.0323 -7.25401 -2.31315 0.172869 -7.13313 0.0389074 -0.990707 
+0.262682 -4.30146 -2.38936 -16.4839 571.021 
 
 # parameters for class #755
-6.88329 0.0968838 0.00415943 0.0397959 0.029421 0.0712473 0.0020165 0.00623621 
-0.883063 1.91753 -36.1042 -1.39508 0.372064 -1.37052 4.27679 -0.00342085 
-0.00580398 -0.556936 -13.1244 -33.3514 478.548 
+0.492555 0.0764886 0.00264092 0.0649132 0.00221153 0.0428784 0.00271801 0.0332086 
+0.646508 1.1867 -5.62398 -3.20339 -0.0802217 -6.51536 0.0330637 0.575546 
+0.0859548 -3.99275 -7.66231 -18.802 482.787 
 
 # parameters for class #756
-0.89944 0.166653 0.00489905 0.0821068 0.0169666 0.105722 0.00926698 0.0433594 
-0.403205 2.29729 -7.7571 -7.86514 0.108847 -5.98808 1.38353 -2.09345 
--0.514278 -2.90115 -3.81109 -38.0032 522.026 
+0.313993 0.0303811 0.00209475 0.0118416 0.0022823 0.0201573 0.00681404 0.00684386 
+1.19457 2.01202 -4.33536 -1.38995 -0.185329 -1.40129 -0.255673 0.388454 
+0.5521 -1.09294 -15.3413 -31.9807 369.323 
 
 # parameters for class #757
-2.46381 0.253628 0.0167329 0.10823 0.00892758 0.128851 0.00885286 0.0536643 
-3.73257 0.815239 -12.1701 -10.929 0.592189 -8.00892 0.51147 -1.54084 
-0.00280724 -3.57782 -7.07925 -12.2497 445.575 
+2.55061 0.054861 0.0162739 0.0212966 0.0929719 0.037263 0.00313933 0.00498348 
+1.46121 2.972 -15.6302 -1.50984 -2.27106 -1.17517 -14.7556 -0.162584 
+-0.268297 -0.591408 -22.7096 -51.6401 1094.83 
 
 # parameters for class #758
-0.54611 0.108435 0.00536161 0.0972931 0.0076706 0.0649378 0.0384678 0.048188 
-0.307343 0.883669 -5.18122 -3.88984 0.251907 -8.44664 0.553711 0.874362 
-0.113365 -5.12278 -2.38131 -13.0287 479.226 
+1.57384 0.132491 0.0265849 0.0897161 0.00860447 0.0806498 0.0117762 0.0269303 
+0.337387 4.81885 -7.73456 -2.55859 -2.22636 -2.54171 -0.696707 -0.834489 
+-0.966047 -0.943858 -3.72973 -88.1375 584.962 
 
 # parameters for class #759
-0.449697 0.116749 0.00456552 0.117163 0.00975405 0.125308 0.0100566 0.0796793 
-1.31304 1.75059 -5.90815 -5.27833 0.346741 -10.5301 0.610276 0.130731 
-0.363541 -7.7774 -15.1781 -26.8954 713.93 
+1.66044 0.0381963 0.0146974 0.0257076 0.123625 0.0249686 0.00128763 0.00158828 
+2.13816 14.6974 -6.99057 -0.348261 1.96588 -0.810483 20.2696 0.133175 
+-0.0167043 -0.170407 -37.3806 -280.368 2460.83 
 
 # parameters for class #760
-0.723285 0.141828 0.0139092 0.0955 0.00688684 0.0951254 0.0105492 0.0666299 
-1.28875 5.32007 -7.62561 -6.2627 1.35085 -7.73793 0.554191 -0.57247 
-0.768432 -5.80741 -15.71 -90.6784 905.538 
+1.21523 0.0555853 0.00508532 0.0165497 0.0374921 0.0348058 0.00257123 0.00720518 
+1.04806 2.74175 -8.45246 -1.24789 -0.396426 -0.970029 -5.58538 0.0960368 
+0.0198878 -0.824264 -14.1655 -45.3649 557.795 
 
 # parameters for class #761
-0.647744 0.08998 0.00684993 0.0634121 0.00287492 0.0598715 0.00864998 0.0412258 
-0.429415 2.62448 -6.31063 -5.03742 0.632336 -6.615 0.107618 -0.780136 
-0.877626 -4.32 -4.50089 -43.4606 649.131 
+0.941443 0.115932 0.00585331 0.0563765 0.0040529 0.065106 0.00309682 0.0339316 
+0.213203 2.53101 -6.21541 2.28582 0.180816 -0.390862 0.116363 2.98704 
+0.0967923 -1.97815 -1.22852 -43.696 325.275 
 
 # parameters for class #762
-0.950863 0.098093 0.0034874 0.0638525 0.00624231 0.0563604 0.00435845 0.0360933 
-0.914954 8.75778 -9.33827 -7.51942 0.114566 -7.20205 0.323106 -2.04405 
-0.146864 -3.01615 -10.5987 -154.301 1212.15 
+9.52452 0.535716 0.0412831 0.240923 0.0116914 0.238798 0.0122935 0.0993413 
+5.6308 1.19322 -42.4167 -4.24988 1.53757 -5.68328 0.252389 1.83631 
+0.582663 -3.52467 -11.7212 -19.2424 262.268 
 
 # parameters for class #763
-0.606373 0.071007 0.00443551 0.0454198 0.00870712 0.0493693 0.00812345 0.0295426 
-1.18471 2.00905 -7.33673 -4.02026 -0.424511 -4.70406 0.623294 -0.356021 
--1.00234 -3.38217 -14.2871 -31.3131 560.909 
+0.501788 0.0214829 0.000997081 0.0118454 0.00336957 0.0114014 0.0019078 0.00641582 
+0.191111 1.27578 -4.40493 0.287273 0.0202908 -0.440445 0.263085 0.758904 
+-0.142517 -0.796879 -2.02179 -21.0544 209.352 
 
 # parameters for class #764
-0.558355 0.0345766 0.00836622 0.034626 0.00519345 0.0237109 0.00832489 0.0180364 
-1.27288 2.37502 -6.8706 -2.90091 -0.996853 -5.01359 0.319544 -0.388568 
--1.08854 -2.69262 -16.8851 -38.5326 695.2 
+0.765073 0.0405889 0.00162839 0.0240362 0.00344089 0.0138018 0.0189936 0.00452241 
+1.27397 5.37945 -5.68592 -0.891057 -0.0677913 -1.08695 0.202529 0.188321 
+-2.76542 -0.527687 -19.365 -96.8123 706.68 
 
 # parameters for class #765
-0.643992 0.00943812 0.000984018 0.00347158 0.026126 0.00626813 0.000878345 0.00118557 
-2.07709 4.11953 -6.04005 -0.409373 0.0436229 -0.441349 4.0263 0.0336469 
-0.000691607 -0.267128 -32.5837 -71.4148 697.036 
+1.31006 0.0080443 0.00157769 0.00978375 0.00201787 0.00820074 0.00192379 0.00696012 
+1.06568 5.23456 -11.6239 0.183595 -0.125408 -0.566645 0.0459505 0.785321 
+0.000535084 -1.1251 -15.628 -91.9063 617.289 
 
 # parameters for class #766
-1.62321 0.0136365 0.0109104 0.00531263 0.509285 0.00837331 0.00138294 0.00133139 
-2.23606 7.93795 -10.5641 -1.04046 1.61502 -0.814578 87.4431 -0.282028 
-0.0499921 -0.322362 -38.5141 -147.675 4804.2 
+0.690919 0.00504697 0.00524305 0.00742058 0.00406709 0.00715214 0.0178077 0.00339418 
+0.453094 2.97239 -6.55783 -0.0151384 -0.635235 -0.481314 -0.50736 0.684464 
+-0.0569305 -0.622298 -6.77518 -51.3656 404.677 
 
 # parameters for class #767
-0.30685 0.00333259 0.00332379 0.00402385 0.000717278 0.00403613 0.000769411 0.00324707 
-0.751525 1.67356 -3.57453 -0.37893 -0.373668 -1.01939 -0.0315817 0.053204 
-0.0121581 -0.93222 -10.9037 -28.0402 382.637 
+0.781034 0.00309291 0.00192243 0.000960636 0.276968 0.00185084 0.00100357 0.000171044 
+1.13898 5.6053 -5.16585 0.41323 -0.25285 0.0209519 -47.9085 0.358454 
+0.0212378 -0.0661675 -19.4949 -104.467 2755.45 
 
 # parameters for class #768
-0.265646 0.00029293 0.127599 0.000237812 1000 0.000114153 1000 9.19671e-05 
-0.0744867 1.66484 -1.38039 -0.0648337 -0.0338398 -0.0761868 -0.000414874 -0.0132415 
--0.000141599 -0.0189496 -0.813569 -30.7943 202.353 
+1000 0.000550544 1000 0.000550544 1000 0.000550544 1000 0.000256639 
+1000 514.986 -0 -0.29053 -0 -0.29053 -0 -0.29053 
+-0 0.184679 -0 -10308.1 51738.7 
 
 # parameters for class #769
-0.403258 0.00857408 0.00241931 0.0173062 0.0023514 0.0212008 0.00264127 0.0135841 
-0.588382 0.862096 -4.7677 -0.788989 0.19981 -3.24684 -0.0819144 -0.0816347 
-0.128011 -2.60503 -7.1644 -12.5524 438.337 
+5.7815 0.00931144 1000 0.00849512 1000 0.00715195 1000 0.0118099 
+0.213875 5.21718 -21.3038 0.260478 0.0627968 0.102424 0.000238332 0.312963 
+-0.000203768 -0.376276 -0.316633 -98.1441 504.473 
 
 # parameters for class #770
-0.338573 0.00771652 0.00420766 0.00681389 0.000840832 0.00880262 0.00288493 0.0069501 
-0.887499 2.20269 -4.22523 -0.754759 0.484333 -1.4782 0.0127587 0.124034 
-0.303204 -1.7869 -12.2623 -35.9967 495.222 
+2.33517 0.0235031 0.00244601 0.0209322 0.00599631 0.016836 0.00188861 0.00722093 
+0.20946 6.86757 -9.14447 0.756961 0.179987 0.29293 0.765554 0.829825 
+-0.105896 -0.428218 -2.46183 -127.327 710.479 
 
 # parameters for class #771
-0.358805 0.000438507 0.000331532 0.000168918 0.0983609 0.000252342 0.0700516 7.67274e-05 
-2.96096 6.21551 -3.78506 -0.128746 0.0118523 -0.088296 -16.8512 -0.0167506 
-12.0492 -0.0623912 -52.9832 -115.393 2120.17 
+1.65707 0.148752 0.0053256 0.0866705 0.00821018 0.0814606 0.00250126 0.0329718 
+0.478485 4.27579 -8.10067 0.507018 0.302882 -0.976082 0.853279 1.44036 
+-0.0644349 -1.3656 -3.7622 -75.0911 441.018 
 
 # parameters for class #772
-0.646826 0.000162448 0.151226 0.000140445 0.229095 0.000109126 0.305164 5.25826e-05 
-14.7129 42.6929 -3.77868 -0.0506668 -26.2403 -0.056758 -39.9821 -0.0240546 
--53.3581 -0.0323889 -284.229 -837.798 10773.1 
+1.26361 0.299026 0.0388926 0.145507 0.0139706 0.172093 0.0107175 0.0887667 
+0.570141 1.25152 -7.35522 -1.50231 2.86274 -3.27415 1.06582 2.1141 
+0.637764 -3.96324 -3.39464 -20.7919 293.494 
 
 # parameters for class #773
-1.11922 0.00324485 0.370921 0.00168896 0.0874442 0.00240213 0.34066 0.000278315 
-8.85116 20.1088 -4.60877 -0.0222831 -64.1513 -0.0560991 -15.0071 0.0420923 
--58.9014 -0.0778385 -169.374 -392.271 8741.83 
+2.26609 0.31031 0.0193481 0.108679 0.0123518 0.10412 0.0185449 0.0396228 
+1.66872 1.20502 -11.6058 -1.48153 0.844268 -3.09122 0.817184 1.95727 
+0.0328579 -2.08437 -4.89208 -19.0003 214.513 
 
 # parameters for class #774
-1000 0.715366 0.151598 0.508693 0.0376927 0.432661 0.0383922 0.307487 
-1.40844 16.276 -4000 -13.9964 11.1673 -12.5348 2.75009 -6.2691 
-2.81631 -6.36349 -12.4263 -304.832 5983.28 
+0.591531 0.0542965 0.00167884 0.0414121 0.0023799 0.0393612 0.00362733 0.0247444 
+0.810985 2.46877 -6.82409 0.251681 0.00178747 -2.02729 0.0444915 2.32541 
+0.171863 -2.85038 -9.92547 -40.4736 409.002 
 
 # parameters for class #775
-1000 0.799415 0.165862 0.585431 0.0545402 0.567929 0.0378199 0.434946 
-1.44658 22.7083 -4000 -21.04 10.9867 -17.9329 3.66738 -12.498 
-2.43858 -7.74454 -12.597 -430.394 6746.77 
+3.51008 0.289635 0.00975502 0.110586 0.0408785 0.146849 0.0139296 0.0345875 
+0.384534 3.36998 -17.7203 -4.98865 -0.47686 -3.42618 -5.08121 -0.666867 
+1.05535 -1.75372 -4.29645 -59.9017 592.965 
 
 # parameters for class #776
-1000 0.724437 0.162421 0.3883 0.0493658 0.442387 0.0413088 0.210758 
-2.60945 5.29068 -4000 -16.6983 7.69157 -12.002 2.0448 -6.72014 
-2.17085 -4.56536 -11.2917 -95.8621 4846.91 
+1000 0.619952 0.106643 0.398353 0.0209329 0.353228 0.0341212 0.208521 
+2.39695 3.94364 -4000 -7.00714 7.44858 -7.99948 1.20138 -0.891527 
+2.71317 -5.69574 -14.6225 -70.6171 4661.8 
 
 # parameters for class #777
-4.16613 0.160765 0.030249 0.132725 0.00372149 0.0993342 0.0738447 0.0733692 
-0.579593 6.04431 -23.587 -4.5338 -3.19191 -5.36051 0.0435845 -1.67387 
--10.0565 -3.09132 -6.9408 -110.613 1148.82 
+3.86557 0.18941 0.0662131 0.132861 0.00781399 0.110212 0.022504 0.0803416 
+1.20687 2.32955 -18.4716 -1.56615 4.88796 -2.73619 0.258287 0.407768 
+2.11916 -2.75443 -7.22422 -40.3123 426.583 
 
 # parameters for class #778
-7.58279 0.295686 0.0306812 0.180822 0.0109808 0.15484 0.0087196 0.0896744 
-8.18745 0.837444 -34.2597 -5.97588 0.482162 -7.95269 0.217378 0.559529 
-0.055009 -4.48804 -8.69236 -12.607 300.174 
+8.97319 0.718597 0.0558315 0.577151 0.0158577 0.564079 0.01153 0.42957 
+1.00054 82.7848 -29.7953 -14.8017 2.81728 -13.347 0.905176 -10.1898 
+0.478231 -4.74269 -10.8116 -1612.7 8199.54 
 
 # parameters for class #779
-2.73057 0.256249 0.00572905 0.107622 0.0150425 0.107143 0.00526421 0.0555698 
-0.598909 3.36977 -23.3136 -6.05282 0.18379 -5.57712 0.0512649 0.397887 
-0.242318 -3.35738 -4.60091 -56.0635 495.159 
+1000 0.597341 0.0694572 0.375567 0.0277018 0.460074 0.0161721 0.259285 
+3.2744 2.61629 -4000 -10.7595 4.23239 -10.0724 1.81283 -4.23518 
+0.885708 -6.6379 -17.0539 -45.9032 4521.35 
 
 # parameters for class #780
-5.05712 0.193671 0.0418983 0.133003 0.227939 0.12129 0.00448441 0.09127 
-0.708288 3.9576 -30.1285 -4.38238 -4.78804 -4.99418 -33.1381 -0.875138 
-0.142212 -4.81249 -8.60664 -70.5421 1898.33 
+1000 0.303557 0.0720493 0.172269 0.0260981 0.196882 0.0119107 0.112024 
+2.10048 2.58823 -4000.06 -9.16664 5.75425 -7.20917 2.32808 -3.65141 
+0.789096 -3.90526 -12.4011 -44.8149 4615.14 
 
 # parameters for class #781
-1.32661 0.0459769 0.00277817 0.0259832 0.00214433 0.0249724 0.00192558 0.0125772 
-0.264859 2.91538 -8.10634 0.933763 -0.0882151 -0.157435 -0.157256 1.12884 
-0.0559238 -0.785903 -1.70407 -50.2313 316.929 
+148.759 0.392357 0.101352 0.322849 0.0297096 0.229594 0.0250682 0.198414 
+3.92301 2.09414 -601.609 -10.9424 5.74037 -12.8475 1.49575 -3.6704 
+1.53631 -6.17445 -15.1115 -36.1594 1195.27 
 
 # parameters for class #782
-1000 0.258982 0.0403571 0.140882 0.0114832 0.189315 0.0146011 0.0987921 
-1.29425 35.7098 -4000 3.6888 0.700997 1.07323 0.295856 3.9508 
-0.117744 -1.60483 -3.86608 -683.419 7347.05 
+7.25657 0.126345 0.00651744 0.106512 0.00151258 0.109721 0.00687851 0.126995 
+0.638775 32.6825 -16.0181 -3.18646 0.374883 -3.11358 0.0200672 -2.32626 
+0.591729 -1.71737 -8.10038 -637.401 3259.91 
 
 # parameters for class #783
-70.0236 0.424655 0.129556 0.215115 0.0335198 0.293675 0.0239738 0.145727 
-6.01123 2.29059 -286.371 -4.21908 3.165 -4.56307 0.346406 0.392181 
-0.893091 -3.72883 -9.53699 -38.8937 575.099 
+1.11706 0.0539567 0.025327 0.0433099 0.00908296 0.0357422 0.0188911 0.0194556 
+0.444122 4.48814 -5.74304 -1.76965 -2.73396 -1.85485 -0.833146 -0.820484 
+-2.16087 -0.827168 -5.83364 -83.2138 658.055 
 
 # parameters for class #784
-1000 1.06033 0.0962871 0.611871 0.029293 0.652731 0.030308 0.331177 
-1.45486 11.6307 -4000 -4.2472 5.58298 -5.56252 1.72136 0.705076 
-1.70629 -5.925 -10.4056 -217.849 5232.5 
+0.951812 0.142313 0.00395894 0.085148 0.0210705 0.0797896 0.00813637 0.00770465 
+0.76127 3.71217 -3.49012 -3.00681 0.110162 -2.76201 2.6344 -0.835229 
+-0.828597 -0.343487 -10.4203 -68.8684 550.171 
 
 # parameters for class #785
-1000 1.16878 0.154591 0.445062 0.037714 0.701134 0.0521963 0.198864 
-3.01043 2.96929 -4000 -17.9878 8.11452 -10.2266 1.59521 -5.47054 
-3.20247 -4.34514 -14.6828 -52.9715 4608.99 
+3.16857 0.0798428 0.0154919 0.0686266 0.0587903 0.0456126 0.00734934 0.0271861 
+0.528615 3.08866 -12.3209 -1.56957 1.29945 -2.37368 7.8818 -0.244483 
+-0.411153 -1.27702 -5.34927 -54.6617 648.638 
 
 # parameters for class #786
-1000 0.627064 0.541832 0.488764 0.122148 0.549506 0.116833 0.652872 
-1.46336 25.4367 -4000 -10.521 27.9602 -9.9268 6.25139 -7.27891 
-6.05271 -8.98015 -11.295 -483.626 7004.11 
+0.639737 0.0459363 0.00228589 0.0177377 0.00636543 0.0662431 0.00498959 0.00916124 
+1.46203 2.08296 -6.12098 -1.60912 -0.0272008 -1.33867 -0.771335 -0.143653 
+0.116103 -1.03104 -18.8061 -33.4661 350.768 
 
 # parameters for class #787
-1000 0.919506 0.61613 0.571676 0.166485 0.636782 0.14441 0.438542 
-2.90171 6.30145 -4000 -15.1322 24.2968 -12.6574 6.73194 -6.86009 
-5.53162 -7.03422 -12.7615 -115.758 5099.91 
+2.57361 0.112487 0.033444 0.0691888 0.0147188 0.0747615 1.56945 0.0486593 
+4.92017 0.620538 -12.4637 -4.03064 0.972216 -4.54799 0.736777 -0.436552 
+-0.199238 -3.06941 -7.53352 -8.88795 259.933 
 
 # parameters for class #788
-2.78858 0.310314 0.0157984 0.181856 0.00737727 0.231099 0.0137299 0.0533453 
-0.561238 10.1622 -10.7424 -8.81937 0.498144 -6.56738 -0.289218 -4.85021 
-1.10231 -1.40613 -5.51897 -188.865 1123.21 
+1.59124 0.0827255 0.0209849 0.0398083 0.0833 0.0660671 0.00266873 0.0197311 
+0.945664 1.40399 -11.9926 -2.90691 2.62481 -2.68646 12.6756 -0.46122 
+0.0371248 -1.73269 -10.8763 -21.7528 854.51 
 
 # parameters for class #789
-93.0096 0.299604 1000 0.249602 1000 0.246768 1000 0.363924 
-0.14323 1000 -53.9631 -8.47711 -0 -7.67857 0.022408 -6.37397 
--0.022408 -1.80619 -2.20303 -19927.4 99447 
+0.997122 0.170979 0.007577 0.0826174 0.0136101 0.082477 0.00317506 0.0393767 
+0.409423 0.783713 -7.13974 -7.28482 0.58607 -6.35956 1.49715 -0.581811 
+-0.0358221 -3.26046 -2.70756 -11.5588 425.421 
 
 # parameters for class #790
-1000 0.118303 1000 0.118303 1000 0.118303 1000 0.00500541 
-1000 1000 -0 -9.95562 -0 -9.95562 -0 -9.95562 
--0 0.628935 -0 -20016.6 100803 
+0.678846 0.147456 0.00708886 0.129411 0.0107012 0.110855 0.00692571 0.069889 
+0.665928 3.26593 -7.03514 -8.88946 0.306081 -12.7964 0.645282 -2.04686 
+0.219992 -6.08951 -7.19821 -54.7513 915.596 
 
 # parameters for class #791
-1000 0.0242034 1000 0.0230235 1000 0.0241679 1000 0.229563 
-1000 541.617 -498.768 -0.0575818 -0 -0.129801 -0 0.0212578 
--0 -1.49614 -17512.5 -10777.5 130342 
+1.47605 0.178528 0.0170878 0.175304 0.02523 0.204311 0.00853325 0.128065 
+0.793905 1.57871 -13.6515 -9.15409 1.25934 -15.7511 2.1376 -2.07606 
+0.369056 -11.3852 -7.28921 -24.4272 982.11 
 
 # parameters for class #792
-14.3299 0.0992871 0.0137541 0.0900241 0.0168747 0.088122 0.00252129 0.157015 
-0.966081 19.14 -33.4191 0.304013 0.867053 -0.157042 1.59065 0.693341 
-0.033232 -2.34488 -11.6826 -367.442 1916.13 
+1.86785 0.0446871 0.00619299 0.0146245 0.0474988 0.0245025 0.00126239 0.00262292 
+0.805613 8.28131 -11.2714 -3.94169 0.787915 -1.77947 7.5219 -1.5819 
+0.0579642 -0.327721 -12.5082 -154.145 1330.84 
 
 # parameters for class #793
-2.12748 0.253868 0.0341056 0.180151 0.0240528 0.187957 0.0050687 0.0801516 
-0.481206 6.80208 -8.58733 -4.26911 2.46744 -4.22687 2.29929 -1.9078 
-0.172984 -1.91963 -4.97249 -126.185 802.958 
+0.582784 0.0445354 0.00424049 0.0228513 0.00446338 0.0200135 0.00225129 0.00907632 
+0.413374 1.26672 -5.68558 -3.0242 0.404037 -2.80824 0.557825 -0.224514 
+-0.136555 -1.24508 -4.49599 -19.1792 360.8 
 
 # parameters for class #794
-7.53773 0.736685 0.0883904 0.356642 0.0313588 0.368378 0.0142527 0.172162 
-6.27785 1.66632 -34.5034 -9.81906 3.93444 -10.3454 1.85299 0.880056 
-0.307672 -6.29735 -17.944 -26.5072 424.639 
+0.78945 0.027533 0.011621 0.0109497 0.102302 0.0208198 0.00190231 0.00483885 
+1.57573 5.49769 -7.50106 -2.28102 1.62289 -1.63463 16.6411 -0.647391 
+0.0992612 -0.813685 -22.8464 -95.1043 1440.88 
 
 # parameters for class #795
-1.48197 0.599092 0.0294309 0.340722 0.0173371 0.313331 0.0176461 0.172578 
-0.888772 1.07244 -9.93136 -13.3672 1.91673 -15.1111 1.05835 -0.0127156 
-0.870019 -8.85511 -4.41053 -15.9297 529.204 
+0.508318 0.01873 0.0115708 0.0082205 0.00193263 0.014711 0.0014133 0.00547361 
+1.14466 4.13422 -5.91069 -2.23826 1.50012 -1.72218 0.180408 -0.428865 
+0.107249 -1.14039 -16.0449 -70.0076 697.214 
 
 # parameters for class #796
-1.94951 0.726314 0.030335 0.398688 0.0151775 0.402001 0.0111617 0.227377 
-0.661275 2.11476 -13.9003 -19.8551 1.44928 -18.296 0.896348 -3.2861 
-0.230725 -9.85765 -4.00083 -34.6675 696.984 
+2.06913 0.00948972 0.00907198 0.0071998 0.000988686 0.00403345 0.16273 0.000867104 
+1.76248 11.553 -11.877 -1.40772 1.29135 -1.28632 0.0393222 -0.364613 
+27.5347 -0.183358 -30.1535 -218.524 2568.27 
 
 # parameters for class #797
-1.58021 0.505901 0.0301598 0.302455 0.0146726 0.244296 0.0180288 0.139516 
-0.565773 1.17033 -9.90515 -9.85801 1.02012 -11.7284 0.174966 -0.0199777 
-0.8558 -6.01901 -2.30598 -18.3171 370.817 
+0.824669 0.00201883 0.000964355 0.00147951 0.000991786 0.00079718 0.0740312 0.000196926 
+0.658476 7.25384 -5.95518 -0.64178 -0.0990992 -0.563254 0.0462623 -0.158765 
+-12.5327 -0.0697216 -10.5114 -135.207 1396.79 
 
 # parameters for class #798
-1.6355 0.168002 0.015522 0.125755 0.0123549 0.119485 0.0183522 0.0952582 
-0.999071 1.25016 -9.01394 -4.05506 -0.603978 -5.22227 0.631185 -0.813781 
--1.77765 -4.22196 -5.39223 -19.7402 320.01 
+0.275159 0.000972967 0.000837033 0.000597145 0.00104795 0.000299321 0.118846 0.000168481 
+1.2362 3.38302 -3.47459 -0.381399 -0.0736236 -0.33936 0.0524916 -0.0323059 
+-20.3633 -0.106359 -18.5543 -58.079 1373.13 
 
 # parameters for class #799
-0.192523 0.00194131 0.000632075 0.00083504 0.0274384 0.00190603 0.000568707 0.000364283 
-0.225391 0.238293 -1.14093 0.0137853 0.0630817 -0.0827915 4.52763 0.176087 
--0.0290142 -0.114472 -2.5972 -3.13507 292.239 
+0.232792 0.00115582 0.00125568 0.00116968 0.000585544 0.0016532 0.000783108 0.000941291 
+0.800699 1.68422 -3.12622 -0.0920858 -0.113027 -0.360845 -0.0016166 0.230938 
+0.00142486 -0.446432 -11.5867 -27.8412 328.378 
 
 # parameters for class #800
-0.868005 0.025259 0.0118506 0.00980738 0.126101 0.028996 0.00182002 0.00545939 
-1.38755 1.94691 -7.63061 -1.14095 1.63491 -1.06127 20.6296 0.0227496 
-0.0332876 -0.85966 -18.3803 -30.327 1218.85 
+0.275747 0.0130741 0.000893553 0.0146495 0.00126508 0.0140081 0.00242415 0.0110337 
+0.6812 1.59341 -3.75672 -1.55189 0.0258348 -3.4492 0.0202596 -0.073993 
+0.136973 -2.65536 -8.09353 -24.8224 601.281 
 
 # parameters for class #801
-0.390737 0.0294 0.00156222 0.0291106 0.00274199 0.0381647 0.00410615 0.026805 
-0.904232 1.9766 -4.8549 -1.62444 -0.0158144 -3.9054 0.034278 0.610605 
-0.256752 -4.24144 -11.3576 -31.8129 557.103 
+0.156924 0.00436934 0.00059971 0.0062233 0.000996902 0.00677314 0.00151881 0.0052896 
+0.571495 1.1948 -2.46013 -0.378266 0.00898419 -1.61468 0.0220712 0.475171 
+0.0774109 -1.81285 -7.19188 -18.3612 442.716 
 
 # parameters for class #802
-0.38764 0.0428839 0.00228341 0.039183 0.00236519 0.036144 0.00207212 0.0223173 
-0.429994 0.556596 -4.17925 -2.86705 -0.0654366 -5.29419 0.0650058 -0.0157309 
--0.0402736 -3.12996 -3.64274 -7.33358 433.318 
+0.0680591 0.000122031 0.000204307 9.55658e-05 0.000313255 7.16468e-05 0.000306325 3.92701e-05 
+0.666286 0.949149 -1.37833 -0.0491795 0.0013374 -0.101664 -0.0004716 0.0153122 
+0.00683846 -0.0551206 -10.7543 -15.9159 253.425 
 
 # parameters for class #803
-0.976987 0.0804367 0.00419146 0.0769191 0.00336104 0.0998863 0.00556541 0.0823687 
-0.506069 1.39422 -9.67937 -4.66406 -0.0406122 -8.05626 0.0964437 -1.05684 
-0.0544568 -8.14673 -5.26385 -21.8613 652.072 
+1.29808 0.0045247 0.00437825 0.00369281 0.000970484 0.00164733 0.126807 0.000519068 
+1.5093 11.0723 -8.22381 -1.0072 0.597379 -0.978964 0.0295631 -0.218575 
+21.6114 -0.14695 -25.4869 -208.937 2240.97 
 
 # parameters for class #804
-0.496111 0.0453014 0.0028593 0.0230235 0.00146191 0.026399 0.00213975 0.0132293 
-0.23204 0.374936 -4.43278 -2.08073 -0.0965311 -2.39508 -0.0839572 0.18578 
-0.0246102 -1.6164 -1.76832 -5.12507 223.637 
+0.364274 0.00455895 0.00192323 0.00335389 0.00146912 0.00278602 0.00156524 0.00166398 
+0.437547 2.67607 -4.25602 -1.01517 0.158684 -1.21786 0.0934432 -0.234195 
+0.0881109 -0.505619 -5.18951 -44.9842 495.102 
 
 # parameters for class #805
-1000 0.00495125 1000 0.00123449 1000 0.00221424 1000 0.000582955 
-0.283575 0.283575 -0 -0.239723 -0 -0.185529 -0 0.11836 
--0 -0.118772 -0.408891 -0.408891 36.6323 
+0.415676 0.00213069 0.00612771 0.00163149 0.00133261 0.000808613 0.299577 0.000545184 
+1.10699 3.56708 -4.36588 -0.480523 0.821681 -0.534693 0.0684067 -0.0264649 
+51.6018 -0.238633 -17.0615 -62.746 2758.88 
 
 # parameters for class #806
-0.80193 0.0315643 0.00235257 0.0530738 0.00469942 0.0745357 0.00359226 0.0463651 
-0.838851 1.53815 -7.85335 -1.5663 0.153133 -6.48923 0.0840616 0.143287 
-0.0735867 -5.97417 -11.2777 -24.4737 615.475 
+0.449955 0.00107399 0.000554399 0.000608457 0.000768425 0.000707588 0.00108902 0.000327312 
+0.373158 3.57341 -4.7876 -0.449915 0.0175833 -0.358567 0.0303506 -0.173781 
+0.03037 -0.121195 -4.3993 -62.153 488.347 
 
 # parameters for class #807
-0.767069 0.0452631 0.00345545 0.0591173 0.0080875 0.0494227 0.0035468 0.0396926 
-0.242827 0.369548 -6.27375 -2.66867 0.128056 -6.95376 0.0745885 -0.157319 
-0.174168 -4.73534 -1.57194 -5.05809 470.695 
+0.309639 0.000417905 0.00668831 0.000216425 0.000358658 0.000222978 0.651715 9.32206e-05 
+1.88686 4.94462 -3.3191 -0.152901 0.972668 -0.118166 0.00636664 -0.0206258 
+114.072 -0.0654554 -32.0738 -89.961 5688.03 
 
 # parameters for class #808
-0.842453 0.0310946 0.00709119 0.0174262 0.00145627 0.0477968 0.00132455 0.0119081 
-0.731747 0.841257 -8.52963 -1.89524 -0.824877 -2.2503 -0.11359 -0.0173345 
--0.0346446 -1.67777 -8.47576 -12.2849 330.172 
+1000 0.321713 1000 0.321713 1000 0.321713 1000 0.00320135 
+1000 1000 -0 -45.4386 -0 -45.4386 -0 -45.4386 
+-0 0.631055 -0 -20014.4 104975 
 
 # parameters for class #809
-0.969685 0.0888599 0.0115997 0.0381404 0.0369045 0.0585698 0.00172744 0.0189433 
-1.07036 1.0844 -9.03054 -3.3548 -1.31954 -3.01789 -5.36427 -0.122591 
-0.0221053 -1.87777 -11.9747 -16.0881 529.545 
+2.86845 0.00277977 1000 0.00270006 1000 0.00275687 1000 0.0364249 
+0.0689045 95.4903 -5.14187 0.558772 -0.102551 0.528035 0.132251 0.569298 
+-0.0234038 -0.40884 -0.517321 -1895.59 9510.88 
 
 # parameters for class #810
-0.574353 0.0179339 0.00100179 0.00989176 0.00813935 0.0111992 0.00206114 0.00378122 
-1.73189 3.35521 -6.42748 -0.652539 0.0233228 -1.03933 -1.09114 0.178319 
-0.169576 -0.671674 -25.3582 -56.4397 505.905 
+18.0623 0.0928217 0.0131512 0.0804686 0.00332851 0.0676308 0.0119695 0.0705164 
+0.869577 33.8497 -70.8708 3.98417 0.563766 2.78452 0.0726288 3.46324 
+0.712808 -1.62164 -4.51347 -648.709 3357.77 
 
 # parameters for class #811
-3.41535 0.247391 0.0486819 0.165986 0.0947611 0.123955 0.00920364 0.091297 
-0.5238 1.8586 -17.8868 -5.86667 -4.45295 -6.31007 -12.1405 -1.1867 
-0.0451759 -3.80385 -4.22813 -31.8503 831.273 
+1000 0.0491138 0.0028758 0.0305249 0.00187348 0.030656 0.00170909 0.0176437 
+1.2503 11.9436 -3999.9 3.16196 0.113099 1.47861 0.0879387 2.46234 
+0.0459385 -0.690833 -4.23408 -223.107 5214.05 
 
 # parameters for class #812
-4.44922 0.435187 0.0574313 0.262083 0.124483 0.345624 0.00806251 0.175724 
-0.604271 10.2649 -23.6785 -8.71401 -4.12382 -7.4553 -14.4989 -3.93284 
-0.216004 -5.35205 -6.40307 -189.02 1594.66 
+2.15993 0.0246668 0.00998932 0.0195493 0.0102417 0.0190288 0.00175468 0.0189942 
+0.792421 12.3044 -10.1515 2.39571 0.729847 1.5937 0.958398 2.14943 
+0.0621433 -0.806735 -4.93539 -226.309 1302.86 
 
 # parameters for class #813
-1000 0.50111 0.258388 0.344339 0.0828201 0.371769 0.0833913 0.2837 
-2.27677 9.73618 -4000 -10.9211 2.13899 -9.41112 1.42713 -6.04372 
--0.0680849 -3.73672 -5.72265 -182.15 5045.5 
+0.951936 0.00473603 0.00482453 0.00170677 0.151319 0.00339674 0.000993088 0.000346794 
+1.71409 6.48595 -6.03059 0.376709 0.658041 -0.00413066 25.7838 0.410551 
+0.0185726 -0.0960591 -29.1982 -120.089 1892.73 
 
 # parameters for class #814
-1.31295 0.0677779 0.0114244 0.0334002 0.0326453 0.0455476 0.0060659 0.00891677 
-1.99535 9.04924 -7.76792 -1.62805 1.24388 -1.484 4.76906 -0.449823 
-0.351394 -0.899281 -32.8093 -166.532 1217.81 
+0.856302 0.0138579 0.0241359 0.00602689 0.11605 0.00960211 0.00329558 0.00309894 
+1.28185 5.86536 -7.45738 0.569752 3.42665 -0.049322 18.7742 0.745591 
+0.242125 -0.436992 -18.7246 -103.248 1508.12 
 
 # parameters for class #815
-1.92129 0.0599089 0.02497 0.0292413 0.140199 0.0457399 0.00425052 0.0139273 
-1.99135 4.98822 -14.1507 -2.98901 3.58767 -2.47176 22.5959 -0.831093 
-0.157239 -1.49147 -29.3779 -87.1343 1729.17 
+1.43553 0.0618372 0.00368128 0.0297054 0.00471883 0.0386004 0.00786239 0.0202424 
+0.628407 5.29799 -12.8852 1.75614 0.236442 -0.334229 0.262143 2.39137 
+0.551091 -1.69232 -7.69051 -94.4529 622.406 
 
 # parameters for class #816
-3.15112 0.0421884 0.0350551 0.0166813 0.596894 0.0423089 0.00247898 0.00499471 
-3.44872 6.79015 -19.1958 -1.43974 -5.23624 -1.13692 -100.098 -0.293778 
-0.0726313 -0.68882 -58.4112 -123.574 5327 
+0.77359 0.0304879 0.0258578 0.0200546 0.0474009 0.0191111 0.00643655 0.00959492 
+0.93343 3.84766 -6.79692 -0.0771375 3.50158 -0.771928 7.24313 0.515323 
+0.540199 -1.00967 -12.706 -66.5009 834.709 
 
 # parameters for class #817
-6.28867 0.358208 0.0308408 0.223493 0.0275601 0.196028 0.0161114 0.0691046 
-0.37209 8.0616 -25.4713 -11.4759 0.967575 -8.92172 2.20002 -4.69804 
--0.59824 -1.94744 -3.29206 -149.149 1036.26 
+0.602327 0.104464 0.0045343 0.0426096 0.0021908 0.0645914 0.0050693 0.0239532 
+0.314321 2.03575 -4.89605 -3.1658 0.254472 -2.65828 -0.0812869 0.0254631 
+0.503822 -1.90051 -2.72577 -33.0541 318.043 
 
 # parameters for class #818
-4.94375 0.415007 0.0556913 0.2698 0.0193954 0.272438 0.0222383 0.121071 
-0.303358 12.0872 -20.4992 -11.3193 -0.0343269 -8.95389 0.805601 -5.80205 
--0.986277 -2.47183 -2.40782 -227.212 1339.8 
+0.358887 0.00203217 0.0903497 0.00134808 1000 0.00153207 1000 0.00127632 
+0.075636 0.907785 -1.89232 -0.0482026 -0.069491 -0.128402 0.0035163 0.082736 
+-0.0187587 -0.192219 -0.78367 -15.6588 120.385 
 
 # parameters for class #819
-5.58186 0.173436 0.0153839 0.0936453 0.00308298 0.107397 0.00466244 0.0570667 
-2.56761 1.42398 -25.5396 -7.045 -0.293882 -5.82168 0.0261331 -2.05032 
--0.194278 -2.71826 -5.11582 -22.9572 371.853 
+0.571734 0.0461167 0.00704803 0.0293376 0.00435806 0.0331178 0.00806821 0.0239254 
+0.292802 0.572384 -4.89728 -1.40788 0.398307 -2.51517 0.0774328 0.767266 
+0.585825 -2.77884 -1.83761 -8.42076 260.412 
 
 # parameters for class #820
-1.39155 0.24197 0.00844826 0.103471 0.00353364 0.106826 0.00548612 0.0466996 
-1.11841 0.375063 -7.89083 -5.37378 0.0866421 -5.10055 -0.0803542 0.535825 
-0.223693 -2.76732 -3.23592 -4.98021 210.91 
+0.754672 0.040638 0.00288485 0.0174561 0.000921359 0.0158246 0.00560958 0.00641331 
+0.238512 0.983558 -5.4254 -2.65406 0.228385 -1.78005 -0.0288435 -0.438289 
+0.695664 -0.720404 -2.77899 -16.2437 277.783 
 
 # parameters for class #821
-8.69744 0.51688 0.0576668 0.257866 0.0163132 0.291285 0.0145311 0.147174 
-7.03292 0.90387 -39.0365 -11.9116 2.71092 -10.6167 0.748836 -1.41858 
-0.614019 -6.11196 -16.5381 -13.698 426.178 
+0.851629 0.0849324 0.00230115 0.0386735 0.00390942 0.0463451 0.00320931 0.00812725 
+0.725402 5.62728 -6.25944 -3.53264 0.0452298 -2.56272 -0.409655 -0.961299 
+0.287439 -0.690624 -9.79344 -100.248 655.356 
 
 # parameters for class #822
-3.10032 0.237757 0.0363915 0.130431 0.00645755 0.155627 0.0151367 0.084708 
-2.90562 0.773561 -15.6514 -7.00509 2.71214 -6.46616 0.2929 -1.49601 
-1.29712 -4.17276 -11.827 -11.7537 381.586 
+0.99929 0.0858152 0.00837487 0.0365972 0.0773558 0.0499926 0.00566207 0.0122332 
+1.76381 5.15673 -8.51842 -3.88129 -0.958508 -3.00022 -12.0148 -0.742872 
+0.402862 -1.28402 -24.5709 -88.7184 1170.11 
 
 # parameters for class #823
-1.41683 0.592594 0.0329195 0.396282 0.0111031 0.299026 0.0184672 0.183001 
-0.573914 3.08949 -9.13801 -19.1423 1.66905 -19.6288 0.362063 -4.42784 
-1.05026 -7.45967 -2.95088 -52.4454 803.919 
+1.72929 0.271091 0.00771562 0.0994857 0.0835975 0.151269 0.00629804 0.0214424 
+0.718958 5.6766 -10.1768 -8.50449 -0.693253 -4.88089 -12.0548 -2.3457 
+0.453765 -1.37 -9.41511 -101.837 1156.58 
 
 # parameters for class #824
-1000 0.288086 0.13133 0.210424 0.0230859 0.192474 0.0322494 0.154359 
-2.14085 4.25419 -4000 -11.5674 9.45634 -10.4255 1.40105 -5.92053 
-2.6007 -4.46235 -12.9335 -76.3344 4953.71 
+1.69396 0.125137 0.0165058 0.102789 0.00296924 0.102563 0.0210731 0.0512287 
+0.388154 5.96604 -6.33258 -0.360393 -0.849712 -0.918368 0.0344966 0.328274 
+-1.9559 -1.11119 -4.15091 -112.522 652.983 
 
 # parameters for class #825
-4.17001 0.0938202 0.00777408 0.0799372 0.00205557 0.0788746 0.00576615 0.0683257 
-0.471675 14.1882 -11.5071 -6.81758 0.397324 -6.23816 0.00310313 -5.30889 
-0.480416 -1.15485 -5.0217 -272.922 1729.99 
+1000 0.131234 0.0520802 0.0935074 0.0107836 0.103729 0.0122858 0.0969867 
+1.30001 2.81936 -4000 -2.54242 -1.93676 -2.64635 -0.416381 -1.08354 
+-0.419172 -2.1976 -4.55902 -49.8757 4327.55 
 
 # parameters for class #826
-3.95067 0.0194045 0.00222494 0.0168817 0.00188002 0.0182071 0.0193279 0.0218929 
-0.528416 6.64007 -9.62826 -1.7309 0.151074 -1.71442 -0.144225 -1.39715 
-2.60473 -0.82777 -6.53549 -123.941 862.21 
+0.828855 0.0403031 2.95285 0.0268384 1000 0.0194736 1000 0.0130482 
+0.0610331 0.40147 -2.52277 -0.781823 -0.0221578 -1.17041 3.57028e-05 0.1013 
+-3.57028e-05 -0.638946 -0.524986 -6.772 78.5958 
 
 # parameters for class #827
-1000 0.233512 1000 0.233512 1000 0.233512 1000 0.00339489 
-1000 1000 -0 -29.5879 -0 -29.5879 -0 -29.5879 
--0 0.610096 -0 -20013.2 102958 
+4.67458 0.508474 0.0296313 0.217673 0.045542 0.251435 0.00631566 0.0541136 
+0.413849 4.90144 -23.8531 -2.79193 -2.36027 -3.47336 -5.54561 1.17977 
+0.100909 -1.95922 -4.14441 -88.4833 727.474 
 
 # parameters for class #828
-4.87106 0.0672796 1000 0.0532181 1000 0.0497959 1000 0.0550618 
-0.0936877 86.5538 -6.87234 0.870748 0.000109568 0.48875 0.0429308 0.830223 
--0.0430404 -0.427793 -0.861683 -1715.35 8516.95 
+94.3228 0.412121 0.094932 0.258611 0.0370532 0.368817 0.0420216 0.224932 
+0.442782 16.665 -382.915 -7.76662 0.581927 -6.25348 1.51968 -4.97872 
+-1.28468 -3.9576 -2.80406 -311.561 2009.54 
 
 # parameters for class #829
-5.47182 0.0135711 0.00241792 0.0128403 0.00260132 0.0128713 0.00110036 0.0332105 
-0.490692 39.8263 -12.8023 1.43284 0.108774 1.26605 0.239643 1.44861 
--0.0336005 -0.701193 -5.87644 -776.984 3984.09 
+1.47662 0.0204105 0.000939384 0.00909703 0.0348744 0.0152644 0.00429308 0.00208297 
+2.61486 5.34756 -10.2358 -0.575516 -0.00521775 -0.580112 5.32918 -0.0421776 
+-0.538547 -0.321579 -43.2965 -95.6396 920.892 
 
 # parameters for class #830
-7.83298 0.0340205 0.0096658 0.0318496 0.0106177 0.0307682 0.00241708 0.0644307 
-1.04297 24.9544 -22.1785 1.95439 0.599228 1.59837 1.07584 1.99134 
--0.0163059 -1.40253 -10.6818 -475.512 2474.16 
+0.956335 0.0947628 0.00542647 0.0578312 0.0102215 0.054818 0.0192493 0.0323525 
+0.176849 2.09704 -7.4172 0.487919 0.20511 -1.80397 0.575116 2.41517 
+0.0787418 -2.60329 -1.39517 -35.5847 316.575 
 
 # parameters for class #831
-2.32152 0.40962 0.0220395 0.214206 0.0193082 0.191834 0.00630622 0.100907 
-0.524666 4.7918 -16.0621 -2.99235 1.14381 -4.49773 1.18206 1.2014 
-0.197808 -3.4267 -3.89305 -82.4346 519.893 
+1.15856 0.352372 0.0108449 0.203206 0.00678864 0.160134 0.00539368 0.0936594 
+0.555355 2.09127 -7.8396 -3.59239 0.344307 -7.37097 0.169719 2.5225 
+0.168352 -5.26922 -2.34253 -33.4554 354.342 
 
 # parameters for class #832
-0.94499 0.220311 0.00882152 0.105483 0.00972558 0.128777 0.0036965 0.0627953 
-0.337335 1.92421 -7.05679 0.417825 0.493022 -2.69381 0.576622 3.72639 
-0.119225 -3.85273 -2.21953 -31.9121 311.394 
+2.50399 0.125389 0.00531195 0.0729229 0.00802557 0.0794439 0.00267782 0.0411321 
+0.706267 2.34445 -13.6981 -0.358921 -0.29354 -1.70167 -0.830489 1.33349 
+0.0668511 -2.09083 -3.88011 -38.9389 297.415 
 
 # parameters for class #833
-0.893153 0.401971 0.0207103 0.207387 0.0212084 0.20002 0.014802 0.112368 
-0.295695 1.11329 -6.61307 -3.36834 1.1674 -6.64095 1.0015 2.91307 
-0.802607 -5.97402 -1.9335 -18.0049 315.407 
+2.86737 0.0490963 0.0128162 0.0361406 0.039494 0.0325855 0.00243587 0.0126006 
+0.350479 5.31186 -15.6635 0.930614 -1.34054 0.0440303 -5.61667 1.15036 
+0.0575197 -0.76528 -4.10154 -97.7779 789.078 
 
 # parameters for class #834
-8.7789 0.290788 0.0383322 0.191934 0.00853562 0.145328 0.027765 0.0872998 
-3.45126 1.16071 -38.6656 -4.62558 1.86431 -6.00821 0.100157 -0.0880669 
-2.07918 -3.22398 -10.2156 -18.7974 316.999 
+1000 0.21977 0.0763832 0.174075 0.0187856 0.150624 0.0237084 0.135152 
+1.57605 19.7858 -4000 1.37332 1.24931 0.0131025 0.460157 1.87114 
+0.180995 -2.02931 -4.33142 -375.354 5832.5 
 
 # parameters for class #835
-183.166 0.0746683 0.00328694 0.0421164 0.00326482 0.0324069 0.00281751 0.0190098 
-0.599657 5.68586 -1465.36 -0.758848 -0.0236242 -1.53371 0.0701669 0.503627 
-0.0147606 -1.08121 -5.68067 -99.6925 3457.28 
+1000 1.21374 0.111018 0.504873 0.0264932 0.740897 0.0231235 0.251837 
+1.55471 9.26394 -4000 -2.24293 3.73245 -3.55287 0.841906 2.47553 
+0.804477 -3.75348 -7.04205 -173.575 4909.99 
 
 # parameters for class #836
-0.995874 0.117124 0.00526626 0.07235 0.00856835 0.0609955 0.0194814 0.0312239 
-0.533994 1.52819 -7.53464 -2.79434 -0.378869 -3.4613 0.58321 0.0614021 
--2.49534 -2.08705 -5.24428 -24.612 359.388 
+3.67377 0.111463 0.116397 0.107531 0.0321804 0.0913132 0.038564 0.102677 
+0.387812 16.641 -11.1568 -0.867563 3.65314 -1.28073 -0.0062034 -0.334365 
+2.23469 -1.27184 -3.40149 -320.727 1665.23 
 
 # parameters for class #837
-0.538121 0.0140966 0.00334079 0.00712637 0.0279253 0.00810714 0.00278746 0.00307343 
-0.69659 2.59268 -4.56904 0.196099 0.352095 -0.343852 4.32302 0.493567 
-0.0241439 -0.513915 -9.68879 -43.7073 491.431 
+2.60074 0.0498447 0.00373735 0.0477102 0.00265205 0.0251383 0.00705531 0.0224788 
+0.259792 5.56314 -12.3254 0.931821 -0.170568 0.13142 0.0958768 0.878123 
+-0.709334 -1.02072 -1.80232 -101.31 570.356 
 
 # parameters for class #838
-0.965289 0.0360253 0.00843855 0.0160625 0.0567451 0.0240047 0.00270368 0.0054588 
-1.78927 3.95035 -7.28139 -1.15862 0.772698 -1.19883 8.76073 -0.131935 
-0.0611242 -0.761189 -27.0847 -68.4761 873.955 
+369.451 0.403207 0.0513073 0.197336 0.0326634 0.336856 0.0226301 0.145225 
+3.86815 1.37981 -1483.68 -4.98561 1.26333 -4.68692 2.2351 -0.328651 
+-0.62891 -4.19604 -14.4795 -22.7393 1747.35 
 
 # parameters for class #839
-0.245301 0.050145 0.00157405 0.0404784 0.00410166 0.0432843 0.00413068 0.0238189 
-1.00189 1.4274 -3.7578 -1.16603 0.0747509 -3.77673 0.234399 2.12428 
-0.249706 -3.60992 -12.028 -21.5901 447.799 
+70.0593 0.688472 0.129403 0.281926 0.042006 0.286677 0.0439882 0.117522 
+6.55566 1.5296 -287.526 -5.98684 3.03939 -6.05515 1.82244 1.17402 
+0.0704315 -3.38386 -13.2608 -25.684 543.451 
 
 # parameters for class #840
-0.400598 0.0412765 0.00199477 0.0214737 0.00237372 0.0470679 0.00238002 0.0130456 
-1.15766 1.47268 -4.97095 -2.48712 0.1012 -2.53942 -0.183021 -0.248483 
-0.153806 -1.7268 -14.0155 -22.6497 373.722 
+3.76584 0.17984 0.0063024 0.117169 0.0362294 0.105709 0.00442346 0.0159857 
+0.520115 9.64245 -18.975 0.309084 -0.490338 -1.20095 -4.76149 1.34908 
+0.176323 -0.813703 -6.73395 -179.377 1105.03 
 
 # parameters for class #841
-1.00045 0.026929 0.00264012 0.0503947 0.0173934 0.0742374 0.00409905 0.0422558 
-0.372344 2.52818 -9.55196 -1.95149 0.149426 -6.69366 0.0158511 -1.41738 
-0.241446 -5.04033 -4.6411 -42.3551 681.318 
+2.32265 0.00285335 0.0688107 0.00266266 0.0621905 0.00275469 0.0544083 0.00230432 
+4.12691 19.8664 -7.76565 -0.161356 11.0196 -0.171555 9.92909 -0.132311 
+8.68634 -0.225131 -75.5191 -385.869 3467.25 
 
 # parameters for class #842
-0.518034 0.059558 0.0017577 0.0474637 0.00182505 0.0388506 0.0018901 0.0353817 
-0.622829 1.50292 -5.63506 -2.21258 -0.0508232 -4.57468 0.0318216 0.703512 
-0.0208809 -4.30841 -7.53084 -24.4615 453.79 
+2.2977 0.114456 0.00906115 0.0789568 0.00207969 0.0434279 0.0406336 0.0104186 
+0.569511 4.0396 -13.1732 -6.6237 1.06751 -5.77619 0.102484 -1.67141 
+6.01158 -0.748217 -7.64673 -72.5883 899.879 
 
 # parameters for class #843
-0.261029 0.0231691 0.00159974 0.0112976 0.00109876 0.0175181 0.00165269 0.00630589 
-1.10738 1.48813 -3.62935 -0.73832 -0.118082 -1.26259 -0.0831327 0.785535 
-0.0849418 -1.09992 -14.1438 -23.1902 307.133 
+1.27373 0.0158456 0.0288832 0.0126237 0.016758 0.0132567 0.0161541 0.00440907 
+1.25398 15.2885 -5.53126 -1.17254 -4.20385 -1.05848 -2.40299 -0.844685 
+-2.30405 -0.305533 -20.7917 -293.865 1933.41 
 
 # parameters for class #844
-1.98409 0.0654844 0.0115904 0.0261692 0.0466334 0.0363093 0.00312325 0.00464638 
-1.54791 3.90417 -12.4681 -1.54103 -1.56176 -1.30787 -7.22443 -0.0349211 
--0.298259 -0.562627 -24.2509 -68.4346 840.685 
+2.50206 0.0109449 0.018051 0.0104778 0.014392 0.00983303 0.0135865 0.00373016 
+2.63559 34.7875 -7.34334 0.0933894 -2.66678 0.0350959 -2.09659 0.132076 
+-1.99297 -0.224339 -47.3986 -682.161 3859.45 
 
 # parameters for class #845
-1.42541 0.137518 0.0204419 0.0811772 0.00788338 0.0967363 0.00672399 0.0292686 
-0.340165 4.74238 -7.13325 -2.91544 -1.77345 -2.45954 -0.657293 -1.17319 
--0.555333 -1.04077 -3.87738 -86.9215 570.429 
+2.18604 0.223212 0.0583046 0.182718 0.0153058 0.149067 0.0258685 0.0721087 
+0.519171 4.73309 -8.80129 -2.07069 0.02172 -2.76949 0.750069 -0.506901 
+-1.28163 -1.41908 -4.76278 -87.8132 509.965 
 
 # parameters for class #846
-2.87763 0.0534199 0.0135894 0.0143097 0.339058 0.0322229 0.00146758 0.00267153 
-1.30317 2.9578 -16.4282 -0.855562 1.8172 -0.7945 56.4265 0.266662 
-0.00151862 -0.418079 -21.1441 -52.8082 2829.09 
+4.54993 0.2512 0.0156732 0.195193 0.0193906 0.154209 0.00807973 0.0870656 
+0.840396 5.01744 -14.9063 -3.32658 0.658162 -4.44856 2.04354 -0.569755 
+-0.476227 -2.54179 -8.0404 -90.8974 601.994 
 
 # parameters for class #847
-1.20297 0.0691423 0.00441751 0.0211604 0.0335546 0.043608 0.00310573 0.00725597 
-1.40217 2.69182 -8.44663 -1.63625 -0.328919 -1.22771 -4.99533 0.0175414 
-0.0548789 -0.826194 -19.4704 -44.7645 557.857 
+20.6636 0.290538 0.073193 0.167677 0.053341 0.218524 0.0117578 0.130166 
+4.33283 1.22002 -87.5747 -4.12724 3.95712 -4.94022 4.66828 0.243309 
+0.0433392 -4.9369 -16.6666 -19.9042 473.842 
 
 # parameters for class #848
-1.22854 0.139869 0.00546491 0.0756673 0.00532507 0.0536266 0.00511805 0.0290911 
-0.232202 2.07755 -9.17323 2.07414 0.156928 -0.919915 0.129835 2.19755 
-0.185734 -1.69477 -1.70314 -35.7223 280.721 
+1.83595 0.108751 0.030818 0.0652928 0.0162017 0.0608646 0.00512172 0.0323092 
+0.558753 2.56202 -12.0465 -1.08175 3.08835 -2.06791 1.99928 0.714513 
+0.161454 -1.91515 -4.86288 -42.4514 437.522 
 
 # parameters for class #849
-1.79563 0.241421 0.0158597 0.135802 0.00719336 0.120933 0.00842981 0.0721967 
-0.346344 5.67242 -12.0336 0.0180866 0.592235 -2.0795 0.188338 1.77848 
-0.334669 -2.58509 -2.40261 -100.627 557.457 
+0.668662 0.0872705 0.00351675 0.037145 0.00397321 0.0464888 0.00286555 0.0212543 
+0.203532 1.56464 -5.33369 -1.09793 0.261947 -2.02555 0.343817 1.48621 
+0.0201745 -2.07458 -1.68268 -25.6719 274.948 
 
 # parameters for class #850
-0.541321 0.0277651 0.000995839 0.0120365 0.00257428 0.0153394 0.00222299 0.00543523 
-0.143545 2.05398 -4.1688 0.630412 0.00940775 -0.32332 0.184514 1.13234 
--0.165485 -0.647927 -1.375 -35.101 270.24 
+1.0265 0.169192 0.0107335 0.12371 0.00830294 0.128071 0.00312177 0.0860999 
+0.539998 0.660485 -7.93615 -4.431 0.897813 -7.39177 0.797286 1.08 
+0.0942917 -6.82006 -3.65421 -9.33909 412.773 
 
 # parameters for class #851
-0.558326 0.0330925 0.00147044 0.0158755 0.00262725 0.0102382 0.0112816 0.00370818 
-1.028 4.11386 -4.3416 -0.47131 -0.0360201 -0.646101 0.162381 0.259301 
--1.589 -0.448823 -15.5783 -74.0366 534.921 
+0.916324 0.111511 0.0118305 0.0787973 0.0088897 0.0765692 0.00635815 0.037236 
+0.525888 0.792086 -8.42884 -4.3354 1.24212 -6.08995 1.03572 0.169861 
+0.31188 -3.56485 -5.06623 -11.6843 430.646 
 
 # parameters for class #852
-0.687281 0.0111917 0.00125852 0.00631543 0.000747551 0.00545642 0.000844688 0.00292836 
-0.259412 3.6712 -5.66188 0.66863 -0.0814338 -0.00235527 -0.00643384 0.623819 
--0.0254329 -0.391112 -3.11397 -65.8207 418.786 
+0.761017 0.209915 0.00476663 0.191373 0.0117288 0.132231 0.00824681 0.12886 
+0.991153 2.68962 -7.9578 -9.40587 0.272939 -15.5557 0.804313 -1.04714 
+0.448129 -10.5994 -10.9331 -44.4278 939.265 
 
 # parameters for class #853
-0.654018 0.00546147 0.00595068 0.00591174 0.0037888 0.00518593 0.0349273 0.00297617 
-0.631745 2.95378 -6.1629 -0.0605449 -0.746197 -0.438956 -0.499007 0.473133 
--0.0464775 -0.57555 -9.73258 -51.1384 413.768 
+1.15367 0.101817 0.00237445 0.0534638 0.0172111 0.068454 0.00376037 0.0301384 
+1.37684 6.32021 -11.285 -5.43824 -0.0561748 -4.27681 1.33921 -1.64581 
+-0.305399 -2.1521 -16.032 -109.124 827.495 
 
 # parameters for class #854
-1.84653 0.0141732 0.00937397 0.00645324 0.109337 0.00997704 0.000925668 0.00130084 
-0.931188 10.1928 -10.1147 0.466647 -1.34999 -0.0478585 -18.1864 0.649284 
-0.00326966 -0.213921 -15.6411 -191.959 1861.4 
+0.507029 0.0202474 0.00237894 0.0173989 0.00274483 0.0135415 0.00540533 0.0107581 
+0.175337 0.870812 -4.51828 -0.426982 0.0719143 -1.66042 0.125741 0.850316 
+0.0174331 -1.76718 -1.37089 -13.6999 251.294 
 
 # parameters for class #855
-1000 0.00336857 1000 0.00336857 1000 0.00336857 1000 0.00090066 
-1000 1000 -0 -1.13938 -0 -1.13938 -0 -1.13938 
--0 0.424665 -0 -20018.8 100528 
+0.633846 0.0485058 0.00576284 0.0696164 0.00990223 0.0953382 0.00716058 0.0651564 
+1.7044 3.78746 -7.63754 -3.17842 0.546575 -8.17493 0.667567 -0.687922 
+0.224473 -7.65147 -22.2009 -61.9825 935.247 
 
 # parameters for class #856
-3.71654 0.0159133 3.10425 0.0140079 1.28896 0.0117515 2.71434 0.0161233 
-27.8003 4.80668 -13.1261 0.695412 0.164439 0.284889 0.302498 0.788084 
--0.137139 -0.755578 -3.5308 -86.0027 454.297 
+1.00559 0.056718 0.0153557 0.0574144 0.00702779 0.0335687 0.00477991 0.020173 
+0.735799 2.93624 -10.0041 -4.26296 1.88537 -7.0851 0.877044 -0.640018 
+0.179658 -2.4854 -9.12644 -48.9142 767.207 
 
 # parameters for class #857
-9.88945 0.0407923 0.0109168 0.0429904 0.0404183 0.0315116 0.0081342 0.0503725 
-0.934568 8.57738 -23.0774 -0.35368 0.559055 -0.772776 4.93827 0.0162694 
--0.645633 -1.37959 -11.2485 -161.548 1031.79 
+0.332498 0.0294375 0.0033284 0.0394803 0.00288104 0.0578498 0.00563804 0.0319305 
+0.960402 1.34745 -4.49915 -2.02728 0.278224 -5.94717 0.17994 0.430468 
+0.131832 -5.29023 -11.6928 -20.0972 662.938 
 
 # parameters for class #858
-1.48858 0.0528554 0.00680029 0.035101 0.00758883 0.0329745 0.00239502 0.0215743 
-0.28806 5.36108 -7.52112 0.734272 0.345323 -0.0970971 0.737114 1.00748 
--0.0657443 -0.990734 -2.26499 -95.7355 532.763 
+0.333929 0.0562728 0.00249918 0.0902775 0.0058071 0.0892156 0.00432806 0.0802065 
+0.948664 1.15202 -4.35318 -3.89972 0.136507 -12.0935 0.309295 -0.513256 
+0.128547 -10.7766 -10.2905 -16.9182 992.636 
 
 # parameters for class #859
-1.20103 0.409376 0.0280459 0.207074 0.020253 0.205651 0.00641881 0.1099 
-0.507798 1.41073 -7.6695 -4.00311 2.08816 -6.01629 1.63322 1.95544 
-0.319881 -5.28824 -3.21888 -22.8643 344.826 
+1.60694 0.0287095 0.015361 0.0136506 0.134477 0.0209705 0.000855227 0.00795144 
+1.06029 4.9506 -12.4272 -2.51808 -2.17429 -1.87155 -21.7969 -0.933107 
+-0.00189693 -1.07573 -14.6611 -86.551 1625.35 
 
 # parameters for class #860
-2.05647 0.742643 0.0376296 0.397463 0.0267344 0.311215 0.0692888 0.165261 
-1.46534 1.23472 -11.1523 -13.9625 1.83817 -14.7147 2.08394 -0.169485 
-0.0118098 -7.06159 -6.14391 -19.1379 466.876 
+0.658887 0.0171206 0.00761326 0.00728145 0.141884 0.00934012 0.00190239 0.00297025 
+1.17538 2.02099 -6.28496 -0.502847 -1.00861 -0.804215 -23.4998 0.254488 
+0.0248316 -0.596164 -16.616 -32.7623 1321.08 
 
 # parameters for class #861
-0.525377 0.051074 0.00170315 0.0405068 0.00258046 0.036235 0.00534396 0.0253733 
-0.769963 1.97041 -6.33778 -0.081062 0.0129907 -2.19121 0.0489482 1.87343 
-0.313771 -2.88355 -9.18287 -31.984 366.299 
+220.766 0.14301 0.0353608 0.149222 0.0126929 0.0852166 0.018996 0.097465 
+0.695198 10.9109 -885.862 0.435784 -0.663202 -0.521301 -0.467982 0.816374 
+0.0148189 -1.65115 -2.90295 -205.005 1903.09 
 
 # parameters for class #862
-1.52574 0.179484 0.00590296 0.0844549 0.0274879 0.103658 0.00949746 0.0482949 
-0.396016 1.93516 -8.96167 -2.51875 -0.318903 -2.66474 -3.45275 0.218696 
-0.69695 -2.67678 -3.98458 -33.1863 399.134 
+1000 0.110992 0.077187 0.055221 0.0568383 0.102455 0.0211792 0.0479936 
+5.02037 4.35217 -4000 0.707029 1.34308 -0.229407 -0.00731904 1.73093 
+0.715565 -1.13225 -6.393 -79.7883 4423.04 
 
 # parameters for class #863
-23.0633 0.707404 0.09752 0.347957 0.0168352 0.296686 0.0291112 0.124626 
-1.90837 3.0494 -96.3247 -4.66517 6.74259 -5.8507 0.879218 1.05994 
-2.3626 -3.75244 -10.8963 -53.6752 617.893 
+1000 0.863718 0.0740341 0.567443 0.015321 0.542559 0.0181074 0.350572 
+0.906667 38.2207 -4000 2.6991 1.98164 -0.842064 0.246615 4.19611 
+0.656043 -4.56315 -3.69075 -730.906 7564.76 
 
 # parameters for class #864
-39.9944 0.238314 0.0377282 0.162502 0.00491763 0.155841 0.0233502 0.10828 
-1.76431 2.4277 -163.349 -3.83321 2.75222 -4.41301 0.147605 -0.783016 
-2.29784 -3.51376 -10.155 -41.8119 577.048 
+1000 0.836843 0.434839 0.535701 0.119056 0.50349 0.115031 0.303783 
+1.89628 10.1435 -4000 -8.05382 12.9411 -7.7733 2.32155 -2.38533 
+4.5367 -4.11137 -7.18122 -189.598 5125.73 
 
 # parameters for class #865
-8.30859 0.412409 0.0347402 0.3978 0.014672 0.314794 0.0140217 0.419918 
-0.85208 49.3692 -24.9846 -6.867 1.81583 -7.5748 0.812777 -4.48729 
-0.666161 -4.36543 -9.89822 -962.318 4900.06 
+5.85705 0.0864044 0.037985 0.0815326 0.00871835 0.0682072 0.0164344 0.0769731 
+0.499747 15.5448 -16.8034 1.13799 -0.0679932 0.67198 0.32242 1.23387 
+-0.662153 -1.05296 -4.59969 -301.19 1542.45 
 
 # parameters for class #866
-1000 0.57555 0.0867861 0.338953 0.0308371 0.369789 0.0121559 0.199648 
-2.61115 3.75619 -4000 -13.5962 5.2173 -10.9706 2.16226 -5.50241 
-0.57468 -5.09738 -13.9741 -67.03 4686.68 
+207.597 0.325271 0.0821871 0.254762 0.0379799 0.262976 0.0316829 0.253482 
+0.558528 11.8962 -837.497 -5.50039 -1.15846 -5.79084 0.913766 -2.91517 
+-1.56236 -4.59445 -3.11747 -220.036 2005.95 
 
 # parameters for class #867
-1000 0.532085 0.098361 0.425321 0.032165 0.246582 0.0213632 0.185321 
-1.17131 7.43752 -4000 -12.4802 8.17437 -12.856 2.75319 -4.11388 
-1.68284 -4.83636 -10.0573 -136.496 5152.26 
+140.581 0.225746 0.0403505 0.108738 0.0185133 0.117518 0.0139105 0.0529649 
+5.30517 3.01328 -569.132 -2.22949 0.357337 -3.07248 0.928939 0.999899 
+-0.487343 -2.21583 -10.9277 -49.6094 885.984 
 
 # parameters for class #868
-28.3995 0.347621 0.105169 0.236427 0.0198493 0.276542 0.0335575 0.140812 
-0.847327 8.93191 -114.759 -6.73858 5.47205 -6.03386 0.317223 -3.67547 
-2.61138 -2.86687 -5.86228 -165.706 1144.15 
+2.67366 0.25174 0.123052 0.147279 0.0755799 0.171019 0.131329 0.0688624 
+0.29101 3.03596 -10.9461 -2.63126 -6.31443 -2.70556 -6.65256 -0.438974 
+0.147316 -1.63132 -2.37143 -54.9944 553.727 
 
 # parameters for class #869
-5.12302 0.155561 0.0228797 0.134535 0.00633615 0.113525 0.0159957 0.0842053 
-0.730751 17.5582 -11.5218 -3.19677 1.19302 -3.43506 -0.0365581 -1.76965 
-1.4359 -1.22057 -8.59316 -339.457 1805.62 
+1000 0.483892 0.0869981 0.299532 0.081165 0.31048 0.0287537 0.191167 
+2.85639 8.00713 -4000 -2.54895 0.543962 -3.22143 -0.0901805 0.0682032 
+0.387456 -2.40896 -3.27337 -149.857 4745.49 
 
 # parameters for class #870
-1.50146 0.0914607 0.0171701 0.0598873 0.00599495 0.0690882 0.00943942 0.0207816 
-0.624415 8.27552 -6.85379 -3.45283 -1.9399 -2.7435 -0.626474 -2.06216 
--1.0494 -0.866838 -8.97597 -156.861 1014.09 
+7.80017 0.456448 0.198622 0.379911 0.0694121 0.314934 0.0637543 0.198501 
+0.388109 12.9975 -28.4956 -3.00066 3.33667 -3.92806 -0.120648 -0.891857 
+2.17571 -2.18225 -2.25852 -248.084 1293.72 
 
 # parameters for class #871
-0.874688 0.153545 0.0050862 0.0958077 0.00669019 0.066093 0.00455839 0.0207973 
-0.452682 2.08634 -5.5064 -2.94746 0.0944305 -3.4171 0.717147 -0.154064 
--0.421758 -1.18336 -5.28025 -36.0033 315.395 
+1000 0.817067 0.228497 0.459845 0.0813525 0.465995 0.0458671 0.22599 
+2.25058 3.10787 -4000 -6.29653 6.43819 -6.30943 2.87423 -0.788332 
+0.944531 -3.56809 -7.94939 -56.393 4406.45 
 
 # parameters for class #872
-3.19757 0.106342 0.0116511 0.0717988 0.0673919 0.0656076 0.00479791 0.0274982 
-0.558098 1.59608 -12.9897 -2.77826 0.876761 -3.03044 8.82242 -0.674243 
--0.300926 -1.39074 -5.00595 -27.4673 562.998 
+1.23449 0.0466697 0.0258421 0.0377596 0.0301023 0.0293722 0.00752385 0.017602 
+0.931614 6.62105 -8.88201 0.530783 3.08824 -0.327591 4.25134 0.816143 
+0.586957 -1.16376 -12.0356 -117.658 900.796 
 
 # parameters for class #873
-0.752969 0.0530578 0.003067 0.0259919 0.00751291 0.0364639 0.00390472 0.00796395 
-1.17722 2.41919 -6.57925 -1.863 0.0145625 -1.84018 -0.905513 -0.263953 
-0.161458 -0.859173 -15.7761 -40.5628 387.373 
+1.62334 0.131706 0.00981316 0.0904099 0.0448216 0.0778968 0.00103647 0.0131784 
+0.661702 8.19153 -6.84312 -0.942789 1.03282 -1.73258 6.37021 0.221194 
+0.00892564 -0.626777 -9.41408 -152.998 1068.35 
 
 # parameters for class #874
-0.77209 0.422734 0.0145853 0.269125 0.00711815 0.18835 0.0376665 0.106837 
-0.635591 0.77231 -5.18035 -13.7616 0.31081 -16.7482 0.257202 -0.609037 
-0.0494795 -6.6309 -2.22317 -11.1354 568.593 
+0.587319 0.0408128 0.00196827 0.0168454 0.001768 0.0290988 0.00153009 0.0105656 
+0.296982 1.001 -5.40873 -0.585037 -0.112713 -1.03318 0.0573909 0.97748 
+-0.110204 -1.13442 -3.07096 -16.1168 200.47 
 
 # parameters for class #875
-1.52718 0.0782123 0.0148228 0.0420807 0.0516198 0.0683556 0.0026743 0.021361 
-0.849211 1.42866 -11.6752 -2.82307 1.78013 -2.90174 7.69374 -0.504625 
-0.0327694 -1.87189 -9.45667 -22.1758 635.468 
+0.903357 0.133172 0.00589779 0.0563833 0.0221517 0.1013 0.00261505 0.0314866 
+0.689667 0.884878 -8.24476 -4.24991 -0.537898 -3.71301 -2.99213 -0.112149 
+0.0966006 -2.63316 -7.11048 -13.2452 395.522 
 
 # parameters for class #876
-1.43591 0.0681122 0.00662371 0.0358487 0.0156665 0.0548884 0.0021671 0.0276551 
-0.920315 0.603848 -8.91417 -2.93222 0.469501 -2.81686 1.71334 -0.359637 
--0.0374769 -2.34548 -4.46353 -8.12345 285.524 
+2.38539 0.139305 0.0286433 0.0799853 0.0368583 0.107908 0.00389006 0.0249109 
+0.511336 7.59728 -12.6779 -3.53511 3.01391 -2.99753 4.90962 -1.61802 
+0.198126 -1.23596 -6.56902 -139.053 1030.39 
 
 # parameters for class #877
-0.879698 0.141499 0.00900168 0.152248 0.0132488 0.136937 0.0101102 0.103646 
-0.625713 3.02032 -8.7458 -8.11816 0.440132 -14.0232 0.811631 -2.49779 
-0.275249 -8.30757 -6.52325 -50.4842 926.185 
+0.814997 0.261982 0.00890344 0.173546 0.00832362 0.176822 0.00540936 0.0912466 
+0.561148 0.76474 -7.04361 -8.85829 0.371701 -11.8767 0.464193 0.0348273 
+0.0816509 -6.76703 -3.47442 -10.7096 513.672 
 
 # parameters for class #878
-1.14815 0.124288 0.0135573 0.115677 0.0166747 0.14079 0.010392 0.0970346 
-0.732045 0.933929 -10.9953 -5.95096 1.04757 -10.3997 1.39515 -0.590589 
-0.586591 -9.29616 -6.52354 -13.6302 716.649 
+5.07937 0.132023 0.00525448 0.102238 0.013453 0.0930304 0.00930093 0.0699294 
+0.419152 3.12638 -42.0376 -7.09488 0.0863292 -8.4376 0.659887 -2.05986 
+0.0628233 -4.57715 -3.92036 -53.1442 726.306 
 
 # parameters for class #879
-2.20472 0.0299458 0.00412104 0.0109897 0.0494764 0.0207383 0.00109644 0.002152 
-2.04149 18.9059 -12.678 -2.43911 0.500943 -1.2801 7.92143 -1.23098 
-0.0383617 -0.314068 -34.5925 -357.854 2354.73 
+0.608366 0.0998722 0.0041467 0.0569072 0.00303411 0.0475262 0.00205006 0.0271526 
+0.521525 0.390869 -4.51443 -4.42246 -0.135336 -4.78172 0.0183412 -0.232853 
+-0.0953372 -2.30214 -2.26674 -5.13535 278.196 
 
 # parameters for class #880
-0.344755 0.0154601 0.00210993 0.0122958 0.00240015 0.0085102 0.00226915 0.00947534 
-1.05412 1.65229 -4.28612 -0.873126 0.149319 -1.54378 0.213219 0.142168 
--0.144119 -1.59289 -14.0446 -26.3743 358.504 
+0.826733 0.0986933 0.00312267 0.0336798 0.00659022 0.0374506 0.00409279 0.0175021 
+0.470154 0.914397 -8.0772 -2.88838 0.0920744 -2.62339 0.0512699 0.45953 
+0.0186879 -1.70671 -4.95285 -14.2776 253.281 
 
 # parameters for class #881
-1.08606 0.0276086 0.0183593 0.00987917 0.127527 0.0184238 0.00192583 0.0054943 
-1.77815 5.99266 -9.21916 -2.18623 2.66285 -1.3116 20.7796 -0.623301 
-0.0940517 -0.798662 -26.0654 -105.353 1689.05 
+0.945211 0.0210985 0.00854723 0.0122983 1000 0.0141756 1000 0.00974438 
+0.283653 0.603052 -6.45042 -0.864834 -0.00354642 -0.956964 -0 -0.0676254 
+-0 -0.713932 -1.12221 -9.31993 117.052 
 
 # parameters for class #882
-0.576725 0.0243803 0.00659324 0.0248067 0.00196979 0.0197797 0.00246787 0.0174027 
-1.07071 4.70021 -6.49792 -2.97653 0.763019 -4.86737 0.170921 -0.810651 
-0.120371 -2.97492 -14.2841 -80.2461 950.708 
+0.525556 0.162948 0.00564953 0.117016 0.00387642 0.0989613 0.00533758 0.0668485 
+0.423944 0.524732 -4.37925 -7.13031 0.282379 -9.62382 0.118589 -0.452803 
+0.248392 -5.56833 -2.30643 -7.02162 480.891 
 
 # parameters for class #883
-1.83564 0.00735886 0.00680847 0.00570472 0.000956955 0.00338779 0.106194 0.000803865 
-1.60722 12.8844 -10.388 -1.26468 0.938219 -1.14821 0.0379214 -0.391402 
-17.8149 -0.16655 -27.2302 -244.19 2250.73 
+1.01618 0.173009 0.0170209 0.091242 0.00570604 0.114442 0.00932239 0.0669417 
+0.4624 0.875302 -6.49097 -7.89315 0.693517 -6.61486 -0.0159409 -2.09043 
+0.637916 -4.05768 -2.02291 -13.4537 405.419 
 
 # parameters for class #884
-0.885986 0.00242212 0.00100762 0.00164936 0.00121825 0.00153328 0.0121632 0.00034896 
-0.311527 6.63685 -6.01028 -0.76114 -0.0916391 -0.601609 0.0541991 -0.361099 
--1.92426 -0.0813327 -4.37644 -123.774 884.76 
+3.25318 0.137248 0.00927614 0.0816144 0.00321397 0.107502 0.0150803 0.035791 
+0.478759 4.64726 -12.6779 -6.48672 0.49034 -4.80193 -0.130399 -3.83856 
+1.60819 -1.27706 -4.08744 -83.9505 684.886 
 
 # parameters for class #885
-0.297252 0.00124223 0.00088201 0.000804471 0.000627945 0.000502186 0.285562 0.000297934 
-1.2009 2.76203 -3.82053 -0.329493 -0.089794 -0.35137 0.023267 -0.00175295 
--49.2898 -0.176441 -18.523 -47.386 2566.3 
+2.43393 0.0403605 0.00381949 0.0262035 0.00401216 0.0302304 0.0110035 0.0197643 
+0.501454 2.12924 -11.3602 -2.91286 0.143042 -2.4331 -0.295138 -1.57096 
+1.18286 -1.10255 -3.45609 -36.0263 402.272 
 
 # parameters for class #886
-0.240755 0.00189058 0.00172711 0.00102332 0.000591641 0.00233967 0.000735636 0.00101732 
-1.01333 2.03964 -3.71122 -0.152703 -0.153303 -0.311831 -0.00646972 0.293309 
-0.00946099 -0.45946 -13.5515 -32.1005 343.459 
+0.768861 0.0492092 0.00924988 0.0223591 0.00232148 0.0366308 0.00378218 0.00988146 
+0.628481 2.94984 -6.92303 -3.0056 -1.12246 -2.11789 -0.230017 -1.00601 
+-0.420835 -0.958697 -7.93155 -50.2997 481.781 
 
 # parameters for class #887
-0.220447 0.00724556 0.00110228 0.00537055 0.00197075 0.00603293 0.00116343 0.0045083 
-0.432716 0.889798 -2.98273 -0.831176 0.0171722 -1.37321 0.0650428 0.182467 
-0.0418423 -1.3359 -4.40414 -12.9795 342.876 
+1.44923 0.0555743 0.0430537 0.0430281 0.0183028 0.0377619 0.00994434 0.0113809 
+1.30593 6.15343 -7.03717 -1.66358 -5.82751 -1.71692 -2.44478 -0.750409 
+-1.2729 -0.631851 -20.0024 -114.773 1023.43 
 
 # parameters for class #888
-0.162312 0.00641466 0.000541356 0.00632692 0.00148858 0.00858447 0.00137206 0.00543947 
-0.680361 1.62344 -2.60185 -0.391203 0.00994729 -1.40626 0.0481305 0.768347 
-0.066558 -1.75514 -9.12188 -25.6874 447.54 
+8.63835 0.2062 0.0503354 0.174463 0.033419 0.168158 0.018097 0.18678 
+0.777133 21.92 -20.5822 0.852723 2.5292 -0.0945242 2.8947 1.48224 
+-0.0287554 -2.47634 -8.94129 -422.027 2206.71 
 
 # parameters for class #889
-0.275533 0.0062966 0.00509176 0.00581891 0.00279879 0.0054773 0.00299862 0.00466119 
-0.705099 1.64936 -3.82735 -0.685347 0.55144 -1.45988 0.211466 0.157652 
-0.249477 -1.39023 -8.41324 -25.956 436.905 
+3.50088 0.670953 0.0798524 0.390636 0.0322204 0.30533 0.174385 0.183728 
+2.88722 0.88667 -17.7209 -9.60161 2.5286 -11.9987 1.71333 0.646341 
+0.164702 -6.72541 -8.41487 -13.9412 342.681 
 
 # parameters for class #890
-2.0775 0.00145151 0.00713466 0.00121998 0.00072751 0.000739259 0.138394 0.000250927 
-1.95587 20.0212 -12.1246 -0.42049 1.0391 -0.408538 0.0211963 -0.140905 
-23.7867 -0.082552 -34.1318 -383.125 3194.57 
+2.03935 0.822746 0.0316684 0.363619 0.0124592 0.351182 0.0155436 0.165726 
+0.949272 2.0794 -12.7009 -17.8633 0.524598 -13.8367 0.250097 -1.86223 
+0.100283 -5.99632 -3.65386 -34.3803 487.329 
 
 # parameters for class #891
-0.468734 0.0100263 0.00390548 0.00540359 0.00211171 0.00300554 0.0713431 0.00120689 
-1.04574 3.40213 -4.82887 -1.51274 0.457335 -1.18423 0.109281 -0.126973 
-11.7521 -0.323421 -14.8354 -57.8704 1009.43 
+4.50756 0.50705 0.0437778 0.23601 0.0518945 0.262658 0.0120429 0.0741444 
+0.37458 5.25214 -23.1766 -5.32425 -2.30326 -4.63804 -5.63247 -0.404389 
+0.51191 -2.4751 -3.82559 -94.7057 745.397 
 
 # parameters for class #892
-0.244527 0.000169392 0.00027546 0.000172427 0.00038757 8.09244e-05 0.000307274 4.42365e-05 
-0.299395 3.37273 -2.13846 -0.108896 0.00147687 -0.145987 0.00525666 -0.0350404 
-0.00249425 -0.0244497 -4.66462 -62.829 451.76 
+4.61215 0.215376 0.0323241 0.101817 0.181286 0.110978 0.00403933 0.0464651 
+0.528453 1.80652 -26.8885 -2.41813 -3.77615 -2.84364 -26.6867 0.588647 
+0.0861152 -2.66573 -6.19512 -31.3171 1388.23 
 
 # parameters for class #893
-0.430702 0.00104719 0.000713359 0.000561478 0.000845463 0.000747007 0.00116759 0.000341697 
-0.411095 3.63919 -4.68984 -0.431451 0.0318552 -0.327793 0.0389419 -0.176861 
-0.0364677 -0.127828 -4.81188 -62.9192 484.02 
+1000 0.867733 0.196015 0.580301 0.0944182 0.603619 0.0295007 0.40668 
+1.46884 9.2686 -4000 -9.27643 12.8381 -9.13886 7.38681 -3.39978 
+1.47364 -7.7764 -11.8244 -173.03 5325.63 
 
 # parameters for class #894
-0.506162 0.00459525 0.00428443 0.00301569 0.00123482 0.00116764 0.231211 0.000632275 
-1.20256 4.53964 -4.8998 -1.01039 0.532411 -0.904992 0.05148 -0.0780792 
-39.4683 -0.229723 -18.1699 -80.2398 2338.36 
+4.97187 0.296627 0.0469393 0.230714 0.0196366 0.260705 0.0148446 0.165577 
+0.754219 24.9266 -15.0845 -4.88761 1.34994 -4.63288 1.04859 -3.34822 
+-0.00905675 -1.93376 -7.67127 -480.943 2465.18 
 
 # parameters for class #895
-1000 0.235591 1000 0.235591 1000 0.235591 1000 0.00317208 
-1000 1000 -0 -33.1532 -0 -33.1532 -0 -33.1532 
--0 0.626517 -0 -20013.6 103653 
+5.14071 0.405571 0.0552828 0.245014 0.0145527 0.213335 0.0405382 0.161842 
+0.554191 1.68079 -24.0303 -5.02913 -2.40221 -5.17514 0.206071 -0.795097 
+-3.40886 -4.02653 -3.30115 -29.0683 358.688 
 
 # parameters for class #896
-2.95594 0.00292546 1000 0.00285992 1000 0.00288508 1000 0.0398411 
-0.0700995 109.426 -5.25494 0.609409 -0.105415 0.580352 0.146195 0.61661 
--0.0338178 -0.441823 -0.534143 -2173.09 10902.9 
+2.50422 0.259467 0.0307049 0.183469 0.0148214 0.138988 0.0075115 0.0711432 
+0.744591 2.91565 -13.2395 -5.0896 -1.93663 -5.97276 -1.15499 -0.979705 
+-0.298892 -2.46804 -4.54048 -49.3464 422.859 
 
 # parameters for class #897
-2.41956 0.156198 0.00746891 0.128261 0.00186255 0.11011 0.002692 0.0624731 
-0.323418 35.3021 -7.48216 5.76875 0.25192 4.1284 0.0256789 4.58295 
-0.121405 -0.89935 -3.13003 -688.031 3547.8 
+7.23265 0.332296 0.0251758 0.318717 0.0143332 0.281602 0.0102866 0.455062 
+0.720356 56.1259 -21.7593 -1.57265 1.33954 -2.24391 0.759941 -0.682829 
+0.53241 -4.69013 -8.33899 -1094.39 5457.92 
 
 # parameters for class #898
-1000 0.0432446 0.00288211 0.0287218 0.0020803 0.0287758 0.00173456 0.0188793 
-1.56825 16.5679 -4000 2.52222 0.0540551 1.23122 0.0370806 2.12313 
-0.0315384 -0.684917 -4.01475 -312.314 5611.1 
+1000 1.10864 0.246194 0.62867 0.0755868 0.881323 0.0505298 0.428898 
+1.90178 15.6291 -4000 -15.6432 11.7773 -11.6736 4.13259 -8.5062 
+2.03302 -6.53048 -12.5814 -293.866 5791.08 
 
 # parameters for class #899
-1.18542 0.0375869 0.00885319 0.0245323 0.00881189 0.0281633 0.00178164 0.018541 
-0.506708 13.2666 -6.53316 3.45552 0.679029 1.83758 0.816707 3.0812 
-0.0818947 -0.857998 -3.78429 -244.137 1426.8 
+18.2727 2.38702 0.114494 1.45685 0.0275891 1.84584 0.046762 0.77396 
+1.45404 49.0219 -69.1188 -35.0723 6.24182 -24.9205 1.43496 -22.6687 
+2.62391 -9.14228 -14.728 -946.66 5163.84 
 
 # parameters for class #900
-1.15801 0.00447342 0.00489543 0.00252706 0.0836624 0.00320452 0.000902617 0.000354905 
-1.79621 8.57845 -6.59835 0.419338 0.674933 0.0753348 14.1026 0.414734 
-0.0149759 -0.0862321 -31.1393 -161.439 1605.95 
+1000 0.408373 0.0976284 0.324209 0.0288829 0.27155 0.0287689 0.245605 
+1.34709 9.71049 -4000 -9.04457 8.08537 -9.18977 2.40348 -4.33131 
+2.32849 -6.11597 -11.975 -179.45 5313.79 
 
 # parameters for class #901
-0.823539 0.0131705 0.022076 0.00700257 0.117451 0.00911537 0.00313761 0.00342848 
-1.32313 6.02697 -6.79278 0.550426 3.13052 -0.0381171 19.0841 0.692726 
-0.223816 -0.483934 -19.7626 -107.04 1537.18 
+4.06503 0.177356 0.047934 0.142196 0.0244044 0.151576 0.00724978 0.0893274 
+0.578496 20.8097 -14.9824 -7.11568 3.37806 -6.43901 2.13561 -5.29291 
+0.330013 -1.83321 -6.22322 -399.276 2289.79 
 
 # parameters for class #902
-1.20875 0.0479509 0.0028077 0.0314252 0.00486014 0.0383926 0.0051875 0.025343 
-0.854796 5.46394 -11.1723 1.18813 0.165549 -0.48753 0.252485 2.24618 
-0.325388 -2.12127 -11.0063 -97.2836 638.13 
+6.47179 0.444364 0.0390818 0.176362 0.00845251 0.20064 0.0185519 0.0754424 
+0.36006 3.05431 -28.9037 -9.8863 -1.85796 -5.84532 0.0274935 -2.25948 
+-1.5609 -2.34309 -2.07643 -53.2625 485.538 
 
 # parameters for class #903
-2.62994 0.0512091 0.0384497 0.0249163 0.38495 0.0310616 0.00409206 0.00753032 
-2.32381 5.84374 -16.0684 -1.48778 5.68727 -1.49064 63.6659 -0.149669 
-0.203361 -0.913109 -38.582 -106.367 3614.42 
+8.8102 0.825813 0.0649793 0.494908 0.022149 0.400059 0.0192902 0.236139 
+7.31876 0.878012 -39.6496 -17.1497 2.61426 -18.8349 1.02843 -1.37184 
+0.54796 -9.23425 -15.9929 -13.3058 533.662 
 
 # parameters for class #904
-0.722461 0.083104 0.00490383 0.0351907 0.00241804 0.0438975 0.00486735 0.0167983 
-0.399137 3.14169 -6.47961 -2.91575 0.259983 -2.36691 -0.0876834 -0.254805 
-0.43861 -1.30102 -4.13101 -53.1607 403.35 
+2.75973 0.563949 0.086525 0.330514 0.016776 0.290053 0.0280717 0.149899 
+1.46545 6.61823 -13.8967 -13.7934 6.5194 -11.8598 1.01276 -3.84965 
+2.29213 -4.92261 -9.32492 -116.75 1006.03 
 
 # parameters for class #905
-0.389772 0.0016575 0.00916576 0.00104734 1000 0.00170821 1000 0.00138161 
-0.0991892 1.09355 -2.68088 -0.0163557 -0.0454472 -0.0835569 0.000317564 0.118651 
--0.00410168 -0.207868 -0.906046 -18.5001 135.204 
+1.71276 0.722656 0.0178226 0.527373 0.0153287 0.349965 0.00860866 0.25072 
+0.569418 2.46205 -13.0378 -24.1253 1.05429 -28.5833 0.972473 -3.90195 
+0.305244 -12.5063 -3.93882 -40.3691 1020.17 
 
 # parameters for class #906
-0.522602 0.0470866 0.00351233 0.0376056 0.00354312 0.0215315 0.00621519 0.0165211 
-0.445997 0.61946 -4.86155 -0.934359 0.162544 -2.90352 0.0864231 0.879849 
-0.404865 -2.06627 -2.84893 -8.86651 241.826 
+21.0488 0.223979 0.0319601 0.13936 0.0157863 0.138255 0.0109917 0.0900382 
+5.88148 2.73125 -89.5815 -8.67118 0.982115 -8.00039 0.873534 -2.75979 
+-0.00904177 -3.7759 -12.2192 -45.6892 596.983 
 
 # parameters for class #907
-1.01352 0.0340144 0.00309217 0.0193245 0.00132641 0.0148668 0.00550389 0.00562954 
-0.157836 0.807151 -6.27236 -2.80526 0.220653 -2.23527 -0.0424254 -0.73384 
-0.625413 -0.535684 -1.52197 -13.2185 288.56 
+1.6103 0.513367 0.0227854 0.278542 0.0314363 0.332924 0.0045371 0.188636 
+0.527526 6.23703 -10.7264 -17.6077 1.53458 -13.6028 2.62138 -6.20049 
+0.123232 -7.45396 -4.00979 -109.258 1038.91 
 
 # parameters for class #908
-0.59694 0.0733283 0.00201404 0.0278656 0.00155504 0.0488732 0.00562561 0.0157282 
-0.670131 1.2856 -6.57285 -1.81134 -0.0524211 -1.96233 -0.100336 0.91868 
-0.419563 -1.61223 -6.94201 -20.3395 267.93 
+3.24649 0.191863 0.0936435 0.129363 0.0490474 0.0840897 0.014953 0.0599704 
+1.11697 4.3155 -15.3228 -10.2977 6.70111 -9.03741 4.2456 -3.1333 
+0.680806 -2.54033 -5.4646 -76.7246 971.595 
 
 # parameters for class #909
-1.11845 0.0740058 0.00961363 0.0364375 0.0848251 0.0491687 0.0049755 0.0148805 
-1.55766 5.3356 -9.19128 -3.39769 -1.09936 -2.90589 -13.0562 -0.820517 
-0.333203 -1.45938 -21.4327 -92.3606 1209.56 
+2.10369 0.210914 0.00944188 0.124957 0.00665976 0.0998334 0.00559477 0.0616284 
+0.702958 6.33445 -18.0958 -12.8476 0.672466 -10.6132 0.449874 -3.4637 
+0.304006 -3.68676 -7.28628 -112.369 1125.75 
 
 # parameters for class #910
-1.50188 0.164027 0.00614951 0.0828071 0.0548508 0.0913823 0.00918505 0.0308105 
-0.729484 5.84565 -9.31942 -4.87166 -0.516948 -4.0545 -7.82159 -1.14114 
-0.708621 -2.00773 -9.21019 -103.5 966.479 
+1.92476 0.0747439 0.0135152 0.0456616 0.00677637 0.0369682 0.0036525 0.0224107 
+0.613312 13.7936 -14.5531 -7.28644 1.16262 -5.39966 0.575031 -2.76911 
+0.235771 -1.25691 -5.77801 -250.725 1671.44 
 
 # parameters for class #911
-2.28486 0.172001 0.0159701 0.141376 0.00400159 0.107747 0.0182741 0.0569702 
-0.267506 5.05947 -8.8116 -0.158126 -0.73063 -1.15752 0.0791791 0.682928 
--1.65259 -1.32835 -2.33125 -94.2136 549.23 
+0.483564 0.0665807 0.00381318 0.0466466 0.00809064 0.0396668 0.00413163 0.0386638 
+1.724 4.06524 -5.42338 -3.28336 0.0192839 -4.5582 0.481202 -0.0228317 
+0.167917 -4.15309 -23.0073 -69.1069 703.197 
 
 # parameters for class #912
-1000 0.100046 0.0456634 0.0733971 0.0083623 0.0745215 0.00927986 0.0681278 
-2.75191 1.69574 -4000 -1.28439 -1.62215 -1.73451 -0.27483 -0.152334 
--0.335413 -1.75891 -7.28425 -29.1807 4208.53 
+0.997691 0.10354 0.014312 0.0504106 0.00461385 0.041909 0.00614385 0.0208701 
+0.323536 3.4699 -6.43609 -10.2985 0.780667 -6.27176 0.185578 -3.10266 
+0.358773 -1.20503 -1.78042 -61.1653 871.381 
 
 # parameters for class #913
-2.2809 0.384997 0.0603492 0.207342 0.0320718 0.191536 0.0332223 0.0995028 
-1.09591 3.05777 -13.3441 -4.08375 0.512513 -5.0378 0.596656 0.55771 
-0.00812239 -2.94013 -3.68333 -52.1675 345.018 
+2.33248 0.0249295 0.0237412 0.0152664 0.00534459 0.022996 0.0054164 0.0106326 
+0.353244 4.96745 -11.6402 -3.05011 2.81622 -2.13575 0.604435 -2.3985 
+0.612399 -0.66847 -3.5588 -91.069 847.188 
 
 # parameters for class #914
-4.28913 0.384993 0.0318107 0.196716 0.0646885 0.176818 0.00672404 0.0474993 
-0.342023 4.06885 -21.687 -2.39469 -2.46663 -3.25586 -7.888 0.674128 
-0.143451 -1.75512 -3.59209 -73.6179 728.074 
+1.48776 0.00140117 0.00442362 0.000828371 0.000616884 0.000829285 0.000699951 0.000348187 
+0.90964 16.5522 -9.05616 -0.454686 0.574693 -0.326184 0.0560091 -0.211564 
+0.064848 -0.0874757 -14.9593 -316.291 1759.76 
 
 # parameters for class #915
-1000 0.83971 0.210897 0.636762 0.054122 0.599818 0.0608729 0.517677 
-1.21387 42.8868 -4000 -3.60909 5.66423 -4.89036 1.56834 -0.549425 
-1.49143 -5.34845 -5.82275 -819.254 8021.8 
+7.15057 0.00516906 0.00234834 0.00449033 0.00143746 0.00468956 0.00138853 0.00839764 
+0.265324 16.8088 -27.4186 -1.47101 0.0902839 -1.35651 0.0473183 -1.2524 
+0.0532171 -0.358097 -1.14792 -322.468 1925.33 
 
 # parameters for class #916
-1000 0.369846 0.0515853 0.218097 0.022807 0.258508 0.0231085 0.151694 
-1.05169 3.57133 -4000 -6.5748 0.361737 -5.57874 1.06874 -2.57865 
--0.801802 -3.31305 -4.8612 -63.6946 4425.56 
+0.181877 0.000188013 0.0596861 8.02779e-05 1000 6.31236e-05 1000 2.86645e-05 
+0.0733491 0.112215 -0.949302 -0.0503416 -0.0100387 -0.0356578 -0.0015665 -0.00593974 
+0.00166343 -0.0100808 -0.730642 -1.82058 70.824 
 
 # parameters for class #917
-1.46323 0.0297229 0.000979423 0.0156167 0.0247153 0.0174949 0.00351392 0.00271239 
-2.53258 5.20408 -9.72238 -0.57272 0.00724779 -0.789614 3.72399 0.0407027 
--0.410916 -0.378751 -41.7421 -93.1761 832.836 
+0.362709 0.00805609 0.00438262 0.00328075 0.0650986 0.00767348 0.00314014 0.00167058 
+1.13108 2.20173 -4.53068 -0.673302 -0.555335 -0.678963 -10.7285 0.0649867 
+0.26929 -0.473359 -15.9893 -35.9694 820.034 
 
 # parameters for class #918
-0.713263 0.0425618 0.00308176 0.0222721 0.00218669 0.0276537 0.00240738 0.0148705 
-0.238974 1.01718 -5.0275 -0.0685565 -0.0814842 -0.922534 0.0536849 1.07558 
--0.143552 -1.32788 -1.37181 -16.2337 181.115 
+0.286432 0.00978976 0.00352234 0.00546063 0.0163891 0.00843227 0.00307639 0.00300179 
+1.11745 1.95593 -4.18361 -0.260613 -0.434051 -0.734827 -2.54256 0.553565 
+0.226108 -0.747079 -16.1235 -31.5396 453.556 
 
 # parameters for class #919
-1.97604 0.0498653 0.0238597 0.0360596 0.00965195 0.0320902 0.0229652 0.0258111 
-1.70351 2.59299 -10.2267 0.414313 0.553325 -0.692697 0.375809 1.1452 
--0.0114989 -1.50212 -3.42133 -43.2874 280.516 
+9.00966 0.153863 0.0254345 0.13399 0.0434768 0.133341 0.0043043 0.183075 
+0.904876 35.2712 -18.8887 -2.60778 1.38118 -2.82723 3.96047 -1.7067 
+0.00265317 -2.28492 -11.7074 -687.225 3575.31 
 
 # parameters for class #920
-3.85454 0.435297 0.0105775 0.183835 0.0176205 0.33886 0.00729826 0.12486 
-0.685141 3.98357 -29.8678 -6.79511 0.474409 -6.90956 0.967731 1.99752 
-0.146012 -6.09718 -4.71828 -65.909 561.982 
+3.8869 0.295495 0.0308324 0.23184 0.0257503 0.220722 0.00749121 0.153498 
+0.775765 3.10875 -28.4277 -5.13333 2.42815 -7.97906 2.39748 0.3552 
+0.198352 -6.96294 -6.51793 -51.4662 587.893 
 
 # parameters for class #921
-1.84854 0.650404 0.0364921 0.314293 0.0150538 0.228609 0.0108904 0.123034 
-0.487672 1.02428 -12.1372 -7.74527 1.29224 -8.27652 0.437372 0.508518 
-0.339568 -4.03085 -2.62498 -16.9736 257.524 
+1.50939 0.970635 0.028095 0.513658 0.0193199 0.576241 0.0104298 0.279969 
+0.676983 2.66001 -9.81874 -27.2372 1.27781 -23.1732 1.14322 -6.18666 
+0.176987 -11.1923 -3.61824 -44.3506 850.741 
 
 # parameters for class #922
-2.23009 0.300441 0.0184367 0.173169 0.0175728 0.188146 0.00503261 0.0893004 
-0.86239 1.38072 -12.6242 -5.09219 -0.763392 -5.54489 -1.58263 -0.371152 
-0.155503 -3.41338 -4.93127 -22.26 295.908 
+1.85148 0.184364 0.00626505 0.091909 0.0238631 0.110852 0.00683054 0.0552245 
+0.378691 4.01772 -10.652 -7.51684 -0.287019 -5.36333 -2.77921 -2.63663 
+0.47363 -2.81667 -3.20376 -70.4386 670.014 
 
 # parameters for class #923
-4.81496 0.0407359 0.0287494 0.0301675 0.0860705 0.0345253 0.00894275 0.0303684 
-0.478594 7.40089 -26.7275 0.161654 -3.37099 -0.352288 -12.5615 0.681371 
-0.117687 -1.73449 -5.83546 -135.621 1302.85 
+66.2173 0.0032751 1000 0.00320045 1000 0.00330069 1000 0.0973551 
+5.87387 64.2937 -75.0689 -0.130506 -0 -0.139668 -90000 -0.119008 
+90000 -0.985119 -90.4072 -1271.59 4.05667e+06 
 
 # parameters for class #924
-1000 0.495953 0.0720569 0.236247 0.0181676 0.335702 0.0166425 0.138282 
-3.11214 11.4613 -4000 2.44009 0.900848 -0.4797 0.240652 3.98495 
-0.189669 -2.20124 -5.12403 -215.081 5062.99 
+1000 0.493156 0.117674 0.344148 0.036447 0.389443 0.0189723 0.292823 
+2.70104 8.14904 -4000 -13.6592 7.0197 -12.1707 2.48979 -7.80078 
+0.927987 -6.83818 -15.5512 -148.446 5159.89 
 
 # parameters for class #925
-1000 1.07926 0.202092 0.455894 0.0390866 0.582626 0.0623723 0.220437 
-1.74696 5.17051 -4000 -3.57789 7.40364 -4.19604 1.27064 1.49953 
-2.51549 -3.62354 -7.52498 -95.3788 4599.58 
+1.68791 0.0824101 0.00789038 0.0523449 0.00507942 0.0530639 0.0744728 0.0067013 
+1.31763 10.4213 -8.36701 -2.20195 -0.905413 -2.12246 0.293548 -0.597094 
+-11.3965 -0.45807 -20.6962 -195.42 1561.06 
 
 # parameters for class #926
-3.67869 0.0761374 0.115779 0.0757881 0.0335849 0.0641164 0.0349445 0.0934082 
-0.406031 20.2391 -10.5811 -0.558714 3.42953 -0.852748 -0.0359461 -0.220745 
-1.9438 -1.0947 -3.77213 -391.554 2003.56 
+1.1021 0.11731 0.00351325 0.0783291 0.0116656 0.0673575 0.00490016 0.0397004 
+0.994434 2.18425 -10.8469 -3.98528 -0.173456 -4.79648 0.798734 -0.444831 
+-0.428676 -2.66431 -10.7441 -35.3996 420.577 
 
 # parameters for class #927
-4.20554 0.0533161 0.0047992 0.0447624 0.00262352 0.025676 0.00406212 0.0206384 
-0.282853 5.51355 -18.7201 1.10884 -0.182579 0.159315 0.0631545 0.980848 
--0.331477 -0.919039 -1.42558 -100.054 557.801 
+1.23717 0.505367 0.0153508 0.187818 0.0122585 0.215256 0.0104288 0.0927987 
+1.14757 0.823925 -7.56531 -15.0877 0.302419 -9.93198 0.781353 -1.54324 
+-0.344193 -4.87078 -4.7296 -12.1845 426.491 
 
 # parameters for class #928
-10.9208 0.273649 0.0253343 0.188949 0.0129826 0.177175 0.0129256 0.112754 
-0.639943 4.67778 -46.5659 -1.31819 0.328894 -2.67545 0.836461 0.806028 
--0.592133 -3.08497 -3.8633 -83.241 514.322 
+0.457984 0.118342 0.00317579 0.0948331 0.00482613 0.0727782 0.00721976 0.0466949 
+0.559881 1.48757 -5.28686 -1.32626 0.158064 -5.32554 0.215967 2.45424 
+0.456367 -4.57091 -6.06456 -23.7712 394.807 
 
 # parameters for class #929
-28.5544 0.428124 0.134741 0.212845 0.0458524 0.165104 0.0536882 0.0819162 
-6.59584 1.40472 -119.859 -4.02023 3.44819 -5.14369 2.1758 0.890771 
-0.0383008 -2.70145 -13.2934 -23.0873 366.719 
+1.89562 0.0570967 0.0469718 0.0285276 0.388637 0.045058 0.00230483 0.00701597 
+2.0282 3.75845 -13.0536 -2.07637 6.97764 -2.02364 64.0161 -0.334971 
+0.119069 -0.835216 -31.2225 -65.5595 3445.88 
 
 # parameters for class #930
-2.19293 0.163469 0.00520948 0.0694889 0.0163019 0.0855471 0.00415646 0.0206757 
-0.2855 4.09444 -11.0862 0.715766 -0.312321 -0.644933 -1.93175 1.46489 
-0.172691 -0.962556 -2.99153 -74.6285 488.473 
+0.989257 0.0500484 0.00869449 0.0173032 0.0321758 0.029462 0.00350745 0.00376917 
+1.7024 5.41355 -7.24148 -1.73074 0.801045 -1.21944 4.77797 -0.324107 
+0.121473 -0.484642 -26.4999 -96.4136 841.609 
 
 # parameters for class #931
-7.56743 0.0435677 0.00456414 0.0423911 0.00300482 0.0413541 0.00171267 0.195061 
-0.438009 104.634 -15.8176 0.781246 -0.0853021 0.629606 -0.0961952 0.868651 
--0.00232585 -1.68885 -5.12688 -2069.61 10313.6 
+0.608244 0.088414 0.00537887 0.072995 0.00614526 0.0570177 0.00532964 0.054495 
+0.261757 0.726368 -5.29752 -3.38572 0.274205 -6.92757 0.43403 1.05327 
+0.037697 -6.55991 -1.7989 -10.8757 512.522 
 
 # parameters for class #932
-2.63415 0.00259777 0.0687025 0.00249835 0.0605494 0.00253131 0.0562468 0.00333507 
-3.75939 19.2943 -8.56488 -0.125524 10.8947 -0.137795 9.57728 -0.104253 
-8.89406 -0.29126 -68.4767 -374.94 3358.49 
+0.582118 0.0584867 0.00629251 0.0430835 0.00415724 0.0538495 0.00638835 0.0389345 
+0.346142 0.591497 -6.04853 -2.58658 0.628847 -4.40543 0.407768 0.737732 
+0.295717 -5.02632 -3.32156 -8.49682 437.551 
 
 # parameters for class #933
-3.91282 0.0592904 0.0119693 0.0463583 0.0022437 0.0322016 0.0531403 0.007687 
-0.729023 6.0924 -21.2267 -3.53178 1.42376 -3.42703 0.0809339 -1.30324 
-8.02942 -0.576291 -10.5289 -111.645 1107.76 
+0.768901 0.020535 0.00302839 0.0114068 0.00182209 0.00766168 0.00158002 0.00304113 
+1.84436 7.0357 -5.90573 -1.33471 0.192414 -1.22364 0.167021 -0.186206 
+0.0773049 -0.459186 -29.669 -128.32 850.201 
 
 # parameters for class #934
-1.29383 0.0260653 0.0311892 0.0174232 0.0118016 0.0205315 0.0233515 0.00421466 
-1.29217 11.0909 -5.9546 -1.63751 -4.57951 -1.28749 -1.67653 -1.05153 
--3.40768 -0.322658 -21.3028 -211.069 1564.14 
+0.487026 0.0511056 0.00288404 0.043732 0.00362085 0.0441493 0.00274949 0.0365643 
+0.39821 1.02677 -5.1531 -4.21324 0.0354024 -6.81395 0.201989 -0.502419 
+-0.0132224 -5.5186 -3.65145 -15.3006 693.753 
 
 # parameters for class #935
-2.67929 0.0128765 0.0142683 0.0122548 0.0120707 0.0118016 0.0116692 0.00375131 
-2.90406 34.154 -7.53385 0.0761659 -2.08208 0.0155691 -1.73869 0.123915 
--1.69058 -0.215509 -52.3072 -669.971 3774.44 
+0.345215 0.0312765 0.0026787 0.0301765 0.00256125 0.0322858 0.00188142 0.0209601 
+0.723077 0.892658 -4.47139 -2.47798 -0.204436 -4.689 0.127541 -0.11931 
+-0.150478 -3.42985 -8.01066 -12.6039 513.618 
 
 # parameters for class #936
-6.95065 0.114933 0.00712909 0.0508695 0.00471588 0.0724267 0.00676472 0.0298989 
-2.18696 2.3248 -31.0896 -0.185768 -0.0867405 -1.16369 0.214086 1.42032 
--0.441459 -1.48695 -6.39524 -38.9718 286.23 
+0.276364 0.0198837 0.000974023 0.0174164 0.00300007 0.0238401 0.0018782 0.0145588 
+1.30726 1.65634 -4.08079 -1.52078 -0.013519 -3.09177 0.132537 0.33417 
+-0.00127774 -2.88161 -15.3091 -23.9427 511.819 
 
 # parameters for class #937
-5.17363 0.125582 0.0340923 0.0943213 0.0209873 0.0657329 0.0146467 0.0483341 
-3.13735 0.711206 -23.5851 -2.85262 1.05416 -4.28764 1.75862 0.000374648 
--0.608235 -2.60317 -10.1579 -10.5718 263.255 
+0.512707 0.0113601 0.00126306 0.00888441 0.00243141 0.010196 0.00253966 0.00850181 
+0.25363 0.880014 -5.35537 -0.590862 0.0440223 -1.38198 0.113617 0.595932 
+0.0274341 -1.88189 -2.34722 -13.575 305.595 
 
 # parameters for class #938
-28.0601 0.167651 0.0533183 0.0949219 0.0311825 0.0953336 0.045559 0.0536526 
-4.47202 1.16407 -115.613 -0.553554 2.37449 -1.95044 2.38802 1.33175 
-0.0420854 -2.16392 -13.0989 -19.4857 351.634 
+0.460382 0.00751317 0.0061534 0.00966292 0.00254447 0.0210346 0.00428191 0.0101465 
+1.75985 2.80583 -5.719 -0.721262 0.719454 -1.93461 0.139721 0.125733 
+0.146766 -2.18577 -25.7501 -45.921 608.152 
 
 # parameters for class #939
-2.0075 0.153367 0.0293282 0.0931876 0.0240773 0.0753178 0.00339338 0.0368597 
-0.694881 1.96485 -11.7233 -2.13696 2.87647 -3.25571 3.02388 0.490159 
-0.0693662 -2.08763 -5.32731 -32.3014 432.592 
+0.443698 0.0148405 0.0043658 0.00735575 0.00445138 0.00893269 0.000932936 0.00462727 
+0.53403 1.08119 -4.87018 -1.41973 0.497104 -1.38947 0.607513 -0.0985961 
+0.000511464 -1.00299 -6.36856 -16.487 341.059 
 
 # parameters for class #940
-0.797976 0.115256 0.00448815 0.0555043 0.00372808 0.0629739 0.00271035 0.0284899 
-0.236217 1.31396 -6.23504 -1.4437 0.329191 -2.74909 0.320713 1.60466 
-0.0378177 -2.47836 -1.91006 -21.362 266.671 
+0.27901 0.0180929 0.00286539 0.0242703 0.00432291 0.0235172 0.00609543 0.0235082 
+0.50207 1.40412 -3.68612 -2.1143 0.214621 -5.21729 0.245246 -0.42426 
+0.377256 -4.83842 -5.48721 -21.8104 769.858 
 
 # parameters for class #941
-0.720959 0.128463 0.0141406 0.0739862 0.00779069 0.0694397 0.00590333 0.0366657 
-0.479217 0.71214 -6.34018 -4.24595 1.48265 -5.30475 0.901868 0.432223 
-0.321926 -3.48477 -4.23796 -10.3797 388.783 
+0.360678 0.0117262 0.00178368 0.00918029 0.000982892 0.0133292 0.00250519 0.00884907 
+2.07715 4.82439 -4.67592 -0.94031 -0.121467 -1.62282 0.00393861 0.125303 
+0.151161 -1.7776 -30.6256 -81.4292 710.65 
 
 # parameters for class #942
-1.03231 0.154139 0.0157773 0.139236 0.0115878 0.144641 0.00796395 0.0935926 
-0.762819 1.88854 -10.3441 -5.98783 1.4546 -9.8112 1.11616 -0.236274 
-0.232028 -7.42784 -8.07814 -30.0499 646.954 
+0.418841 0.0137352 0.0145331 0.00949317 0.00103527 0.0141252 0.00358545 0.00660316 
+1.02193 1.91217 -4.98517 -1.34414 -1.97246 -1.73678 0.0154945 -0.134373 
+-0.449442 -1.31448 -14.1657 -30.7223 499.992 
 
 # parameters for class #943
-0.772094 0.181677 0.0057028 0.15784 0.0129031 0.206044 0.00422634 0.124572 
-0.896806 0.988692 -7.80579 -7.62413 0.28279 -12.8418 0.956652 -0.703422 
-0.0636261 -10.6157 -7.28461 -13.9717 714.266 
+0.410962 0.00859426 0.00616553 0.00499939 0.0510747 0.00856141 0.00110517 0.00260991 
+1.32111 2.4531 -4.49399 -0.66623 -0.822695 -0.916374 -8.35666 0.000484673 
+-0.00229579 -0.639126 -18.7984 -39.9877 759.141 
 
 # parameters for class #944
-0.797604 0.0894446 0.00346801 0.0527611 0.0112144 0.0638814 0.00689022 0.03462 
-0.728985 0.779786 -7.65642 -3.99306 -0.0633828 -4.40937 0.93585 -0.31614 
--0.638583 -3.21404 -6.05985 -10.789 360.346 
+0.512193 0.0832722 0.00210137 0.0328324 0.00124396 0.041368 0.00571647 0.0173932 
+0.686366 1.53296 -5.97525 -1.71997 -0.0790102 -2.18933 -0.0681032 1.02146 
+0.376416 -1.80073 -7.64799 -24.6501 294.144 
 
 # parameters for class #945
-0.313845 0.0233282 0.000793997 0.0163078 0.00246016 0.0157305 0.00108238 0.00994439 
-0.203438 0.773573 -3.29477 -0.548796 0.00634975 -1.7465 0.118674 1.01338 
--0.0108717 -1.79497 -1.97585 -11.9066 266.037 
+0.894116 0.115716 0.00719314 0.0740541 0.00675153 0.081007 0.00408632 0.052847 
+0.547514 0.315613 -5.78146 -2.85372 0.19331 -4.50634 0.0194291 0.945466 
+0.180042 -4.06882 -1.86662 -4.29459 241.959 
 
 # parameters for class #946
-0.714731 0.064779 0.0119315 0.0724783 0.00908856 0.108966 0.00705057 0.0623589 
-1.69134 2.67386 -8.19158 -3.81021 1.31501 -8.07373 0.677127 -0.268512 
-0.350194 -7.3524 -21.9455 -43.1516 861.35 
+4.94073 0.0377945 0.0156842 0.0330588 0.177005 0.0229911 0.00330093 0.00490017 
+0.695987 10.918 -27.7852 -0.00329176 -2.02346 -0.737423 -28.1042 0.427764 
+0.0792396 -0.487144 -10.8696 -203.129 2267.95 
 
 # parameters for class #947
-0.680653 0.0602822 0.00720179 0.0807658 0.00510844 0.0847409 0.00509204 0.0581543 
-1.44124 5.70601 -7.82071 -4.48231 0.737314 -10.0833 0.423751 -1.21715 
-0.163578 -6.9804 -18.8385 -96.2461 1173.52 
+0.96966 0.108475 0.00392897 0.0544661 0.00547828 0.0561635 0.00925189 0.0286815 
+0.724456 2.60928 -9.75179 -0.96873 -0.276676 -2.18895 -0.613859 1.13023 
+0.676594 -2.21963 -8.26504 -43.6831 382.909 
 
 # parameters for class #948
-0.375157 0.0219379 0.00325951 0.0253667 0.00198424 0.0548809 0.00550293 0.0252733 
-1.32023 2.03516 -5.17814 -1.3943 0.288658 -3.92685 0.103794 0.9661 
-0.172442 -4.56313 -17.3211 -31.6365 640.671 
+5.66326 0.0528402 0.00823367 0.0263155 0.00441931 0.0332587 0.00911533 0.0163287 
+2.64453 3.22997 -25.5169 0.111358 -0.0459245 -0.710508 0.202609 1.03641 
+-0.529163 -1.05648 -5.59291 -54.1023 341.853 
 
 # parameters for class #949
-0.30437 0.0499857 0.00271094 0.0570408 0.00553955 0.06223 0.00547286 0.0410972 
-1.1264 1.26842 -4.1715 -3.43654 0.155334 -7.82614 0.304933 -0.0588114 
-0.1358 -5.84368 -11.8061 -17.7945 697.509 
+27.258 0.0446718 0.0223037 0.0323563 0.00721859 0.0301648 0.0114306 0.0244046 
+0.745893 5.78258 -109.132 0.995126 -0.704334 0.32297 -0.0152982 1.04265 
+-0.645366 -0.731868 -2.51976 -107.081 683.182 
 
 # parameters for class #950
-0.381053 0.0108961 0.00807701 0.00532077 0.0435552 0.0114256 0.000649244 0.00305695 
-1.18941 2.05422 -4.49286 -0.899377 -1.08296 -0.971758 -6.95115 -0.0195318 
-0.00181183 -0.702091 -15.963 -32.3116 664.514 
+1.39992 0.217572 0.0120831 0.0795667 0.00749847 0.112877 0.00870204 0.0424348 
+0.51629 2.32385 -8.23381 1.30841 0.232296 -1.28517 0.197933 3.12646 
+0.0473488 -2.00318 -1.80701 -39.4176 277.085 
 
 # parameters for class #951
-0.879787 0.0366934 0.00757525 0.01158 0.146325 0.032291 0.00153177 0.00733272 
-1.44809 1.97187 -7.66249 -1.338 -0.988634 -1.17428 -24.0573 0.241847 
-0.0223863 -1.20082 -19.979 -31.2863 1369.29 
+11.5715 0.19207 0.01284 0.159832 0.0153316 0.109813 0.00427771 0.0589175 
+0.288961 11.6146 -50.8438 0.422988 -0.550006 -1.08183 -1.36694 1.20379 
+0.0768785 -1.77412 -2.34827 -214.64 1144.92 
 
 # parameters for class #952
-130.738 0.1849 0.0159596 0.126556 0.0072321 0.112192 0.003668 0.0772669 
-0.74639 6.50415 -529.571 0.574248 -0.592876 -0.839491 -0.452514 1.43896 
--0.0187695 -1.99865 -3.35455 -118.677 1148.49 
+5.67202 0.0738284 0.0207897 0.0723829 0.00806736 0.0578899 0.00722463 0.0800157 
+0.500263 16.6558 -16.2231 0.642822 -0.189291 0.287428 -0.296709 0.776463 
+0.139976 -1.03489 -4.53169 -324.304 1650.72 
 
 # parameters for class #953
-271.357 0.154611 0.073016 0.09958 0.0203621 0.128609 0.0246493 0.105494 
-0.707897 12.3967 -1083.34 0.319641 -1.11764 -0.462121 -0.472579 1.1287 
--0.171924 -1.70882 -2.20821 -232.979 2224.31 
+219.285 0.309722 0.107331 0.210856 0.067676 0.216194 0.0187231 0.146304 
+3.30307 3.28264 -884.983 -3.09633 7.97077 -4.34738 5.91623 0.134205 
+1.07055 -4.61821 -19.1518 -57.5845 1558.08 
 
 # parameters for class #954
-1000 0.111399 0.0218545 0.0563494 0.00574067 0.0998607 0.00701384 0.0528827 
-1.40109 3.766 -4000 0.815112 0.24769 -0.268885 -0.0638421 1.93788 
-0.228086 -1.4889 -3.08777 -68.0126 4367.26 
+2.21809 0.282122 0.0301363 0.202772 0.0228598 0.16477 0.00396421 0.0706011 
+0.539342 4.82304 -10.5163 -3.44571 2.65865 -4.19077 2.50655 -0.668027 
+0.196243 -2.19613 -5.69773 -87.6108 641.833 
 
 # parameters for class #955
-1000 0.592182 0.126311 0.397406 0.0179337 0.424709 0.0213643 0.308195 
-1.18077 34.5916 -4000 2.02066 3.37677 -0.60954 0.297737 3.54982 
-0.764518 -4.1837 -4.45398 -660.099 7228.7 
+7.57451 0.34686 0.084411 0.260175 0.0474496 0.233732 0.0229886 0.213571 
+1.25237 2.519 -32.8608 -3.48053 3.97404 -5.00933 3.7292 -0.169527 
+0.0468048 -5.3845 -7.0432 -44.0789 455.156 
 
 # parameters for class #956
-1000 0.952653 0.496511 0.665459 0.0897015 0.509546 0.0871884 0.302007 
-1.94674 11.586 -4000 -9.27377 14.3671 -9.68598 1.6743 -2.50392 
-3.36465 -4.04846 -7.38854 -217.383 5261.58 
+2.5524 0.873042 0.0299455 0.405068 0.0122787 0.428136 0.00893299 0.198521 
+0.979701 1.37453 -15.5551 -12.4719 0.988501 -10.9763 0.322582 -0.674344 
+0.266961 -5.85002 -4.4092 -22.9635 332.378 
 
 # parameters for class #957
-4.56216 0.105877 0.0385409 0.0872399 0.00513031 0.0812246 0.00478861 0.0612357 
-0.398376 20.3738 -10.6452 1.18053 0.0483444 0.54489 0.303345 1.30329 
--0.271168 -0.839405 -4.49175 -397.37 2015.65 
+1.9242 0.322426 0.0786074 0.133446 161.36 0.158455 0.586976 0.0629558 
+0.199321 0.507827 -11.0324 -10.7192 0.293233 -7.37363 -1.94193 -1.66072 
+0.378664 -2.84702 -0.683779 -7.94087 301.033 
 
 # parameters for class #958
-36.2619 0.278219 0.066786 0.220933 0.0270148 0.20065 0.0290258 0.180526 
-0.401111 6.80176 -149.278 -3.35509 -0.487904 -3.93604 0.809811 -1.26036 
--1.27564 -3.3587 -2.57009 -125.102 828.954 
+28.4201 0.399024 0.0330273 0.199556 0.0104332 0.202656 0.0143701 0.101223 
+9.10807 0.692335 -119.594 -8.70488 -0.205275 -7.96067 -0.137264 -0.763424 
+0.0247935 -3.84659 -7.91269 -10.5154 364.195 
 
 # parameters for class #959
-1000 0.149039 0.0392969 0.0751976 0.0154329 0.098097 0.0129086 0.0451023 
-5.57459 2.30267 -4000 -1.33217 0.133706 -1.87289 0.568597 0.689524 
--0.395793 -1.61802 -9.68645 -38.3075 4232.86 
+3.80529 0.279894 0.0343016 0.153524 0.0292107 0.223643 0.0088177 0.139472 
+0.340929 8.16087 -18.1984 -7.83977 -2.02499 -5.691 -2.85825 -4.24962 
+0.0514904 -3.89886 -2.69743 -149.993 1005.52 
 
 # parameters for class #960
-2.2523 0.364269 0.038476 0.179913 0.0351526 0.223935 0.00801141 0.0588088 
-0.311156 6.63784 -10.8026 -1.80387 -2.05881 -2.37772 -3.39672 0.713263 
-0.10591 -1.66581 -3.01301 -121.69 745.702 
+2.10457 0.0637544 0.101909 0.0577449 0.0371219 0.0507269 0.0109659 0.0553407 
+0.323656 23.2297 -4.74645 -2.17832 -5.28724 -2.23076 -3.13738 -1.5059 
+-0.0537818 -0.739557 -4.29552 -453.439 2455.61 
 
 # parameters for class #961
-1000 0.318752 0.308907 0.176218 1.73274 0.169586 0.0824037 0.0945024 
-8.73516 3.55033 -4000 -2.28504 2.7004 -2.42292 -0.0381362 -0.099689 
-1.43023 -1.36627 -4.05993 -64.9372 4345.06 
+16.9999 0.411706 0.0534285 0.254095 0.0172505 0.201527 0.0372306 0.110253 
+0.722048 4.13975 -73.3556 -4.00944 -1.15005 -4.55371 0.767496 -0.30434 
+-2.86256 -2.79694 -4.71721 -73.4617 561.302 
 
 # parameters for class #962
-13.5103 0.620203 0.219819 0.491393 0.18565 0.364649 0.0674255 0.260795 
-0.421989 11.4049 -50.6791 -3.58026 3.85192 -5.00957 -0.287343 -0.496208 
-2.37714 -3.10444 -1.85176 -216.466 1165.62 
+1000 0.203896 0.0156551 0.159967 0.00426269 0.10095 0.00612609 0.0694778 
+1.29306 5.78314 -4000 -0.374189 -0.251857 -1.76011 0.0492854 0.740229 
+-0.25103 -1.58836 -3.93703 -104.949 4530.86 
 
 # parameters for class #963
-1000 1.31705 0.568831 1.04037 0.149365 0.665824 0.144003 0.449123 
-1.55388 8.41302 -4000 -15.3627 20.4292 -15.9021 5.19182 -5.35587 
-5.32063 -5.26651 -8.80057 -158.101 5178.9 
+13.6354 0.569542 0.189185 0.349126 0.0553181 0.305 0.0358183 0.179465 
+8.38834 1.98966 -60.0242 -7.34553 8.26777 -9.70325 3.19933 0.6133 
+0.870563 -6.27058 -22.8735 -32.3133 526.274 
 
 # parameters for class #964
-1.89995 0.023919 0.00549122 0.0165644 0.026052 0.0171207 0.00094916 0.00232075 
-0.742196 8.95852 -8.87629 0.676999 0.654462 0.12475 3.97635 0.745711 
-0.0236062 -0.210486 -11.8481 -168.189 1085.97 
+140.586 0.30346 0.105475 0.14551 0.0274533 0.239986 0.0248015 0.103367 
+0.366679 5.13683 -569.44 -3.36102 -0.0411109 -2.57959 -0.819541 -1.06856 
+0.70901 -1.96825 -1.91761 -93.2124 1073.63 
 
 # parameters for class #965
-1.69667 0.0729521 0.0088685 0.0448525 0.0354608 0.0615049 0.00164311 0.00556282 
-0.787458 17.2713 -6.45664 -2.39779 0.943083 -2.03202 5.24528 -1.44134 
--0.0280997 -0.306469 -12.3631 -330.71 1955.73 
+5.23697 0.33205 0.0826173 0.147537 0.0567156 0.217797 0.0224337 0.109213 
+0.479246 1.90809 -25.1385 -3.95342 -3.00709 -3.11371 -4.59373 -0.596437 
+0.497316 -2.8578 -3.05852 -32.7612 378.837 
 
 # parameters for class #966
-0.811586 0.0146902 0.00222751 0.0107451 0.00262095 0.00830953 0.0014399 0.00505148 
-0.75539 2.49419 -7.74414 -0.0380722 -0.173148 -0.683358 0.101502 0.486154 
--0.0694661 -0.676824 -10.0395 -42.5849 334.838 
+565.662 0.639105 0.0973285 0.390998 0.0182972 0.374604 0.0266625 0.224064 
+1.05903 4.23537 -2266.62 -7.13648 -0.270239 -6.74465 0.2817 -1.90415 
+-0.556499 -3.46263 -3.10073 -77.1552 2717.59 
 
 # parameters for class #967
-0.826602 0.126614 0.00634056 0.0726698 0.0248614 0.0903509 0.00317397 0.0417219 
-0.539382 0.772855 -7.27696 -3.84506 -0.511321 -4.54991 -3.25799 -0.0393599 
-0.140684 -3.32792 -5.20197 -11.5938 401.641 
+2.20871 0.129228 1000 0.0850323 1000 0.0908565 1000 0.0678488 
+0.0951207 18.212 -4.51777 -1.14024 -0.0133968 -1.13312 0.0500968 -0.397272 
+-0.027519 -0.627979 -0.624161 -356.235 1759.46 
 
 # parameters for class #968
-2.2771 0.214353 0.0277642 0.0910918 0.0425394 0.156574 0.00472166 0.0356018 
-0.550607 6.7414 -12.5522 -5.96869 2.92822 -3.69649 5.69441 -2.6045 
-0.220508 -1.74093 -6.74762 -122.286 1011.5 
+14.6088 0.243311 0.0717406 0.125801 0.0194104 0.131195 0.0138734 0.0632656 
+1.67413 1.5099 -62.679 -2.67147 -1.32453 -2.95007 -0.796112 0.191103 
+0.0864621 -1.81699 -4.37379 -24.8909 258.727 
 
 # parameters for class #969
-0.54857 0.284317 0.00712615 0.197948 0.00564423 0.189496 0.00459322 0.104373 
-0.375621 0.53586 -4.80091 -9.68942 0.333616 -13.9919 0.262949 0.419195 
-0.145364 -8.20001 -2.39299 -7.41738 582.083 
+1000 0.323378 0.807878 0.113187 0.202789 0.325767 460.696 0.0871898 
+462.416 2.67281 -4000 -0.90121 0.895148 -1.9905 0.448797 3.91317 
+-0.292065 -2.58825 -27.2525 -48.5181 4268.31 
 
 # parameters for class #970
-4.77734 0.225219 0.00446667 0.133088 0.00692498 0.186693 0.0077742 0.0943132 
-0.470671 3.72182 -40.1268 -10.8591 0.116704 -10.2907 0.349649 -3.1083 
-0.0882614 -6.2284 -4.19928 -62.1899 843.476 
+8.74183 0.577393 0.0794734 0.298741 0.0292073 0.249175 0.0328779 0.0914038 
+0.406534 3.12974 -36.1055 -10.794 2.59369 -7.88833 -0.147014 -2.75647 
+2.04003 -2.02374 -2.37117 -56.7897 503.68 
 
 # parameters for class #971
-0.917037 0.0827531 0.00377887 0.0530365 0.00140064 0.0677404 0.00179643 0.0392912 
-0.384607 0.503824 -8.67506 -3.64971 -0.281443 -4.72562 -0.0312654 -0.192219 
--0.0834709 -3.69299 -3.43683 -6.98676 341.155 
+1000 1.0867 0.282783 0.617935 0.059852 0.841997 0.0488043 0.451898 
+1.66037 21.1454 -4000 -21.8674 16.6472 -15.2749 3.52879 -13.0733 
+2.84009 -7.7286 -12.6383 -397.75 6537.39 
 
 # parameters for class #972
-0.74299 0.0991997 0.00396823 0.0361582 0.0034495 0.028768 0.00530362 0.0168487 
-0.557982 1.93288 -7.53588 -2.89655 0.220611 -2.75768 0.121018 0.504249 
-0.072927 -1.71383 -6.52814 -32.0778 343.487 
+4.85527 0.468725 0.0381316 0.304793 0.0297384 0.291917 0.0075115 0.162858 
+0.74873 8.04775 -19.6814 -9.1442 2.34799 -8.2427 2.7552 -3.48095 
+0.0889317 -4.00295 -6.36031 -147.002 971.942 
 
 # parameters for class #973
-0.760669 0.0108691 0.0150927 0.00574295 1000 0.0107711 1000 0.00639488 
-0.171546 0.660193 -4.64857 -0.4673 0.00331963 -0.449192 -0 -0.0950589 
--0 -0.445747 -0.691209 -10.4316 101.262 
+98.3767 1.39177 0.126416 0.429042 0.0228961 0.501923 0.0305126 0.159474 
+1.02516 3.17861 -398.916 -29.6056 6.10075 -12.7689 0.549076 -6.42288 
+2.0571 -3.78858 -4.81961 -56.6333 1094.37 
 
 # parameters for class #974
-0.434519 0.0836434 0.0048211 0.0755446 0.00319466 0.0643316 0.00389576 0.0553939 
-0.392509 0.530891 -3.70351 -4.02064 0.252676 -6.96053 0.0719802 -0.29561 
-0.215659 -5.19635 -2.19784 -7.04816 420.025 
+17.1178 0.283635 0.0284127 0.184896 0.0146162 0.170841 0.0238107 0.107199 
+0.311235 4.90993 -72.5249 -6.88104 0.755203 -6.16152 -0.518162 -2.62348 
+1.73701 -3.13087 -2.23101 -87.8406 674.567 
 
 # parameters for class #975
-0.880603 0.264018 0.00843805 0.15575 0.00451551 0.137007 0.00666671 0.0881842 
-0.599872 0.638935 -5.95314 -10.8131 0.383013 -10.7057 0.0475574 -1.68818 
-0.41151 -5.49899 -2.55091 -9.33724 485.574 
+1000 0.20435 1000 0.20435 1000 0.20435 1000 0.00204003 
+1000 1000 -0 -34.8256 -0 -34.8256 -0 -34.8256 
+-0 0.4892 -0 -20011.6 104585 
 
 # parameters for class #976
-2.26484 0.141205 0.00644627 0.0933621 0.00316644 0.101488 0.0101332 0.0347512 
-0.487775 8.00488 -8.34405 -6.81003 0.328505 -5.49031 -0.148011 -3.82741 
-1.07948 -1.17122 -4.81864 -147.858 987.365 
+1000 0.00208888 1000 0.000424732 1000 0.00150822 1000 0.000242707 
+0.985431 0.985431 -0 -0.133965 -0 -0.0937281 -0 0.139376 
+-0 -0.0759882 -0.553055 -0.553055 36.1744 
 
 # parameters for class #977
-1.54484 0.0593211 0.00350237 0.0370331 0.00522662 0.0373066 0.00931745 0.0215231 
-0.397684 2.32014 -7.96875 -3.87935 0.104748 -3.23104 -0.444849 -1.65609 
-0.988801 -1.2866 -3.12456 -39.2346 437.126 
+0.732885 0.00351865 0.00108021 0.00477121 0.00754224 0.00661866 0.00254071 0.00808189 
+0.182583 0.809153 -6.22978 -0.345811 0.0117644 -1.09407 0.0113725 -0.0671225 
+0.0557533 -1.85353 -2.48199 -13.6421 316.302 
 
 # parameters for class #978
-1.19413 0.0112599 0.00933763 0.0103905 0.0052212 0.00956608 0.00671267 0.00753676 
-0.42413 14.2104 -4.90019 -1.14371 -1.15257 -1.14616 -0.624878 -0.886667 
--0.805627 -0.344097 -6.22362 -274.679 1568.69 
+0.116013 0.00064722 0.000397529 0.000624569 0.000659798 0.000911082 0.000749279 0.000511333 
+0.46079 0.683931 -1.85546 -0.095146 -0.00480558 -0.285695 0.0171646 0.143265 
+0.0157094 -0.328044 -6.13364 -10.3826 235.195 
 
 # parameters for class #979
-1.29165 0.0819863 0.0441586 0.0430545 0.01549 0.0540417 0.014015 0.0110132 
-1.32951 5.22243 -6.84774 -2.17601 -6.10568 -1.65246 -2.07885 -0.794587 
--1.86727 -0.668919 -20.1228 -96.0879 954.384 
+0.253203 0.000874098 0.000854662 0.000406639 0.000709891 0.000459142 0.000497824 0.000206622 
+1.40454 2.98656 -3.50881 -0.190857 -0.0829271 -0.225678 -0.0756493 0.0211826 
+0.0180608 -0.145032 -22.5112 -51.8654 470.407 
 
 # parameters for class #980
-4.28974 0.204514 0.0511525 0.165149 0.0190351 0.155724 0.0120641 0.118967 
-0.441456 10.8597 -12.635 1.54141 1.60867 0.486841 1.07323 1.88834 
-0.0232061 -1.52574 -4.06286 -208.116 1091.48 
+0.334393 0.00104067 0.00119061 0.000475984 0.00107659 0.00101747 0.000897246 0.000355993 
+1.60924 3.68053 -4.30132 -0.0827741 0.088365 -0.168198 -0.134602 0.10008 
+0.0743203 -0.203793 -25.6647 -63.76 515.443 
 
 # parameters for class #981
-1.64288 0.662172 0.0278451 0.329552 0.017377 0.292672 0.0133462 0.158105 
-0.977867 0.679881 -9.52718 -10.0236 0.714478 -11.2485 0.895874 1.04062 
--0.0761006 -6.6324 -3.62855 -10.0973 310.142 
-
-# parameters for class #982
-4.79298 0.517399 0.030505 0.303199 0.0475944 0.347411 0.00979599 0.0806457 
-0.466855 8.0158 -24.3387 -7.59315 -1.5094 -6.93684 -5.07984 -2.29333 
-0.436423 -2.55287 -5.02325 -146.02 992.08 
-
-# parameters for class #983
-2.26311 0.0383513 0.00573598 0.0270469 0.0354373 0.0373528 0.00194322 0.00278825 
-2.93628 25.2724 -9.38876 -1.01643 -0.658995 -1.06368 -5.38738 -0.581697 
-0.0698703 -0.230209 -51.2529 -484.091 2844.14 
-
-# parameters for class #984
-1000 0.550814 0.174337 0.345458 0.0668414 0.364192 0.0277511 0.209309 
-1.94935 4.69168 -4000 -5.56331 11.7537 -5.9635 5.47006 -1.06981 
-1.36575 -4.9306 -13.304 -84.5411 4821.5 
-
-# parameters for class #985
-4.27454 0.30375 0.115529 0.222494 0.0466502 0.258284 0.24165 0.160037 
-0.528722 16.6979 -13.0044 -4.77706 3.56204 -4.42949 2.66694 -2.9773 
--0.0230359 -2.01254 -5.21513 -320.684 1711.02 
-
-# parameters for class #986
-8.87014 0.425573 0.0459845 0.300781 0.0153389 0.227039 0.0391099 0.171538 
-0.491705 4.59454 -39.6229 -4.49225 -1.66265 -5.30381 0.401772 -0.788926 
--3.22577 -3.94232 -3.55363 -82.5974 595.816 
-
-# parameters for class #987
-1.67096 0.0946903 0.106073 0.0695702 0.0399485 0.0796358 0.0157313 0.0388658 
-0.285224 15.6084 -4.59159 -2.26143 -5.49511 -2.02349 -3.39356 -1.48771 
--0.0656453 -0.658864 -3.57962 -301.777 1691.09 
+5.19781 0.0342932 0.00852237 0.0320603 0.00528206 0.0331029 0.00266364 0.10339 
+0.547378 85.9698 -12.5601 -2.32299 0.448749 -2.29376 0.410039 -2.11643 
+0.0368942 -1.33248 -6.90591 -1692.39 8532.21 
 

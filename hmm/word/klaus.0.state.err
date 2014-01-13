@@ -28,7 +28,7 @@ mm_init: WARNING: can't create states for unseen model '[rp]'!
 mm_init: WARNING: can't create states for unseen model '[sc]'!
 mm_init: WARNING: can't create states for unseen model '[st]'!
 mm_init: WARNING: can't create states for unseen model '[XXX]'!
-mm_init: 798 states created.
+mm_init: 801 states created.
 mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_103.tif-Schwellwert_40/Abschrift_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_103.tif-Schwellwert_40/an_1_Bin.ufv
@@ -75,11 +75,8 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_103.tif-Schwellwert_40/von_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_103.tif-Schwellwert_40/zur_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_103.tif-Schwellwert_40/Zuschusses_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/Alter_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/am_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/anderweit_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/Anstalt_2_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/auf_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/Bartin_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/Bartiner_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/berechnet_1_Bin.ufv
@@ -89,17 +86,18 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/Betreff_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/des_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/eifrig_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/einer_!_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/erwarten_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/Euer_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/Folge_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/Geistlichen_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/Inneren_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/ins_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/Juli_2_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/junge_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/jungen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/Königliche_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/Leute_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/Leuten_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/mehrere_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/möglichst_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/oder_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_166.tif-Schwellwert_35/Oktober_1_Bin.ufv
@@ -263,6 +261,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_199.tif/Tag_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_199.tif/Tag_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_199.tif/uns_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_199.tif/uns_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_199.tif/Vater_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_199.tif/welche_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_199.tif/welcher_1_Bin.ufv
@@ -310,7 +309,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Conrad_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Conrad_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Conrad_3_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Conrad_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/dem_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Der_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/derselbe_1_Bin.ufv
@@ -340,7 +338,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Interesse_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Jahren_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Königliche_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Königlicher_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Landrath_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/lege_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Minister_1_Bin.ufv
@@ -351,6 +348,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/nimmt_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Oberst_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Recherchen_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Regierung_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Regierung_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Rittergutbesitzers_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_79-600.jpg-Schwellwert_30/Sache_1_Bin.ufv
@@ -579,6 +577,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/dort_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/dort_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/dortige_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/Drohungen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/drucken_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/Dummheit_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/durch_1_Bin.ufv
@@ -664,9 +663,11 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/glücklich_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/Gottes_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/greife_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/großen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/grüßt_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/guten_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/guten_2_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/habe_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/haben_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/haben_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/hat_1_Bin.ufv
@@ -698,7 +699,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/Ich_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/Ich_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/ihm_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/ihn_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/Ihnen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/Ihnen_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_August_Lewald-Vorlage_W24B0097-Schwellwert_20/Ihre_1_Bin.ufv
@@ -1043,7 +1043,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Dierdier_Roth-Vorlage_W27B1319-Schwellwert_12/Lyoner_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Dierdier_Roth-Vorlage_W27B1319-Schwellwert_12/macht_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Dierdier_Roth-Vorlage_W27B1319-Schwellwert_12/mahl_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Dierdier_Roth-Vorlage_W27B1319-Schwellwert_12/mann_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Dierdier_Roth-Vorlage_W27B1319-Schwellwert_12/Mann_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Dierdier_Roth-Vorlage_W27B1319-Schwellwert_12/Maure_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Dierdier_Roth-Vorlage_W27B1319-Schwellwert_12/meine_1_Bin.ufv
@@ -1105,7 +1104,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/einen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/einer_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/ergebenen_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/erkundigen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/es_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/es_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/etwas_1_Bin.ufv
@@ -1127,6 +1125,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/hoffe_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/hören_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/Ich_4_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/Ich_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/Ihnen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/Ihnen_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/Ihnen_3_Bin.ufv
@@ -1135,6 +1134,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/Ihre_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/Ihrem_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/Ihren_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/Ihrer_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/Italien_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/jetzt_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Georg_Weerth-Vorlage_W27B1278-Schwellwert_15/jetzt_2_Bin.ufv
@@ -1225,7 +1225,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0007-Schwellwert_10/großen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0007-Schwellwert_10/habe_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0007-Schwellwert_10/habe_2_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0007-Schwellwert_10/Hast_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0007-Schwellwert_10/herging_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0007-Schwellwert_10/herum_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0007-Schwellwert_10/Holzstuhl_1_Bin.ufv
@@ -1286,6 +1285,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0009-Schwellwert_10/blendenweiß_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0009-Schwellwert_10/blinde_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0009-Schwellwert_10/da_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0009-Schwellwert_10/Das_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0009-Schwellwert_10/Das_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0009-Schwellwert_10/das_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0009-Schwellwert_10/Deines_1_Bin.ufv
@@ -1299,7 +1299,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0009-Schwellwert_10/doch_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0009-Schwellwert_10/durchs_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0009-Schwellwert_10/Eigenthum_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0009-Schwellwert_10/Ein_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0009-Schwellwert_10/einzig_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0009-Schwellwert_10/erquicket_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0009-Schwellwert_10/errinnere_1_Bin.ufv
@@ -1364,14 +1363,13 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/am_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/an_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/an_2_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/auch_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/auch_2_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/auf_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/aufgeheitert_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Behandlung_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/BEstimmtes_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/beyde_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/beykommend_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Bilder_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Bilder_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/bin_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/bin_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Bösartiges_1_Bin.ufv
@@ -1384,9 +1382,8 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/daher_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/das_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/dem_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/dennoch_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/denke_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/des_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/deutsche_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/diesem_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/durch_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/ein_1_Bin.ufv
@@ -1408,20 +1405,22 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Frau_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Frau_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/früher_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/ganz_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/ganz_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/ganz_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/gänzlich_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/gar_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/gefunden_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Geistesspeise_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/gestärkt_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/getreten_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/gewöhnlichen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Göthe_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/größten_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Günstige_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Güte_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Herz_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Ich_6_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Ich_9_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/ihn_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Ihnen_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Ihnen_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Ihre_1_Bin.ufv
@@ -1430,7 +1429,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/im_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/immer_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/immer_2_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/isoliert_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/jetzt_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/konnte_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Kopf_1_Bin.ufv
@@ -1441,18 +1439,21 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/lauter_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/lebe_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Leben_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/lebendig_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Lebensweise_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Liebes_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/lieben_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/lieber_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Makaroni_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/manches_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Mann_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/mein_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/mein_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/meine_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/meine_2_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/meinen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/meines_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/menschliche_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/merken_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/mich_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/mich_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/mir_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/mir_2_Bin.ufv
@@ -1467,13 +1468,10 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Rath_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/sagen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Schwester_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/selten_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/spät_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Tages_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/That_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/über_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/über_2_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/übersende_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/um_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/um_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Umstände_1_Bin.ufv
@@ -1494,9 +1492,9 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/wenn_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/werden_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/wie_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/wieder_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/wirklichen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/Woche_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/worden_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/würde_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/wüßte_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0065-Schwellwert_15/zeihen_1_Bin.ufv
@@ -1507,7 +1505,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/aber_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/ablassen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Achten_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Achtung_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Adresse_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/allerwenigsten_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/allmählig_1_Bin.ufv
@@ -1519,23 +1516,22 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Ansicht_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/auch_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/auch_2_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/auch_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Auch_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/auf_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/auf_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/aufhören_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Augenblick_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/bald_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Band_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Bande_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/bedeutenden_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/bedrängen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Berlin_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Berlin_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/berührte_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/besonders_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Beyspiel_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/bin_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/bin_3_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/bleibt_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/bloß_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Brief_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/bringen_1_Bin.ufv
@@ -1560,11 +1556,10 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Denken_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Denken_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Desto_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/deutsche_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Diese_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/diesen_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/dieser_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Dieses_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/dieses_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/doch_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/doch_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/doch_5_Bin.ufv
@@ -1573,11 +1568,13 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/durch_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/dürfen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/ein_3_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/ein_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/ein_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/einander_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/eine_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/eine_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/einem_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/einem_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/einflößt_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/einige_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/einige_2_Bin.ufv
@@ -1593,7 +1590,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/es_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/es_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/es_7_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/es_9_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/etwas_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/etwas_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/existirt_1_Bin.ufv
@@ -1608,22 +1604,21 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/ganz_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/ganz_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/geben_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Gedanken_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Gedanken_2_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/gegeben_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/gegen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/geirrt_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Geistern_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/geistigen_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/gelesen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/gemacht_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/gesagtem_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/geschrieben_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/geschrieben_2_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Gesellschafter_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Gesinnung_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Gestalt_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/gestehen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Gesundheit_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Grunde_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/gut_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/habe_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/habe_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/haben_1_Bin.ufv
@@ -1632,18 +1627,19 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/haben_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/hat_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/heilige_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/hergab_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Herz_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Herz_2_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Herzens_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/hier_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/hiesige_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/hinaufschwingen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/hinziehen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/höre_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Humor_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/hüpsch_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Ich_25_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Ich_27_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Ich_34_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/ihm_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Ihnen_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Ihnen_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Ihnen_6_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/illustrirt_1_Bin.ufv
@@ -1652,13 +1648,11 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Im_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/immer_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/immer_2_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/isolierter_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Jahrbüchern_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Jahren_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/jenes_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/jetzt_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/kennen_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/kennen_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/komme_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/königlich_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Königstädter_1_Bin.ufv
@@ -1671,7 +1665,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Leben_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/leben_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/leben_4_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Leben_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/leg_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Lehmann_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Lehmann_3_Bin.ufv
@@ -1680,37 +1673,37 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/liebe_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Lieber_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/lieber_2_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Literatur_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Literatur_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Lorbeer_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Lump_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Lumpengesindel_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/machte_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mag_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/manchem_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mehr_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mehr_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mein_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mein_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mein_4_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/meine_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/meine_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/meine_3_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/meiner_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Mensch_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Menschen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mich_6_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mich_8_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mich_9_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mir_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mir_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mir_6_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mir_9_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Mißverständnissen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mit_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/mit_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Mit_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/möchte_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Monath_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Moser_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/muß_2_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/müßten_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Muthe_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Nachschwanz_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/neuen_1_Bin.ufv
@@ -1719,10 +1712,10 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/noch_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/nur_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/nur_2_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/öffentliche_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/öfter_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Poeterey_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Rabbi_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/rechnen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Recht_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Reisebilder_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Reisebilder_2_Bin.ufv
@@ -1730,17 +1723,19 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Ruhe_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Ruhm_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Scheu_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/schlecht_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Schnellpost_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/schon_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/schönsten_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/schreiben_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/sehe_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/sehr_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/sein_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/seine_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/seit_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/seltsam_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/seyn_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/seyn_2_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/sich_4_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/sind_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/sonst_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Sorge_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/sorgen_1_Bin.ufv
@@ -1751,31 +1746,28 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Strumpf_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Tage_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Theater_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Theater_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Theile_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Tragödien_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/trister_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/trotz_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/trug_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/trügen_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/über_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/über_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/über_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/über_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/übers_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/um_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/umgedacht_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Und_13_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Und_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/unmuthig_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/unter_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/unter_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/verbessert_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/verbessert_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/verbündet_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/verletzt_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/verspreche_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/verzogen_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/viel_6_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/viel_2_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/viel_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/viel_7_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/viel_8_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/vielen_1_Bin.ufv
@@ -1784,19 +1776,17 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/vielleicht_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Völkerrecht_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/von_3_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/von_5_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/wackerer_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/vorzüglich_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/wahren_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/war_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/war_2_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/was_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/weiß_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/wenn_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/wenn_2_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Wenn_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/werde_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/werden_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/wie_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/wie_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/wie_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/wieder_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/wieder_2_Bin.ufv
@@ -1808,6 +1798,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/würde_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Zeilen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Zeit_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Zeiten_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0170-Schwellwert_19/Zurückgezogenheit_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0210-Schwellwert_10/aber_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W20B0210-Schwellwert_10/alles_1_Bin.ufv
@@ -1912,6 +1903,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W21B0777-Schwellwert_15/nach_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W21B0777-Schwellwert_15/quillt_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W21B0777-Schwellwert_15/Reuter_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W21B0777-Schwellwert_15/reutet_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W21B0777-Schwellwert_15/Schäferinn_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W21B0777-Schwellwert_15/Schäferinn_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heine-Vorlage_W21B0777-Schwellwert_15/Schäferinn_3_Bin.ufv
@@ -2305,6 +2297,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heinrich_Heine-Vorlage_W20B0326-Schwellwert_10/sprach_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heinrich_Heine-Vorlage_W20B0326-Schwellwert_10/sprach_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heinrich_Heine-Vorlage_W20B0326-Schwellwert_10/spreche_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heinrich_Heine-Vorlage_W20B0326-Schwellwert_10/sprechen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heinrich_Heine-Vorlage_W20B0326-Schwellwert_10/sprechen_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heinrich_Heine-Vorlage_W20B0326-Schwellwert_10/stärker_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heinrich_Heine-Vorlage_W20B0326-Schwellwert_10/Stück_1_Bin.ufv
@@ -2334,6 +2327,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heinrich_Heine-Vorlage_W20B0326-Schwellwert_10/versucht_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heinrich_Heine-Vorlage_W20B0326-Schwellwert_10/vertrauen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heinrich_Heine-Vorlage_W20B0326-Schwellwert_10/vielleicht_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heinrich_Heine-Vorlage_W20B0326-Schwellwert_10/Vielleicht_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heinrich_Heine-Vorlage_W20B0326-Schwellwert_10/vollendet_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heinrich_Heine-Vorlage_W20B0326-Schwellwert_10/von_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Heinrich_Heine-Vorlage_W20B0326-Schwellwert_10/von_2_Bin.ufv
@@ -2415,7 +2409,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Henry_Luring-Vorlage_W24B0048-Schwellwert_14/gewissen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Henry_Luring-Vorlage_W24B0048-Schwellwert_14/graben_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Henry_Luring-Vorlage_W24B0048-Schwellwert_14/Henry_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Henry_Luring-Vorlage_W24B0048-Schwellwert_14/Ihnen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Henry_Luring-Vorlage_W24B0048-Schwellwert_14/ihre_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Henry_Luring-Vorlage_W24B0048-Schwellwert_14/Italien_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Henry_Luring-Vorlage_W24B0048-Schwellwert_14/jungen_1_Bin.ufv
@@ -2470,7 +2463,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Hermann_Franck-Vorlage_W24B0059-Schwellwert_10/es_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Hermann_Franck-Vorlage_W24B0059-Schwellwert_10/frage_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Hermann_Franck-Vorlage_W24B0059-Schwellwert_10/frage_2_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Hermann_Franck-Vorlage_W24B0059-Schwellwert_10/frascati_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Hermann_Franck-Vorlage_W24B0059-Schwellwert_10/geben_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Hermann_Franck-Vorlage_W24B0059-Schwellwert_10/gehen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Hermann_Franck-Vorlage_W24B0059-Schwellwert_10/gekauft_1_Bin.ufv
@@ -2525,6 +2517,8 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/aber_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/Abgequält_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/abhängen_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/abkühlen_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/abseiten_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/Achner_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/Achtung_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/alle_1_Bin.ufv
@@ -2657,6 +2651,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/doch_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/doch_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/doppelt_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/Drittel_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/drucken_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/druckte_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/dumm_1_Bin.ufv
@@ -2698,7 +2693,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/Er_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/er_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/er_3_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/Er_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/er_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/er_6_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/er_7_Bin.ufv
@@ -2707,6 +2701,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/erfreut_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/erhielte_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/erlahmt_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/erleben_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/es_10_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/Es_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/es_2_Bin.ufv
@@ -2962,7 +2957,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/Poltron_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/Preis_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/Pustkuchen_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/rächen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/recht_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/Recht_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/recht_3_Bin.ufv
@@ -3011,6 +3005,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/seyn_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/seyn_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/seyn_3_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/sich_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/sich_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/sich_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/sich_6_Bin.ufv
@@ -3048,6 +3043,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/toll_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/Tret_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/trug_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/über_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/überraschen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/übersehen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Julius_Campe-Vorlage_W24B0013-Schwellwert_20/übersende_1_Bin.ufv
@@ -3286,6 +3282,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/gewesen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/gewogne_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/geworden_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Glück_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/großen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Gutes_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/habe_1_Bin.ufv
@@ -3382,7 +3379,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/mit_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/mit_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/möchte_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/nach_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/nach_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Nachbarn_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/nachlassen_1_Bin.ufv
@@ -3400,6 +3396,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Platenschen_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Recht_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/recht_2_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/recht_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/recht_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Rheinblüten_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Robert_1_Bin.ufv
@@ -3411,13 +3408,13 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Scherz_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/schon_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/schöner_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Schönheit_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Schooß_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Schule_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/sehe_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/seine_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/seine_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/seit_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/senden_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/seyn_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/seyn_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/sich_2_Bin.ufv
@@ -3428,6 +3425,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/sollte_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Sommer_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Sommer_2_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/sonst_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/sonst_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/sonst_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/stäts_1_Bin.ufv
@@ -3436,6 +3434,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Studium_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Tage_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Talent_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Tendenzen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Theaters_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Tieks_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/träglichen_1_Bin.ufv
@@ -3463,13 +3462,13 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/wahrem_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/warmen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/was_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/wendet_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/wenig_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/wenn_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Wenn_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/werde_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/werthe_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/wie_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Wie_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/wieder_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/wieder_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Karl_Immermann-Vorlage_W24B0006-Schwellwert_30/Wilder_1_Bin.ufv
@@ -3517,7 +3516,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Michael_Beer-Vorlage_W24B0056-Schwellwert_15/bleiben_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Michael_Beer-Vorlage_W24B0056-Schwellwert_15/bliebe_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Michael_Beer-Vorlage_W24B0056-Schwellwert_15/Boulogne_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Michael_Beer-Vorlage_W24B0056-Schwellwert_15/Boulogne_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Michael_Beer-Vorlage_W24B0056-Schwellwert_15/Boulognes_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Michael_Beer-Vorlage_W24B0056-Schwellwert_15/brummt_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Michael_Beer-Vorlage_W24B0056-Schwellwert_15/dadurch_1_Bin.ufv
@@ -3782,7 +3780,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/auch_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/auf_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/aufstehen_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Auftrage_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Auge_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/aus_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/aus_2_Bin.ufv
@@ -3839,7 +3836,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/diesen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/diesen_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/diesen_3_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/diesen_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/dieser_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/dieser_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Dieses_1_Bin.ufv
@@ -3881,6 +3877,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/er_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/ergänzt_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/erhalten_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/erhalten_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/erinnerst_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Ernst_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/erwerben_1_Bin.ufv
@@ -3933,7 +3930,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/heißt_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/hervorgeht_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Herz_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Herz_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Herzens_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/hier_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Hinterpommern_1_Bin.ufv
@@ -3960,7 +3956,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Landgutes_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/lange_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/leeres_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/legen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Letzterem_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/letzteren_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Leute_1_Bin.ufv
@@ -3995,6 +3990,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Nähe_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Nahrung_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/nämlich_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/nehmen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/neulich_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/nie_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/nimmer_1_Bin.ufv
@@ -4024,6 +4020,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/säet_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/sagen_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/sagt_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/sagt_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/sagte_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Sanduhr_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Schaafherde_1_Bin.ufv
@@ -4040,6 +4037,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/sich_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/sich_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/sich_3_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/sich_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/sich_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/sind_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/sind_2_Bin.ufv
@@ -4069,7 +4067,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/um_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/um_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/um_3_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Umgang_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/Umstand_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/unangenehm_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Moses_Moser-Vorlage_W24B0150-Schwellwert_15/unsre_1_Bin.ufv
@@ -4174,6 +4171,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/dein_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/Dein_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/deine_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/Deine_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/deinem_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/deinem_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/dem_1_Bin.ufv
@@ -4283,6 +4281,7 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/sind_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/sind_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/soll_1_Bin.ufv
+/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/später_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/Teater_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/teures_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/trotz_1_Bin.ufv
@@ -4303,8 +4302,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/wird_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/wirst_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/wißen_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/wohl_1_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/wohl_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Salomon_Heine-Vorlage_W24B0015-Schwellwert_12/zurück_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Theodor_von_Kobbe-Vorlage_W24B0047-Schwellwert_20/Adel_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Theodor_von_Kobbe-Vorlage_W24B0047-Schwellwert_20/alle_1_Bin.ufv
@@ -4469,7 +4466,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Theodor_von_Kobbe-Vorlage_W24B0047-Schwellwert_20/sich_1_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Theodor_von_Kobbe-Vorlage_W24B0047-Schwellwert_20/sich_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Theodor_von_Kobbe-Vorlage_W24B0047-Schwellwert_20/sich_3_Bin.ufv
-/home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Theodor_von_Kobbe-Vorlage_W24B0047-Schwellwert_20/sich_5_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Theodor_von_Kobbe-Vorlage_W24B0047-Schwellwert_20/sie_3_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Theodor_von_Kobbe-Vorlage_W24B0047-Schwellwert_20/sie_4_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Theodor_von_Kobbe-Vorlage_W24B0047-Schwellwert_20/sie_9_Bin.ufv
@@ -4520,6 +4516,6 @@ mm_init: model definitions written.
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Theodor_von_Kobbe-Vorlage_W24B0047-Schwellwert_20/wol_2_Bin.ufv
 /home/matt/esmeralda/lab/klaus/ufv/Binaerbilder_Theodor_von_Kobbe-Vorlage_W24B0047-Schwellwert_20/zwischen_1_Bin.ufv
 mm_init: parameters accumulated according to generalisation hierarchy.
-mm_init: 25936 ms (25380 cpu ms) processing 546549 frames (RTF = 0.0047).
+mm_init: 25463 ms (25060 cpu ms) processing 543000 frames (RTF = 0.0047).
 
-finished with status 0 at Tue Dec 24 04:39:36 CST 2013
+finished with status 0 at Mon Jan 13 05:26:24 CST 2014
