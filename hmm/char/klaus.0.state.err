@@ -6,7 +6,7 @@ mm_init: WARNING: beam for mixture pruning not specified - using default 14!
 mm_init: floor probability is 1e-05 (11.5)!
 mm_init: probabilities less than 0.001 will be ignored!
 mm_init: will create semi-continuous model from feature data.
-mm_init: code library with 1 codebooks using 10 features read.
+mm_init: code library with 1 codebooks using 12 features read.
 mm_init: WARNING: model space can't refer to states!
 mm_init: 73 models read.
 mm_init: model duration statistics accumulated.
@@ -381,4 +381,4 @@ mm_init: WARNING: found unseed state #288 without parent!
 mm_init: WARNING: found unseed state #289 without parent!
 mm_init: WARNING: found unseed state #290 without parent!
 mm_init: WARNING: found unseed state #291 without parent!
-finished with status 0 at Mon Jan 13 04:36:50 CST 2014
+finished with status 0 at Tue Jan 21 05:02:10 CST 2014

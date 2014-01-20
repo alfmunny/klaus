@@ -13,7 +13,7 @@ UFV=".ufv"
 #
 # frame extraction parameters
 #
-method=2	# feature extraction method 
+method=2 	# feature extraction method 
 width=8	# frame width
 x=4		# frame overlap :-(
 
@@ -36,8 +36,8 @@ for cat in $cats
 	#echo $SRC/$cat/$lin
 
 	(cat $SRC/$cat/$lin	\
-		|im_filter binarize 1	\
+		| im_filter binarize 1 	\
 		| pen_fextract -f $method -w $width -x $x	\
-		>$cat/$base.ufv)
+		>$cat/$base.ufv) 2>/dev/null
 	done
 	done
