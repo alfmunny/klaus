@@ -4,7 +4,7 @@
 hmm=$1 # mit welcher HMM
 name=klaus
 
-paste -d '\t' ../$name.Corpus_part_110.lst ../char/$name.Corpus_part_110-$hmm.hyp \
+paste -d '\t' ../$name.Corpus.lst ../char/$name.Corpus-$hmm.hyp \
 | sed 's/<space1>/[space]/g' \
 | sed 's/<space2>/[space]/g' \
 | sed 's/<space3>/[space]/g' \

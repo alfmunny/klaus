@@ -1,5 +1,5 @@
-isr -b 75 -w 15 -l 7 -B 20 klaus.20.swu ../klaus-word.lex klaus-word.tree ../klaus-word.lm2 klaus.20.cl <../klaus.test_12.lst >klaus.Xeval-a.a1k-20-b75-w15-l7-B20.words
-isr started on matt at Tue Jan 21 06:18:48 CST 2014
+isr -b 75 -w 15 -l 7 -B 20 klaus.20.swu ../klaus-word.lex klaus-word.tree ../klaus-word.lm2 klaus.20.cl <../klaus.test_12_1100.lst >klaus.Xeval-a.a1k-20-b75-w15-l7-B20.words
+isr started on matt at Mon Feb 3 00:01:15 CST 2014
 	[command line arguments were: 'isr -b 75 -w 15 -l 7 -B 20 klaus.20.swu ../klaus-word.lex klaus-word.tree ../klaus-word.lm2 klaus.20.cl ']
 isr version 2.97a running on matt under Linux 3.2.0-57-generic.
 isr: calculating total emission probabilities.
@@ -11,7 +11,7 @@ isr: floor probability is 1e-05 (11.5)!
 isr: probabilities less than 1e-05 will be ignored!
 isr: codebook beam not specified - using default: 14!
 isr: reading codebook(s) ...isr: 1 codebook(s) read.    
-isr: reading sub-word units ...isr: 60 sub-word units (772 states) read.
+isr: reading sub-word units ...isr: 60 sub-word units (695 states) read.
 isr: reading words ...isr: 12 words read.   
 isr: reading tree nodes ...isr: will not generate hypotheses for '<space>'!
 isr: will not generate hypotheses for '<space>'!
@@ -19,12 +19,12 @@ isr: will not generate hypotheses for '<space>'!
 isr: 33 tree nodes read.	  
 isr: creating true states ...isr: 141 true (1 pseudo, 1 start) states created.
 isr: reading language model ...isr: 2-gram language model read.
-isr: 293636 densities evaluated ( 0.3%), on average 3.00586 per frame.
-isr: 6938548 emissions calculated ( 9.2 %), 172947 nulls inferred (2.49 %).
-isr: 178765437 states activated (1.3e+03 %), 1829.96 on average, 13.8 % pruned.
-isr: 96364 trees activated, 0.986447 on average, oldest aged 464 frames.
-isr: 36069744 word ends reached (885179 unique), 369.234 (9.06129) on average.
-isr: 226776 lexical nodes generated (100256 silence, 0% pruned), 2.32143 on average.
-isr: 35375 ms (42430 cpu ms) processing 97688 frames (RTF = 0.036).
+isr: 410216 densities evaluated ( 0.3%), on average 2.95487 per frame.
+isr: 9519120 emissions calculated (9.87 %), 166886 nulls inferred (1.75 %).
+isr: 270503178 states activated (1.38e+03 %), 1948.49 on average, 15.1 % pruned.
+isr: 137313 trees activated, 0.989094 on average, oldest aged 542 frames.
+isr: 54134997 word ends reached (1162755 unique), 389.946 (8.37557) on average.
+isr: 299231 lexical nodes generated (149340 silence, 0% pruned), 2.15542 on average.
+isr: 49772 ms (60030 cpu ms) processing 138827 frames (RTF = 0.036).
 
-finished with status 0 at Tue Jan 21 06:19:24 CST 2014
+finished with status 0 at Mon Feb 3 00:02:06 CST 2014

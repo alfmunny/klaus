@@ -1,4 +1,4 @@
-mm_train started on matt at Tue Jan 21 05:56:16 CST 2014
+mm_train started on matt at Sun Feb 2 23:00:52 CST 2014
 mm_train version 2.22 running on matt under Linux 3.2.0-57-generic.
 mm_train: using libraries mm 3.01b, md 2.02a, mx 1.30.
 mm_train: calculating total emission probabilities.
@@ -8,9 +8,9 @@ mm_train: WARNING: beam for mixture pruning not specified - using default 14!
 mm_train: beam width is 200!
 mm_train: floor probability is 1e-05 (11.5)!
 mm_train: probabilities less than 0.001 will be ignored during training!
-mm_train: code library with 1 codebooks using 12 features read.
+mm_train: code library with 1 codebooks using 10 features read.
 mm_train: performing codebook update.
-mm_train: 772 states read.
+mm_train: 695 states read.
 mm_train: 76 models read.
 mm_train: 2306 compound concepts read.
 mm_train: WARNING: no forward path found - discarding segment.
@@ -52,65 +52,9 @@ mm_train: WARNING: no forward path found - discarding segment.
 mm_train: WARNING: no forward path found - discarding segment.
 mm_train: WARNING: no forward path found - discarding segment.
 mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
 mm_train: no HMM statistics available.
-mm_train: 2449697 densities evaluated ( 0.3%), on average 3.32747 per frame.
-mm_train: average P(O|lambda) is 4.83256.
-mm_train: 5618 files processed, 0 rejected (0%).
-mm_train: 88588 ms (87510 cpu ms) processing 686189 frames (RTF = 0.013).
-finished with status 0 at Tue Jan 21 05:57:46 CST 2014
+mm_train: 3458993 densities evaluated ( 0.3%), on average 3.45832 per frame.
+mm_train: average P(O|lambda) is 4.56474.
+mm_train: 6206 files processed, 0 rejected (0%).
+mm_train: 96737 ms (95480 cpu ms) processing 983389 frames (RTF = 0.0098).
+finished with status 0 at Sun Feb 2 23:02:31 CST 2014

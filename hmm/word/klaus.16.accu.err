@@ -1,4 +1,4 @@
-mm_train started on matt at Tue Jan 21 06:05:28 CST 2014
+mm_train started on matt at Sun Feb 2 23:10:51 CST 2014
 mm_train version 2.22 running on matt under Linux 3.2.0-57-generic.
 mm_train: using libraries mm 3.01b, md 2.02a, mx 1.30.
 mm_train: calculating total emission probabilities.
@@ -8,9 +8,9 @@ mm_train: WARNING: beam for mixture pruning not specified - using default 14!
 mm_train: beam width is 200!
 mm_train: floor probability is 1e-05 (11.5)!
 mm_train: probabilities less than 0.001 will be ignored during training!
-mm_train: code library with 1 codebooks using 12 features read.
+mm_train: code library with 1 codebooks using 10 features read.
 mm_train: performing codebook update.
-mm_train: 772 states read.
+mm_train: 695 states read.
 mm_train: 76 models read.
 mm_train: 2306 compound concepts read.
 mm_train: WARNING: no forward path found - discarding segment.
@@ -66,45 +66,9 @@ mm_train: WARNING: no forward path found - discarding segment.
 mm_train: WARNING: no forward path found - discarding segment.
 mm_train: WARNING: no forward path found - discarding segment.
 mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
 mm_train: no HMM statistics available.
-mm_train: 2319512 densities evaluated ( 0.3%), on average 3.15063 per frame.
-mm_train: average P(O|lambda) is 4.84156.
-mm_train: 5618 files processed, 0 rejected (0%).
-mm_train: 88037 ms (87060 cpu ms) processing 689104 frames (RTF = 0.013).
-finished with status 0 at Tue Jan 21 06:06:58 CST 2014
+mm_train: 3295712 densities evaluated ( 0.3%), on average 3.29507 per frame.
+mm_train: average P(O|lambda) is 4.56694.
+mm_train: 6206 files processed, 0 rejected (0%).
+mm_train: 96544 ms (95060 cpu ms) processing 977188 frames (RTF = 0.0099).
+finished with status 0 at Sun Feb 2 23:12:29 CST 2014

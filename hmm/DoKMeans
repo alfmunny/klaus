@@ -7,7 +7,7 @@ verbose=
 relpath=". .. ../.. ../../.."
 
 name=klaus
-dim=12
+dim=10
 nclass=1000
 transform=
 
@@ -63,7 +63,7 @@ fi
 # Stichprobenliste und Umsortierung
 #
 #nur mit Tranningdaten
-master=`find $relpath -maxdepth 1 -name $name.Corpus_part_110.lst`
+master=`find $relpath -maxdepth 1 -name $name.Corpus.lst`
 #mit alle Daten
 #master=`find $relpath -maxdepth 1 -name $name.Corpus_all.lst`
 if [ -z "$master" ]; then

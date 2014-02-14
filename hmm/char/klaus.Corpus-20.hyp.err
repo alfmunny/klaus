@@ -1,6 +1,6 @@
-mm_align version 3.01 running on matt under Linux 3.0.0-12-generic.
+mm_align version 3.01 running on matt under Linux 3.2.0-57-generic.
 mm_align: using HMM-library version 3.01b.
-	[command line arguments were: 'mm_align -b 100 -H3 klaus.20.cl klaus.20.state klaus.model klaus.swu.rdef ']
+	[command line arguments were: 'mm_align -b 100 -H3 klaus.20.cl klaus.20.state klaus.model klaus.swu_part.rdef ']
 mm_align: calculating total emissions probabilities.
 mm_align: WARNING: beam for mixture pruning not specified - using default 14!
 mm_align: beam width is 100!
@@ -11,9 +11,9 @@ mm_align: code library with 1 codebooks using 10 features read.
 mm_align: 316 states read.
 mm_align: 76 models read.
 mm_align: 2306 compound concepts read.
-mm_align: 5.4831e+06 hypotheses generated (883.516 on average per sequence).
-mm_align: 3.94147e+07 states activated (44.8%), 39.398 on average, 57.4% pruned.
-mm_align: 29514723 emissions calculated (33.6%), 4222068 nulls inferred (14.3%).
-mm_align: 3671944 densities evaluated ( 0.3%), on average 3.67039 per frame.
-mm_align: 60077 ms (59350 cpu ms) processing 1000423 frames (RTF = 0.006).
-finished with status 0 at Fri Apr 5 16:22:28 CST 2013
+mm_align: 5.45536e+06 hypotheses generated (879.046 on average per sequence).
+mm_align: 3.90367e+07 states activated (44.4%), 39.0291 on average, 57% pruned.
+mm_align: 28908510 emissions calculated (32.9%), 4472019 nulls inferred (15.5%).
+mm_align: 3229471 densities evaluated ( 0.3%), on average 3.22884 per frame.
+mm_align: 51602 ms (51190 cpu ms) processing 1000194 frames (RTF = 0.0052).
+finished with status 0 at Sun Feb 2 22:34:03 CST 2014

@@ -1,4 +1,4 @@
-mm_train started on matt at Tue Jan 21 05:20:13 CST 2014
+mm_train started on matt at Sun Feb 2 21:24:08 CST 2014
 mm_train version 2.22 running on matt under Linux 3.2.0-57-generic.
 mm_train: using libraries mm 3.01b, md 2.02a, mx 1.30.
 mm_train: calculating total emission probabilities.
@@ -8,7 +8,7 @@ mm_train: WARNING: beam for mixture pruning not specified - using default 14!
 mm_train: beam width is 200!
 mm_train: floor probability is 1e-05 (11.5)!
 mm_train: probabilities less than 0.001 will be ignored during training!
-mm_train: code library with 1 codebooks using 12 features read.
+mm_train: code library with 1 codebooks using 10 features read.
 mm_train: performing codebook update.
 mm_train: 316 states read.
 mm_train: 76 models read.
@@ -23,52 +23,9 @@ mm_train: WARNING: no forward path found - discarding segment.
 mm_train: WARNING: no forward path found - discarding segment.
 mm_train: WARNING: no forward path found - discarding segment.
 mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
-mm_train: WARNING: no forward path found - discarding segment.
 mm_train: no HMM statistics available.
-mm_train: 2386747 densities evaluated ( 0.3%), on average 3.24196 per frame.
-mm_train: average P(O|lambda) is 4.82541.
-mm_train: 5618 files processed, 0 rejected (0%).
-mm_train: 89476 ms (88440 cpu ms) processing 709081 frames (RTF = 0.013).
-finished with status 0 at Tue Jan 21 05:21:43 CST 2014
+mm_train: 3385613 densities evaluated ( 0.3%), on average 3.38496 per frame.
+mm_train: average P(O|lambda) is 4.62773.
+mm_train: 6206 files processed, 0 rejected (0%).
+mm_train: 99803 ms (98450 cpu ms) processing 994843 frames (RTF =  0.01).
+finished with status 0 at Sun Feb 2 21:25:49 CST 2014

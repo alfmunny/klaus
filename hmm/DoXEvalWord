@@ -100,7 +100,7 @@ fi
 #
 # Evaluierungsset
 #
-xeval=`find $relpath -maxdepth 1 -name $name.test_12.lst`
+xeval=`find $relpath -maxdepth 1 -name $name.test_12_1100.lst`
 if [ -z "$xeval" ]; then
 	echo "no evaluation set definitions found for '"$name.Xeval-$xevalset"'."
 	exit 1

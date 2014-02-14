@@ -4,7 +4,7 @@ mm_param: 316 states read.
 mm_param: 76 models read.
 mm_param: 2306 compound concepts read.
 mm_param: 248 state-parameter accumulators read.
-mm_param: average entropy of parameter-accumulator data is 5.29515.
+mm_param: average entropy of parameter-accumulator data is 5.24335.
 mm_param: parameters accumulated according to generalisation hierarchy.
 mm_param: WARNING: found unseen state #0 without parent - preserving old parameters!
 mm_param: WARNING: found unseen state #1 without parent - preserving old parameters!
@@ -70,4 +70,4 @@ mm_param: WARNING: found unseen state #276 without parent - preserving old param
 mm_param: WARNING: found unseen state #277 without parent - preserving old parameters!
 mm_param: WARNING: found unseen state #278 without parent - preserving old parameters!
 mm_param: WARNING: found unseen state #279 without parent - preserving old parameters!
-finished with status 0 at Tue Jan 21 05:05:58 CST 2014
+finished with status 0 at Sun Feb 2 21:08:19 CST 2014

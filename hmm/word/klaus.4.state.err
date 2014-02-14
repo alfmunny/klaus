@@ -1,9 +1,16 @@
 mm_param version 2.15b running on matt under Linux 3.2.0-57-generic.
 mm_param: using libraries mm 3.01b, mx 1.30.
-mm_param: 772 states read.
+mm_param: 695 states read.
 mm_param: 76 models read.
 mm_param: 2306 compound concepts read.
-mm_param: 768 state-parameter accumulators read.
-mm_param: average entropy of parameter-accumulator data is 4.34532.
+mm_param: 684 state-parameter accumulators read.
+mm_param: average entropy of parameter-accumulator data is 4.2357.
 mm_param: parameters accumulated according to generalisation hierarchy.
-finished with status 0 at Tue Jan 21 05:48:28 CST 2014
+mm_param: WARNING: found unseen state #213 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #214 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #215 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #647 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #648 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #649 without parent - preserving old parameters!
+mm_param: WARNING: found unseen state #650 without parent - preserving old parameters!
+finished with status 0 at Sun Feb 2 22:52:23 CST 2014
